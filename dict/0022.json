@@ -712,8 +712,8 @@
 {"word":"amschel","sw":"amschel","definition":[],"translation":["[人名] 阿姆谢尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amschi","sw":"amschi","definition":[],"translation":["[网络] 阿姆斯奇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Amsco G","sw":"amscog","definition":[],"translation":["阿姆斯科合成芳烃油溶剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"amscray","sw":"amscray","definition":["Pig latin for \"scram,\" which means \"leave.\"","> (Mom and Dad are having sex when Little Johnny walks in)","> Johnny: Hi Mom! Hi Dad!","> Dad: WTF?! AMSCRAY!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"amscrays","sw":"amscrays","definition":["Pig latin for \"scram,\" which means \"leave.\"","> (Mom and Dad are having sex when Little Johnny walks in)","> Johnny: Hi Mom! Hi Dad!","> Dad: WTF?! AMSCRAY!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"amscray","sw":"amscray","definition":["Pig latin for \"scram,\" which means \"leave.\"","> (Mom and Dad are having sex when Little Johnny walks in)","> Johnny: Hi Mom! Hi Dad!","> Dad: WTF?! AMSCRAY!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"amscrays","sw":"amscrays","definition":["Pig latin for \"scram,\" which means \"leave.\"","> (Mom and Dad are having sex when Little Johnny walks in)","> Johnny: Hi Mom! Hi Dad!","> Dad: WTF?! AMSCRAY!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amsden","sw":"amsden","definition":[],"translation":["n. (Amsden)人名；(英)阿姆斯登"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amsdorf","sw":"amsdorf","definition":[],"translation":["[地名] [德国] 阿姆斯多夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Amsebarb","sw":"amsebarb","definition":[],"translation":["异戊巴比妥,阿米妥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -870,7 +870,7 @@
 {"word":"amuletlike","sw":"amuletlike","definition":[],"translation":["[网络] 护身符"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amulets","sw":"amulets","definition":["n. a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease"],"translation":["n. 护身符( amulet的复数形式 )"],"pos":[],"exchange":["0:amulet","1:s"],"examples":[],"phonetic":"ˈæmjəlɪts"}
 {"word":"amulette","sw":"amulette","definition":[],"translation":["[网络] 亚缪蕾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"amulettes","sw":"amulettes","definition":["amulettes","plural of amulette",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"amulettes","sw":"amulettes","definition":["amulettes","plural of amulette"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amulius","sw":"amulius","definition":[],"translation":["[网络] 阿穆留斯；阿穆利乌斯；阿姆利乌斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Amulree","sw":"amulree","definition":[],"translation":["[地名] 阿穆尔里 ( 英 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"amuls","sw":"amuls","definition":[],"translation":["[地名] [伊朗] 阿莫勒","(amul 的复数)"],"pos":[],"exchange":["0:amul","1:s"],"examples":[],"phonetic":""}
@@ -1692,13 +1692,13 @@
 {"word":"an a student","sw":"anastudent","definition":[],"translation":["[网络] 最优等生；优秀学生"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an abandoned pig house","sw":"anabandonedpighouse","definition":[],"translation":["废猪舍"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an ABC","sw":"anabc","definition":[],"translation":["[网络] 美国出生的华人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an abo","sw":"anabo","definition":["Craziest bitch on the planet. Chill as fuck. Down for whatever. Best friends you could ever have. Will never let you down. She's the sweetest person you've ever met. Mostly associated with Ana or Analilia.","> That's my bestie Anabo.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an abo","sw":"anabo","definition":["Craziest bitch on the planet. Chill as fuck. Down for whatever. Best friends you could ever have. Will never let you down. She's the sweetest person you've ever met. Mostly associated with Ana or Analilia.","> That's my bestie Anabo."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an absolute cert","sw":"anabsolutecert","definition":[],"translation":["必然发生的事情;绝对确实的事物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an abundance of","sw":"anabundanceof","definition":[],"translation":["大量的,丰富的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an abundant year","sw":"anabundantyear","definition":[],"translation":["n. 丰年"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an abyss of disgrace","sw":"anabyssofdisgrace","definition":[],"translation":["奇耻大辱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an abyss of time","sw":"anabyssoftime","definition":[],"translation":["永远"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an AC","sw":"anac","definition":["Automatic Number Announcement Circuit.  This is a circuit within the phone company that reads back your ANI or ANI II information.","> \"What was that ANAC number again?\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an AC","sw":"anac","definition":["Automatic Number Announcement Circuit.  This is a circuit within the phone company that reads back your ANI or ANI II information.","> \"What was that ANAC number again?\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an academic authority","sw":"anacademicauthority","definition":[],"translation":["n. 学术权威"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an Academy Award job","sw":"anacademyawardjob","definition":[],"translation":["哗众取宠的反应"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an access of rage","sw":"anaccessofrage","definition":[],"translation":["发怒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1763,7 +1763,7 @@
 {"word":"an air battle","sw":"anairbattle","definition":[],"translation":["n. 空战"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an air brake","sw":"anairbrake","definition":[],"translation":["气闸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an air of assumption","sw":"anairofassumption","definition":[],"translation":["傲慢的态度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an AKA","sw":"anaka","definition":["Anaka is a sweet heart who isn't afraid of anything. She is so generous but kicks ass at the same time. All the guys fall for her because of her easy-going smile and her contagious charisma. Everyone loves her and she has a rockin' hot bod","> Wow that girl is such an Anaka, just look at that smile!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an AKA","sw":"anaka","definition":["Anaka is a sweet heart who isn't afraid of anything. She is so generous but kicks ass at the same time. All the guys fall for her because of her easy-going smile and her contagious charisma. Everyone loves her and she has a rockin' hot bod","> Wow that girl is such an Anaka, just look at that smile!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an alarm signal","sw":"analarmsignal","definition":[],"translation":["警报信号"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an algorithm","sw":"analgorithm","definition":[],"translation":["[网络] 规则系统；运算程式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an all","sw":"anall","definition":[],"translation":["[网络] 一个人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1917,7 +1917,7 @@
 {"word":"an end in itself","sw":"anendinitself","definition":[],"translation":["目标本身；为积攒而积攒，为保留而保留"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an end to","sw":"anendto","definition":[],"translation":["[网络] 介词"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an endangered species","sw":"anendangeredspecies","definition":[],"translation":["[网络] 濒临绝种的生物；濒临绝种的生物种类；濒临绝种的动物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an ends","sw":"anends","definition":["The 'would be' answer, for the question which is becoming more and more frequently asked without expecting a response:","\"What is the world coming to?\"","> You step out of Tim Horton's with your best friend,","> suddenly, you are mugged of your coffee.","> Your friend turns to you as you stare in disbelief, and says:","> \"Wow, mugged for a coffee.  What's the world coming to?\"","> you can reply:","> \"An end.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an ends","sw":"anends","definition":["The 'would be' answer, for the question which is becoming more and more frequently asked without expecting a response:","\"What is the world coming to?\"","> You step out of Tim Horton's with your best friend,","> suddenly, you are mugged of your coffee.","> Your friend turns to you as you stare in disbelief, and says:","> \"Wow, mugged for a coffee.  What's the world coming to?\"","> you can reply:","> \"An end.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an enemy from within","sw":"anenemyfromwithin","definition":[],"translation":["内敌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an enemy from without","sw":"anenemyfromwithout","definition":[],"translation":["外敌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an energy supremo","sw":"anenergysupremo","definition":[],"translation":["主管能源的最高领导人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1943,7 +1943,7 @@
 {"word":"an essential distinction","sw":"anessentialdistinction","definition":[],"translation":["本质差别"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an essential prerequisite","sw":"anessentialprerequisite","definition":[],"translation":["必要条件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an estimated","sw":"anestimated","definition":[],"translation":["[网络] 被估计的；大约的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an ETA","sw":"aneta","definition":["a friendly, adorable, beautiful girl with a good heart","> Aneta!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an ETA","sw":"aneta","definition":["a friendly, adorable, beautiful girl with a good heart","> Aneta!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an eternity","sw":"aneternity","definition":[],"translation":["[网络] 一种永恒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an eternity box","sw":"aneternitybox","definition":[],"translation":["棺材"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an even bet","sw":"anevenbet","definition":[],"translation":["输赢机会参半的打赌,成败机会相等,一对一的赌注"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1984,7 +1984,7 @@
 {"word":"An Hai Phuong","sw":"anhaiphuong","definition":[],"translation":["[地名] 安海坊 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an heir at law","sw":"anheiratlaw","definition":[],"translation":["法定继承人,合法继承人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an heir presumptive","sw":"anheirpresumptive","definition":[],"translation":["假定继承人(如有血统更近的继承人出生时，即失去继承权)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an hero","sw":"anhero","definition":["To commit suicide, regardless of how stupid the reason is or is not.","> Someone stole Mitchell's iPod, so he became an hero.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an hero","sw":"anhero","definition":["To commit suicide, regardless of how stupid the reason is or is not.","> Someone stole Mitchell's iPod, so he became an hero."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"An Hoa","sw":"anhoa","definition":[],"translation":["[地名] 安和 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"An Hoi","sw":"anhoi","definition":[],"translation":["[地名] 安会 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an hour","sw":"anhour","definition":[],"translation":["na. 一小时；“an/per hour”的变体","[网络] 一个小时；日出前的一个小时；表示一个时间点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1998,7 +1998,7 @@
 {"word":"an idle phrase","sw":"anidlephrase","definition":[],"translation":["空话"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"An idle youth a needy age","sw":"anidleyouthaneedyage","definition":[],"translation":["pr. 少壮不努力，老大徒伤悲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an if","sw":"anif","definition":[],"translation":["[网络] 厌氧菌鉴定微平板；厌氧菌接种液"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an IM","sw":"anim","definition":["The international abbreviation of the word \"animation\".","> The word \"animation\" is based on a contraction of anim \"life\" and motion \"movement\".","> Anime may be linguistically the abbreviation of \"animation\". But around the world, anime is always associated with japanese animation.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an IM","sw":"anim","definition":["The international abbreviation of the word \"animation\".","> The word \"animation\" is based on a contraction of anim \"life\" and motion \"movement\".","> Anime may be linguistically the abbreviation of \"animation\". But around the world, anime is always associated with japanese animation."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an imitation diamond","sw":"animitationdiamond","definition":[],"translation":["人造钻石"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an implement for fitting soil","sw":"animplementforfittingsoil","definition":[],"translation":["一种整地农具"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an important step in varietal improvement","sw":"animportantstepinvarietalimprovement","definition":[],"translation":["品种改良的重要一环"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2088,7 +2088,7 @@
 {"word":"an obstacle to","sw":"anobstacleto","definition":[],"translation":["na. (进步)的障碍","[网络] 是…的障碍"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an obstacle to progress","sw":"anobstacletoprogress","definition":[],"translation":["前进的障碍"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an obtuse angle","sw":"anobtuseangle","definition":[],"translation":["n. 钝角"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an OC","sw":"anoc","definition":["Absolute Nobody On Campus (university). Opposite of a BNOC (Big Name On Campus). Not known by many people and not very sociable. Often used by BNOCs for an ego-boost.","> \"Who is that girl?\"","> \"Not sure, clearly a massive ANOC.\"","> [BNOC] [chat] [university] [campus] [name]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an OC","sw":"anoc","definition":["Absolute Nobody On Campus (university). Opposite of a BNOC (Big Name On Campus). Not known by many people and not very sociable. Often used by BNOCs for an ego-boost.","> \"Who is that girl?\"","> \"Not sure, clearly a massive ANOC.\"","> [BNOC] [chat] [university] [campus] [name]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an ocean","sw":"anocean","definition":[],"translation":["大量,许多"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an ocean of","sw":"anoceanof","definition":[],"translation":["很多"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an odd fish","sw":"anoddfish","definition":[],"translation":["古怪的人, 难以理解的人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2102,7 +2102,7 @@
 {"word":"an official visit","sw":"anofficialvisit","definition":[],"translation":["[网络] 正式访问；官方访问"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an oil well transfer to an injection well","sw":"anoilwelltransfertoaninjectionwell","definition":[],"translation":["转注井"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an oily tongue","sw":"anoilytongue","definition":[],"translation":["甜言蜜语;阿谀奉承"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"an OJ","sw":"anoj","definition":["Audible Noises Of Jocularity","- a new age chat acronym to replace the tired old \"lol\" when someone finds a comment to be humorous","> Ralf: My cat's breath smells like cat food.","> Lisa: ANOJ!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"an OJ","sw":"anoj","definition":["Audible Noises Of Jocularity","- a new age chat acronym to replace the tired old \"lol\" when someone finds a comment to be humorous","> Ralf: My cat's breath smells like cat food.","> Lisa: ANOJ!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an old bag","sw":"anoldbag","definition":[],"translation":["[网络] 丑老太婆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an old bird","sw":"anoldbird","definition":[],"translation":["怪人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"an old bird is not caught with chaff","sw":"anoldbirdisnotcaughtwithchaff","definition":[],"translation":["[网络] 谷糠难骗老麻雀；粗糠诱不来老鸟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2530,7 +2530,7 @@
 {"word":"anaclitic depressions","sw":"anacliticdepressions","definition":[],"translation":["anaclitic depression","【心理学】依恋性抑郁症，孤儿抑郁状态"],"pos":[],"exchange":["0:anaclitic depression","1:s"],"examples":[],"phonetic":""}
 {"word":"anaclitic object choice","sw":"anacliticobjectchoice","definition":[],"translation":["依恋物体选择"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anaclitically","sw":"anaclitically","definition":[],"translation":["[网络] 无标题"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anaclitism","sw":"anaclitism","definition":["anaclitism (plural anaclitisms)","(psychology) The pattern of deriving adult sexual arousal from objects that one was exposed to as an infant. The fetish value often stems from tactile stimulation similar to that experienced by the infant before it could see well.","(psychology) In Freudian theory, the relation between bodily functions in early childhood and the later development of the sexual instinct. The infant's bodily function of simple hunger, to take a primary example, is at first attached solely to the act of suckling at mother's breast.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anaclitism","sw":"anaclitism","definition":["anaclitism (plural anaclitisms)","(psychology) The pattern of deriving adult sexual arousal from objects that one was exposed to as an infant. The fetish value often stems from tactile stimulation similar to that experienced by the infant before it could see well.","(psychology) In Freudian theory, the relation between bodily functions in early childhood and the later development of the sexual instinct. The infant's bodily function of simple hunger, to take a primary example, is at first attached solely to the act of suckling at mother's breast."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anacmesis","sw":"anacmesis","definition":[],"translation":["[医] 成熟受阻(骨髓颗粒球)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anaco","sw":"anaco","definition":[],"translation":["[地名] [委内瑞拉] 阿纳科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Anacobin","sw":"anacobin","definition":[],"translation":["维生素B12"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2665,10 +2665,10 @@
 {"word":"anadrenalism","sw":"anadrenalism","definition":[],"translation":["[医] 肾上腺机能缺失"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anadrenia","sw":"anadrenia","definition":[],"translation":["[医] 肾上腺机能缺失"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anadrol","sw":"anadrol","definition":[],"translation":["甲基雄烯二醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anadrom","sw":"anadrom","definition":["anadrom (plural anadroms)","(zoology) Any anadromous fish, one that leaves the sea and ascends rivers.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anadrome","sw":"anadrome","definition":["anadrome (plural anadromes)","A word which forms a different word when spelled backwards.","An anadromous fish.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anadrom","sw":"anadrom","definition":["anadrom (plural anadroms)","(zoology) Any anadromous fish, one that leaves the sea and ascends rivers."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anadrome","sw":"anadrome","definition":["anadrome (plural anadromes)","A word which forms a different word when spelled backwards.","An anadromous fish."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anadrome side","sw":"anadromeside","definition":[],"translation":["上边"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anadromes","sw":"anadromes","definition":["anadromes","plural of anadrome",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anadromes","sw":"anadromes","definition":["anadromes","plural of anadrome"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anadromic fish","sw":"anadromicfish","definition":[],"translation":["溯河鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anadromous","sw":"anadromous","definition":["a. migrating from the sea to fresh water to spawn"],"translation":["a. 溯河产卵的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"ә'nædrәmәs"}
 {"word":"anadromous fish","sw":"anadromousfish","definition":[],"translation":["溯河产卵鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2983,7 +2983,7 @@
 {"word":"anaglyptical","sw":"anaglyptical","definition":["a related to anaglyphs or anaglyphy"],"translation":["a. 浅(型)浮雕的；浅浮雕装饰的"],"pos":[],"exchange":[],"examples":[],"phonetic":",ænə'ɡliptik"}
 {"word":"anaglyptics","sw":"anaglyptics","definition":["n. The art of carving in low relief, embossing, etc."],"translation":["n. 浮雕装饰术"],"pos":[],"exchange":[],"examples":[],"phonetic":",ænә'^liptiks"}
 {"word":"anaglyptograph","sw":"anaglyptograph","definition":["n. An instrument by which a correct engraving of any","embossed object, such as a medal or cameo, can be executed."],"translation":["在平面上制作突出于表面的版画、蚀刻、雕刻等的机械装置"],"pos":[],"exchange":[],"examples":[],"phonetic":",ænә'^liptә,^rɑ:f"}
-{"word":"anaglyptography","sw":"anaglyptography","definition":["anaglyptography (uncountable)","The art of copying works in relief, or of engraving as to give the subject an embossed or raised appearance; used in representing coins, bas reliefs, etc.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anaglyptography","sw":"anaglyptography","definition":["anaglyptography (uncountable)","The art of copying works in relief, or of engraving as to give the subject an embossed or raised appearance; used in representing coins, bas reliefs, etc."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Anaglyptoscope","sw":"anaglyptoscope","definition":[],"translation":["反视镜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anaglyptus decemmaculatus","sw":"anaglyptusdecemmaculatus","definition":[],"translation":["埔里白缘虎天牛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anaglyptus higashiyamai","sw":"anaglyptushigashiyamai","definition":[],"translation":["东山虎天牛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3117,7 +3117,7 @@
 {"word":"anaktuvuk","sw":"anaktuvuk","definition":[],"translation":["[网络] 阿纳克图沃克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anakusis","sw":"anakusis","definition":[],"translation":["[医] 聋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal","sw":"anal","definition":["a. of or related to the anus","a. a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc."],"translation":["a. 肛门的, 肛门附近的","[计] 分析员"],"pos":["j:100"],"exchange":["s:anals"],"examples":[],"phonetic":"'einәl"}
-{"word":"anal acoustics","sw":"analacoustics","definition":["a synonym for \"fart\"","> Sandra let out some nasty anal acoustics.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal acoustics","sw":"analacoustics","definition":["a synonym for \"fart\"","> Sandra let out some nasty anal acoustics."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal agenesis","sw":"analagenesis","definition":[],"translation":["肛门不发生"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal angle","sw":"analangle","definition":[],"translation":["臀角"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal aperture","sw":"analaperture","definition":[],"translation":["肛门口"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3152,8 +3152,8 @@
 {"word":"anal crack","sw":"analcrack","definition":[],"translation":["肛门皲裂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal crossvein","sw":"analcrossvein","definition":[],"translation":["臂横脉(双翅目)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal crypt","sw":"analcrypt","definition":[],"translation":["[医] 肛门陷凹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal cunt","sw":"analcunt","definition":["A grindcore band with extremely offensive lyrics and screaming jiberish vocals!!!  Formed in 1988 Anal Cunt is a Seth Putnam project.","> An Anal Cunt song:","> Valujet","> you fucking jew","> you wanted to save 50 bucks","> you were too cheap to fly delta","> now you're an alligator's lunch","> [chorus:]","> find your early graves in the everglades-valujet,valujet","> over prices you did quibble now the alligators nibble-valujet,valujet","> hitler should've thought of it now you're alligator shit-valujet,valujet","> you stupid fucking jew you should'nt have flew-valujet,valujet","> are you a jew","> or just fucking gay","> too cheap to fly delta","> or t.w.a.","> [chorus]","> at least the plane was filled,with white trash ,jews,and blacks","> now you're valujet alligator snacks","> [chorus]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal cunts","sw":"analcunts","definition":["A grindcore band with extremely offensive lyrics and screaming jiberish vocals!!!  Formed in 1988 Anal Cunt is a Seth Putnam project.","> An Anal Cunt song:","> Valujet","> you fucking jew","> you wanted to save 50 bucks","> you were too cheap to fly delta","> now you're an alligator's lunch","> [chorus:]","> find your early graves in the everglades-valujet,valujet","> over prices you did quibble now the alligators nibble-valujet,valujet","> hitler should've thought of it now you're alligator shit-valujet,valujet","> you stupid fucking jew you should'nt have flew-valujet,valujet","> are you a jew","> or just fucking gay","> too cheap to fly delta","> or t.w.a.","> [chorus]","> at least the plane was filled,with white trash ,jews,and blacks","> now you're valujet alligator snacks","> [chorus]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal cunt","sw":"analcunt","definition":["A grindcore band with extremely offensive lyrics and screaming jiberish vocals!!!  Formed in 1988 Anal Cunt is a Seth Putnam project.","> An Anal Cunt song:","> Valujet","> you fucking jew","> you wanted to save 50 bucks","> you were too cheap to fly delta","> now you're an alligator's lunch","> [chorus:]","> find your early graves in the everglades-valujet,valujet","> over prices you did quibble now the alligators nibble-valujet,valujet","> hitler should've thought of it now you're alligator shit-valujet,valujet","> you stupid fucking jew you should'nt have flew-valujet,valujet","> are you a jew","> or just fucking gay","> too cheap to fly delta","> or t.w.a.","> [chorus]","> at least the plane was filled,with white trash ,jews,and blacks","> now you're valujet alligator snacks","> [chorus]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal cunts","sw":"analcunts","definition":["A grindcore band with extremely offensive lyrics and screaming jiberish vocals!!!  Formed in 1988 Anal Cunt is a Seth Putnam project.","> An Anal Cunt song:","> Valujet","> you fucking jew","> you wanted to save 50 bucks","> you were too cheap to fly delta","> now you're an alligator's lunch","> [chorus:]","> find your early graves in the everglades-valujet,valujet","> over prices you did quibble now the alligators nibble-valujet,valujet","> hitler should've thought of it now you're alligator shit-valujet,valujet","> you stupid fucking jew you should'nt have flew-valujet,valujet","> are you a jew","> or just fucking gay","> too cheap to fly delta","> or t.w.a.","> [chorus]","> at least the plane was filled,with white trash ,jews,and blacks","> now you're valujet alligator snacks","> [chorus]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal cups","sw":"analcups","definition":[],"translation":["肛杯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal cystoma","sw":"analcystoma","definition":[],"translation":["肛门囊瘤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal dilator","sw":"analdilator","definition":[],"translation":["[医] 肛门扩张器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3182,7 +3182,7 @@
 {"word":"anal gland","sw":"analgland","definition":[],"translation":["肛腺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal glands","sw":"analglands","definition":[],"translation":["[医] 肛门腺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal gonorrhea","sw":"analgonorrhea","definition":[],"translation":["肛门淋病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal gravy","sw":"analgravy","definition":["The after effects of butt-fucking","> Guy 1: Last night I filled my girl friend with anal gravy!","> Guy 2: Nice dawg!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal gravy","sw":"analgravy","definition":["The after effects of butt-fucking","> Guy 1: Last night I filled my girl friend with anal gravy!","> Guy 2: Nice dawg!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal groove","sw":"analgroove","definition":[],"translation":["[医] 肛沟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal hillock","sw":"analhillock","definition":[],"translation":["[医] 肛丘, 肛结节(胚)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal horn","sw":"analhorn","definition":[],"translation":["臀角"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3192,8 +3192,8 @@
 {"word":"anal intercourse","sw":"analintercourse","definition":[],"translation":["[禁忌语]鸡奸"],"pos":[],"exchange":["s:anal intercourses"],"examples":[],"phonetic":"ˈeinəl ˈintəkɔ:s"}
 {"word":"anal intercourses","sw":"analintercourses","definition":[],"translation":["anal intercourse","[禁忌语]鸡奸"],"pos":[],"exchange":["0:anal intercourse","1:s"],"examples":[],"phonetic":""}
 {"word":"anal invagination","sw":"analinvagination","definition":[],"translation":["[医] 肛内陷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal leakage","sw":"analleakage","definition":["The unexpected or unwanted oozing, seeping, or dripping of foul-smelling substances from a tightly clenched anus. Such substances may have been produced by the body attached to the anus or may have been introduced by another body unattached to the aforementioned anus. Such seepage may also be accompanied by an expulsion of gas (see also [shart]).","> Pam's anal leakage smelled worse than Elizabeth New Jersy and really wrecked that dinner with her boyfriend.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal leakages","sw":"analleakages","definition":["The unexpected or unwanted oozing, seeping, or dripping of foul-smelling substances from a tightly clenched anus. Such substances may have been produced by the body attached to the anus or may have been introduced by another body unattached to the aforementioned anus. Such seepage may also be accompanied by an expulsion of gas (see also [shart]).","> Pam's anal leakage smelled worse than Elizabeth New Jersy and really wrecked that dinner with her boyfriend.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal leakage","sw":"analleakage","definition":["The unexpected or unwanted oozing, seeping, or dripping of foul-smelling substances from a tightly clenched anus. Such substances may have been produced by the body attached to the anus or may have been introduced by another body unattached to the aforementioned anus. Such seepage may also be accompanied by an expulsion of gas (see also [shart]).","> Pam's anal leakage smelled worse than Elizabeth New Jersy and really wrecked that dinner with her boyfriend."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal leakages","sw":"analleakages","definition":["The unexpected or unwanted oozing, seeping, or dripping of foul-smelling substances from a tightly clenched anus. Such substances may have been produced by the body attached to the anus or may have been introduced by another body unattached to the aforementioned anus. Such seepage may also be accompanied by an expulsion of gas (see also [shart]).","> Pam's anal leakage smelled worse than Elizabeth New Jersy and really wrecked that dinner with her boyfriend."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal leg","sw":"analleg","definition":[],"translation":["尾足"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal length","sw":"anallength","definition":[],"translation":["肛长"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal lobe","sw":"anallobe","definition":[],"translation":["臀叶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3224,7 +3224,7 @@
 {"word":"anal pit","sw":"analpit","definition":[],"translation":["[医] 肛道"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal plate","sw":"analplate","definition":[],"translation":["[医] 肛板, 肛膜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal plexus","sw":"analplexus","definition":[],"translation":["肛门丛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Anal Plug","sw":"analplug","definition":["A derogatory reference to a person that's a real douche. A real cock. An overall prick who can only be equated to that of a sexual device shoved into one's rectum.","","A sexual aid used to gap the rectum or to stimulate the rectal area or if deep enough, the male prostate.","> My boss is a real anal plug.","> Have you met the new guy in sales? A real anal plug.","> Carla got her bung nice and gapped using her anal plug.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Anal Plug","sw":"analplug","definition":["A derogatory reference to a person that's a real douche. A real cock. An overall prick who can only be equated to that of a sexual device shoved into one's rectum.","","A sexual aid used to gap the rectum or to stimulate the rectal area or if deep enough, the male prostate.","> My boss is a real anal plug.","> Have you met the new guy in sales? A real anal plug.","> Carla got her bung nice and gapped using her anal plug."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal polypus","sw":"analpolypus","definition":[],"translation":["肛门息肉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal pore","sw":"analpore","definition":[],"translation":["[医] 肛孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal pores","sw":"analpores","definition":[],"translation":["肛孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3284,7 +3284,7 @@
 {"word":"anal vaives","sw":"analvaives","definition":[],"translation":["[医] 肛瓣"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal valve","sw":"analvalve","definition":[],"translation":["①【动】肛扉; ②【人解】肛瓣"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal valves","sw":"analvalves","definition":[],"translation":["肛瓣"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"anal vapor","sw":"analvapor","definition":["a gaseous emissions from an anus","> your anal vapors are killing me",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"anal vapor","sw":"analvapor","definition":["a gaseous emissions from an anus","> your anal vapors are killing me"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal vein","sw":"analvein","definition":[],"translation":["臀脉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal veins","sw":"analveins","definition":[],"translation":["肛门静脉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anal wiring","sw":"analwiring","definition":[],"translation":["肛门环箍术"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3322,7 +3322,7 @@
 {"word":"analcite-syenite","sw":"analcitesyenite","definition":[],"translation":["方沸正长岩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"analcitite","sw":"analcitite","definition":[],"translation":["方沸岩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"analcitization","sw":"analcitization","definition":[],"translation":["方沸石化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"analconda","sw":"analconda","definition":["you are fucking a girl in the ass while choking her at the same time.","> last night i gave her an analconda.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"analconda","sw":"analconda","definition":["you are fucking a girl in the ass while choking her at the same time.","> last night i gave her an analconda."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Analcordis","sw":"analcordis","definition":[],"translation":["四乙酞酰胺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"analda","sw":"analda","definition":[],"translation":["[网络] 肛门"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anale settting scale","sw":"analesetttingscale","definition":[],"translation":["尺度标尺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4138,7 +4138,7 @@
 {"word":"Analphalipoproteinemia","sw":"analphalipoproteinemia","definition":[],"translation":["无α脂蛋白血症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"analphylaxis","sw":"analphylaxis","definition":[],"translation":["过敏性,过敏症,过敏反应"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Analpram-HC","sw":"analpramhc","definition":[],"translation":["醋酸氢化可的松和盐酸普莫卡因乳膏剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"analrapist","sw":"analrapist","definition":["Somebody who combines the professions of analyst and therapist, thus becoming an analrapist.","> Okay, Lindsay, are you forgetting that I was a professional twice over — an analyst and a therapist. The world's first analrapist.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"analrapist","sw":"analrapist","definition":["Somebody who combines the professions of analyst and therapist, thus becoming an analrapist.","> Okay, Lindsay, are you forgetting that I was a professional twice over — an analyst and a therapist. The world's first analrapist."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"anals","sw":"anals","definition":["plural of anal","a. of or related to the anus","a. a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc."],"translation":["(anal 的复数) a. 肛门的, 肛门附近的","[计] 分析员"],"pos":[],"exchange":["0:anal","1:s"],"examples":[],"phonetic":""}
 {"word":"analucin","sw":"analucin","definition":[],"translation":["戊四氮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Analux","sw":"analux","definition":[],"translation":["氯酯醒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

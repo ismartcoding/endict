@@ -232,7 +232,7 @@
 {"word":"hi-cockalorum","sw":"hicockalorum","definition":[],"translation":["[网络] 高镐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hi-de-hi","sw":"hidehi","definition":[],"translation":["interj.","嘿，嘿(尤指军官招呼士兵时的呼喊声)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'hai,di'hai"}
 {"word":"hi-de-ho","sw":"hideho","definition":[],"translation":["[电影]欢乐情仇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Hi-Def","sw":"hidef","definition":["A polite way of greeting a hearing impaired individual.","> \"Look, there comes old Mrs. Danielson.  The poor thing just can't hear anything anymore.  Hi-Def!\"","> \"That filthy old man has been sitting on the street for so long that his darn ears have done rotted plumb off.  Hi-Def!\"","> \"Hey that's Pete Townsend over there, isn't it?  Hi-Def!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Hi-Def","sw":"hidef","definition":["A polite way of greeting a hearing impaired individual.","> \"Look, there comes old Mrs. Danielson.  The poor thing just can't hear anything anymore.  Hi-Def!\"","> \"That filthy old man has been sitting on the street for so long that his darn ears have done rotted plumb off.  Hi-Def!\"","> \"Hey that's Pete Townsend over there, isn't it?  Hi-Def!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Hi-deratol","sw":"hideratol","definition":[],"translation":["维生素D2"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hi-end","sw":"hiend","definition":[],"translation":["高级"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Hi-Ex","sw":"hiex","definition":[],"translation":["[网络] 高发泡灭水设备；高爆炸弹；高膨胀率"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -431,7 +431,7 @@
 {"word":"hibbett","sw":"hibbett","definition":[],"translation":["[人名] 希贝特"],"pos":[],"exchange":["s:hibbetts"],"examples":[],"phonetic":""}
 {"word":"hibbetts","sw":"hibbetts","definition":[],"translation":["[人名] 希贝特","(hibbett 的复数)"],"pos":[],"exchange":["0:hibbett","1:s"],"examples":[],"phonetic":""}
 {"word":"hibbing","sw":"hibbing","definition":[],"translation":["[地名] [美国] 希宾"],"pos":[],"exchange":["s:hibbings"],"examples":[],"phonetic":""}
-{"word":"hibbingite","sw":"hibbingite","definition":["hibbingite","(mineralogy) An orthorhombic-dipyramidal mineral containing chlorine, hydrogen, iron, magnesium, and oxygen.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hibbingite","sw":"hibbingite","definition":["hibbingite","(mineralogy) An orthorhombic-dipyramidal mineral containing chlorine, hydrogen, iron, magnesium, and oxygen."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hibbings","sw":"hibbings","definition":[],"translation":["[地名] [美国] 希宾","(hibbing 的复数)"],"pos":[],"exchange":["0:hibbing","1:s"],"examples":[],"phonetic":""}
 {"word":"Hibbitt","sw":"hibbitt","definition":[],"translation":["n.希比特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Hibble","sw":"hibble","definition":[],"translation":["[网络] 低语"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -623,7 +623,7 @@
 {"word":"HICC","sw":"hicc","definition":[],"translation":["[=heat-inactivated control cell culture fluids]热灭活控制细胞培养液"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiccatee","sw":"hiccatee","definition":[],"translation":["[网络] 胡椒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiccius doccius","sw":"hicciusdoccius","definition":[],"translation":["[网络] 打嗝doccia"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hiccius doctius","sw":"hicciusdoctius","definition":["hiccius doctius","(slang, obsolete) A juggler.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hiccius doctius","sw":"hicciusdoctius","definition":["hiccius doctius","(slang, obsolete) A juggler."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiccory","sw":"hiccory","definition":[],"translation":["[网络] 打嗝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiccough","sw":"hiccough","definition":["n (usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion","v breathe spasmodically, and make a sound"],"translation":["n. 打嗝","v. 打嗝"],"pos":[],"exchange":["s:hiccoughs","i:hiccoughing","p:hiccoughed","3:hiccoughs","d:hiccoughed"],"examples":[],"phonetic":"'hikʌp"}
 {"word":"hiccough nut","sw":"hiccoughnut","definition":[],"translation":["[网络] 丁香坚果"],"pos":[],"exchange":["s:hiccough nuts"],"examples":[],"phonetic":""}
@@ -1106,7 +1106,7 @@
 {"word":"hideboundness","sw":"hideboundness","definition":[],"translation":["n. hide-bound的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hided","sw":"hided","definition":["imp. & p. p. of Hide"],"translation":["vt. 隐藏；隐瞒；鞭打 (hide的变形)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hidee","sw":"hidee","definition":[],"translation":["[网络] 隐藏"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hidegild","sw":"hidegild","definition":["hidegild (uncountable)","(Anglo-Saxon, historical, law) A tax paid on each hide of land; hidage.","","","hidegild (uncountable)","(Anglo-Saxon, historical, law) A fine paid in lien of a flogging.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hidegild","sw":"hidegild","definition":["hidegild (uncountable)","(Anglo-Saxon, historical, law) A tax paid on each hide of land; hidage.","","","hidegild (uncountable)","(Anglo-Saxon, historical, law) A fine paid in lien of a flogging."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hideki","sw":"hideki","definition":[],"translation":["[网络] 日出城；秀木"],"pos":[],"exchange":["s:hidekis"],"examples":[],"phonetic":""}
 {"word":"hideki shirakawa","sw":"hidekishirakawa","definition":[],"translation":["白川英树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hideki tojo","sw":"hidekitojo","definition":[],"translation":["[网络] 东条英机；东条英机将军；丧跑低能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1119,7 +1119,7 @@
 {"word":"hideland","sw":"hideland","definition":[],"translation":["[网络] 海德兰德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hideless","sw":"hideless","definition":[],"translation":["[网络] 无缘无故"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hideling","sw":"hideling","definition":[],"translation":["[网络] 瞒着"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hidelings","sw":"hidelings","definition":["hidelings (not comparable)","In a clandestine manner; secretly; stealthily; furtively; in secret.","","","hidelings (comparative more hidelings, superlative most hidelings)","Clandestine; furtive; hideling.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hidelings","sw":"hidelings","definition":["hidelings (not comparable)","In a clandestine manner; secretly; stealthily; furtively; in secret.","","","hidelings (comparative more hidelings, superlative most hidelings)","Clandestine; furtive; hideling."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hidemen","sw":"hidemen","definition":[],"translation":["[网络] hideman"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Hidemi","sw":"hidemi","definition":[],"translation":["[网络] 小恋；秀実"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hidemichi","sw":"hidemichi","definition":[],"translation":["秀通"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1197,7 +1197,7 @@
 {"word":"hidly","sw":"hidly","definition":[],"translation":["[网络] 隐藏"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"HIDM","sw":"hidm","definition":[],"translation":["abbr. High Information Delta Modulation 高信息δ调剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hidness","sw":"hidness","definition":[],"translation":["[网络] 隐藏"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hidoku","sw":"hidoku","definition":["hidoku (plural hidokus)","(games, puzzles) a puzzle where a diagram is filled with numbers between 1 and the number of cells of the diagram, each number is used exactly once, and consecutive numbers must be orthogonally or diagonally adjacent.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hidoku","sw":"hidoku","definition":["hidoku (plural hidokus)","(games, puzzles) a puzzle where a diagram is filled with numbers between 1 and the number of cells of the diagram, each number is used exactly once, and consecutive numbers must be orthogonally or diagonally adjacent."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hidouci","sw":"hidouci","definition":[],"translation":["希杜西"],"pos":[],"exchange":["s:hidoucis"],"examples":[],"phonetic":""}
 {"word":"hidoucis","sw":"hidoucis","definition":[],"translation":["希杜西","(hidouci 的复数)"],"pos":[],"exchange":["0:hidouci","1:s"],"examples":[],"phonetic":""}
 {"word":"hidous","sw":"hidous","definition":[],"translation":["[网络] 可怕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1681,7 +1681,7 @@
 {"word":"hierer","sw":"hierer","definition":[],"translation":["[网络] 喜者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hieric index","sw":"hiericindex","definition":[],"translation":["[医] 骶骨指数"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hierling","sw":"hierling","definition":[],"translation":["[网络] 嘻嘻哈哈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hiermartyr","sw":"hiermartyr","definition":["hiermartyr (plural hiermartyrs)","A priest who becomes a martyr.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hiermartyr","sw":"hiermartyr","definition":["hiermartyr (plural hiermartyrs)","A priest who becomes a martyr."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiermartyrs","sw":"hiermartyrs","definition":[],"translation":["[网络] 喜马拉雅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Hiermont","sw":"hiermont","definition":[],"translation":["[地名] 耶尔蒙 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiero","sw":"hiero","definition":[],"translation":["n. (Hiero)人名；(西)耶罗"],"pos":[],"exchange":["s:hieros"],"examples":[],"phonetic":""}
@@ -1747,7 +1747,7 @@
 {"word":"hieromancy","sw":"hieromancy","definition":[],"translation":["[网络] 幽默"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hieromania","sw":"hieromania","definition":[],"translation":["[医] 瞻礼狂, 宗教狂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hieromantis kurokoi","sw":"hieromantiskurokoi","definition":[],"translation":["黑子点展足蛾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"hieromnemon","sw":"hieromnemon","definition":["hieromnemon (plural hieromnemons)","(historical, Ancient Greece) The sacred secretary or recorder sent by each state belonging to the Amphictyonic Council, along with the deputy or minister.","(historical) A magistrate who had charge of religious matters, as at Byzantium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hieromnemon","sw":"hieromnemon","definition":["hieromnemon (plural hieromnemons)","(historical, Ancient Greece) The sacred secretary or recorder sent by each state belonging to the Amphictyonic Council, along with the deputy or minister.","(historical) A magistrate who had charge of religious matters, as at Byzantium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hieromonach","sw":"hieromonach","definition":[],"translation":["n. (东正教) 圣职修道士"],"pos":[],"exchange":[],"examples":[],"phonetic":",haiәrәj'mɔnәk"}
 {"word":"hieromonk","sw":"hieromonk","definition":[],"translation":["n. 身兼祭司之僧侣","n. (东正教) 圣职修道士"],"pos":[],"exchange":[],"examples":[],"phonetic":"'haiәrәmʌŋk"}
 {"word":"hieron","sw":"hieron","definition":["n. A consecrated place; esp., a temple."],"translation":["n. 神庙, 圣地"],"pos":[],"exchange":[],"examples":[],"phonetic":"'haiәrɔn"}
@@ -1762,8 +1762,8 @@
 {"word":"Hieronymus Bosch","sw":"hieronymusbosch","definition":[],"translation":["[网络] 波希；希罗尼穆师·博斯；希罗尼穆斯波希"],"pos":[],"exchange":["s:hieronymus bosches"],"examples":[],"phonetic":""}
 {"word":"hieronymus bosches","sw":"hieronymusbosches","definition":[],"translation":["[网络] 波希；希罗尼穆师·博斯；希罗尼穆斯波希","(hieronymus bosch 的复数)"],"pos":[],"exchange":["0:hieronymus bosch","1:s"],"examples":[],"phonetic":""}
 {"word":"hieronymuss","sw":"hieronymuss","definition":[],"translation":["n. (Hieronymus)人名；(法、瑞典)耶罗尼米斯；(德)希罗尼穆斯","(hieronymus 的复数)"],"pos":[],"exchange":["0:hieronymus","1:s"],"examples":[],"phonetic":""}
-{"word":"hierophanic","sw":"hierophanic","definition":["hierophanic (comparative more hierophanic, superlative most hierophanic)","(religion) Of or pertaining to (a particular) hierophany; hierophanical.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/hɪəˈɹɒfənɪk/"}
-{"word":"hierophanical","sw":"hierophanical","definition":["hierophanical (comparative more hierophanical, superlative most hierophanical)","(religion, less common) Of or pertaining to a hierophany; hierophanic.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌhɪəɹɒˈfænɪkəl/"}
+{"word":"hierophanic","sw":"hierophanic","definition":["hierophanic (comparative more hierophanic, superlative most hierophanic)","(religion) Of or pertaining to (a particular) hierophany; hierophanical."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/hɪəˈɹɒfənɪk/"}
+{"word":"hierophanical","sw":"hierophanical","definition":["hierophanical (comparative more hierophanical, superlative most hierophanical)","(religion, less common) Of or pertaining to a hierophany; hierophanic."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌhɪəɹɒˈfænɪkəl/"}
 {"word":"hierophanically","sw":"hierophanically","definition":[],"translation":["[网络] 太平洋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hierophant","sw":"hierophant","definition":["n. The presiding priest who initiated candidates at the","Eleusinian mysteries; hence, one who teaches the mysteries and duties","of religion."],"translation":["n. 圣师, 倡导者, 圣职者"],"pos":[],"exchange":["s:hierophants"],"examples":[],"phonetic":"'haiәrәfænt"}
 {"word":"hierophantic","sw":"hierophantic","definition":["a. Of or relating to hierophants or their teachings."],"translation":["a. hierophant的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1801,7 +1801,7 @@
 {"word":"HIFC","sw":"hifc","definition":[],"translation":["[=hog intrinsic factor concentrate]猪浓缩内在因子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"HIFCS","sw":"hifcs","definition":[],"translation":["[=heat-inactivated fetal calf serum]热灭活胎牛血清"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"HiFD","sw":"hifd","definition":[],"translation":["n.高密度软盘"],"pos":[],"exchange":[],"examples":[],"phonetic":"1"}
-{"word":"hifey","sw":"hifey","definition":["to go crazy, dumb, stupid, retarded.","> \" eh cuz, that girl be gettin' hifey\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"hifey","sw":"hifey","definition":["to go crazy, dumb, stupid, retarded.","> \" eh cuz, that girl be gettin' hifey\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiff","sw":"hiff","definition":[],"translation":["[网络] 夏威夷国际电影节(Hawaii International Film Festival)；赫尔辛基国际时尚博览会；恒天国际货运有限公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiffed","sw":"hiffed","definition":[],"translation":["HIF","abbr.","Health Information Foundation 保健情报基金会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"hiffernan","sw":"hiffernan","definition":[],"translation":["[人名] 希弗南"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2156,8 +2156,8 @@
 {"word":"high bainite","sw":"highbainite","definition":[],"translation":["[化] 上贝氏体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"high baking temperature","sw":"highbakingtemperature","definition":[],"translation":["[食品] 强火"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"high ball","sw":"highball","definition":[],"translation":["un. 高球","[网络] 高飞球杯；声高球；高脚玻璃杯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"high baller","sw":"highballer","definition":["Some one who works harder than a motherfucker. The opposite is a lowballer, someone who drags there balls around not doing a god damn thing.","> Damn I'm tired, I was highballing all day.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"high ballers","sw":"highballers","definition":["Some one who works harder than a motherfucker. The opposite is a lowballer, someone who drags there balls around not doing a god damn thing.","> Damn I'm tired, I was highballing all day.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"high baller","sw":"highballer","definition":["Some one who works harder than a motherfucker. The opposite is a lowballer, someone who drags there balls around not doing a god damn thing.","> Damn I'm tired, I was highballing all day."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"high ballers","sw":"highballers","definition":["Some one who works harder than a motherfucker. The opposite is a lowballer, someone who drags there balls around not doing a god damn thing.","> Damn I'm tired, I was highballing all day."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"high band","sw":"highband","definition":[],"translation":["[电] 高波段"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"high band program dubbing system","sw":"highbandprogramdubbingsystem","definition":[],"translation":["高带节目复录系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"high band standard","sw":"highbandstandard","definition":[],"translation":["高带标准"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

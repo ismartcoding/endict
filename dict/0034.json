@@ -1647,7 +1647,7 @@
 {"word":"Artjarvi","sw":"artjarvi","definition":[],"translation":["阿特札维"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Artland","sw":"artland","definition":[],"translation":["[地名] 阿特兰(地区) ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"artlang","sw":"artlang","definition":[],"translation":["[网络] 阿特朗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"artlanger","sw":"artlanger","definition":["artlanger (plural artlangers)","One who creates artlangs.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"artlanger","sw":"artlanger","definition":["artlanger (plural artlangers)","One who creates artlangs."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Artlenburg","sw":"artlenburg","definition":[],"translation":["[地名] 阿特伦堡 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"artlerial lipoidosis","sw":"artleriallipoidosis","definition":[],"translation":["[医] [动脉]粥样硬化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"artless","sw":"artless","definition":["a. simple and natural; without cunning or deceit","s. showing lack of art","s. (of persons) lacking art or knowledge"],"translation":["a. 无虚饰的, 单纯的, 自然的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"'ɑ:tlis"}
@@ -2047,7 +2047,7 @@
 {"word":"arvalis","sw":"arvalis","definition":[],"translation":["[网络] 田野林蛙；树蛙；普通田鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvanitakis","sw":"arvanitakis","definition":[],"translation":["阿瓦尼塔基斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arvanites","sw":"arvanites","definition":[],"translation":["[网络] 结合希腊的阿梵奈族"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Arvanitika","sw":"arvanitika","definition":["Arvanitika","the Albanian language spoken by a linguistic minority in Greece",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Arvanitika","sw":"arvanitika","definition":["Arvanitika","the Albanian language spoken by a linguistic minority in Greece"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arvanitika Albanian","sw":"arvanitikaalbanian","definition":[],"translation":["[网络] 阿尔巴尼亚文"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvanitis","sw":"arvanitis","definition":[],"translation":["[网络] 阿瓦尼提斯岛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arvant","sw":"arvant","definition":[],"translation":["[地名] 阿尔旺 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2090,7 +2090,7 @@
 {"word":"arvicole","sw":"arvicole","definition":[],"translation":["水䶄"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvicolid","sw":"arvicolid","definition":[],"translation":["[网络] 阿维米奇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvicolids","sw":"arvicolids","definition":[],"translation":["[网络] 平类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"arvicoline","sw":"arvicoline","definition":["arvicoline (not comparable)","That inhabits meadows; rural","","","arvicoline (plural arvicolines)","Any rodent of the subfamily Arvicolinae",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"arvicoline","sw":"arvicoline","definition":["arvicoline (not comparable)","That inhabits meadows; rural","","","arvicoline (plural arvicolines)","Any rodent of the subfamily Arvicolinae"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvicolines","sw":"arvicolines","definition":[],"translation":["[网络] 田鼠亚科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arviculture","sw":"arviculture","definition":[],"translation":["[网络] 栽培"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arvid","sw":"arvid","definition":[],"translation":["n. 阿维德（男子名）"],"pos":[],"exchange":["s:arvids"],"examples":[],"phonetic":""}
@@ -2486,8 +2486,8 @@
 {"word":"as agreed","sw":"asagreed","definition":[],"translation":["[经] 按照合同, 照约定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as agreed upon","sw":"asagreedupon","definition":[],"translation":["[法] 根据协议, 根据合约"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as alike as two peas","sw":"asalikeastwopeas","definition":[],"translation":["[网络] 一模一样"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"as all fuck","sw":"asallfuck","definition":["as all fuck","(postpositive, slang, vulgar) A more intense form of as fuck.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"as all hell","sw":"asallhell","definition":["as all hell (not comparable)","To a great extent or degree; very.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"as all fuck","sw":"asallfuck","definition":["as all fuck","(postpositive, slang, vulgar) A more intense form of as fuck."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"as all hell","sw":"asallhell","definition":["as all hell (not comparable)","To a great extent or degree; very."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as also","sw":"asalso","definition":[],"translation":["同样(也),照样(又)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as always","sw":"asalways","definition":[],"translation":["一如往常; 一如既往"],"pos":[],"exchange":[],"examples":[],"phonetic":"æz ˈɔ:lweiz"}
 {"word":"as amended","sw":"asamended","definition":[],"translation":["[经] 修正案, 修订本"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2510,7 +2510,7 @@
 {"word":"as bad luck would have it","sw":"asbadluckwouldhaveit","definition":[],"translation":["不幸得很;不巧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as bald as a coot","sw":"asbaldasacoot","definition":[],"translation":["头发脱光的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as bald as an egg","sw":"asbaldasanegg","definition":[],"translation":["头顶光秃秃的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"as balls","sw":"asballs","definition":["To the most extreme degree.","> I'm hungry as balls!","> It's hot as balls in here!","> That show was loud as balls.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"as balls","sw":"asballs","definition":["To the most extreme degree.","> I'm hungry as balls!","> It's hot as balls in here!","> That show was loud as balls."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as becomes one","sw":"asbecomesone","definition":[],"translation":["适当；相合；和…相称"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"as before","sw":"asbefore","definition":[],"translation":["如以前; 依旧; 照旧; 如故"],"pos":[],"exchange":[],"examples":[],"phonetic":"æz biˈfɔ:"}
 {"word":"as being","sw":"asbeing","definition":[],"translation":["就是；即像"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3782,7 +3782,7 @@
 {"word":"asahina","sw":"asahina","definition":[],"translation":["[网络] 朝比奈；朝比奈正二郎；朝日奈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asahina-dake","sw":"asahinadake","definition":[],"translation":["[地名] 朝比奈岳 ( 日 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asahinea chrysantha","sw":"asahineachrysantha","definition":[],"translation":["金黄裸腹叶衣"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ASAHP","sw":"asahp","definition":["As Soon As Humanly Possible","> \"I need to get to the airport A.S.A.H.P!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ASAHP","sw":"asahp","definition":["As Soon As Humanly Possible","> \"I need to get to the airport A.S.A.H.P!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asai","sw":"asai","definition":[],"translation":["abbr. attached switch applications interface 附属交换机应用接口"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ASAIC","sw":"asaic","definition":[],"translation":["[网络] 助理特别主管"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asaie","sw":"asaie","definition":[],"translation":["浅家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3845,7 +3845,7 @@
 {"word":"Asanonella","sw":"asanonella","definition":[],"translation":["小浅野氏虫属, 小浅野氏虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asanovich","sw":"asanovich","definition":[],"translation":["[网络] 阿斯诺维奇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asansol","sw":"asansol","definition":[],"translation":["阿散索尔[印度东北部城市]"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ɑ:sәnsәjl"}
-{"word":"asantaclausist","sw":"asantaclausist","definition":["asantaclausist (plural asantaclausists)","(humorous) A person who does not believe in Santa Claus.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"asantaclausist","sw":"asantaclausist","definition":["asantaclausist (plural asantaclausists)","(humorous) A person who does not believe in Santa Claus."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asante","sw":"asante","definition":[],"translation":["n. 阿桑特人（非洲种族）"],"pos":[],"exchange":["s:asantes"],"examples":[],"phonetic":"ə'sænti; ə'sɑ:n-"}
 {"word":"asantehene","sw":"asantehene","definition":[],"translation":["[网络] 阿散蒂土王"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asantes","sw":"asantes","definition":[],"translation":["n. 阿桑特人（非洲种族）"],"pos":[],"exchange":["0:asante","1:s"],"examples":[],"phonetic":"ə'sænti; ə'sɑ:n-"}
@@ -3951,7 +3951,7 @@
 {"word":"Asatrian","sw":"asatrian","definition":[],"translation":["[网络] 阿斯特拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asatru","sw":"asatru","definition":[],"translation":["[网络] 阿斯特鲁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asatruan","sw":"asatruan","definition":[],"translation":["[网络] 阿斯特拉恩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Asatruar","sw":"asatruar","definition":["Asatruar (plural Asatruars)","An adherent of Asatru.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Asatruar","sw":"asatruar","definition":["Asatruar (plural Asatruars)","An adherent of Asatru."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asatruism","sw":"asatruism","definition":[],"translation":["[网络] 阿斯特鲁里亚主义"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asatruists","sw":"asatruists","definition":[],"translation":["[网络] 利他主义者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Asatryan","sw":"asatryan","definition":[],"translation":["[网络] 里扬"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4791,7 +4791,7 @@
 {"word":"ASCII text file","sw":"asciitextfile","definition":[],"translation":["[计] ASCII文本文件"],"pos":[],"exchange":["s:ascii text files"],"examples":[],"phonetic":""}
 {"word":"ascii text files","sw":"asciitextfiles","definition":[],"translation":["[网络] 美标文本文件"],"pos":[],"exchange":["0:ascii text file","1:s"],"examples":[],"phonetic":""}
 {"word":"ASCII transfer","sw":"asciitransfer","definition":[],"translation":["ASCII文件传输模式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ASCIIbetical","sw":"asciibetical","definition":["ASCIIbetical (not comparable)","(computing) In ASCII order, with uppercase and lowercase letters grouped separately",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ASCIIbetical","sw":"asciibetical","definition":["ASCIIbetical (not comparable)","(computing) In ASCII order, with uppercase and lowercase letters grouped separately"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asciibetical order","sw":"asciibeticalorder","definition":[],"translation":["ASCII次序"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ASCIIfication","sw":"asciification","definition":[],"translation":["[网络] ASCII文字"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"asciified","sw":"asciified","definition":[],"translation":["[网络] 证明了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

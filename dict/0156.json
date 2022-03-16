@@ -372,7 +372,7 @@
 {"word":"docter","sw":"docter","definition":[],"translation":["[人名] 多克特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"docteur","sw":"docteur","definition":[],"translation":["[网络] 博士"],"pos":[],"exchange":["s:docteurs"],"examples":[],"phonetic":""}
 {"word":"docteurs","sw":"docteurs","definition":[],"translation":["[网络] 博士","(docteur 的复数)"],"pos":[],"exchange":["0:docteur","1:s"],"examples":[],"phonetic":""}
-{"word":"doctiloquent","sw":"doctiloquent","definition":["doctiloquent (comparative more doctiloquent, superlative most doctiloquent)","(rare) Speaking learnedly.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doctiloquent","sw":"doctiloquent","definition":["doctiloquent (comparative more doctiloquent, superlative most doctiloquent)","(rare) Speaking learnedly."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Docton","sw":"docton","definition":[],"translation":["普萘洛尔,心得安,萘心安"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doctor","sw":"doctor","definition":["n. a licensed medical practitioner","n. children take the roles of physician or patient or nurse and pretend they are at the physician's office","n. a person who holds Ph.D. degree (or the equivalent) from an academic institution","v. give medical treatment to"],"translation":["n. 医生, 博士","vt. 授以博士学位, 诊断, 修改","vi. 行医"],"pos":["v:1","n:99"],"exchange":["s:doctors","i:doctoring","p:doctored","3:doctors","d:doctored"],"examples":["You'd better see a doctor about that cough.","The doctor prescribed antibiotics.","The doctor told me to stay in bed.","He's training to be a doctor.","The doctor prescribed some medication.","You should see a doctor about that cough.","Good morning, Doctor Smith/Doctor.","He went to the doctor's this morning for a check-up.","He was found to have provided the court with doctored evidence.","Bottles of lemonade doctored with rat poison were discovered in the kitchen.","This health plan lets you choose your own doctor.","He claimed the photo had been doctored.","Tell your line manager if you need time off to go and see a doctor.","They doctored the company's balance sheet to make it look more profitable."],"phonetic":"ˈdɒktə(r)|ˈdɑːktər"}
 {"word":"doctor accounts","sw":"doctoraccounts","definition":[],"translation":["做假帐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -563,8 +563,8 @@
 {"word":"doctorspeak","sw":"doctorspeak","definition":[],"translation":["[网络] 医生们"],"pos":[],"exchange":["s:doctorspeaks"],"examples":[],"phonetic":""}
 {"word":"doctorspeaks","sw":"doctorspeaks","definition":[],"translation":["[网络] 医生们","(doctorspeak 的复数)"],"pos":[],"exchange":["0:doctorspeak","1:s"],"examples":[],"phonetic":""}
 {"word":"doctos","sw":"doctos","definition":[],"translation":["[网络] 受过良好教育的人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doctour","sw":"doctour","definition":["doctour (plural doctours)","Obsolete form of doctor.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doctours","sw":"doctours","definition":["doctours","plural of doctour",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doctour","sw":"doctour","definition":["doctour (plural doctours)","Obsolete form of doctor."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doctours","sw":"doctours","definition":["doctours","plural of doctour"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doctress","sw":"doctress","definition":["n. A female doctor."],"translation":["[罕]女医生[博士], 博士夫人"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɔktris"}
 {"word":"doctresses","sw":"doctresses","definition":[],"translation":["n. 女博士，女医生；博士夫人"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒktrɪs"}
 {"word":"doctrice","sw":"doctrice","definition":[],"translation":["[网络] 教条"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -718,7 +718,7 @@
 {"word":"doculects","sw":"doculects","definition":[],"translation":["[网络] 记录"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"docum","sw":"docum","definition":[],"translation":["文件,文献"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"documantation","sw":"documantation","definition":[],"translation":["地质编录"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"document","sw":"document","definition":["n. writing that provides information (especially information of an official nature)","n. anything serving as a representation of a person's thinking by means of symbolic marks","n. a written account of ownership or obligation","v. record in detail"],"translation":["n. 文件, 公文, 文档","vt. 证明, 为...引证","[计] 文档"],"pos":["v:24","n:76"],"exchange":["s:documents","d:documented","i:documenting","p:documented","3:documents"],"examples":["Please read and sign the attached document.","Please e-sign the document and email it back.","This is an important legal document.","The child is identified only by the initial ‘M’ in court documents.","Keep your passport and other travel documents in a secure place.","According to documents released yesterday, he was paid over £1 million last year.","Copies of the relevant documents must be filed at court.","Save the document before closing.","Click here to print your document.","They are charged with using forged documents.","I'll send you the document by email.","His interest in cars has been well-documented (= recorded and written about) by the media.","The study documents various aspects of Indian life in this period.","Each bank will be required to publish a document detailing its annual and final bonus payments.","Don't sign any documents with items left blank or containing anything you don't understand.","Federal Agency documents outline the scope of the extensive project.","Full details will be included in your policy document.","We will accept original documents only, not copies.","A spokesman from the Home Office refused to comment on the leaked document.","Remember to save your documents at regular intervals when making changes.","I was unable to open the attached document.","Companies must document the controls their financial departments use to deter fraud.","The harmful effects of greenhouse gases have been well documented.","A recent state investigation found that the district has failed to document how it spent some $23 million in federal funds."],"phonetic":"ˈdɒkjumənt|ˈdɑːkjumənt"}
+{"word":"document","sw":"document","definition":["n. writing that provides information (especially information of an official nature)","n. anything serving as a representation of a person's thinking by means of symbolic marks","n. a written account of ownership or obligation","v. record in detail"],"translation":["n. 文件, 公文, 文档","vt. 证明, 为...引证","[计] 文档"],"pos":["v:24","n:76"],"exchange":["s:documents","d:documented","i:documenting","p:documented","3:documents"],"examples":["Please read and sign the attached document.","Please e-sign the document and email it back.","This is an important legal document.","The child is identified only by the initial \"M\" in court documents.","Keep your passport and other travel documents in a secure place.","According to documents released yesterday, he was paid over £1 million last year.","Copies of the relevant documents must be filed at court.","Save the document before closing.","Click here to print your document.","They are charged with using forged documents.","I'll send you the document by email.","His interest in cars has been well-documented (= recorded and written about) by the media.","The study documents various aspects of Indian life in this period.","Each bank will be required to publish a document detailing its annual and final bonus payments.","Don't sign any documents with items left blank or containing anything you don't understand.","Federal Agency documents outline the scope of the extensive project.","Full details will be included in your policy document.","We will accept original documents only, not copies.","A spokesman from the Home Office refused to comment on the leaked document.","Remember to save your documents at regular intervals when making changes.","I was unable to open the attached document.","Companies must document the controls their financial departments use to deter fraud.","The harmful effects of greenhouse gases have been well documented.","A recent state investigation found that the district has failed to document how it spent some $23 million in federal funds."],"phonetic":"ˈdɒkjumənt|ˈdɑːkjumənt"}
 {"word":"document a case","sw":"documentacase","definition":[],"translation":["为案件提供文件资料"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"document a text","sw":"documentatext","definition":[],"translation":["[法] 为正文提供文件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"document a theory with facts","sw":"documentatheorywithfacts","definition":[],"translation":["以事实来证明某一理论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1504,7 +1504,7 @@
 {"word":"Dodger blue","sw":"dodgerblue","definition":[],"translation":["[网络] 道奇蓝；闪蓝色；国际奇连蓝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dodger Stadium","sw":"dodgerstadium","definition":[],"translation":["[网络] 道奇体育场；道奇球场；洛杉矶道奇球场"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dodgerblue","sw":"dodgerblue","definition":[],"translation":["[网络] 道奇蓝；闪蓝色；闪兰色"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dodgerblues","sw":"dodgerblues","definition":["The feeling that Dodger fans get around the all-star break when they realize it is most likely going to be another season without a playoff series win or even an appearance.","> He had a bad case of the Dodger Blues after they were swept by San Diego.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dodgerblues","sw":"dodgerblues","definition":["The feeling that Dodger fans get around the all-star break when they realize it is most likely going to be another season without a playoff series win or even an appearance.","> He had a bad case of the Dodger Blues after they were swept by San Diego."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dodgeries","sw":"dodgeries","definition":[],"translation":["n. 推托；躲避；诡计"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒdʒərɪ"}
 {"word":"dodgers","sw":"dodgers","definition":["n. a shifty deceptive person","n. small oval cake of corn bread baked or fried (chiefly southern)"],"translation":["n. 躲闪者, 欺瞒者( dodger的复数形式 )"],"pos":[],"exchange":["0:dodger","1:s"],"examples":[],"phonetic":"'dɒdʒəz"}
 {"word":"dodgertown","sw":"dodgertown","definition":[],"translation":["[网络] 道奇镇；道奇城；道奇村"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1512,7 +1512,7 @@
 {"word":"dodgery john","sw":"dodgeryjohn","definition":[],"translation":["[法] 诉讼中假设的当事人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dodges","sw":"dodges","definition":["n an elaborate or deceitful scheme contrived to deceive or evade","n a quick evasive movement","n a statement that evades the question by cleverness or trickery","v make a sudden movement in a new direction so as to avoid","v move to and fro or from place to place usually in an irregular course","v avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)"],"translation":["n. 闪躲( dodge的名词复数 ); 躲避; 伎俩; 妙计","v. 闪躲( dodge的第三人称单数 ); 回避"],"pos":[],"exchange":["0:dodge","1:3s"],"examples":[],"phonetic":"dɔdʒz"}
 {"word":"dodgeville","sw":"dodgeville","definition":[],"translation":["[地名] [美国] 道奇维尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dodgey","sw":"dodgey","definition":["Australian term.","1. Something or someone that is a bit suspicious, doesn't seem quite right. Doesn't seem the real deal.","","2. Slack, broken, worthless or useless.","","3. Not very appealing.","> 1. That car salesman seemed a bit dodgey.","> 2. This old car is pretty dodgey.","> 3. That band last night were pretty dodgey.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dodgey","sw":"dodgey","definition":["Australian term.","1. Something or someone that is a bit suspicious, doesn't seem quite right. Doesn't seem the real deal.","","2. Slack, broken, worthless or useless.","","3. Not very appealing.","> 1. That car salesman seemed a bit dodgey.","> 2. This old car is pretty dodgey.","> 3. That band last night were pretty dodgey."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dodgie","sw":"dodgie","definition":[],"translation":["[网络] 狡猾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dodgier","sw":"dodgier","definition":["comparative of dodgy","s of uncertain outcome; especially fraught with risk","s marked by skill in deception"],"translation":["(dodgy 的比较级) a. 狡猾的, 逃避的, 难弄的"],"pos":[],"exchange":["0:dodgy","1:r"],"examples":[],"phonetic":""}
 {"word":"dodgiest","sw":"dodgiest","definition":["superlative of dodgy","s of uncertain outcome; especially fraught with risk","s marked by skill in deception"],"translation":["(dodgy 的最高级) a. 狡猾的, 逃避的, 难弄的"],"pos":[],"exchange":["0:dodgy","1:t"],"examples":[],"phonetic":""}
@@ -1670,7 +1670,7 @@
 {"word":"doers","sw":"doers","definition":["n. a person who acts and gets things done"],"translation":["n. 行为者, 实干家( doer的复数形式 )"],"pos":[],"exchange":["0:doer","1:s"],"examples":[],"phonetic":"ˈdu(:)əz"}
 {"word":"does","sw":"does","definition":["n the federal department responsible for maintaining a national energy policy of the United States; created in 1977","n mature female of mammals of which the male is called `buck'","v engage in","v carry out or perform an action","v get (something) done","v proceed or get along","v give rise to; cause to happen or occur, not always intentionally","v carry out or practice; as of jobs and professions","v be sufficient; be adequate, either in quality or quantity","v create or design, often in a certain way","v behave in a certain manner; show a certain behavior; conduct or comport oneself","v spend time in prison or in a labor camp","v carry on or function","v arrange attractively","v travel or traverse (a distance)"],"translation":["v. 做；工作；有用（do的第三人称单数形式）"],"pos":[],"exchange":["0:doe","1:s"],"examples":[],"phonetic":"dʌz; dәz"}
 {"word":"does a bad job","sw":"doesabadjob","definition":[],"translation":["vi. 工作干得不好"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"does a bear shit in the woods","sw":"doesabearshitinthewoods","definition":["Does a bear shit in the woods?","(colloquial, rhetorical question, mildly vulgar) A rhetorical question in response to a question whose answer is an emphatic yes.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"does a bear shit in the woods","sw":"doesabearshitinthewoods","definition":["Does a bear shit in the woods?","(colloquial, rhetorical question, mildly vulgar) A rhetorical question in response to a question whose answer is an emphatic yes."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does a good job","sw":"doesagoodjob","definition":[],"translation":["干得好；好好干"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does anyone here speak English","sw":"doesanyoneherespeakenglish","definition":[],"translation":["[网络] 这里有人会说英语吗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does away with","sw":"doesawaywith","definition":[],"translation":["v. 废除，去掉；弄死"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1696,7 +1696,7 @@
 {"word":"Does the back door have a lock on it","sw":"doesthebackdoorhavealockonit","definition":[],"translation":["后门有没有装锁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does the dishes","sw":"doesthedishes","definition":[],"translation":["洗餐具；洗碗碟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does the honors","sw":"doesthehonors","definition":[],"translation":["尽主人之谊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"does the Pope shit in the woods","sw":"doesthepopeshitinthewoods","definition":["Does the Pope shit in the woods?","(idiomatic, humorous, vulgar) Rhetorical question in response to a question where the answer is an emphatic yes.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"does the Pope shit in the woods","sw":"doesthepopeshitinthewoods","definition":["Does the Pope shit in the woods?","(idiomatic, humorous, vulgar) Rhetorical question in response to a question where the answer is an emphatic yes."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does the rounds","sw":"doestherounds","definition":[],"translation":["逐一送信、送奶，巡回，巡视，巡逻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Does this radio belong to you","sw":"doesthisradiobelongtoyou","definition":[],"translation":["这架收音机是属于你的吗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"does time","sw":"doestime","definition":[],"translation":["坐牢；服徒刑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1771,7 +1771,7 @@
 {"word":"doffs","sw":"doffs","definition":["v remove"],"translation":["v. <主文>脱去, （尤指）脱帽( doff的第三人称单数 )"],"pos":[],"exchange":["0:doff","1:3"],"examples":[],"phonetic":"dɔ:fs"}
 {"word":"DOFH","sw":"dofh","definition":[],"translation":["[网络] 多方"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"DOFL","sw":"dofl","definition":[],"translation":["abbr. Diamond Ordnance Fuze Laboratories <美>戴孟德军械引信实验所"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doflicky","sw":"doflicky","definition":["its the security device that gets pinned to the shaft of a golf club to prevent people from stealing them. do-flicky","> Hey Jason, can you put a doflicky on that G2 and put it on the rack please.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doflicky","sw":"doflicky","definition":["its the security device that gets pinned to the shaft of a golf club to prevent people from stealing them. do-flicky","> Hey Jason, can you put a doflicky on that G2 and put it on the rack please."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dofosfate","sw":"dofosfate","definition":[],"translation":["度磷酸盐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dofs","sw":"dofs","definition":[],"translation":["[网络] 自由度；Display-Only File Server；光纤传感器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doftana","sw":"doftana","definition":[],"translation":["[地名] 多夫塔纳 ( 罗 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1783,7 +1783,7 @@
 {"word":"dog","sw":"dog","definition":["n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds","n. informal term for a man"],"translation":["n. 狗, 坏蛋","vt. 跟踪, 尾随"],"pos":["v:2","n:98"],"exchange":["s:dogs","d:dogged","p:dogged","i:dogging","3:dogs"],"examples":["I took the dog for a walk.","I'm just going to walk the dog.","I could hear a dog barking.","Stray dogs roamed the streets at night.","A labrador is a breed of dog.","Her last movie was an absolute dog.","I'm afraid in this line of work it's a case of dog eat dog.","We're operating in a dog-eat-dog world.","He's made a real dog's breakfast of these accounts.","He led his poor partner a dog's life.","This firm's gone to the dogs since the new management took over.","I really don't have a dog in this fight, so I can just enjoy the game.","The employees have a dog in the hunt, so their views should be listened to.","I've been working like a dog recently.","They treated him like a dog.","When she sensed a good story she was like a dog with a bone.","He hasn't a dog's chance of passing the exam.","Her boss collects a big retirement cheque while she is thrown to the dogs.","We could hear dogs barking in the distance.","He tried to steal my money, the dirty dog.","Reporters dogged him for answers.","Technical problems dogged our trip from the outset.","The scandal seems likely to dog him for months to come.","It is dog eat dog on Las Vegas's world-famous Strip as huge casino complexes compete for attention.","The fast-growing telecom industry was a dog-eat-dog world where firms were either looking to expand or ripe for takeover.","The company, which makes high-tech equipment, could not have grown as fast as it has without eating lots of its own dog food.","The economy seems to be going to the dogs.","Signs of a global recession inevitably conjure up thoughts of the last time we went to hell in a handbasket: the Great Depression of the 1930s."],"phonetic":"dɒɡ|dɔːɡ"}
 {"word":"dog anchor","sw":"doganchor","definition":[],"translation":["扒钉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog and bone","sw":"dogandbone","definition":[],"translation":["[网络] 小狗与骨头；狗和骨头；狗啃骨头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dog and bones","sw":"dogandbones","definition":["Cockney rhyming slang for phone - the telephone.","> ''Pick up the dog and bone now''",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog and bones","sw":"dogandbones","definition":["Cockney rhyming slang for phone - the telephone.","> ''Pick up the dog and bone now''"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog and cat","sw":"dogandcat","definition":[],"translation":["[网络] 狗和猫；犬和猫；小狗和小猫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog and duck","sw":"dogandduck","definition":[],"translation":["[网络] 狗和鸭"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog and maggot","sw":"dogandmaggot","definition":[],"translation":["[英军俚语]饼干和干酪；[英国俚语]【军事】饼干和干酪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1806,7 +1806,7 @@
 {"word":"dog bolt","sw":"dogbolt","definition":[],"translation":["活节螺栓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog bone","sw":"dogbone","definition":[],"translation":["[医]狗骨"],"pos":[],"exchange":[],"examples":[],"phonetic":"dɔɡ bəun"}
 {"word":"dog bone drive","sw":"dogbonedrive","definition":[],"translation":["连杆传动"],"pos":[],"exchange":[],"examples":[],"phonetic":"dɔɡ bəun draiv"}
-{"word":"dog bone spanner","sw":"dogbonespanner","definition":["dog bone spanner (plural dog bone spanners)","(Britain) A traditional double-ended bicycle spanner with a selection of usually 10 sizes—five on each end—arranged in a ball form.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog bone spanner","sw":"dogbonespanner","definition":["dog bone spanner (plural dog bone spanners)","(Britain) A traditional double-ended bicycle spanner with a selection of usually 10 sizes—five on each end—arranged in a ball form."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog bone wrench","sw":"dogbonewrench","definition":[],"translation":["[网络] 台湾求购狗骨头型扳手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog bones","sw":"dogbones","definition":[],"translation":["[网络] 狗骨头；犬骨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog box","sw":"dogbox","definition":[],"translation":["na. 铁路上运狗的车厢","[网络] 狗箱；犬式变速箱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1887,8 +1887,8 @@
 {"word":"dog house arch","sw":"doghousearch","definition":[],"translation":["投料口旋拱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog house mantle block","sw":"doghousemantleblock","definition":[],"translation":["投料口盖砖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog houses","sw":"doghouses","definition":[],"translation":["[网络] 求购狗房子；求购狗窝"],"pos":[],"exchange":["0:dog house","1:s"],"examples":[],"phonetic":""}
-{"word":"Dog In A Bath Tub","sw":"doginabathtub","definition":["This is a proper name for when you attempt to insert your nuts into a girl's ass. It is so named because it can be just as hard as keeping a dog in the tub while giving it a bath.","> I tried like hell to pull off a Dog In A Bath Tub on Suzy, but her queaf threw my balance off.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dog in the hunt","sw":"doginthehunt","definition":["dog in the hunt (plural dogs in the hunt)","Used other than as an idiom: see dog,‎ hunt.","(idiomatic) Something that may lead to gain, depending on the outcome; a position for which to campaign or cheer..",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Dog In A Bath Tub","sw":"doginabathtub","definition":["This is a proper name for when you attempt to insert your nuts into a girl's ass. It is so named because it can be just as hard as keeping a dog in the tub while giving it a bath.","> I tried like hell to pull off a Dog In A Bath Tub on Suzy, but her queaf threw my balance off."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog in the hunt","sw":"doginthehunt","definition":["dog in the hunt (plural dogs in the hunt)","Used other than as an idiom: see dog,‎ hunt.","(idiomatic) Something that may lead to gain, depending on the outcome; a position for which to campaign or cheer.."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog in the manger","sw":"doginthemanger","definition":[],"translation":["自己不能享用某物亦不让他人享用的人"],"pos":[],"exchange":["s:dogs in the manger"],"examples":[],"phonetic":""}
 {"word":"dog iron","sw":"dogiron","definition":[],"translation":["两爪铁扣,铁钩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog it","sw":"dogit","definition":[],"translation":["打扮起来摆阔, 偷懒, 躲开"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1937,7 +1937,7 @@
 {"word":"dog racings","sw":"dogracings","definition":[],"translation":["猎狗逐(机器)兔赛","(dog racing 的复数)"],"pos":[],"exchange":["0:dog racing","1:s"],"examples":[],"phonetic":""}
 {"word":"dog robber","sw":"dogrobber","definition":[],"translation":["[网络] 队长勤务兵；军官的贴身侍卫；狗强盗之一"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog robbers","sw":"dogrobbers","definition":[],"translation":["n. 传令兵；通讯兵"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒɡ,rɒbə"}
-{"word":"dog rocket","sw":"dogrocket","definition":["A term used by cigar connoisseurs to describe a sub par cigar.","> Care for a Thompson? You really excpect me to smoke that dog rocket!?!? You'd best bust out with a Macanudo!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog rocket","sw":"dogrocket","definition":["A term used by cigar connoisseurs to describe a sub par cigar.","> Care for a Thompson? You really excpect me to smoke that dog rocket!?!? You'd best bust out with a Macanudo!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog rocks","sw":"dogrocks","definition":[],"translation":["多格岩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog rope","sw":"dogrope","definition":[],"translation":["[网络] 狗绳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog rose","sw":"dogrose","definition":[],"translation":["[医] 狗牙蔷薇"],"pos":[],"exchange":["s:dog roses"],"examples":[],"phonetic":""}
@@ -2010,8 +2010,8 @@
 {"word":"dog vane","sw":"dogvane","definition":[],"translation":["风向仪,风标"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog violet","sw":"dogviolet","definition":[],"translation":["[医]犬堇菜"],"pos":[],"exchange":["s:dog violets"],"examples":[],"phonetic":"dɔɡ ˈvaiəlit"}
 {"word":"dog violets","sw":"dogviolets","definition":[],"translation":["【植物】犬堇菜(Viola canina)[亦作dog's violet]"],"pos":[],"exchange":["0:dog violet","1:s"],"examples":[],"phonetic":""}
-{"word":"dog vomit slime mold","sw":"dogvomitslimemold","definition":["dog vomit slime mold (countable and uncountable, plural dog vomit slime molds)","Fuligo septica, a bright yellow slime mold.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dog wanker","sw":"dogwanker","definition":["Someone who masturbates dogs.","> Von (416) is a dog wanker.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog vomit slime mold","sw":"dogvomitslimemold","definition":["dog vomit slime mold (countable and uncountable, plural dog vomit slime molds)","Fuligo septica, a bright yellow slime mold."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dog wanker","sw":"dogwanker","definition":["Someone who masturbates dogs.","> Von (416) is a dog wanker."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog warden","sw":"dogwarden","definition":[],"translation":["捕狗员（负责捕捉街上的流浪狗或猫）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog watch","sw":"dogwatch","definition":[],"translation":["un. 〔新闻〕夜间值班编缉；半轮值班；值小班","[网络] 夜班；狗更；小西施水晶手表"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dog watch first","sw":"dogwatchfirst","definition":[],"translation":["[网络] 前二时班"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2225,7 +2225,7 @@
 {"word":"dogbones","sw":"dogbones","definition":[],"translation":["[网络] 狗骨头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogbox","sw":"dogbox","definition":[],"translation":["铁路上运狗的车箱"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈdɒgbɒks"}
 {"word":"dogbreath","sw":"dogbreath","definition":[],"translation":["[网络] 狗喘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dogbreaths","sw":"dogbreaths","definition":["having eaten a lamb dish at your local indian takeaway,your breath stinks of farts the next morning.it also feels as though a rat has slept in your mouth for the night.","> sorry luv i cant kiss you as i have the worst dog breath i could ever imagine.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dogbreaths","sw":"dogbreaths","definition":["having eaten a lamb dish at your local indian takeaway,your breath stinks of farts the next morning.it also feels as though a rat has slept in your mouth for the night.","> sorry luv i cant kiss you as i have the worst dog breath i could ever imagine."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogcart","sw":"dogcart","definition":["n. a cart drawn by a dog"],"translation":["n. 轻便双轮马车, 狗拉小车"],"pos":[],"exchange":["s:dogcarts"],"examples":[],"phonetic":"'dɒgkɑ:t"}
 {"word":"dogcarts","sw":"dogcarts","definition":["n. a cart drawn by a dog"],"translation":["n. 狗拉小车；轻便的双轮马车"],"pos":[],"exchange":["0:dogcart","1:s3"],"examples":[],"phonetic":"'dɒɡkɑːt"}
 {"word":"dogcatcher","sw":"dogcatcher","definition":[],"translation":["n. 捕狗人"],"pos":["n:100"],"exchange":["s:dogcatchers"],"examples":[],"phonetic":"'dɔ^,kætʃә(r)"}
@@ -2233,7 +2233,7 @@
 {"word":"dogcollar","sw":"dogcollar","definition":[],"translation":["na. 狗项圈；〈口〉(用宝石等装饰的)项链"],"pos":[],"exchange":["s:dogcollars"],"examples":[],"phonetic":""}
 {"word":"dogcollars","sw":"dogcollars","definition":[],"translation":["[网络] 狗用脖围；狗项圈；美国求购狗脖套"],"pos":[],"exchange":["0:dogcollar","1:s"],"examples":[],"phonetic":""}
 {"word":"dogcow","sw":"dogcow","definition":[],"translation":["[网络] 狗牛；牛狗；狗图案"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dogcows","sw":"dogcows","definition":["The dogcow is a drawing of a rather indiscriminate-looking animal (it looks mostly like a dog but is said to have the spots of a cow) that is used in the Apple Macintosh operating system (versions before OS X) to help tell users about their printing options. You can see the dogcow (in Mac OS 9.x or earlier) by going to the Finder, looking under \"Page Setup...\", and then looking under printer options. The dogcow is used to show you what kind of option you've selected. For example, \"Flip Horizontal\" flips the dogcow to upside down.","","If you click on the dogcow, the Macintosh sends you the animal's characteristic cry of \"Moof\"! The dogcow icon was originally created by graphic artist Susan Kare in 1987. Susan is the same artist who created the graphic interface for everyone's favorite Windows 3.1 card game, Solitaire. Microsoft has adopted its own version of the dogcow and uses it to demonstrate slide transitions in its PowerPoint application, although Apple retains its copyright on the original image and, believe it or not, the \"Moof\"!","> In Mac OS, click on the Dogcow and you will hear \"Moof\"!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dogcows","sw":"dogcows","definition":["The dogcow is a drawing of a rather indiscriminate-looking animal (it looks mostly like a dog but is said to have the spots of a cow) that is used in the Apple Macintosh operating system (versions before OS X) to help tell users about their printing options. You can see the dogcow (in Mac OS 9.x or earlier) by going to the Finder, looking under \"Page Setup...\", and then looking under printer options. The dogcow is used to show you what kind of option you've selected. For example, \"Flip Horizontal\" flips the dogcow to upside down.","","If you click on the dogcow, the Macintosh sends you the animal's characteristic cry of \"Moof\"! The dogcow icon was originally created by graphic artist Susan Kare in 1987. Susan is the same artist who created the graphic interface for everyone's favorite Windows 3.1 card game, Solitaire. Microsoft has adopted its own version of the dogcow and uses it to demonstrate slide transitions in its PowerPoint application, although Apple retains its copyright on the original image and, believe it or not, the \"Moof\"!","> In Mac OS, click on the Dogcow and you will hear \"Moof\"!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogday","sw":"dogday","definition":[],"translation":["un. 伏天","[网络] 狗日子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogdayed","sw":"dogdayed","definition":[],"translation":["[网络] 饿死了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogdays","sw":"dogdays","definition":[],"translation":["三伏天,大热天;无所作为的时期,无精打彩的日子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2251,8 +2251,8 @@
 {"word":"dogeater","sw":"dogeater","definition":[],"translation":["[网络] 黑吃黑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogeaters","sw":"dogeaters","definition":[],"translation":["[网络] 食狗者；食狗肉者；吃狗肉的家伙们"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogeates","sw":"dogeates","definition":[],"translation":["n.","=dogate"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dəudʒeit"}
-{"word":"dogecoin","sw":"dogecoin","definition":["dogecoin (countable and uncountable, plural dogecoins)","(uncountable, Internet) A cryptocurrency featuring the Shiba Inu from the \"doge\" Internet meme as its logo.","(countable, Internet) A unit of this currency.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dogecoins","sw":"dogecoins","definition":["Much Currency","Such Value","Much $hibe","What Hashrate","Such Cryptocurrency","> Dogecoin will go to the moon because much value and such fun",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dogecoin","sw":"dogecoin","definition":["dogecoin (countable and uncountable, plural dogecoins)","(uncountable, Internet) A cryptocurrency featuring the Shiba Inu from the \"doge\" Internet meme as its logo.","(countable, Internet) A unit of this currency."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dogecoins","sw":"dogecoins","definition":["Much Currency","Such Value","Much $hibe","What Hashrate","Such Cryptocurrency","> Dogecoin will go to the moon because much value and such fun"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogedom","sw":"dogedom","definition":[],"translation":["n.","总督的权威(或统治)","[总称]总督"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dəʊdʒdəm"}
 {"word":"dogedoms","sw":"dogedoms","definition":[],"translation":["n.","总督的权威(或统治)","[总称]总督"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dəʊdʒdəm"}
 {"word":"dogeless","sw":"dogeless","definition":[],"translation":["[网络] 无所事事"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2374,7 +2374,7 @@
 {"word":"doggoner","sw":"doggoner","definition":[],"translation":["a. 可憎的, 可恶的","adv. 极端地, 非常地","interj. 畜生, 他妈的","(doggone 的比较级)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doggonest","sw":"doggonest","definition":[],"translation":["[美国、加拿大口语]","vt.","诅咒：","—adj.","最高级-gonest [亦作doggoned]该死的，该诅咒的，讨厌的；非常的，无比的","adv.","[亦作doggoned]极，非常，要命地","n.","诅咒","丝毫，一星半点","interj.","[God damn的委婉语]他妈的!该死!去你的![用于表示愤怒、激怒、生气、惊讶、快乐、高兴等]","短语:","doggone it","他妈的，去你的","变形：","vt.","doggoned",". doggoning"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒgɒn"}
 {"word":"doggoning","sw":"doggoning","definition":[],"translation":["doggoning","vt.","doggone的变形","doggone","['dɔɡɔn]","[美国、加拿大口语]","vt.","诅咒：","—adj.","最高级-gonest [亦作doggoned]该死的，该诅咒的，讨厌的；非常的，无比的","adv.","[亦作doggoned]极，非常，要命地","n.","诅咒","丝毫，一星半点","interj.","[God damn的委婉语]他妈的!该死!去你的![用于表示愤怒、激怒、生气、惊讶、快乐、高兴等]","短语:","doggone it","他妈的，去你的","变形：","vt.","doggoned",". doggoning"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɔɡɔn"}
-{"word":"doggonit","sw":"doggonit","definition":["doggonit","(idiomatic, euphemistic) An expression that shows mild or strong frustration about something.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doggonit","sw":"doggonit","definition":["doggonit","(idiomatic, euphemistic) An expression that shows mild or strong frustration about something."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doggrel","sw":"doggrel","definition":["a. & n. Same as Doggerel."],"translation":["n. 打油诗"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɔ^rəl"}
 {"word":"doggrels","sw":"doggrels","definition":[],"translation":["n.,adj.","=doggerel"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒɡrəl"}
 {"word":"doggs","sw":"doggs","definition":[],"translation":["n. 大支（台湾说唱歌手）","(dogg 的复数)"],"pos":[],"exchange":["0:dogg","1:s"],"examples":[],"phonetic":""}
@@ -2383,7 +2383,7 @@
 {"word":"doggy bags","sw":"doggybags","definition":[],"translation":["[网络] 带剩食的口袋"],"pos":[],"exchange":["0:doggy bag","1:s"],"examples":[],"phonetic":""}
 {"word":"doggy do","sw":"doggydo","definition":[],"translation":["[网络] 小狗做"],"pos":[],"exchange":["s:doesggy does"],"examples":[],"phonetic":""}
 {"word":"doggy paddle","sw":"doggypaddle","definition":[],"translation":["n. 狗爬式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doggy style","sw":"doggystyle","definition":["A man positions himself behind his partner, and inserts his d*ck into his woman's vagina from behind.  She's usually bending over something, or on her hands and knees.  The guy can then pull her hair, and use her boobies for handles.","> My favorite sexual postion is doggy style!  I love it when the man has all the control!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doggy style","sw":"doggystyle","definition":["A man positions himself behind his partner, and inserts his d*ck into his woman's vagina from behind.  She's usually bending over something, or on her hands and knees.  The guy can then pull her hair, and use her boobies for handles.","> My favorite sexual postion is doggy style!  I love it when the man has all the control!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doggy woggies","sw":"doggywoggies","definition":[],"translation":["[网络] 小狗woggies"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doggy woggy","sw":"doggywoggy","definition":[],"translation":["[网络] 小狗摇摇欲坠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doggy-Bag","sw":"doggybag","definition":[],"translation":["n. 剩菜袋（餐馆装剩菜回家用的袋子）","[网络] 打包袋；打包剩菜的盒子；剩菜打包"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2432,7 +2432,7 @@
 {"word":"dogless","sw":"dogless","definition":[],"translation":["[网络] 无辜的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doglessly","sw":"doglessly","definition":[],"translation":["[网络] 无私地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doglessness","sw":"doglessness","definition":[],"translation":["[网络] 无神论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doglet","sw":"doglet","definition":["doglet (plural doglets)","(nonstandard, rare) A young dog.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doglet","sw":"doglet","definition":["doglet (plural doglets)","(nonstandard, rare) A young dog."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dogliani","sw":"dogliani","definition":[],"translation":["[地名] 多利亚尼 ( 意 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doglike","sw":"doglike","definition":["s. resembling a dog; especially in devotion"],"translation":["a. 象狗的, 忠实的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"'dɒglaik"}
 {"word":"dogliker","sw":"dogliker","definition":[],"translation":["adj. dog的变形；狗样的，似狗的，有狗的形状或特征的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒɡ,laɪk"}
@@ -2498,7 +2498,7 @@
 {"word":"dognapper","sw":"dognapper","definition":[],"translation":["偷狗的人","狗贼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dognappers","sw":"dognappers","definition":[],"translation":["偷狗的人","狗贼"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒɡ,næpə"}
 {"word":"dognapping","sw":"dognapping","definition":[],"translation":["vt.,vi. [美国英语](尤指为了出售获利或勒索赎金而)偷(狗)，拐狗"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒgnæp"}
-{"word":"dognappings","sw":"dognappings","definition":["A term used to descirbe a fat ass lazy person.","> Ay you fucking dog napping bitch, call jenny craig!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dognappings","sw":"dognappings","definition":["A term used to descirbe a fat ass lazy person.","> Ay you fucking dog napping bitch, call jenny craig!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dognaps","sw":"dognaps","definition":[],"translation":["v. （为取得赎金或转售给实验室）偷（狗）（过去式dognapped/dognaped，过去分词dognapped/dognaped，现在分词dognapping/dognaping，第三人称单数dognaps/dognaps，名词dognapper）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒgnæp"}
 {"word":"Dognecea","sw":"dognecea","definition":[],"translation":["[地名] 多格内恰 ( 罗 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dogness","sw":"dogness","definition":[],"translation":["[网络] 多尼斯；多尼丝；香港多尼斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2675,8 +2675,8 @@
 {"word":"Doherty brothers","sw":"dohertybrothers","definition":[],"translation":["[网络] 从都赫尔提兄弟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doherty linear amplifier","sw":"dohertylinearamplifier","definition":[],"translation":["多赫蒂线性放大器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doherty transmitter","sw":"dohertytransmitter","definition":[],"translation":["多尔蒂发射机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dohickey","sw":"dohickey","definition":["a whatchamacallit or a thingamajig","> Where is that dohickey?  Is there any special k left in it?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dohickeys","sw":"dohickeys","definition":["a whatchamacallit or a thingamajig","> Where is that dohickey?  Is there any special k left in it?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dohickey","sw":"dohickey","definition":["a whatchamacallit or a thingamajig","> Where is that dohickey?  Is there any special k left in it?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dohickeys","sw":"dohickeys","definition":["a whatchamacallit or a thingamajig","> Where is that dohickey?  Is there any special k left in it?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dohle","sw":"dohle","definition":[],"translation":["多勒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dohle body","sw":"dohlebody","definition":[],"translation":["宾来氏体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dohle disease","sw":"dohledisease","definition":[],"translation":["[医] 窦勒氏病, 梅毒性主动脉炎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2685,7 +2685,7 @@
 {"word":"Dohm-Lammersdorf","sw":"dohmlammersdorf","definition":[],"translation":["[地名] 多姆-拉默斯多夫 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dohme","sw":"dohme","definition":[],"translation":["[网络] 默沙东"],"pos":[],"exchange":["s:dohmes"],"examples":[],"phonetic":""}
 {"word":"dohmen","sw":"dohmen","definition":[],"translation":["[网络] 多曼；多闻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Dohment","sw":"dohment","definition":["One of those slap your forehead moments when you realise that you've just done something incredibly stupid.","","The moment when something \"dawns on you\" and \"the penny drops.","> A dohment is when you realise that you've put the baby outside and tucked the cat up in the cot for the night.","> or","> A dohment is when you wonder why the lawn isn't looking any better then notice that you haven't engaged the lawnmower blade.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Dohment","sw":"dohment","definition":["One of those slap your forehead moments when you realise that you've just done something incredibly stupid.","","The moment when something \"dawns on you\" and \"the penny drops.","> A dohment is when you realise that you've put the baby outside and tucked the cat up in the cot for the night.","> or","> A dohment is when you wonder why the lawn isn't looking any better then notice that you haven't engaged the lawnmower blade."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dohmes","sw":"dohmes","definition":[],"translation":["多梅斯"],"pos":[],"exchange":["0:dohme","1:s"],"examples":[],"phonetic":""}
 {"word":"dohmh","sw":"dohmh","definition":[],"translation":["[网络] 卫生局；纽约市健康与心理卫生局(Department of Health and Mental Hygiene)；纽约市卫生局"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dohna","sw":"dohna","definition":[],"translation":["[地名] [德国] 多纳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2717,7 +2717,7 @@
 {"word":"doi registration agency","sw":"doiregistrationagency","definition":[],"translation":["DOI 登录代理者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doi saket","sw":"doisaket","definition":[],"translation":["堆沙革"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doi Takako","sw":"doitakako","definition":[],"translation":["土井多贺子(1928-),日本人,众议员。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doiche","sw":"doiche","definition":["What comes up when someone tries to type \"Douche\" but makes a typo, therefore typing \"Doiche\". Doiche pwns douche in every single way.","> Joey: Raf is so annoying!","> Jack: I know, he's SUCH a doiche.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doiche","sw":"doiche","definition":["What comes up when someone tries to type \"Douche\" but makes a typo, therefore typing \"Doiche\". Doiche pwns douche in every single way.","> Joey: Raf is so annoying!","> Jack: I know, he's SUCH a doiche."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doid","sw":"doid","definition":[],"translation":["[网络] 遏制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doidge","sw":"doidge","definition":[],"translation":["[网络] 多益智"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doids","sw":"doids","definition":[],"translation":["[网络] 多数人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2731,8 +2731,8 @@
 {"word":"doil","sw":"doil","definition":[],"translation":["[网络] 补假作偿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doile","sw":"doile","definition":[],"translation":["[网络] 德里"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doiled","sw":"doiled","definition":[],"translation":["[网络] 整洁的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doilem","sw":"doilem","definition":["doilem (plural doilems)","(Geordie, pejorative) A stupid person, an idiot, a fool or halfwit.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"doilems","sw":"doilems","definition":["Term of abuse used by charvas towards someone stupid.","> Here man, hurry up the glues getting hard ye fucking doilem.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doilem","sw":"doilem","definition":["doilem (plural doilems)","(Geordie, pejorative) A stupid person, an idiot, a fool or halfwit."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"doilems","sw":"doilems","definition":["Term of abuse used by charvas towards someone stupid.","> Here man, hurry up the glues getting hard ye fucking doilem."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doilful","sw":"doilful","definition":[],"translation":["[网络] 多少"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doilies","sw":"doilies","definition":["n. a small round piece of linen placed under a dish or bowl"],"translation":["n. 小型装饰桌巾( doily的复数形式 )"],"pos":[],"exchange":["0:doily","1:s3"],"examples":[],"phonetic":"ˈdɔiliz"}
 {"word":"doillon","sw":"doillon","definition":[],"translation":["[网络] 杜瓦永；小孤星"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2820,13 +2820,13 @@
 {"word":"doje","sw":"doje","definition":[],"translation":["多吉,位于中国西藏自治区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Doji","sw":"doji","definition":[],"translation":["[网络] 十字星；十字线；十字星模型"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dojigger","sw":"dojigger","definition":[],"translation":["n.小玩意的名字"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒdʒɪɡər"}
-{"word":"dojikko","sw":"dojikko","definition":["dojikko (plural dojikko)","(Japanese media) A female fictional character who is extremely clumsy, especially in a charming or cute way.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dojikko","sw":"dojikko","definition":["dojikko (plural dojikko)","(Japanese media) A female fictional character who is extremely clumsy, especially in a charming or cute way."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dojilon","sw":"dojilon","definition":[],"translation":["强的松龙磷酸钠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dojin","sw":"dojin","definition":[],"translation":["[网络] 同人作品"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dojinshi","sw":"dojinshi","definition":[],"translation":["[网络] 同人志"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dojo","sw":"dojo","definition":[],"translation":["n. （日）道场；柔道训练学校"],"pos":["n:100"],"exchange":["s:dojos"],"examples":[],"phonetic":"'dәudʒәu"}
 {"word":"dojo mat","sw":"dojomat","definition":[],"translation":["=dojo"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dojocho","sw":"dojocho","definition":["dojocho (plural dojochos)","The head of a Japanese dōjō (martial arts training hall).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dojocho","sw":"dojocho","definition":["dojocho (plural dojochos)","The head of a Japanese dōjō (martial arts training hall)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dojos","sw":"dojos","definition":["plural of dojo"],"translation":["(dojo 的复数) n. （日）道场；柔道训练学校"],"pos":[],"exchange":["0:dojo","1:s"],"examples":[],"phonetic":""}
 {"word":"Dojran","sw":"dojran","definition":[],"translation":["[地名] 多伊兰 ( 马其 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dojs","sw":"dojs","definition":[],"translation":["abbr. Department of Justice(美国)司法部"],"pos":[],"exchange":["0:doj","1:s"],"examples":[],"phonetic":""}
@@ -2890,7 +2890,7 @@
 {"word":"dolabid tablet","sw":"dolabidtablet","definition":[],"translation":["氟苯水杨酸片"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolabra","sw":"dolabra","definition":["n. A rude ancient ax or hatchet, seen in museums."],"translation":["錾斧"],"pos":[],"exchange":[],"examples":[],"phonetic":"dəʊlɑ:b'rə"}
 {"word":"Dolabradiene","sw":"dolabradiene","definition":[],"translation":["斧松二烯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolabrae","sw":"dolabrae","definition":["dolabrae","plural of dolabra",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolabrae","sw":"dolabrae","definition":["dolabrae","plural of dolabra"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolabrata","sw":"dolabrata","definition":[],"translation":["[网络] 斧薄蛤蜊；彩环塔螺；乌皮马珂蛤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolabrate","sw":"dolabrate","definition":["s having the shape of the head of an ax or cleaver"],"translation":["[医] 斧形的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolabre","sw":"dolabre","definition":[],"translation":["[网络] 多瑙河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2974,7 +2974,7 @@
 {"word":"Dolcedo","sw":"dolcedo","definition":[],"translation":["[地名] 多尔切多 ( 意 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolcefar niente","sw":"dolcefarniente","definition":[],"translation":["[意]安逸, 闲适, 悠闲"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɔltʃi fɑ:ni'enti"}
 {"word":"dolcefarniente","sw":"dolcefarniente","definition":[],"translation":["n. 逸居"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˊdɒltʃifaːniˊenti"}
-{"word":"dolcelatte","sw":"dolcelatte","definition":["dolcelatte (uncountable)","A mild, slightly sweet form of gorgonzola cheese.",""],"translation":[],"pos":[],"exchange":["s:dolcelattes"],"examples":[],"phonetic":""}
+{"word":"dolcelatte","sw":"dolcelatte","definition":["dolcelatte (uncountable)","A mild, slightly sweet form of gorgonzola cheese."],"translation":[],"pos":[],"exchange":["s:dolcelattes"],"examples":[],"phonetic":""}
 {"word":"dolcelattes","sw":"dolcelattes","definition":[],"translation":["dolcelatte (uncountable)","A mild, slightly sweet form of gorgonzola cheese.","","(dolcelatte 的复数)"],"pos":[],"exchange":["0:dolcelatte","1:s"],"examples":[],"phonetic":""}
 {"word":"Dolcental","sw":"dolcental","definition":[],"translation":["脲甲酸炔环酯,脲基甲酸-1-乙炔基环已醇酯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolces","sw":"dolces","definition":[],"translation":["adj. 温柔的，甜美的；悦耳而柔和的","adv. 甜美温柔地","n. 柔和，柔美；记号","n. (Dolce)人名；(英、法)多尔斯；(意)多尔切"],"pos":[],"exchange":["0:dolce","1:s"],"examples":[],"phonetic":"'dɒltʃeɪ"}
@@ -3023,7 +3023,7 @@
 {"word":"doleac","sw":"doleac","definition":[],"translation":["[网络] 多里亚克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doleance","sw":"doleance","definition":[],"translation":["[网络] 不好意思"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doleant","sw":"doleant","definition":[],"translation":["[网络] 好的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolebludger","sw":"dolebludger","definition":["dolebludger (plural dolebludgers)","Alternative spelling of dole bludger",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolebludger","sw":"dolebludger","definition":["dolebludger (plural dolebludgers)","Alternative spelling of dole bludger"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"doled","sw":"doled","definition":["imp. & p. p. of Dole"],"translation":["v. 救济物( dole的过去式和过去分词 ); 失业救济金"],"pos":[],"exchange":["0:dole","1:pd"],"examples":[],"phonetic":"dəuld"}
 {"word":"doled out","sw":"doledout","definition":[],"translation":["[网络] 出去了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolee","sw":"dolee","definition":[],"translation":["[网络] 多俪；多丽通；版位就免费让您刊登关於"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3182,7 +3182,7 @@
 {"word":"dolichocranial","sw":"dolichocranial","definition":["a having a relatively long head with a cephalic index of under 75"],"translation":["a. [解]( 头盖骨指数在75以下的)长颅的"],"pos":[],"exchange":[],"examples":[],"phonetic":",dɔlikәu'kreiniәl"}
 {"word":"dolichocranic","sw":"dolichocranic","definition":["a having a relatively long head with a cephalic index of under 75"],"translation":["a. （头盖骨指数在75以下的）长颅的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒlɪtʃəʊkrənɪk"}
 {"word":"dolichocrany","sw":"dolichocrany","definition":[],"translation":["长颅型"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolichoderine","sw":"dolichoderine","definition":["dolichoderine (plural dolichoderines)","(entomology) Any ant of the subfamily Dolichoderinae","","","dolichoderine (comparative more dolichoderine, superlative most dolichoderine)","Characteristic of these insects",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolichoderine","sw":"dolichoderine","definition":["dolichoderine (plural dolichoderines)","(entomology) Any ant of the subfamily Dolichoderinae","","","dolichoderine (comparative more dolichoderine, superlative most dolichoderine)","Characteristic of these insects"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolichoderines","sw":"dolichoderines","definition":[],"translation":["[网络] 丁苯乙烯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolichoderous","sw":"dolichoderous","definition":[],"translation":["[网络] 。ous"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolichoderus","sw":"dolichoderus","definition":[],"translation":["长颈者"],"pos":[],"exchange":["s:dolichoderuss"],"examples":[],"phonetic":",dɔlikɔ'diәrәs"}
@@ -3632,7 +3632,7 @@
 {"word":"dolly car","sw":"dollycar","definition":[],"translation":["平台拖车,狭轨小机车;移动摄影车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolly catch","sw":"dollycatch","definition":[],"translation":["【板球】易接球[亦作dolly]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolly dancer","sw":"dollydancer","definition":[],"translation":["[美国俚语]靠巴结军官而被允许干轻活的士兵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Dolly Daydream","sw":"dollydaydream","definition":["Dolly Daydream (plural Dolly Daydreams)","A girl or woman given to daydreaming.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈdɑli ˈdeɪdɹiːm/"}
+{"word":"Dolly Daydream","sw":"dollydaydream","definition":["Dolly Daydream (plural Dolly Daydreams)","A girl or woman given to daydreaming."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈdɑli ˈdeɪdɹiːm/"}
 {"word":"dolly dimple","sw":"dollydimple","definition":[],"translation":["小凹陷(铸铁搪瓷缺陷)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolly drop","sw":"dollydrop","definition":[],"translation":["【板球】高抛慢投球[亦作dolly]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolly girl","sw":"dollygirl","definition":[],"translation":["(不太聪明的)年轻漂亮女孩[亦作dolly,dolly bird]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3681,15 +3681,15 @@
 {"word":"dollying","sw":"dollying","definition":[],"translation":["摄像机装置车前后移动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dollymae","sw":"dollymae","definition":[],"translation":["多利牙形石属〔C1〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dollyman","sw":"dollyman","definition":[],"translation":["使用独轮车的搬运工"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dollymop","sw":"dollymop","definition":["A prostitute, often an amateur or a part-time street girl; a [midinette]. Victorian-era slang.","> \"Francis has picked 'imself up another dollymop, 'e as,\" Gerald told me later that night.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dollymops","sw":"dollymops","definition":["A prostitute, often an amateur or a part-time street girl; a [midinette]. Victorian-era slang.","> \"Francis has picked 'imself up another dollymop, 'e as,\" Gerald told me later that night.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dollymop","sw":"dollymop","definition":["A prostitute, often an amateur or a part-time street girl; a [midinette]. Victorian-era slang.","> \"Francis has picked 'imself up another dollymop, 'e as,\" Gerald told me later that night."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dollymops","sw":"dollymops","definition":["A prostitute, often an amateur or a part-time street girl; a [midinette]. Victorian-era slang.","> \"Francis has picked 'imself up another dollymop, 'e as,\" Gerald told me later that night."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dollyrocker","sw":"dollyrocker","definition":[],"translation":["n. [英国俚语]；(在音乐、服饰等方面)赶时髦女郎，新潮女子，前卫少女；赶时髦女郎的服饰"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɔli,rɔkə"}
 {"word":"dollyshop","sw":"dollyshop","definition":[],"translation":["na. 低级当铺；〈英口〉船具店"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dollyway","sw":"dollyway","definition":[],"translation":["运木滑道"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dollywood","sw":"dollywood","definition":[],"translation":["多莱坞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolma","sw":"dolma","definition":[],"translation":["包心卷"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dɒlmə"}
 {"word":"dolmabahe","sw":"dolmabahe","definition":[],"translation":["[网络] 多拉马巴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolmade","sw":"dolmade","definition":["Rice wrapped in a grape leaf and covered in a delicious oil dressing. Excellent Greek cuisine, often served as an appetizer.","> Man, just give me some more of those dolmades...hell yeah!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolmade","sw":"dolmade","definition":["Rice wrapped in a grape leaf and covered in a delicious oil dressing. Excellent Greek cuisine, often served as an appetizer.","> Man, just give me some more of those dolmades...hell yeah!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolmades","sw":"dolmades","definition":[],"translation":["[网络] 葡萄叶卷；希腊酸葡萄叶酿饭；葡萄叶包饭"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolman","sw":"dolman","definition":["n a hussar's jacket worn over the shoulders","n a woman's cloak with dolman sleeves"],"translation":["n. 女斗篷, 土耳其式长袍"],"pos":[],"exchange":["s:dolmans"],"examples":[],"phonetic":"'dɔlmәn"}
 {"word":"dolman jacket","sw":"dolmanjacket","definition":[],"translation":["(15世纪匈牙利轻骑兵穿的)斗篷式(或披风式)短外衣"],"pos":[],"exchange":["s:dolman jackets"],"examples":[],"phonetic":""}
@@ -3704,7 +3704,7 @@
 {"word":"dolmass","sw":"dolmass","definition":[],"translation":["n. dolma的变形"],"pos":[],"exchange":["0:dolmas","1:s"],"examples":[],"phonetic":""}
 {"word":"Dolmatovo","sw":"dolmatovo","definition":[],"translation":["[地名] 多尔马托沃 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Dolmatovskiy","sw":"dolmatovskiy","definition":[],"translation":["[地名] 多尔马托夫斯基 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Dolmayan","sw":"dolmayan","definition":["Dolmayan","An Armenian surname​.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Dolmayan","sw":"dolmayan","definition":["Dolmayan","An Armenian surname​."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolmeh","sw":"dolmeh","definition":[],"translation":["[网络] 朵拉玛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolmen","sw":"dolmen","definition":["n. a prehistoric megalithic tomb typically having two large upright stones and a capstone"],"translation":["n. (用石架成的)史前墓石牌坊"],"pos":["n:100"],"exchange":["s:dolmens"],"examples":[],"phonetic":"'dɔlmen"}
 {"word":"dolmenic","sw":"dolmenic","definition":[],"translation":["dolmenic","[dɔl'menik]","adj.","dolmen的变形","dolmen","['dɔlmen]","n.","【考古学】石桌坟，石板墓，石棚[参较chamber tomb]"],"pos":[],"exchange":[],"examples":[],"phonetic":"dɔl'menik"}
@@ -3993,7 +3993,7 @@
 {"word":"Dolsk","sw":"dolsk","definition":[],"translation":["[地名] 多尔斯克 ( 波 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolsky","sw":"dolsky","definition":[],"translation":["[网络] 多斯基"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolson","sw":"dolson","definition":[],"translation":["[人名] 多尔森"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolsot","sw":"dolsot","definition":["dolsot (plural dolsots)","A stone bowl used especially for serving bibimbap.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolsot","sw":"dolsot","definition":["dolsot (plural dolsots)","A stone bowl used especially for serving bibimbap."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolt","sw":"dolt","definition":["n a person who is not very bright"],"translation":["n. 呆子, 笨蛋, 傻瓜"],"pos":["n:100"],"exchange":["s:dolts"],"examples":[],"phonetic":"dәult"}
 {"word":"dolthead","sw":"dolthead","definition":[],"translation":["n. 傻瓜，笨蛋，蠢人，呆子"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dəult,hed"}
 {"word":"doltish","sw":"doltish","definition":["s heavy and dull and stupid"],"translation":["a. 愚蠢的, 呆笨的, 愚钝的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"'dәultiʃ"}
@@ -4015,7 +4015,7 @@
 {"word":"Dolus-le-Sec","sw":"doluslesec","definition":[],"translation":["[地名] 多吕勒塞克 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolutegravir","sw":"dolutegravir","definition":[],"translation":["度鲁特韦（抗艾滋病药名，HIV整合酶抑制剂）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolvanol","sw":"dolvanol","definition":[],"translation":["盐酸哌替啶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dolven","sw":"dolven","definition":["dolven","(obsolete) past participle of delve","buried",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dolven","sw":"dolven","definition":["dolven","(obsolete) past participle of delve","buried"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolves","sw":"dolves","definition":[],"translation":["[网络] 道夫；盔；道尔夫","(dolf 的复数)"],"pos":[],"exchange":["0:dolf","1:s"],"examples":[],"phonetic":""}
 {"word":"dolvin","sw":"dolvin","definition":[],"translation":["[人名] 多尔文"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dolvnrol","sw":"dolvnrol","definition":[],"translation":["度冷丁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4050,7 +4050,7 @@
 {"word":"Domagk","sw":"domagk","definition":[],"translation":["n. (Domagk)人名；(德)多马克"],"pos":[],"exchange":["s:domagks"],"examples":[],"phonetic":""}
 {"word":"domagks","sw":"domagks","definition":[],"translation":["n. (Domagk)人名；(德)多马克"],"pos":[],"exchange":["0:domagk","1:s"],"examples":[],"phonetic":""}
 {"word":"Domagnano","sw":"domagnano","definition":[],"translation":["[地名] 多马尼亚诺 ( 圣马 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Domagoj","sw":"domagoj","definition":["Domagoj","A male given name",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Domagoj","sw":"domagoj","definition":["Domagoj","A male given name"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Domahaza","sw":"domahaza","definition":[],"translation":["多毛哈兆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Domaila","sw":"domaila","definition":[],"translation":["多迈拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"domain","sw":"domain","definition":["n. territory over which rule or control is exercised","n. (mathematics) the set of values of the independent variable for which a function is defined"],"translation":["n. 领域, 领土, 产业, 范围","[计] 域, 区域, 支配命令"],"pos":["n:100"],"exchange":["s:domains"],"examples":["Financial matters are her domain.","Physics used to be very much a male domain.","The Spice Islands were within the Spanish domains.","She treated the business as her private domain.","These documents are in the public domain (= available to everybody).","Despite many advertising agencies having moved into their domain, specialised direct marketing agencies remain very competitive.","Currency trading is usually the domain of big banks.","Boardroom decisions are the exclusive domain of company directors.","The organization met to discuss adding new 'top-level' domains, the global designations such as .com and .gov."],"phonetic":"dəˈmeɪn|dəʊˈmeɪn"}
@@ -4399,7 +4399,7 @@
 {"word":"dome organ","sw":"domeorgan","definition":[],"translation":["钟形感器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dome output","sw":"domeoutput","definition":[],"translation":["(波导)穹面输出"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dome phase array antenna","sw":"domephasearrayantenna","definition":[],"translation":["圆顶相控阵天线"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"dome piece","sw":"domepiece","definition":["Ones head or the general area around it.","> That guy is such a harsh barge that he smacked his domepiece",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"dome piece","sw":"domepiece","definition":["Ones head or the general area around it.","> That guy is such a harsh barge that he smacked his domepiece"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dome pit","sw":"domepit","definition":[],"translation":["丘坑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dome platform","sw":"domeplatform","definition":[],"translation":["(罐车)踏板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dome platform bracket","sw":"domeplatformbracket","definition":[],"translation":["踏板托"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4434,7 +4434,7 @@
 {"word":"dome-like","sw":"domelike","definition":[],"translation":["adj. 穹顶状的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dəumlaik"}
 {"word":"dome-shaped","sw":"domeshaped","definition":["s having the shape of a dome"],"translation":["a. 圆顶状的"],"pos":["j:100"],"exchange":["s:dome-shapeds"],"examples":[],"phonetic":"'dəʊmʃ'eɪpt"}
 {"word":"dome-shapeds","sw":"domeshapeds","definition":[],"translation":["圆顶状","圆顶状的"],"pos":[],"exchange":["0:dome-shaped","1:s"],"examples":[],"phonetic":""}
-{"word":"domeage","sw":"domeage","definition":["The act of getting your dick sucked by some chick","> Yo son, my chick gave me some serious domeage on the way home.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"domeage","sw":"domeage","definition":["The act of getting your dick sucked by some chick","> Yo son, my chick gave me some serious domeage on the way home."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"domeau","sw":"domeau","definition":[],"translation":["[网络] 圆顶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"domeblog","sw":"domeblog","definition":[],"translation":["[网络] 穹顶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Domeboro","sw":"domeboro","definition":[],"translation":["碱式醋酸铝制剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4493,7 +4493,7 @@
 {"word":"Domenikos Theotocopoulos","sw":"domenikostheotocopoulos","definition":[],"translation":["[网络] 欧多科普洛斯；多科波罗斯；多柯普洛斯"],"pos":[],"exchange":["s:domenikos theotocopouloss"],"examples":[],"phonetic":""}
 {"word":"domenikos theotocopouloss","sw":"domenikostheotocopouloss","definition":[],"translation":["[网络] 欧多科普洛斯；多科波罗斯；多柯普洛斯","(domenikos theotocopoulos 的复数)"],"pos":[],"exchange":["0:domenikos theotocopoulos","1:s"],"examples":[],"phonetic":""}
 {"word":"doment","sw":"doment","definition":[],"translation":["[网络] 霸主"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"domepiece","sw":"domepiece","definition":["Ones head or the general area around it.","> That guy is such a harsh barge that he smacked his domepiece",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"domepiece","sw":"domepiece","definition":["Ones head or the general area around it.","> That guy is such a harsh barge that he smacked his domepiece"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"domer","sw":"domer","definition":[],"translation":["制箱盖的工人"],"pos":[],"exchange":[],"examples":[],"phonetic":"'dәumә"}
 {"word":"Domerat","sw":"domerat","definition":[],"translation":["多梅哈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"domercant","sw":"domercant","definition":[],"translation":["[网络] 主宰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

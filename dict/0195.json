@@ -282,7 +282,7 @@
 {"word":"Ferrotine","sw":"ferrotine","definition":[],"translation":["复铁磁铁矿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrotitanite","sw":"ferrotitanite","definition":[],"translation":["铁榍石, 铁榍矿石"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrotitanium","sw":"ferrotitanium","definition":[],"translation":["n. [冶]铁钛(合金)"],"pos":[],"exchange":[],"examples":[],"phonetic":",ferәutai'teiniәm"}
-{"word":"ferrotitanowodginite","sw":"ferrotitanowodginite","definition":["ferrotitanowodginite","(mineralogy) A monoclinic-prismatic mineral containing iron, oxygen, tantalum, and titanium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ferrotitanowodginite","sw":"ferrotitanowodginite","definition":["ferrotitanowodginite","(mineralogy) A monoclinic-prismatic mineral containing iron, oxygen, tantalum, and titanium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrotoroidic","sw":"ferrotoroidic","definition":[],"translation":["[网络] 铁涡性；性；铁环体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrotoroidicity","sw":"ferrotoroidicity","definition":[],"translation":["[网络] 铁涡性；铁环性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrotransferrin","sw":"ferrotransferrin","definition":[],"translation":["铁结合转铁蛋白"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -543,7 +543,7 @@
 {"word":"ferrurie","sw":"ferrurie","definition":[],"translation":["[网络] 铁锈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferrus","sw":"ferrus","definition":[],"translation":["[网络] 费鲁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferruzzi","sw":"ferruzzi","definition":[],"translation":["[网络] 弗兹公司；伏龙芝；菲鲁契"],"pos":[],"exchange":["s:ferruzzi"],"examples":[],"phonetic":""}
-{"word":"ferry","sw":"ferry","definition":["n. a boat that transports people or vehicles across a body of water and operates on a regular schedule","n. transport by boat or aircraft","v. transport from one place to another","v. transport by ferry"],"translation":["n. 渡船, 渡口","[法] 摆渡营业权, 轮渡"],"pos":["v:28","n:72"],"exchange":["s:ferries","d:ferried","i:ferrying","p:ferried","3:ferries"],"examples":["We boarded the ferry at Ostend.","We're going to the Channel Islands by/on the ferry.","We took the ferry to Block Island.","I spend most of my time ferrying the children around.","There's no bridge around here, but you can take a ferry across the river.","As parents, we seem to spend most of our time ferrying the kids to and from their friends’ homes.","Competition from the Channel Tunnel is making life hard for the ferries.","Gale-force winds have cut ferry services."],"phonetic":"ˈferi|ˈferi"}
+{"word":"ferry","sw":"ferry","definition":["n. a boat that transports people or vehicles across a body of water and operates on a regular schedule","n. transport by boat or aircraft","v. transport from one place to another","v. transport by ferry"],"translation":["n. 渡船, 渡口","[法] 摆渡营业权, 轮渡"],"pos":["v:28","n:72"],"exchange":["s:ferries","d:ferried","i:ferrying","p:ferried","3:ferries"],"examples":["We boarded the ferry at Ostend.","We're going to the Channel Islands by/on the ferry.","We took the ferry to Block Island.","I spend most of my time ferrying the children around.","There's no bridge around here, but you can take a ferry across the river.","As parents, we seem to spend most of our time ferrying the kids to and from their friends' homes.","Competition from the Channel Tunnel is making life hard for the ferries.","Gale-force winds have cut ferry services."],"phonetic":"ˈferi|ˈferi"}
 {"word":"ferry across","sw":"ferryacross","definition":[],"translation":["渡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferry aircraft","sw":"ferryaircraft","definition":[],"translation":["[网络] 运输用航空母舰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ferry berth","sw":"ferryberth","definition":[],"translation":["渡船码头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -695,7 +695,7 @@
 {"word":"Fertilan","sw":"fertilan","definition":[],"translation":["法地兰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fertile","sw":"fertile","definition":["a. capable of reproducing"],"translation":["a. 可繁殖的, 肥沃的, 生产多的","[医] 能生育的"],"pos":["j:100"],"exchange":[],"examples":["The treatment has been tested on healthy fertile women under the age of 35.","The region at the time was fertile ground for revolutionary movements (= there were the necessary conditions for them to develop easily).","The fall of the old regime provided fertile ground for opportunism.","People get less fertile as they get older."],"phonetic":"ˈfɜːtaɪl|ˈfɜːrtl"}
 {"word":"fertile absorber","sw":"fertileabsorber","definition":[],"translation":["再生物质,有效吸收剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fertile as a turtle","sw":"fertileasaturtle","definition":["fertile as a turtle (not comparable)","(simile, humorous) Highly fertile.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"fertile as a turtle","sw":"fertileasaturtle","definition":["fertile as a turtle (not comparable)","(simile, humorous) Highly fertile."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fertile assembly","sw":"fertileassembly","definition":[],"translation":["殖组件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fertile blanket","sw":"fertileblanket","definition":[],"translation":["换区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fertile branch","sw":"fertilebranch","definition":[],"translation":["能育枝;结果枝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1233,7 +1233,7 @@
 {"word":"festerous","sw":"festerous","definition":[],"translation":["[网络] 腻味"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"festers","sw":"festers","definition":["n a sore that has become inflamed and formed pus","v ripen and generate pus"],"translation":["v. （伤口/破口）化脓( fester的第三人称单数 ); 溃烂; （不快的思想或情感）更加苦恼; 愈益恶化"],"pos":[],"exchange":["1:s3","0:fester"],"examples":[],"phonetic":"ˈfestəz"}
 {"word":"festes","sw":"festes","definition":["plural of feste","n. A feast."],"translation":["(feste 的复数) n. (Feste)人名；(德、法)费斯特"],"pos":[],"exchange":["0:feste","1:s"],"examples":[],"phonetic":""}
-{"word":"festgoer","sw":"festgoer","definition":["festgoer (plural festgoers)","A person attending a fest or festival.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"festgoer","sw":"festgoer","definition":["festgoer (plural festgoers)","A person attending a fest or festival."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"festgoers","sw":"festgoers","definition":[],"translation":["[网络] 美食家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"festhalle","sw":"festhalle","definition":[],"translation":["[网络] 音乐厅；宴会大厅；斯泰尔"],"pos":[],"exchange":["s:festhalles"],"examples":[],"phonetic":""}
 {"word":"festhalles","sw":"festhalles","definition":[],"translation":["[网络] 音乐厅；宴会大厅；斯泰尔","(festhalle 的复数)"],"pos":[],"exchange":["0:festhalle","1:s"],"examples":[],"phonetic":""}
@@ -1304,10 +1304,10 @@
 {"word":"festivities","sw":"festivities","definition":["pl.  of Festivity"],"translation":["n. 欢庆, 庆祝活动, 庆典( festivity的名词复数 ); 过节"],"pos":[],"exchange":["0:festivity","1:s"],"examples":[],"phonetic":"feˈstɪvɪti:z"}
 {"word":"festivity","sw":"festivity","definition":["n any joyous diversion"],"translation":["n. 节日, 喜庆日, 欢宴, 欢庆"],"pos":["n:100"],"exchange":["s:festivities"],"examples":[],"phonetic":"fes'tiviti"}
 {"word":"festivous","sw":"festivous","definition":["a. Pertaining to a feast; festive."],"translation":["a. 节日的, 欢愉的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'festɪvəs"}
-{"word":"Festivus","sw":"festivus","definition":["n.  An alternative to the crass commercialization of Christmas, typically celebrated on December 23.  It involves The Airing of Grievances (telling your family and friends all the ways they have disappointed you during the year) and does not end until the Feats of Strength (pinning the head of the family) are accomplished.  A plain, metal pole is used in lieu of a Christmas tree, because decorations (such as tinsel) is distracting from the true meaning of the holiday.","> A Festivus for the rest of us!  -George Costanza",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Festivus","sw":"festivus","definition":["n.  An alternative to the crass commercialization of Christmas, typically celebrated on December 23.  It involves The Airing of Grievances (telling your family and friends all the ways they have disappointed you during the year) and does not end until the Feats of Strength (pinning the head of the family) are accomplished.  A plain, metal pole is used in lieu of a Christmas tree, because decorations (such as tinsel) is distracting from the true meaning of the holiday.","> A Festivus for the rest of us!  -George Costanza"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Festivus pole","sw":"festivuspole","definition":[],"translation":["[网络] 节日杆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Festivus poles","sw":"festivuspoles","definition":[],"translation":["[网络] 节日极点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"festlich","sw":"festlich","definition":["festlich (comparative more festlich, superlative most festlich)","(obsolete) festive; fond of festivity",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"festlich","sw":"festlich","definition":["festlich (comparative more festlich, superlative most festlich)","(obsolete) festive; fond of festivity"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Festmeter","sw":"festmeter","definition":[],"translation":["〈德〉实积立方米"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"festo","sw":"festo","definition":[],"translation":["[网络] 费斯托；德国费斯托；德国费斯托公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"festology","sw":"festology","definition":[],"translation":["[网络] 节日论文"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2065,7 +2065,7 @@
 {"word":"feu-farm","sw":"feufarm","definition":[],"translation":["[网络] 飞农场"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feu-farmer","sw":"feufarmer","definition":[],"translation":["[网络] 农夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuage","sw":"feuage","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"feuar","sw":"feuar","definition":["feuar (plural feuars)","(law, Scotland) One who holds a feu.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"feuar","sw":"feuar","definition":["feuar (plural feuars)","(law, Scotland) One who holds a feu."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuars","sw":"feuars","definition":[],"translation":["[网络] 飞镖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feucht","sw":"feucht","definition":[],"translation":["[人名] 福伊希特; [地名] [德国] 福伊希特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuchtwang","sw":"feuchtwang","definition":[],"translation":["[人名] 福伊希特万"],"pos":[],"exchange":["s:feuchtwangs"],"examples":[],"phonetic":""}
@@ -2170,8 +2170,8 @@
 {"word":"feuillantine","sw":"feuillantine","definition":[],"translation":["[网络] 千层酥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuillants","sw":"feuillants","definition":["n. pl. A reformed branch of the Bernardines, founded in","1577 at Feuillans, near Toulouse, in France."],"translation":["n. 费洋社（法国的政治会社）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuille","sw":"feuille","definition":[],"translation":["n. 树叶味","n. (Feuille)人名；(法)弗耶"],"pos":[],"exchange":["s:feuilles"],"examples":[],"phonetic":""}
-{"word":"feuillemort","sw":"feuillemort","definition":["feuillemort (not comparable)","Having the colour of a faded leaf.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"feuillemorte","sw":"feuillemorte","definition":["feuillemorte (not comparable)","Of the color of dead or dying leaves.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"feuillemort","sw":"feuillemort","definition":["feuillemort (not comparable)","Having the colour of a faded leaf."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"feuillemorte","sw":"feuillemorte","definition":["feuillemorte (not comparable)","Of the color of dead or dying leaves."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuilles","sw":"feuilles","definition":["plural of feuille"],"translation":["(feuille 的复数) n. 树叶味","n. (Feuille)人名；(法)弗耶"],"pos":[],"exchange":["0:feuille","1:s"],"examples":[],"phonetic":""}
 {"word":"feuillet","sw":"feuillet","definition":[],"translation":["[网络] 千层酥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feuilletee","sw":"feuilletee","definition":[],"translation":["[网络] 工作人员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2394,7 +2394,7 @@
 {"word":"feyerick","sw":"feyerick","definition":[],"translation":["[网络] 费耶里克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feyest","sw":"feyest","definition":[],"translation":["adj.","[英国方言]","命中注定的，注定要死的","[苏格兰方言]处于异常狂乱状态的(旧时被认为是突然死亡的预兆)；临终的，濒临死亡的，有死亡(或灾难)预兆的","发疯的，有些疯癫的","脱俗的，来世的，超脱尘世的","能看见神仙的；能预知未来的","具有魔法的；似妖精般的；似小精灵般的","古怪；非现世的"],"pos":[],"exchange":[],"examples":[],"phonetic":"feɪ"}
 {"word":"feyffe","sw":"feyffe","definition":[],"translation":["[网络] 费耶夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"feygele","sw":"feygele","definition":["feygele (plural feygeles)","A male who is or who is thought to be homosexual.","A very young girl.","(dated) A little bird.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"feygele","sw":"feygele","definition":["feygele (plural feygeles)","A male who is or who is thought to be homosexual.","A very young girl.","(dated) A little bird."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feygeleh","sw":"feygeleh","definition":[],"translation":["[网络] 费耶勒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Feyiasi","sw":"feyiasi","definition":[],"translation":["[地名] 费伊阿西 ( 加纳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"feylin","sw":"feylin","definition":[],"translation":["[网络] 菲林"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2449,7 +2449,7 @@
 {"word":"FF express extra","sw":"ffexpressextra","definition":[],"translation":["特快加价票"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"FF sensor","sw":"ffsensor","definition":[],"translation":["[网络] 灵活性燃料传感器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"FF system","sw":"ffsystem","definition":[],"translation":["[网络] 自由曲面结构系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"FF us","sw":"ffus","definition":["Fashion Fuck Up a total fashion mess. No style or in dire need of a stylist.","> Lauren, check out that FFU.","> This date is crucial. I need your help. I don't want to be a FFU.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"FF us","sw":"ffus","definition":["Fashion Fuck Up a total fashion mess. No style or in dire need of a stylist.","> Lauren, check out that FFU.","> This date is crucial. I need your help. I don't want to be a FFU."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ff-hole","sw":"ffhole","definition":[],"translation":["[网络] ff孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ff-holes","sw":"ffholes","definition":[],"translation":["[网络] ff孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"FFA","sw":"ffa","definition":[],"translation":["国外货运代理人, 船边交货(价格)"],"pos":[],"exchange":["s:ffas"],"examples":[],"phonetic":""}
@@ -2730,7 +2730,7 @@
 {"word":"fiancine","sw":"fiancine","definition":[],"translation":["飞安辛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fiancing","sw":"fiancing","definition":[],"translation":["[网络] 融资活动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fiancte","sw":"fiancte","definition":[],"translation":["[网络] 未婚夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fianelite","sw":"fianelite","definition":["fianelite","(mineralogy) A monoclinic-prismatic orange red mineral containing arsenic, hydrogen, manganese, oxygen, and vanadium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"fianelite","sw":"fianelite","definition":["fianelite","(mineralogy) A monoclinic-prismatic orange red mineral containing arsenic, hydrogen, manganese, oxygen, and vanadium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Fianga","sw":"fianga","definition":[],"translation":["[地名] 菲昂加 ( 乍 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fianl paste impression","sw":"fianlpasteimpression","definition":[],"translation":["[医] 糊剂终印模"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Fiann","sw":"fiann","definition":[],"translation":["n. (爱尔兰传说中的)芬尼亚勇士团团员"],"pos":[],"exchange":[],"examples":[],"phonetic":"fi:n"}
@@ -2799,7 +2799,7 @@
 {"word":"fibberies","sw":"fibberies","definition":[],"translation":["n. 撒小谎；谎言","[网络] 刘佳帅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fibbers","sw":"fibbers","definition":["n. someone who tells lies"],"translation":["n. 惯撒小谎的人( fibber的复数形式 ); 撒小谎者"],"pos":[],"exchange":["0:fibber","1:s3"],"examples":[],"phonetic":""}
 {"word":"fibbery","sw":"fibbery","definition":[],"translation":["n. 撒小谎；谎言","[网络] 刘佳帅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fibbie","sw":"fibbie","definition":["Fibbie is a slang term, mainly used by other law enforcement members, to describe the FBI, who tend to take away cases from local jurisdictions, screw them up, and then blame said local jurisdictions for the screw up.","Is also used by surburban kids who watched too many spy movies.","Largely supersided by the term Party Van.","> Law Enforcement Officer: Ah hell, its the Fibbies.","> LEO 2: Fuck me, not another case ruined....",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"fibbie","sw":"fibbie","definition":["Fibbie is a slang term, mainly used by other law enforcement members, to describe the FBI, who tend to take away cases from local jurisdictions, screw them up, and then blame said local jurisdictions for the screw up.","Is also used by surburban kids who watched too many spy movies.","Largely supersided by the term Party Van.","> Law Enforcement Officer: Ah hell, its the Fibbies.","> LEO 2: Fuck me, not another case ruined...."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fibbies","sw":"fibbies","definition":[],"translation":["[网络] 纤维"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fibbing","sw":"fibbing","definition":["p. pr. & vb. n. of Fib"],"translation":["v. 撒小谎( fib的现在分词 )"],"pos":[],"exchange":["0:fib","1:i","s:fibbings"],"examples":[],"phonetic":"fɪbɪŋ"}
 {"word":"fibbings","sw":"fibbings","definition":[],"translation":["n. 无伤大雅的谎言，小谎；一击","vi. 撒小谎"],"pos":[],"exchange":["0:fibbing","1:s"],"examples":[],"phonetic":"fɪb"}

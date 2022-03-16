@@ -277,7 +277,7 @@
 {"word":"musketade","sw":"musketade","definition":[],"translation":["[网络] 火腿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musketeer","sw":"musketeer","definition":["n. a foot soldier armed with a musket"],"translation":["n. 火枪车, 步兵"],"pos":["n:100"],"exchange":["s:musketeers"],"examples":[],"phonetic":".mʌski'tiә"}
 {"word":"musketeers","sw":"musketeers","definition":["n. a foot soldier armed with a musket"],"translation":["n. 火枪手（musketeer的复数）"],"pos":[],"exchange":["0:musketeer","1:s3"],"examples":[],"phonetic":""}
-{"word":"musketo","sw":"musketo","definition":["musketo (plural musketos or musketoes)","Archaic form of mosquito.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"musketo","sw":"musketo","definition":["musketo (plural musketos or musketoes)","Archaic form of mosquito."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musketoe","sw":"musketoe","definition":[],"translation":["[网络] 麝香"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musketoes","sw":"musketoes","definition":[],"translation":["[网络] 麝香草"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musketoon","sw":"musketoon","definition":["n. A short musket.","n. One who is armed with such a musket."],"translation":["n. 短火枪,短滑膛枪(枪身短、枪膛大的火枪)"],"pos":[],"exchange":[],"examples":[],"phonetic":",mʌski'tu:n"}
@@ -307,7 +307,7 @@
 {"word":"muskified","sw":"muskified","definition":[],"translation":["[网络] 麝香"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muskil","sw":"muskil","definition":[],"translation":["[网络] 麝香"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muskily","sw":"muskily","definition":[],"translation":["[网络] 麝香"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muskimoot","sw":"muskimoot","definition":["muskimoot (plural muskimoots)","A woven bag traditionally used by certain tribes native to northeastern North America.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muskimoot","sw":"muskimoot","definition":["muskimoot (plural muskimoots)","A woven bag traditionally used by certain tribes native to northeastern North America."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muskin","sw":"muskin","definition":[],"translation":["[网络] 牛步"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muskine","sw":"muskine","definition":[],"translation":["麝香酮"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌski:n"}
 {"word":"muskiness","sw":"muskiness","definition":["n. having the olfactory properties of musk"],"translation":["n. 麝香, 产生麝香"],"pos":[],"exchange":["s:muskinesses"],"examples":[],"phonetic":"'mʌskinis"}
@@ -394,7 +394,7 @@
 {"word":"muslim-arab","sw":"muslimarab","definition":[],"translation":["[网络] 阿拉伯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muslim-minority","sw":"muslimminority","definition":[],"translation":["[网络] 穆斯林少数族群"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muslima","sw":"muslima","definition":[],"translation":["[网络] 穆斯里玛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Muslimah","sw":"muslimah","definition":["a muslim women. contrary to popular belief, muslim women were the first to earn rights of their own. back in the day, when even in the west women were treated like shit, islam allowed a woman to get divorce, own property and get many other rights previously denied to other women. even though people see muslim women as a sign of oppression because they have to wear the hijab, they were actually the first to get treated like human (go research that if you have to :)) muslim women are allowed to get a divorce if their husbands treat them like shit even though in some cultures its frowned upon. most of the 'religious' women oppression actually has nothing to do with the religion at all and is more cultural than anything. islamic women actually have a lot of rights and more info can be viewed here:","en.wikipedia.org/wiki/Islamic_feminism","> i am a proud muslimah ^.^",""],"translation":[],"pos":[],"exchange":["s:muslimahs"],"examples":[],"phonetic":""}
+{"word":"Muslimah","sw":"muslimah","definition":["a muslim women. contrary to popular belief, muslim women were the first to earn rights of their own. back in the day, when even in the west women were treated like shit, islam allowed a woman to get divorce, own property and get many other rights previously denied to other women. even though people see muslim women as a sign of oppression because they have to wear the hijab, they were actually the first to get treated like human (go research that if you have to :)) muslim women are allowed to get a divorce if their husbands treat them like shit even though in some cultures its frowned upon. most of the 'religious' women oppression actually has nothing to do with the religion at all and is more cultural than anything. islamic women actually have a lot of rights and more info can be viewed here:","en.wikipedia.org/wiki/Islamic_feminism","> i am a proud muslimah ^.^"],"translation":[],"pos":[],"exchange":["s:muslimahs"],"examples":[],"phonetic":""}
 {"word":"Muslimahs","sw":"muslimahs","definition":[],"translation":["[网络] 穆斯林"],"pos":[],"exchange":["0:muslimah","1:s"],"examples":[],"phonetic":""}
 {"word":"Muslimania","sw":"muslimania","definition":[],"translation":["[网络] 穆斯林尼亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muslimaphobia","sw":"muslimaphobia","definition":[],"translation":["[网络] 穆斯林恐惧症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -733,7 +733,7 @@
 {"word":"must have","sw":"musthave","definition":[],"translation":["必须拥有；非有不可"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"must have been","sw":"musthavebeen","definition":[],"translation":["na. 必然; must = should 或 would surely; 必须"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"must have done","sw":"musthavedone","definition":[],"translation":["na. 必然；must = should 或 would surely","[网络] 表对过去事实的肯定推测；一定是；表示一定做过某事"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"must have killed a Chinaman","sw":"musthavekilledachinaman","definition":["must have killed a Chinaman","(Australia, offensive) A jocular explanation for bad luck.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"must have killed a Chinaman","sw":"musthavekilledachinaman","definition":["must have killed a Chinaman","(Australia, offensive) A jocular explanation for bad luck."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"must needs","sw":"mustneeds","definition":[],"translation":["偏偏, 偏要"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"must needs do","sw":"mustneedsdo","definition":[],"translation":["坚持说要"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"must needs do sth","sw":"mustneedsdosth","definition":[],"translation":["必须做某事;偏偏,偏要"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1091,8 +1091,8 @@
 {"word":"mustyrre","sw":"mustyrre","definition":[],"translation":["[网络] 西班牙语"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musu","sw":"musu","definition":[],"translation":["[地名] [巴布亚新几内] 穆苏"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musubi","sw":"musubi","definition":[],"translation":["[网络] 结；产灵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Musubi no Kami","sw":"musubinokami","definition":["Musubi no Kami","(mythology, Shinto) The Japanese god of matchmaking, love and marriage.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Musubi-no-Kami","sw":"musubinokami","definition":["Musubi-no-Kami","(mythology, Shinto) The Japanese god of matchmaking, love and marriage.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Musubi no Kami","sw":"musubinokami","definition":["Musubi no Kami","(mythology, Shinto) The Japanese god of matchmaking, love and marriage."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Musubi-no-Kami","sw":"musubinokami","definition":["Musubi-no-Kami","(mythology, Shinto) The Japanese god of matchmaking, love and marriage."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musubis","sw":"musubis","definition":[],"translation":["[网络] 麝香"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Musuclus pectoralis minor","sw":"musucluspectoralisminor","definition":[],"translation":["<拉>胸小肌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"musucluspectoralis minor","sw":"musucluspectoralisminor","definition":[],"translation":["[解剖] 胸小肌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1409,7 +1409,7 @@
 {"word":"muth","sw":"muth","definition":[],"translation":["[人名] 穆特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutha","sw":"mutha","definition":[],"translation":["n. 重金属音乐迷"],"pos":[],"exchange":["s:muthas"],"examples":[],"phonetic":"'mʌθʌ"}
 {"word":"mutha fucka","sw":"muthafucka","definition":[],"translation":["[网络] mutha他妈的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muthafucka","sw":"muthafucka","definition":["Further slang of a slang word. \"Motherfucker\" said accented.","Refer to \"Motherfucker\" for meaning.","> \"You silly muthafucka!\"","> \"Muthafucka, you best get out my face before I slap the taste out your mouth.\"",""],"translation":[],"pos":["n:100"],"exchange":["s:muthafuckas"],"examples":[],"phonetic":""}
+{"word":"muthafucka","sw":"muthafucka","definition":["Further slang of a slang word. \"Motherfucker\" said accented.","Refer to \"Motherfucker\" for meaning.","> \"You silly muthafucka!\"","> \"Muthafucka, you best get out my face before I slap the taste out your mouth.\""],"translation":[],"pos":["n:100"],"exchange":["s:muthafuckas"],"examples":[],"phonetic":""}
 {"word":"muthafuckas","sw":"muthafuckas","definition":[],"translation":["Further slang of a slang word. \"Motherfucker\" said accented.","Refer to \"Motherfucker\" for meaning.","> \"You silly muthafucka!\"","> \"Muthafucka, you best get out my face before I slap the taste out your mouth.\"","","(muthafucka 的复数)"],"pos":[],"exchange":["0:muthafucka","1:s"],"examples":[],"phonetic":""}
 {"word":"muthafuckin","sw":"muthafuckin","definition":[],"translation":["[网络] 麻醉药"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muthafucking","sw":"muthafucking","definition":[],"translation":["[网络] 泄密"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1614,7 +1614,7 @@
 {"word":"mutsuki","sw":"mutsuki","definition":[],"translation":["[网络] 酸酸嘀柠檬；睦月号；睦月级駆逐舰睦月"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mutsuko","sw":"mutsuko","definition":[],"translation":["[网络] 木竹子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutsumi","sw":"mutsumi","definition":[],"translation":["[网络] 睦美；日本睦美；美之美"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mutsun","sw":"mutsun","definition":["Mutsun (uncountable)","One of eight divisions of the Ohlone Native American people of northern California.","The language of this people, an Ohlone dialect in the Utian family.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mutsun","sw":"mutsun","definition":["Mutsun (uncountable)","One of eight divisions of the Ohlone Native American people of northern California.","The language of this people, an Ohlone dialect in the Utian family."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mutsus","sw":"mutsus","definition":[],"translation":["[网络] 麻雀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mutsuyoshi","sw":"mutsuyoshi","definition":[],"translation":["睦义(名,日本)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mutsuzawa","sw":"mutsuzawa","definition":[],"translation":["[地名] 睦泽 ( 日 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1668,7 +1668,7 @@
 {"word":"mutton cloth","sw":"muttoncloth","definition":[],"translation":["[纺] 较松平针织物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mutton Cove","sw":"muttoncove","definition":[],"translation":["[地名] 马顿湾 ( 南极洲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutton dagger","sw":"muttondagger","definition":[],"translation":["[网络] 羊肉匕首"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mutton daggers","sw":"muttondaggers","definition":["Meat stick; My wife's best friend; Yoghurt cannon.","> You should'a seen her face when I stabbed her with my mutton dagger!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mutton daggers","sw":"muttondaggers","definition":["Meat stick; My wife's best friend; Yoghurt cannon.","> You should'a seen her face when I stabbed her with my mutton dagger!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutton dressed as lamb","sw":"muttondressedaslamb","definition":[],"translation":["n. 老来俏,打扮得像少妇的老妇人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutton dressed like lamb","sw":"muttondressedlikelamb","definition":[],"translation":["[口语]作年轻妇女打扮的老年(或中年)妇女"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutton dressed up as lamb","sw":"muttondressedupaslamb","definition":[],"translation":["[口语]作年轻妇女打扮的老年(或中年)妇女"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2107,7 +2107,7 @@
 {"word":"mutually agreed","sw":"mutuallyagreed","definition":[],"translation":["un. 互相同意的","[网络] 达成共识的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutually agreed survey report","sw":"mutuallyagreedsurveyreport","definition":[],"translation":["互相同意的检验报告"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutually assured destruction","sw":"mutuallyassureddestruction","definition":[],"translation":["[网络] 相互确保摧毁；相互保证毁灭；同归于尽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mutually Assured Distraction","sw":"mutuallyassureddistraction","definition":["The practice of distracting others in a manner assuring that neither party gets any work done.","> We were both working on our papers but then she started chatting with me on Facebook and it was mutually assured distraction after that.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mutually Assured Distraction","sw":"mutuallyassureddistraction","definition":["The practice of distracting others in a manner assuring that neither party gets any work done.","> We were both working on our papers but then she started chatting with me on Facebook and it was mutually assured distraction after that."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutually beneficial","sw":"mutuallybeneficial","definition":[],"translation":["互利; 互惠"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈmju:tʃuəli ˌbeniˈfiʃəl"}
 {"word":"mutually beneficial basis","sw":"mutuallybeneficialbasis","definition":[],"translation":["互惠基础"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mutually complementary","sw":"mutuallycomplementary","definition":[],"translation":["[数] 互余的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2232,7 +2232,7 @@
 {"word":"Muwale","sw":"muwale","definition":[],"translation":["木瓦列"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muwashshah","sw":"muwashshah","definition":[],"translation":["[网络] 莎赫；双韵体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muwatallis","sw":"muwatallis","definition":[],"translation":["[网络] 穆瓦塔利斯；赫梯王穆瓦塔立斯；赫梯王穆瓦塔利斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Muwekma","sw":"muwekma","definition":["Muwekma (uncountable)","Ohlone people, native to the San Francisco and Monterey Bay Areas, California.","The northern Ohlone people, as well as other Native Americans who descended from Mission Indians resident at the Santa Clara, San Jose or San Francisco Missions.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Muwekma","sw":"muwekma","definition":["Muwekma (uncountable)","Ohlone people, native to the San Francisco and Monterey Bay Areas, California.","The northern Ohlone people, as well as other Native Americans who descended from Mission Indians resident at the Santa Clara, San Jose or San Francisco Missions."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muwen","sw":"muwen","definition":[],"translation":["[网络] 夂；攵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muwes","sw":"muwes","definition":[],"translation":["[网络] 亩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MUWU","sw":"muwu","definition":[],"translation":["[=mouse uterine weight unit]小鼠子宫重量单位"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2495,7 +2495,7 @@
 {"word":"mwah","sw":"mwah","definition":[],"translation":["（亲吻脸颊的声音）吧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mwah ha ha","sw":"mwahhaha","definition":[],"translation":["[网络] 逆时针方向了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mwah-ha-ha","sw":"mwahhaha","definition":[],"translation":["[网络] 逆时针方向了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mwah-mwah","sw":"mwahmwah","definition":["The sound of air kissing","","Also used to describe a chic restaurant or bar frequented by \"beautiful people\" (esp. media/fashion/art types), when it is often shortened to a single \"mwah\"","> \"I went to the Ivy last night\"","> \"How was it?\"","> \"Totally mwah mwah!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mwah-mwah","sw":"mwahmwah","definition":["The sound of air kissing","","Also used to describe a chic restaurant or bar frequented by \"beautiful people\" (esp. media/fashion/art types), when it is often shortened to a single \"mwah\"","> \"I went to the Ivy last night\"","> \"How was it?\"","> \"Totally mwah mwah!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mwahahaha","sw":"mwahahaha","definition":[],"translation":["[网络] 迷你猪；疯狂科学家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mwai","sw":"mwai","definition":[],"translation":["abbr. Mystery Writers of America. Incorporated 美国侦探小说家社团"],"pos":[],"exchange":["s:mwais"],"examples":[],"phonetic":""}
 {"word":"mwais","sw":"mwais","definition":[],"translation":["abbr. Mystery Writers of America. Incorporated 美国侦探小说家社团","(mwai 的复数)"],"pos":[],"exchange":["0:mwai","1:s"],"examples":[],"phonetic":""}
@@ -2610,7 +2610,7 @@
 {"word":"Mwogo","sw":"mwogo","definition":[],"translation":["[地名] 穆沃戈 ( 乌干 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mwombezhi","sw":"mwombezhi","definition":[],"translation":["[地名] 姆翁贝日河 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mwomboshi","sw":"mwomboshi","definition":[],"translation":["[地名] 姆翁博希 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mwotlap","sw":"mwotlap","definition":["Mwotlap","The Oceanic language spoken mainly on the island of Mota Lava in Vanuatu (Banks Islands).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mwotlap","sw":"mwotlap","definition":["Mwotlap","The Oceanic language spoken mainly on the island of Mota Lava in Vanuatu (Banks Islands)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MWP","sw":"mwp","definition":[],"translation":["abbr. Maximum Working Pressure 最大工作压力"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MWPC","sw":"mwpc","definition":[],"translation":["[=Multiwire Proportional Chamber]多丝正比室"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MWPD","sw":"mwpd","definition":[],"translation":["[=Microwave Plasma Detector]微波等离子体检测器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2657,7 +2657,7 @@
 {"word":"my ass","sw":"myass","definition":[],"translation":["[网络] 我的屁股；才怪；去你的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my baby","sw":"mybaby","definition":[],"translation":["[网络] 我的宝贝；我的爱人；我的宝宝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my bad","sw":"mybad","definition":[],"translation":["（北美, 非正式）[用于表示承担犯错误的责任]我的错"],"pos":[],"exchange":[],"examples":[],"phonetic":"mai bæd"}
-{"word":"my bitch","sw":"mybitch","definition":["an individual who belongs to you.","> the entire american population under the u.s. government.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"my bitch","sw":"mybitch","definition":["an individual who belongs to you.","> the entire american population under the u.s. government."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my bloody valentine","sw":"mybloodyvalentine","definition":[],"translation":["[电影]我的血腥情人节3D"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my body is ready","sw":"mybodyisready","definition":[],"translation":["[网络] 在楼下喷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my boo","sw":"myboo","definition":[],"translation":["[网络] 我的宝贝；我的嘘声；就是爱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2676,7 +2676,7 @@
 {"word":"my car","sw":"mycar","definition":[],"translation":["私人汽车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My car has stalled","sw":"mycarhasstalled","definition":[],"translation":["我的车子不能动了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Chanh","sw":"mychanh","definition":[],"translation":["[地名] 美政 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"My Chemical Romance","sw":"mychemicalromance","definition":["A band from Newark, NJ. They have two albums out, the first one being \"I brought you my bullets, you brought me your love\"(eyeball records) second one being \"three cheers for sweet revenge\" (reprise). Vox- Gerard Way, Guitar- Ray Toro, Bass- Mikey Way, Drums- Bob (formerly Matt), and last but not least guitar- Frank Iero.","Yes, Mikey and Gerard are brothers. Singles so far: \"honey this mirror isn't bing enough for the two of us\", \"vampires will never hurt you\", \"I'm not okay, I promise\", \"Helena\".","","Please look into them before being asswipes. I'm not okay doesn't do them justice (not that it's not good) but.. if you want to hear a real MCR song listen to something like \" Thank you for the venom\" or \"our lady of sorrows\" or something like that to get a better idea of their sound.","I saw them in october (04') and they were amazing.","> My Chemical Romance is an amazing band.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"My Chemical Romance","sw":"mychemicalromance","definition":["A band from Newark, NJ. They have two albums out, the first one being \"I brought you my bullets, you brought me your love\"(eyeball records) second one being \"three cheers for sweet revenge\" (reprise). Vox- Gerard Way, Guitar- Ray Toro, Bass- Mikey Way, Drums- Bob (formerly Matt), and last but not least guitar- Frank Iero.","Yes, Mikey and Gerard are brothers. Singles so far: \"honey this mirror isn't bing enough for the two of us\", \"vampires will never hurt you\", \"I'm not okay, I promise\", \"Helena\".","","Please look into them before being asswipes. I'm not okay doesn't do them justice (not that it's not good) but.. if you want to hear a real MCR song listen to something like \" Thank you for the venom\" or \"our lady of sorrows\" or something like that to get a better idea of their sound.","I saw them in october (04') and they were amazing.","> My Chemical Romance is an amazing band."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my compact operating system","sw":"mycompactoperatingsystem","definition":[],"translation":["自用简洁操作系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Computer","sw":"mycomputer","definition":[],"translation":["我的电脑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My conscience","sw":"myconscience","definition":[],"translation":["！ 啊呀！ 嗳！ 好家伙！ (表示惊奇， 遗憾等)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2753,7 +2753,7 @@
 {"word":"my humble abode","sw":"myhumbleabode","definition":[],"translation":["寒舍"],"pos":[],"exchange":[],"examples":[],"phonetic":"mai ˈhʌmbl əˈbəʊd"}
 {"word":"my humble apologies","sw":"myhumbleapologies","definition":[],"translation":["[网络] 鄙人的道歉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Hung","sw":"myhung","definition":[],"translation":["[地名] 美兴 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"my jam","sw":"myjam","definition":["Your favorite song when you hear it you go crazy.","> Girl thats my jam!!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"my jam","sw":"myjam","definition":["Your favorite song when you hear it you go crazy.","> Girl thats my jam!!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Khanh","sw":"mykhanh","definition":[],"translation":["[地名] 美庆 ( 越 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my lady","sw":"mylady","definition":[],"translation":["[对女法官和贵妇人的敬称]夫人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Lai","sw":"mylai","definition":[],"translation":["美莱村(大屠杀)(越南南方村庄，1966年美军在此进行大屠杀)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2798,7 +2798,7 @@
 {"word":"My Netscape","sw":"mynetscape","definition":[],"translation":["[网络] 我的网景"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My Network Places","sw":"mynetworkplaces","definition":[],"translation":["[网络] 网上邻居；我的网络；我的网路芳邻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my nibs","sw":"mynibs","definition":[],"translation":["[网络] 我的笔尖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"my nigga","sw":"mynigga","definition":["your partner through think and thin. someone who will always help you out, no matter the situation.","> Did you get the money??? My Nigga!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"my nigga","sw":"mynigga","definition":["your partner through think and thin. someone who will always help you out, no matter the situation.","> Did you get the money??? My Nigga!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my noble friend","sw":"mynoblefriend","definition":[],"translation":["[英国英语]我尊敬的朋友(在上议院、下议院中对同一政党成员的称呼)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my oath","sw":"myoath","definition":[],"translation":["（澳/新西兰）（用于表示同意或认可的呼喊语） 我同意"],"pos":[],"exchange":[],"examples":[],"phonetic":"mai əuθ"}
 {"word":"My Old Kentucky Home","sw":"myoldkentuckyhome","definition":[],"translation":["[网络] 我的肯塔基故乡；我的老肯塔基家；肯塔基老家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2855,7 +2855,7 @@
 {"word":"My uncle had a heart attack last year","sw":"myunclehadaheartattacklastyear","definition":[],"translation":["我伯父去年害过一场心脏病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My uncle is a high school principal","sw":"myuncleisahighschoolprincipal","definition":[],"translation":["我伯父是一所高级中学的校长"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My uncle was a pilot with the airlines","sw":"myunclewasapilotwiththeairlines","definition":[],"translation":["我伯父在航空公司任驾驶员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"my very educated mother just served us nine pumpkins","sw":"myveryeducatedmotherjustservedusninepumpkins","definition":["my very educated mother just served us nine pumpkins","(astronomy, slightly dated) A mnemonic used to remember the order and names of the nine planets of the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"my very educated mother just served us nine pumpkins","sw":"myveryeducatedmotherjustservedusninepumpkins","definition":["my very educated mother just served us nine pumpkins","(astronomy, slightly dated) A mnemonic used to remember the order and names of the nine planets of the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my very own","sw":"myveryown","definition":[],"translation":["完全属我所有"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"my videos","sw":"myvideos","definition":[],"translation":["[网络] 我的视频；我的视讯；我的影片"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"My watch is fast and your watch is slow","sw":"mywatchisfastandyourwatchisslow","definition":[],"translation":["我的表快,你的表慢"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2902,7 +2902,7 @@
 {"word":"Myakit","sw":"myakit","definition":[],"translation":["[地名] 米亚基特 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myakka","sw":"myakka","definition":[],"translation":["[地名] [美国] 迈阿卡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Myakka City","sw":"myakkacity","definition":[],"translation":["[地名] 迈阿卡城 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"myal","sw":"myal","definition":["Miss You A Lot","> MYAL kim kim !! <3",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"myal","sw":"myal","definition":["Miss You A Lot","> MYAL kim kim !! <3"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myalex","sw":"myalex","definition":[],"translation":["氯苯噻唑乙酸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myalgia","sw":"myalgia","definition":["n. pain in a muscle or group of muscles"],"translation":["n. 肌痛","[医] 肌痛"],"pos":["n:100"],"exchange":["s:myalgias"],"examples":[],"phonetic":"mai'ældʒiә"}
 {"word":"myalgia abdominis","sw":"myalgiaabdominis","definition":[],"translation":["[医] 腹肌痛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3883,7 +3883,7 @@
 {"word":"Myedu","sw":"myedu","definition":[],"translation":["[地名] *弥杜(昂兰的旧称) ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Myeik","sw":"myeik","definition":[],"translation":["[地名] 丹老(墨吉) ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Myeik Kyunzu","sw":"myeikkyunzu","definition":[],"translation":["[地名] 丹老群岛 ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"myek","sw":"myek","definition":["myek (third-person singular simple present myeks, present participle myekin, simple past and past participle made)","(Geordie) To make.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"myek","sw":"myek","definition":["myek (third-person singular simple present myeks, present participle myekin, simple past and past participle made)","(Geordie) To make."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myel","sw":"myel","definition":[],"translation":["[医] 脊髓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myelacephalus","sw":"myelacephalus","definition":[],"translation":["[医] 下级无头畸肌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myelalgia","sw":"myelalgia","definition":[],"translation":["[医] 脊髓痛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4885,7 +4885,7 @@
 {"word":"myoes","sw":"myoes","definition":[],"translation":["abbr. myocardium 心肌; myoplasm 肌浆，肌质","(myo 的复数)"],"pos":[],"exchange":["0:myo","1:s"],"examples":[],"phonetic":""}
 {"word":"myofacial","sw":"myofacial","definition":[],"translation":["[网络] 肌肉的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myofascial","sw":"myofascial","definition":[],"translation":["[医] 肌筋膜的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"myofascial decompression","sw":"myofascialdecompression","definition":["myofascial decompression (uncountable)","Synonym of cupping (the East Asian practise of forming a vacuum underneath a cup that will break the surface capillaries of the skin under the cup, as a treatment for ails, or to increase bloodflow to the area)",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"myofascial decompression","sw":"myofascialdecompression","definition":["myofascial decompression (uncountable)","Synonym of cupping (the East Asian practise of forming a vacuum underneath a cup that will break the surface capillaries of the skin under the cup, as a treatment for ails, or to increase bloodflow to the area)"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myofascial release","sw":"myofascialrelease","definition":[],"translation":["[网络] 肌筋膜放松术；筋膜松弛；肌筋膜松动术"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"myofascitis","sw":"myofascitis","definition":[],"translation":["[医]肌筋膜炎"],"pos":[],"exchange":[],"examples":[],"phonetic":"maiәufæ'saitis"}
 {"word":"myofascitis of back","sw":"myofascitisofback","definition":[],"translation":["腰背肌肉筋膜炎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

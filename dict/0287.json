@@ -54,17 +54,17 @@
 {"word":"kanonen","sw":"kanonen","definition":[],"translation":["n. 擅长于滑雪的人 (kanone的变形)"],"pos":[],"exchange":[],"examples":[],"phonetic":"kə'nəʊnən"}
 {"word":"kanonenjagdpanzer","sw":"kanonenjagdpanzer","definition":[],"translation":["【军械】(联邦德国的)装甲加农炮"],"pos":[],"exchange":[],"examples":[],"phonetic":",kænənin,dʒæɡ'pænzə"}
 {"word":"Kanonerka","sw":"kanonerka","definition":[],"translation":["[地名] 卡诺涅尔卡 ( 哈 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kanonerovite","sw":"kanonerovite","definition":["kanonerovite","(mineralogy) A monoclinic-prismatic colorless mineral containing hydrogen, manganese, oxygen, phosphorus, and sodium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kanonerovite","sw":"kanonerovite","definition":["kanonerovite","(mineralogy) A monoclinic-prismatic colorless mineral containing hydrogen, manganese, oxygen, phosphorus, and sodium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kanones","sw":"kanones","definition":[],"translation":["n. 擅长于滑雪的人"],"pos":[],"exchange":[],"examples":[],"phonetic":"kə'nəunə"}
 {"word":"Kanonge","sw":"kanonge","definition":[],"translation":["[地名] 卡农盖 ( 刚(金) )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kanongesha","sw":"kanongesha","definition":[],"translation":["[网络] 卡隆盖沙；卡农盖沙人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kanonji-shi","sw":"kanonjishi","definition":[],"translation":["观音寺市"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kanons","sw":"kanons","definition":["kanons","plural of kanon",""],"translation":[],"pos":[],"exchange":["0:kanon","1:s"],"examples":[],"phonetic":""}
+{"word":"kanons","sw":"kanons","definition":["kanons","plural of kanon"],"translation":[],"pos":[],"exchange":["0:kanon","1:s"],"examples":[],"phonetic":""}
 {"word":"kanoo","sw":"kanoo","definition":[],"translation":["[网络] 卡农；卡努；K卡农"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kanoodle","sw":"kanoodle","definition":["getting it on like wild monkeys","> they were upstairs kanoodling, now my sheets stink.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kanoodle","sw":"kanoodle","definition":["getting it on like wild monkeys","> they were upstairs kanoodling, now my sheets stink."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kanoodled","sw":"kanoodled","definition":[],"translation":["[网络] 可爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kanoodles","sw":"kanoodles","definition":[],"translation":["[网络] 面条"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kanoodling","sw":"kanoodling","definition":["The gross behaviours of a new couple. The overtly lovey-dovey actions that sicken everyone not in that relationship.","Usually in the form of cuddling and un-nessecary giggling as a result of public tickling.","> \"Omg, look at Suzy and Tommy Kanoodling in the corner.\"","> \"Yea, they should get a room.\"","> {BARF}",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kanoodling","sw":"kanoodling","definition":["The gross behaviours of a new couple. The overtly lovey-dovey actions that sicken everyone not in that relationship.","Usually in the form of cuddling and un-nessecary giggling as a result of public tickling.","> \"Omg, look at Suzy and Tommy Kanoodling in the corner.\"","> \"Yea, they should get a room.\"","> {BARF}"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kanoon","sw":"kanoon","definition":[],"translation":["n. 卡农琴(产于波斯和阿拉伯,类似齐特拉琴,有50至60根琴弦)"],"pos":[],"exchange":[],"examples":[],"phonetic":"kɑ:'nu:n"}
 {"word":"kanoons","sw":"kanoons","definition":[],"translation":["n. 卡农琴（产于波斯和阿拉伯，有50至60根琴弦）"],"pos":[],"exchange":[],"examples":[],"phonetic":"kɑ:'nu:n"}
 {"word":"Kanopolis","sw":"kanopolis","definition":[],"translation":["[地名] 卡诺波利斯 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -435,7 +435,7 @@
 {"word":"Kapagere","sw":"kapagere","definition":[],"translation":["卡帕吉里"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kapai","sw":"kapai","definition":[],"translation":["[网络] 卡派品牌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kapak","sw":"kapak","definition":[],"translation":["[网络] 盖子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kapakahi","sw":"kapakahi","definition":["[confused], [mixed up], [crazy], [bent], [twisted].","> Where are we? These directions are all kapakahi.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kapakahi","sw":"kapakahi","definition":["[confused], [mixed up], [crazy], [bent], [twisted].","> Where are we? These directions are all kapakahi."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kapakapa","sw":"kapakapa","definition":[],"translation":["[地名] 卡帕卡帕 ( 巴布 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kapal","sw":"kapal","definition":[],"translation":["[地名] 卡帕尔 ( 哈 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kapala","sw":"kapala","definition":[],"translation":["[网络] 嘎巴拉碗；修法用；头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -649,10 +649,10 @@
 {"word":"kappa particle","sw":"kappaparticle","definition":[],"translation":["(细胞)卡巴微粒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappa particles","sw":"kappaparticles","definition":[],"translation":["加巴颗粒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappa pyrite","sw":"kappapyrite","definition":[],"translation":["[矿物] 胶黄铁矿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kappa slappa","sw":"kappaslappa","definition":["Preteen– or teenage girls obviously experimenting with there image – The Kappa Slappa “Look” consist of trainers – Kappa tracksuit bottoms – an Elise jumper. This is generously accessorises with cheap looking jewellery – most of which is purchased at Elizabeth Duke of Argos. Hair is worn up in (see Corydon Facelift) – and makeup is plastered on to hide any spots blemished and love bites.","","Kappa Slappa's are usually found in groups of 3 or more – although one will occasionally break from the pack. This type of behaviour usually occurs when the Slappa in question is attracted to a male of the same species (see Tezzer). This liaison will, in the least, result her being “fingered” behind the local nightclub – however the usual outcome is pregnancy – and alas further drain on the UK's benefit system.","See also:","Mouth Breather","Klassy Lassy","","","> Lad A: Word round school is that Tracy will suck you off for fifty pence!","> Lad B: Which one is Tracy again?","> Lad A: You know the Kappa Slappa two years below us!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kappa slappas","sw":"kappaslappas","definition":["Preteen– or teenage girls obviously experimenting with there image – The Kappa Slappa “Look” consist of trainers – Kappa tracksuit bottoms – an Elise jumper. This is generously accessorises with cheap looking jewellery – most of which is purchased at Elizabeth Duke of Argos. Hair is worn up in (see Corydon Facelift) – and makeup is plastered on to hide any spots blemished and love bites.","","Kappa Slappa's are usually found in groups of 3 or more – although one will occasionally break from the pack. This type of behaviour usually occurs when the Slappa in question is attracted to a male of the same species (see Tezzer). This liaison will, in the least, result her being “fingered” behind the local nightclub – however the usual outcome is pregnancy – and alas further drain on the UK's benefit system.","See also:","Mouth Breather","Klassy Lassy","","","> Lad A: Word round school is that Tracy will suck you off for fifty pence!","> Lad B: Which one is Tracy again?","> Lad A: You know the Kappa Slappa two years below us!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kappa slapper","sw":"kappaslapper","definition":["Female equivalent of the Nike Pikey. Found all over the British Isles usually congregating in large groups at bus stops and parks. Dresses in sportswear (not just Kappa) drinks cheap cider or supermarket vodka. Constantly smoking fags. Chav scum.","> \"I never bin wiv 'im. I ain't no Kappa-slapper!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kappa slappers","sw":"kappaslappers","definition":["Female equivalent of the Nike Pikey. Found all over the British Isles usually congregating in large groups at bus stops and parks. Dresses in sportswear (not just Kappa) drinks cheap cider or supermarket vodka. Constantly smoking fags. Chav scum.","> \"I never bin wiv 'im. I ain't no Kappa-slapper!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kappa slappa","sw":"kappaslappa","definition":["Preteen– or teenage girls obviously experimenting with there image – The Kappa Slappa “Look” consist of trainers – Kappa tracksuit bottoms – an Elise jumper. This is generously accessorises with cheap looking jewellery – most of which is purchased at Elizabeth Duke of Argos. Hair is worn up in (see Corydon Facelift) – and makeup is plastered on to hide any spots blemished and love bites.","","Kappa Slappa's are usually found in groups of 3 or more – although one will occasionally break from the pack. This type of behaviour usually occurs when the Slappa in question is attracted to a male of the same species (see Tezzer). This liaison will, in the least, result her being “fingered” behind the local nightclub – however the usual outcome is pregnancy – and alas further drain on the UK's benefit system.","See also:","Mouth Breather","Klassy Lassy","","","> Lad A: Word round school is that Tracy will suck you off for fifty pence!","> Lad B: Which one is Tracy again?","> Lad A: You know the Kappa Slappa two years below us!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kappa slappas","sw":"kappaslappas","definition":["Preteen– or teenage girls obviously experimenting with there image – The Kappa Slappa “Look” consist of trainers – Kappa tracksuit bottoms – an Elise jumper. This is generously accessorises with cheap looking jewellery – most of which is purchased at Elizabeth Duke of Argos. Hair is worn up in (see Corydon Facelift) – and makeup is plastered on to hide any spots blemished and love bites.","","Kappa Slappa's are usually found in groups of 3 or more – although one will occasionally break from the pack. This type of behaviour usually occurs when the Slappa in question is attracted to a male of the same species (see Tezzer). This liaison will, in the least, result her being “fingered” behind the local nightclub – however the usual outcome is pregnancy – and alas further drain on the UK's benefit system.","See also:","Mouth Breather","Klassy Lassy","","","> Lad A: Word round school is that Tracy will suck you off for fifty pence!","> Lad B: Which one is Tracy again?","> Lad A: You know the Kappa Slappa two years below us!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kappa slapper","sw":"kappaslapper","definition":["Female equivalent of the Nike Pikey. Found all over the British Isles usually congregating in large groups at bus stops and parks. Dresses in sportswear (not just Kappa) drinks cheap cider or supermarket vodka. Constantly smoking fags. Chav scum.","> \"I never bin wiv 'im. I ain't no Kappa-slapper!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kappa slappers","sw":"kappaslappers","definition":["Female equivalent of the Nike Pikey. Found all over the British Isles usually congregating in large groups at bus stops and parks. Dresses in sportswear (not just Kappa) drinks cheap cider or supermarket vodka. Constantly smoking fags. Chav scum.","> \"I never bin wiv 'im. I ain't no Kappa-slapper!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kappa statistic","sw":"kappastatistic","definition":[],"translation":["[统计] 卡巴统计量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappa-Carrageenan","sw":"kappacarrageenan","definition":[],"translation":["kappa-角叉菜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappa-meson","sw":"kappameson","definition":[],"translation":["[网络] k介子"],"pos":[],"exchange":["s:kappa-mesons"],"examples":[],"phonetic":""}
@@ -660,7 +660,7 @@
 {"word":"kappaB","sw":"kappab","definition":[],"translation":["核因子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappacism","sw":"kappacism","definition":[],"translation":["[网络] K发音不正"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kappadione","sw":"kappadione","definition":[],"translation":["磷钠甲萘醌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kappamaki","sw":"kappamaki","definition":["cucumber sushi. Very delicious and completely vegetarian. contains only sushi rice, nori (seaweed) and cucumbers.","is also named after a japanese spirit called a kappa.","> \"what are we having for dinner tonight?\"","> \"kappa maki\"","> \"oh wow! oishi desu ne!!\" (aka delicious)",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kappamaki","sw":"kappamaki","definition":["cucumber sushi. Very delicious and completely vegetarian. contains only sushi rice, nori (seaweed) and cucumbers.","is also named after a japanese spirit called a kappa.","> \"what are we having for dinner tonight?\"","> \"kappa maki\"","> \"oh wow! oishi desu ne!!\" (aka delicious)"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappameter","sw":"kappameter","definition":[],"translation":["磁化率测定仪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kappamina","sw":"kappamina","definition":[],"translation":["硫酸钠甲萘醌,甲萘二酚二硫酸酯二钠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kappan","sw":"kappan","definition":[],"translation":["[网络] 卡潘；教育促进会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -749,7 +749,7 @@
 {"word":"Kapuskasing","sw":"kapuskasing","definition":[],"translation":["[网络] 卡普斯卡辛；卡普斯卡辛机场；加拿大安大略省"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kapustin","sw":"kapustin","definition":[],"translation":["n. (Kapustin)人名；(俄)卡普斯京"],"pos":[],"exchange":["s:kapustins"],"examples":[],"phonetic":""}
 {"word":"Kapustin Yar","sw":"kapustinyar","definition":[],"translation":["[地名] 卡普斯京亚尔 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kapustinite","sw":"kapustinite","definition":["kapustinite","(mineralogy) A monoclinic-prismatic dark cherry red mineral containing calcium, cerium, hydrogen, iron, manganese, neodymium, oxygen, silicon, sodium, titanium, uranium, yttrium, and zirconium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kapustinite","sw":"kapustinite","definition":["kapustinite","(mineralogy) A monoclinic-prismatic dark cherry red mineral containing calcium, cerium, hydrogen, iron, manganese, neodymium, oxygen, silicon, sodium, titanium, uranium, yttrium, and zirconium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kapustins","sw":"kapustins","definition":[],"translation":["n. (Kapustin)人名；(俄)卡普斯京","(kapustin 的复数)"],"pos":[],"exchange":["0:kapustin","1:s"],"examples":[],"phonetic":""}
 {"word":"kaput","sw":"kaput","definition":["s destroyed or killed"],"translation":["a. 完蛋了的, 彻底失败了的, 坏了的, 过时了的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"kә'pu:t"}
 {"word":"Kaputa","sw":"kaputa","definition":[],"translation":["[地名] 卡普塔 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -758,7 +758,7 @@
 {"word":"Kaputir","sw":"kaputir","definition":[],"translation":["[地名] 卡普蒂尔 ( 肯 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kaputnik","sw":"kaputnik","definition":[],"translation":["[网络] 出毛病计划"],"pos":[],"exchange":["s:kaputniks"],"examples":[],"phonetic":""}
 {"word":"kaputniks","sw":"kaputniks","definition":[],"translation":["[网络] 出毛病计划","(kaputnik 的复数)"],"pos":[],"exchange":["0:kaputnik","1:s"],"examples":[],"phonetic":""}
-{"word":"kaputski","sw":"kaputski","definition":["kaputski (comparative more kaputski, superlative most kaputski)","(informal) broken, broken down",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kaputski","sw":"kaputski","definition":["kaputski (comparative more kaputski, superlative most kaputski)","(informal) broken, broken down"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kaputsky","sw":"kaputsky","definition":[],"translation":["[网络] 卡普斯基"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kaputt","sw":"kaputt","definition":[],"translation":["a. 故障的;坏了的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kaputz","sw":"kaputz","definition":[],"translation":["[网络] 卡普兹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1066,7 +1066,7 @@
 {"word":"karaoke bar","sw":"karaokebar","definition":[],"translation":["[网络] 歌厅；巴姆布罗西亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karaoke box","sw":"karaokebox","definition":[],"translation":["[网络] 卡拉OK盒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karaoke boxes","sw":"karaokeboxes","definition":[],"translation":["[网络] 卡拉OK盒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Karaoke Filibuster","sw":"karaokefilibuster","definition":["Intentionally choosing an extraordinarily long song to perform at a Karaoke Club or during a Karaoke Party/Night as a means to block others from participating in said Karaoke.","> That guy's performance of Meatloaf's \"I would do anything for love\" was a total karaoke filibuster.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Karaoke Filibuster","sw":"karaokefilibuster","definition":["Intentionally choosing an extraordinarily long song to perform at a Karaoke Club or during a Karaoke Party/Night as a means to block others from participating in said Karaoke.","> That guy's performance of Meatloaf's \"I would do anything for love\" was a total karaoke filibuster."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karaoke machine","sw":"karaokemachine","definition":[],"translation":["卡拉OK机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karaoke machines","sw":"karaokemachines","definition":[],"translation":["卡拉OK机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karaokes","sw":"karaokes","definition":["plural of karaoke","n. singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs)"],"translation":["(karaoke 的复数) n. 卡拉OK；卡拉OK录音, 自动伴奏录音"],"pos":[],"exchange":["0:karaoke","1:s"],"examples":[],"phonetic":""}
@@ -1102,7 +1102,7 @@
 {"word":"karastan","sw":"karastan","definition":[],"translation":["[网络] 斯坦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karasu","sw":"karasu","definition":[],"translation":["[地名] 卡拉苏河 ( 哈、土 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karasu-gawa","sw":"karasugawa","definition":[],"translation":["[地名] 乌川 ( 日 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"karasugite","sw":"karasugite","definition":["karasugite","(mineralogy) A monoclinic-prismatic colorless mineral containing aluminum, calcium, fluorine, hydrogen, oxygen, and strontium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"karasugite","sw":"karasugite","definition":["karasugite","(mineralogy) A monoclinic-prismatic colorless mineral containing aluminum, calcium, fluorine, hydrogen, oxygen, and strontium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karasuk","sw":"karasuk","definition":[],"translation":["[地名] 卡拉苏克河 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karasukskiy Rayon","sw":"karasukskiyrayon","definition":[],"translation":["[地名] 卡拉苏克区 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karasumi","sw":"karasumi","definition":[],"translation":["[网络] 乌鱼子；唐墨；许芼诚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1303,7 +1303,7 @@
 {"word":"Karelian Question","sw":"karelianquestion","definition":[],"translation":["[网络] 卡累利阿问题"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karelianism","sw":"karelianism","definition":[],"translation":["[网络] 卡累利阿主义"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karelianite","sw":"karelianite","definition":[],"translation":["n. [矿]三方氧钒矿"],"pos":[],"exchange":[],"examples":[],"phonetic":"kә'ri:liәnait"}
-{"word":"Karelianness","sw":"karelianness","definition":["Karelianness (uncountable)","Quality of being Karelian.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Karelianness","sw":"karelianness","definition":["Karelianness (uncountable)","Quality of being Karelian."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karelians","sw":"karelians","definition":[],"translation":["[网络] 卡累利阿人"],"pos":[],"exchange":["0:karelian","1:s"],"examples":[],"phonetic":""}
 {"word":"karelias","sw":"karelias","definition":[],"translation":["Karelia","[kə'ri:liə]","卡累利阿(俄罗斯西北部的自治共和国)"],"pos":[],"exchange":["0:karelia","1:s"],"examples":[],"phonetic":"kə'ri:liə"}
 {"word":"karelin","sw":"karelin","definition":[],"translation":["[网络] 卡列林"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1337,7 +1337,7 @@
 {"word":"Karen State","sw":"karenstate","definition":[],"translation":["克伦邦(缅甸邦名)"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈkɑ:rən"}
 {"word":"karena","sw":"karena","definition":[],"translation":["n. 林嘉欣（香港女演员）"],"pos":[],"exchange":["s:karenas"],"examples":[],"phonetic":""}
 {"word":"karenann","sw":"karenann","definition":[],"translation":["[网络] 克伦恩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"karenas","sw":"karenas","definition":["1. a crazy party girl that loves to take pictures with her friends glasses on.","","2. a hottie with a body.","","3. fun fun fun.","> if the party youre at is dull and lame you might need sum \"karena\" in there.",""],"translation":[],"pos":[],"exchange":["0:karena","1:s"],"examples":[],"phonetic":""}
+{"word":"karenas","sw":"karenas","definition":["1. a crazy party girl that loves to take pictures with her friends glasses on.","","2. a hottie with a body.","","3. fun fun fun.","> if the party youre at is dull and lame you might need sum \"karena\" in there."],"translation":[],"pos":[],"exchange":["0:karena","1:s"],"examples":[],"phonetic":""}
 {"word":"karenga","sw":"karenga","definition":[],"translation":["[地名] [乌干达] 卡伦加; [地名] [俄罗斯] 卡连加河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karengo","sw":"karengo","definition":[],"translation":["[网络] 卡伦戈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karenia","sw":"karenia","definition":[],"translation":["[网络] 凯伦藻属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1490,7 +1490,7 @@
 {"word":"karjas","sw":"karjas","definition":[],"translation":["[网络] 卡加","(karja 的复数)"],"pos":[],"exchange":["0:karja","1:s"],"examples":[],"phonetic":""}
 {"word":"Karjat","sw":"karjat","definition":[],"translation":["[地名] 格尔杰德 ( 印 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kark","sw":"kark","definition":[],"translation":["[人名] 卡克"],"pos":[],"exchange":["s:karks"],"examples":[],"phonetic":""}
-{"word":"kark it","sw":"karkit","definition":["To die.","> I wonder what happens when your local Sea World equivalent has a killer whale kark it?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kark it","sw":"karkit","definition":["To die.","> I wonder what happens when your local Sea World equivalent has a killer whale kark it?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karka","sw":"karka","definition":[],"translation":["[网络] 卡开芦；卡卡兽；女性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karkabi","sw":"karkabi","definition":[],"translation":["[网络] 卡尔卡比"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karkadann","sw":"karkadann","definition":[],"translation":["[网络] 中东的独角兽"],"pos":[],"exchange":["s:karkadanns"],"examples":[],"phonetic":""}
@@ -2009,7 +2009,7 @@
 {"word":"karsdorfer","sw":"karsdorfer","definition":[],"translation":["[网络] 卡斯多夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karsen","sw":"karsen","definition":[],"translation":["[网络] 卡森"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karsey","sw":"karsey","definition":[],"translation":["n. <俚>厕所, 抽水马桶"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kɑ:zi"}
-{"word":"karseys","sw":"karseys","definition":["Slang word for a toilet.","> I'm just off to the karsey for a [brad pitt]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"karseys","sw":"karseys","definition":["Slang word for a toilet.","> I'm just off to the karsey for a [brad pitt]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"karsh","sw":"karsh","definition":[],"translation":["[人名] 卡什"],"pos":[],"exchange":["s:karshes"],"examples":[],"phonetic":""}
 {"word":"karshes","sw":"karshes","definition":[],"translation":["[人名] 卡什","(karsh 的复数)"],"pos":[],"exchange":["0:karsh","1:s"],"examples":[],"phonetic":""}
 {"word":"Karshi","sw":"karshi","definition":[],"translation":["[地名] 卡尔希 ( 尼日利、土库 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2192,7 +2192,7 @@
 {"word":"Kartvelological","sw":"kartvelological","definition":[],"translation":["[网络] 真实的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kartvelologist","sw":"kartvelologist","definition":[],"translation":["[网络] 开创者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kartvelologists","sw":"kartvelologists","definition":[],"translation":["[网络] 开玩艺师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Kartvelology","sw":"kartvelology","definition":["Kartvelology (uncountable)","Kartvelian studies",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Kartvelology","sw":"kartvelology","definition":["Kartvelology (uncountable)","Kartvelian studies"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kartvels","sw":"kartvels","definition":[],"translation":["[网络] 卡特尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kartz","sw":"kartz","definition":[],"translation":["[网络] 卡崔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Karubwe","sw":"karubwe","definition":[],"translation":["[地名] 卡鲁布韦 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2903,7 +2903,7 @@
 {"word":"kastmasters","sw":"kastmasters","definition":[],"translation":["[网络] 烤肉师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kastner","sw":"kastner","definition":[],"translation":["[人名] 卡斯特纳"],"pos":[],"exchange":["s:kastners"],"examples":[],"phonetic":""}
 {"word":"kastners","sw":"kastners","definition":[],"translation":["n. (Kastner)人名；(德、英、葡、罗、捷、匈)卡斯特纳"],"pos":[],"exchange":["0:kastner","1:s"],"examples":[],"phonetic":""}
-{"word":"kastningite","sw":"kastningite","definition":["kastningite","(mineralogy) A mineral containing aluminum, hydrogen, iron, magnesium, manganese, oxygen, and phosphorus.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kastningite","sw":"kastningite","definition":["kastningite","(mineralogy) A mineral containing aluminum, hydrogen, iron, magnesium, manganese, oxygen, and phosphorus."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kastom","sw":"kastom","definition":[],"translation":["[网络] 传统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kastor","sw":"kastor","definition":[],"translation":["n. 透锂长石","[网络] 卡斯托尔；卡特；卡斯托耳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kastorenskiy Rayon","sw":"kastorenskiyrayon","definition":[],"translation":["[地名] 卡斯托尔诺耶区 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3289,7 +3289,7 @@
 {"word":"kathaemoglobin","sw":"kathaemoglobin","definition":[],"translation":["变性高铁血红蛋白"],"pos":[],"exchange":[],"examples":[],"phonetic":",kæθi:mәu'^lәubin"}
 {"word":"kathak","sw":"kathak","definition":[],"translation":["[网络] 印度舞；卡塔克；卡塔克舞"],"pos":[],"exchange":["s:kathaks"],"examples":[],"phonetic":""}
 {"word":"Kathakali","sw":"kathakali","definition":[],"translation":["[网络] 卡塔卡利；卡塔卡利舞剧；卡达卡利舞"],"pos":[],"exchange":["s:kathakali"],"examples":[],"phonetic":""}
-{"word":"kathakalis","sw":"kathakalis","definition":["kathakalis","plural of kathakali",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kathakalis","sw":"kathakalis","definition":["kathakalis","plural of kathakali"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kathaks","sw":"kathaks","definition":[],"translation":["[网络] 凯撒"],"pos":[],"exchange":["0:kathak","1:s"],"examples":[],"phonetic":""}
 {"word":"katharevousa","sw":"katharevousa","definition":[],"translation":["n. (符合古希腊语法的)现代希腊语, 道地希腊语"],"pos":[],"exchange":[],"examples":[],"phonetic":",kɑ:θɑ:'revu:sɑ:"}
 {"word":"Katharevusa","sw":"katharevusa","definition":[],"translation":["[网络] 又出现一种纯正希腊语"],"pos":[],"exchange":["s:katharevusas"],"examples":[],"phonetic":""}
@@ -3374,7 +3374,7 @@
 {"word":"kathodic","sw":"kathodic","definition":[],"translation":["adj. 背螺旋线的","n. 阴极保护"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kathodophone","sw":"kathodophone","definition":[],"translation":["[网络] 卡陀罗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kathoey","sw":"kathoey","definition":[],"translation":["[网络] 人妖；泰国变性女性；格退"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kathoeys","sw":"kathoeys","definition":["a shemale, a lady-boy, a very sexy and exhilirating person.","> that kathoey is the asian equivalent of the American shemale.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kathoeys","sw":"kathoeys","definition":["a shemale, a lady-boy, a very sexy and exhilirating person.","> that kathoey is the asian equivalent of the American shemale."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katholicismus","sw":"katholicismus","definition":[],"translation":["[网络] katholizismus"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Katholieke","sw":"katholieke","definition":[],"translation":["比利时天主教鲁汶大学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katholikentag","sw":"katholikentag","definition":[],"translation":["[网络] 大集会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3560,8 +3560,8 @@
 {"word":"Kats","sw":"kats","definition":["-s form of KAT","n. the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant"],"translation":["(KAT 的第三人称 -s形式) [计] 代码地址转换"],"pos":[],"exchange":["0:kat","1:s3"],"examples":[],"phonetic":""}
 {"word":"katsa","sw":"katsa","definition":[],"translation":["[网络] 铁皮自拍；我们故事主角凯莎；猫撒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katsampes","sw":"katsampes","definition":[],"translation":["[网络] 卡坦斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"katsap","sw":"katsap","definition":["katsap (plural katsaps)","(ethnic slur, pejorative) a Russian, especially from Ukrainian perspective",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"katsaps","sw":"katsaps","definition":["A word used mainly by Ukrainians to refer to Russians in a negative tone. Originates from the word 'goat' (tsap), referring to the goatees once almost universally popular in Russia","> I don't understand all those complaints from katsaps living in foreign countries - let them all return to their native Katsapstan!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"katsap","sw":"katsap","definition":["katsap (plural katsaps)","(ethnic slur, pejorative) a Russian, especially from Ukrainian perspective"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"katsaps","sw":"katsaps","definition":["A word used mainly by Ukrainians to refer to Russians in a negative tone. Originates from the word 'goat' (tsap), referring to the goatees once almost universally popular in Russia","> I don't understand all those complaints from katsaps living in foreign countries - let them all return to their native Katsapstan!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katsaris","sw":"katsaris","definition":[],"translation":["[网络] 卡萨利斯；卡扎莱斯；卡查利斯"],"pos":[],"exchange":["s:katsariss"],"examples":[],"phonetic":""}
 {"word":"katsariss","sw":"katsariss","definition":[],"translation":["[网络] 卡萨利斯；卡扎莱斯；卡查利斯","(katsaris 的复数)"],"pos":[],"exchange":["0:katsaris","1:s"],"examples":[],"phonetic":""}
 {"word":"Katsaros","sw":"katsaros","definition":[],"translation":["[地名] 卡察罗斯 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3571,7 +3571,7 @@
 {"word":"Katsepe","sw":"katsepe","definition":[],"translation":["卡策佩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Katsepy","sw":"katsepy","definition":[],"translation":["[地名] 卡采皮 ( 马达 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Katshi","sw":"katshi","definition":[],"translation":["[地名] 卡奇 ( 刚(金) )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"katshit","sw":"katshit","definition":["A bastardization of the word ketchup, for people who like to garnish their burgers and dogs and swear at the same time. Goes well with [mouseturd].","","> Cecil: Hey! Ya got any katshit or mouseturd for these here burgers?","> Gloria: <sigh> What are you, four?  Can't you even speak without swearing?","> Cecil: <rolls his eyes> Tse, I'm just kiddin', for fuck's sake! ... so do ya got any or what?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"katshit","sw":"katshit","definition":["A bastardization of the word ketchup, for people who like to garnish their burgers and dogs and swear at the same time. Goes well with [mouseturd].","","> Cecil: Hey! Ya got any katshit or mouseturd for these here burgers?","> Gloria: <sigh> What are you, four?  Can't you even speak without swearing?","> Cecil: <rolls his eyes> Tse, I'm just kiddin', for fuck's sake! ... so do ya got any or what?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katsi","sw":"katsi","definition":[],"translation":["[地名] [哥斯达黎加] 卡齐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katsikas","sw":"katsikas","definition":[],"translation":["[地名] [希腊] 卡齐卡斯"],"pos":[],"exchange":["0:katsika","1:s"],"examples":[],"phonetic":""}
 {"word":"Katsina","sw":"katsina","definition":["n. a city in northern Nigeria; a major center of the Hausa people"],"translation":["n. (Katsina)人名；(尼日利)卡齐纳"],"pos":[],"exchange":["s:katsinas"],"examples":[],"phonetic":""}
@@ -3701,7 +3701,7 @@
 {"word":"Katya","sw":"katya","definition":[],"translation":["n. (Katya)人名；(乌克)卡佳"],"pos":[],"exchange":["s:katyas"],"examples":[],"phonetic":""}
 {"word":"katyal","sw":"katyal","definition":[],"translation":["[网络] 卡塔尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katyas","sw":"katyas","definition":[],"translation":["n. (Katya)人名；(乌克)卡佳","(katya 的复数)"],"pos":[],"exchange":["0:katya","1:s"],"examples":[],"phonetic":""}
-{"word":"KatyCat","sw":"katycat","definition":["The name for fans of Katy Perry. Became popular when the Hello Katy tour was announced, but has been in use long before that.","> www.katyperryforum.com- Home of the KatyCats!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"KatyCat","sw":"katycat","definition":["The name for fans of Katy Perry. Became popular when the Hello Katy tour was announced, but has been in use long before that.","> www.katyperryforum.com- Home of the KatyCats!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"KatyCats","sw":"katycats","definition":[],"translation":["[网络] 凯蒂卡茨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katydid","sw":"katydid","definition":["n. large green long-horned grasshopper of North America; males produce shrill sounds by rubbing together special organs on the forewings"],"translation":["n. 美洲大螽斯"],"pos":["n:100"],"exchange":["s:katydids"],"examples":[],"phonetic":"'keitidid"}
 {"word":"katydids","sw":"katydids","definition":["plural of katydid","n. large green long-horned grasshopper of North America; males produce shrill sounds by rubbing together special organs on the forewings"],"translation":["(katydid 的复数) n. 美洲大螽斯"],"pos":[],"exchange":["0:katydid","1:s"],"examples":[],"phonetic":""}
@@ -3712,7 +3712,7 @@
 {"word":"katys","sw":"katys","definition":[],"translation":["[网络] 卡蒂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Katyusha","sw":"katyusha","definition":[],"translation":["<俄>n.卡秋莎(火箭炮)[女子名,昵称]"],"pos":[],"exchange":["s:katyushas"],"examples":[],"phonetic":"kɑ:'tʃu:ʃɑ:"}
 {"word":"katyushas","sw":"katyushas","definition":[],"translation":["[网络] 喀秋莎型"],"pos":[],"exchange":["0:katyusha","1:s"],"examples":[],"phonetic":""}
-{"word":"katywampus","sw":"katywampus","definition":["off kilter or off center.  Crooked not straight or true.","> The dock section is katywampus.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"katywampus","sw":"katywampus","definition":["off kilter or off center.  Crooked not straight or true.","> The dock section is katywampus."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Katz","sw":"katz","definition":[],"translation":["卡茨（人名）"],"pos":[],"exchange":["s:katzs"],"examples":[],"phonetic":""}
 {"word":"Katz formula","sw":"katzformula","definition":[],"translation":["[医] 卡茨氏公式(计算平均血沉率)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"katzav","sw":"katzav","definition":[],"translation":["[网络] 卡塔夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3971,7 +3971,7 @@
 {"word":"kavalla","sw":"kavalla","definition":[],"translation":["[网络] 卡瓦拉；发拉；尼亚波利是现代的卡伐拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kavallari","sw":"kavallari","definition":[],"translation":["[地名] 卡瓦拉里 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kavalo","sw":"kavalo","definition":[],"translation":["[网络] 骑兵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kavals","sw":"kavals","definition":["A guy that can make any girl laugh, smile, or even for fall for them. Trustworthy, sweet, kind, and soo cute. He's the kind of guy that knows how to make you smile when your down, and that will drive 6 hours just to see you for 1, or just call u for no reason. So to conclude this ...hes a SEXY BEAST =)","","","","> Girl : DAYUMMM...thats your kaval, your bf?","> Girlfriend : *cheesin* yuppp, thats him","> Girl : LUCKYYY!!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kavals","sw":"kavals","definition":["A guy that can make any girl laugh, smile, or even for fall for them. Trustworthy, sweet, kind, and soo cute. He's the kind of guy that knows how to make you smile when your down, and that will drive 6 hours just to see you for 1, or just call u for no reason. So to conclude this ...hes a SEXY BEAST =)","","","","> Girl : DAYUMMM...thats your kaval, your bf?","> Girlfriend : *cheesin* yuppp, thats him","> Girl : LUCKYYY!!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kavan","sw":"kavan","definition":[],"translation":["[人名] 卡万"],"pos":[],"exchange":["s:kavans"],"examples":[],"phonetic":""}
 {"word":"Kavanagh","sw":"kavanagh","definition":[],"translation":["卡瓦纳（姓氏）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kavanaugh","sw":"kavanaugh","definition":[],"translation":["[人名] 卡瓦诺"],"pos":[],"exchange":["s:kavanaughs"],"examples":[],"phonetic":""}
@@ -4024,7 +4024,7 @@
 {"word":"Kavitanum","sw":"kavitanum","definition":[],"translation":["维生素K3,甲萘醌亚硫酸氢钠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kavitate","sw":"kavitate","definition":[],"translation":["维生素K5,维他命K5,凝血维生素五"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kavitha","sw":"kavitha","definition":[],"translation":["[网络] 是时他与妻子卡维莎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kavithai","sw":"kavithai","definition":["kavithai (uncountable)","Tamil poetry",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kavithai","sw":"kavithai","definition":["kavithai (uncountable)","Tamil poetry"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kavitine","sw":"kavitine","definition":[],"translation":["维生素K4,乙酰甲萘醌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kavkaz","sw":"kavkaz","definition":[],"translation":["[地名] 高加索(地区)。英语惯用名Caucasus ( 欧亚 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kavkazskaya","sw":"kavkazskaya","definition":[],"translation":["[地名] 高加索斯卡亚 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4083,7 +4083,7 @@
 {"word":"Kawaihoa Point","sw":"kawaihoapoint","definition":[],"translation":["[地名] 卡韦霍阿角 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kawaii","sw":"kawaii","definition":[],"translation":["a. 卡哇伊；好可爱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kawaiily","sw":"kawaiily","definition":[],"translation":["[网络] 可爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kawaiiness","sw":"kawaiiness","definition":["kawaiiness (uncountable)","(chiefly in the context of Japanese culture) The quality of being kawaii; cuteness.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kawaiiness","sw":"kawaiiness","definition":["kawaiiness (uncountable)","(chiefly in the context of Japanese culture) The quality of being kawaii; cuteness."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kawaikini","sw":"kawaikini","definition":[],"translation":["[地名] 卡韦基尼山 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kawailoa Beach","sw":"kawailoabeach","definition":[],"translation":["[地名] 卡韦洛阿比奇 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kawain","sw":"kawain","definition":[],"translation":["[化] 醉椒素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4291,7 +4291,7 @@
 {"word":"Kayeye","sw":"kayeye","definition":[],"translation":["[地名] 卡耶耶 ( 刚(金) )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kayf","sw":"kayf","definition":[],"translation":["n. <俚><谑> = café"],"pos":[],"exchange":[],"examples":[],"phonetic":"keif"}
 {"word":"kayfabe","sw":"kayfabe","definition":[],"translation":["[网络] 折断手臂；炸伤；董与另一位公司所有人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kayfabed","sw":"kayfabed","definition":["kayfabed (not comparable)","(professional  wrestling) Of events within the industry: portrayed as real, and not scripted or staged.","","","kayfabed","simple past tense and past participle of kayfabe.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kayfabed","sw":"kayfabed","definition":["kayfabed (not comparable)","(professional  wrestling) Of events within the industry: portrayed as real, and not scripted or staged.","","","kayfabed","simple past tense and past participle of kayfabe."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kayface","sw":"kayface","definition":[],"translation":["[网络] 表面"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kayhan","sw":"kayhan","definition":[],"translation":["[网络] 世界报；宇宙报；凯汉日报"],"pos":[],"exchange":["s:kayhans"],"examples":[],"phonetic":""}
 {"word":"kayhans","sw":"kayhans","definition":[],"translation":["[网络] 世界报；宇宙报；凯汉日报","(kayhan 的复数)"],"pos":[],"exchange":["0:kayhan","1:s"],"examples":[],"phonetic":""}
@@ -4536,7 +4536,7 @@
 {"word":"kazinol","sw":"kazinol","definition":[],"translation":["构树醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kaziranga National Park","sw":"kaziranganationalpark","definition":[],"translation":["[网络] 加济兰加国家公园；卡济兰加国家公园；卡自然家国家公园"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kazis","sw":"kazis","definition":[],"translation":["[网络] 卡吉斯；德国卡吉斯"],"pos":[],"exchange":["s:kaziss"],"examples":[],"phonetic":""}
-{"word":"Kazislav","sw":"kazislav","definition":["Kazislav","A male given name",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Kazislav","sw":"kazislav","definition":["Kazislav","A male given name"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kaziss","sw":"kaziss","definition":[],"translation":["[网络] 哈萨克斯坦总统战略研究所"],"pos":[],"exchange":["0:kazis","1:s"],"examples":[],"phonetic":""}
 {"word":"Kaziyurt","sw":"kaziyurt","definition":[],"translation":["[地名] 卡济尤尔特 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kazlauskas","sw":"kazlauskas","definition":[],"translation":["[网络] 卡斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4757,7 +4757,7 @@
 {"word":"keahey","sw":"keahey","definition":[],"translation":["[网络] keahhey"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Keahole Airport","sw":"keaholeairport","definition":[],"translation":["[地名] 凯阿霍莱机场 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Keahole Point","sw":"keaholepoint","definition":[],"translation":["[地名] 凯阿霍莱角 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"keak","sw":"keak","definition":["keak (third-person singular simple present keaks, present participle keaking, simple past and past participle keaked)","(archaic) To cackle or laugh.","(Yorkshire) To jerk a limb or tilt the head.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"keak","sw":"keak","definition":["keak (third-person singular simple present keaks, present participle keaking, simple past and past participle keaked)","(archaic) To cackle or laugh.","(Yorkshire) To jerk a limb or tilt the head."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"keal","sw":"keal","definition":[],"translation":["[网络] 度盘照；大卡；召唤师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kealaikahiki Channel","sw":"kealaikahikichannel","definition":[],"translation":["[地名] 凯阿莱卡希基海峡 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kealakekua","sw":"kealakekua","definition":[],"translation":["[地名] [美国] 凯阿拉凯夸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4849,7 +4849,7 @@
 {"word":"keban","sw":"keban","definition":[],"translation":["[地名] [土耳其] 凯班"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kebanbatu","sw":"kebanbatu","definition":[],"translation":["[地名] 克班巴都 ( 印尼 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kebap","sw":"kebap","definition":[],"translation":["[网络] 土耳其烤肉；卡巴；沙威马大评比"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kebaps","sw":"kebaps","definition":["It's an absolutely special Turkish food. It has got different kinds like iskender and adana.","> Adana Kebap is usually really hot and Iskender Kebap is served with yogurt, which is another Turkish food.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kebaps","sw":"kebaps","definition":["It's an absolutely special Turkish food. It has got different kinds like iskender and adana.","> Adana Kebap is usually really hot and Iskender Kebap is served with yogurt, which is another Turkish food."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kebar","sw":"kebar","definition":[],"translation":["[网络] 店外个牌写转转烧鸡肉卷；凯伯自助游指南"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kebara","sw":"kebara","definition":[],"translation":["[网络] 凯巴拉；科马拉洞居；喀巴拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kebaya","sw":"kebaya","definition":[],"translation":["[网络] 巴雅；卡巴雅；雅服"],"pos":[],"exchange":[],"examples":[],"phonetic":"kɪˈbæb"}
@@ -4907,7 +4907,7 @@
 {"word":"kecak","sw":"kecak","definition":[],"translation":["[网络] 凯卡克舞表演；火舞表演；猴子舞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kecak ketjak","sw":"kecakketjak","definition":[],"translation":["克查舞（印尼）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kecapi","sw":"kecapi","definition":[],"translation":["[网络] 查比二弦琴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kecapi suling","sw":"kecapisuling","definition":["kecapi suling (uncountable)","Javan instrumental and improvisational form of music",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kecapi suling","sw":"kecapisuling","definition":["kecapi suling (uncountable)","Javan instrumental and improvisational form of music"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kececiler","sw":"kececiler","definition":[],"translation":["凯切吉莱尔"],"pos":[],"exchange":["s:kececilers"],"examples":[],"phonetic":""}
 {"word":"kececilers","sw":"kececilers","definition":[],"translation":["凯切吉莱尔","(kececiler 的复数)"],"pos":[],"exchange":["0:kececiler","1:s"],"examples":[],"phonetic":""}
 {"word":"Kecel","sw":"kecel","definition":[],"translation":["[地名] 凯采尔 ( 匈 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4921,7 +4921,7 @@
 {"word":"Kechi","sw":"kechi","definition":[],"translation":["[网络] 柯智；科智朗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kechil","sw":"kechil","definition":[],"translation":["[网络] 小的；卡芝尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kechrokampos","sw":"kechrokampos","definition":[],"translation":["[地名] 凯赫罗坎波斯 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Kechror","sw":"kechror","definition":["Kechror","(historical) A town in medieval Armenia in the Gabeghyank canton of the Ayrarat province of Greater Armenia. Its exact location is unknown. Most likely it was located at the site of (or near) the later town of Kechvan in the Kağızman Okrug of the Kars Oblast. The monastery complex Tzarakar was located near Kechror.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Kechror","sw":"kechror","definition":["Kechror","(historical) A town in medieval Armenia in the Gabeghyank canton of the Ayrarat province of Greater Armenia. Its exact location is unknown. Most likely it was located at the site of (or near) the later town of Kechvan in the Kağızman Okrug of the Kars Oblast. The monastery complex Tzarakar was located near Kechror."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kechros","sw":"kechros","definition":[],"translation":["[地名] 凯赫罗斯 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kechter","sw":"kechter","definition":[],"translation":["[网络] 克希特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Kechua","sw":"kechua","definition":["n a member of a South American Indian people in Peru who were formerly the ruling class of the Inca empire","n a community of South American Indians in Peru who were formerly the ruling class of the Incan Empire","n the language of the Quechua which was spoken by the Incas"],"translation":["n. (=quechua)(南美)奇楚亚人[语]"],"pos":[],"exchange":["s:kechuas"],"examples":[],"phonetic":"'ketʃwә"}
@@ -4952,7 +4952,7 @@
 {"word":"kecklings","sw":"kecklings","definition":[],"translation":["n. 包缆绳","v. 饶舌；用绳索包扎（keckle的ing形式）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kɛklɪŋ"}
 {"word":"kecks","sw":"kecks","definition":["plural of keck","v. i. To heave or to retch, as in an effort to vomit.","n. An effort to vomit; queasiness."],"translation":["(keck 的复数) vi. 想吐, 作呕, 极为讨厌"],"pos":[],"exchange":["0:keck","1:s3"],"examples":[],"phonetic":""}
 {"word":"kecksburg","sw":"kecksburg","definition":[],"translation":["[网络] 凯克斯伯格；克斯堡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"kecksy","sw":"kecksy","definition":["kecksy (plural kecksies)","The hollow stalk of an umbelliferous plant, such as the hemlock.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"kecksy","sw":"kecksy","definition":["kecksy (plural kecksies)","The hollow stalk of an umbelliferous plant, such as the hemlock."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kecky","sw":"kecky","definition":[],"translation":["[网络] 凯奇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kecled","sw":"kecled","definition":[],"translation":["具龙骨瓣,具龙骨状突起的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"kecskemet","sw":"kecskemet","definition":[],"translation":["[网络] 凯奇凯梅特；匈牙利凯奇凯梅特；凯奇盖梅特"],"pos":[],"exchange":["s:kecskemets"],"examples":[],"phonetic":""}

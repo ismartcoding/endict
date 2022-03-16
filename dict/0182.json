@@ -521,8 +521,8 @@
 {"word":"estrangles","sw":"estrangles","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrangling","sw":"estrangling","definition":[],"translation":["[网络] 不情愿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estranol","sw":"estranol","definition":[],"translation":["[医] 雌烷醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"estrapade","sw":"estrapade","definition":["estrapade (plural estrapades)","The rearing, plunging, and kicking actions of a horse trying to get rid of its rider.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"estrapades","sw":"estrapades","definition":["estrapades","plural of estrapade",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"estrapade","sw":"estrapade","definition":["estrapade (plural estrapades)","The rearing, plunging, and kicking actions of a horse trying to get rid of its rider."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"estrapades","sw":"estrapades","definition":["estrapades","plural of estrapade"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrapenia","sw":"estrapenia","definition":[],"translation":["胆碱脂酶缺乏"],"pos":[],"exchange":[],"examples":[],"phonetic":",estrә'pi:niә"}
 {"word":"estrapentaene","sw":"estrapentaene","definition":[],"translation":["[医] 五烯甲雌醇核"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrapronicate","sw":"estrapronicate","definition":[],"translation":["烟丙雌二醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -598,7 +598,7 @@
 {"word":"estrilda astrild","sw":"estrildaastrild","definition":[],"translation":["横斑梅花雀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrilda melpoda melpoda","sw":"estrildamelpodamelpoda","definition":[],"translation":["橙颊梅花雀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrildas","sw":"estrildas","definition":[],"translation":["[网络] 梅花雀属；淡蓝梅花雀","(estrilda 的复数)"],"pos":[],"exchange":["0:estrilda","1:s"],"examples":[],"phonetic":""}
-{"word":"estrildid","sw":"estrildid","definition":["estrildid (plural estrildids)","(zoology) Any weaverbird of the family Estrildidae.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"estrildid","sw":"estrildid","definition":["estrildid (plural estrildids)","(zoology) Any weaverbird of the family Estrildidae."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Estrildidae","sw":"estrildidae","definition":[],"translation":["[网络] 梅花雀科；文鸟科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"estrin","sw":"estrin","definition":[],"translation":["n. [生化]雌(甾)酮, 雌激素"],"pos":[],"exchange":["s:estrins"],"examples":[],"phonetic":"'estrin"}
 {"word":"estrin phase","sw":"estrinphase","definition":[],"translation":["[医] 动情增殖期, 增生期"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -898,7 +898,7 @@
 {"word":"et aliae","sw":"etaliae","definition":[],"translation":["[网络] 等等"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"et alibi","sw":"etalibi","definition":[],"translation":["(=and elsewhere)[拉]以及其他地方"],"pos":[],"exchange":[],"examples":[],"phonetic":"et'ælibai"}
 {"word":"et alii","sw":"etalii","definition":[],"translation":["[拉](=and others)以及其他人等"],"pos":[],"exchange":[],"examples":[],"phonetic":"et'æliai"}
-{"word":"et alios","sw":"etalios","definition":["et alios","And others; used of people, unless exclusively of female gender",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌɛt ˈɑːliɒs/"}
+{"word":"et alios","sw":"etalios","definition":["et alios","And others; used of people, unless exclusively of female gender"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌɛt ˈɑːliɒs/"}
 {"word":"et brake","sw":"etbrake","definition":[],"translation":["un. ET型机车制动机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"et cantori a danza","sw":"etcantoriadanza","definition":[],"translation":["通俗乐师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"et cetera","sw":"etcetera","definition":["Alt. of Et caetera"],"translation":["以及其他等等, ...等等"],"pos":[],"exchange":[],"examples":[],"phonetic":"it'setrә"}
@@ -1307,7 +1307,7 @@
 {"word":"eterna","sw":"eterna","definition":[],"translation":["[网络] 绮年华；伊特纳；伊特娜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"eternable","sw":"eternable","definition":[],"translation":["[网络] 永恒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"eternacept","sw":"eternacept","definition":[],"translation":["[网络] 依坦西普"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"eternal","sw":"eternal","definition":["s continuing forever or indefinitely","s tiresomely long; seemingly without end"],"translation":["a. 永恒的, 永远的, 不灭的"],"pos":["j:100"],"exchange":[],"examples":["She's an eternal optimist (= she always expects that the best will happen).","You have my eternal gratitude (= very great gratitude).","To his eternal credit (= very great credit), he never gave up.","Newspapers are simply responding to the eternal fascination of their readers with the private lives of the rich and famous.","I'm tired of your eternal arguments.","The company is engaged in the eternal search for a product that will lead the market.","They swore eternal loyalty to each other.","I’d be eternally grateful if you’d handle it."],"phonetic":"ɪˈtɜːnl|ɪˈtɜːrnl"}
+{"word":"eternal","sw":"eternal","definition":["s continuing forever or indefinitely","s tiresomely long; seemingly without end"],"translation":["a. 永恒的, 永远的, 不灭的"],"pos":["j:100"],"exchange":[],"examples":["She's an eternal optimist (= she always expects that the best will happen).","You have my eternal gratitude (= very great gratitude).","To his eternal credit (= very great credit), he never gave up.","Newspapers are simply responding to the eternal fascination of their readers with the private lives of the rich and famous.","I'm tired of your eternal arguments.","The company is engaged in the eternal search for a product that will lead the market.","They swore eternal loyalty to each other.","I'd be eternally grateful if you'd handle it."],"phonetic":"ɪˈtɜːnl|ɪˈtɜːrnl"}
 {"word":"eternal cities","sw":"eternalcities","definition":[],"translation":["永恒之城；不朽之城（罗马城的别称）"],"pos":[],"exchange":["0:eternal city","1:s"],"examples":[],"phonetic":""}
 {"word":"Eternal City","sw":"eternalcity","definition":[],"translation":["永恒之城；不朽之城（罗马城的别称）"],"pos":[],"exchange":["s:eternal cities"],"examples":[],"phonetic":""}
 {"word":"eternal damnation","sw":"eternaldamnation","definition":[],"translation":["[网络] 永恒的诅咒；诅咒；南木中的永罚"],"pos":[],"exchange":["s:eternal damnations"],"examples":[],"phonetic":""}
@@ -1596,7 +1596,7 @@
 {"word":"ethazole","sw":"ethazole","definition":[],"translation":["[医] 磺胺乙基噻二唑, 球磺胺, 格洛布西德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ethbenzamide","sw":"ethbenzamide","definition":[],"translation":["乙氧苯酰胺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethbete","sw":"ethbete","definition":[],"translation":["[网络] 乙类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ethcathinone","sw":"ethcathinone","definition":["ethcathinone (uncountable)","A stimulant drug of the phenethylamine, amphetamine, and cathinone chemical classes.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ethcathinone","sw":"ethcathinone","definition":["ethcathinone (uncountable)","A stimulant drug of the phenethylamine, amphetamine, and cathinone chemical classes."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethchers","sw":"ethchers","definition":[],"translation":["蚀刻者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ethchlorovynol","sw":"ethchlorovynol","definition":[],"translation":["乙氯戊烯炔醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ethchlorvinol","sw":"ethchlorvinol","definition":[],"translation":["乙氯戊烯炔醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1605,7 +1605,7 @@
 {"word":"ethclorvynol","sw":"ethclorvynol","definition":[],"translation":["乙氯戊烯炔醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethcnoid resins","sw":"ethcnoidresins","definition":[],"translation":["乙型树脂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethe","sw":"ethe","definition":["a. Easy."],"translation":["[地名] [比利时] 埃特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ethea","sw":"ethea","definition":["ethea","plural of ethos",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ethea","sw":"ethea","definition":["ethea","plural of ethos"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethebenecid","sw":"ethebenecid","definition":[],"translation":["[化] 乙磺舒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethedine","sw":"ethedine","definition":[],"translation":["n. ＝ ethylidine"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethekwini","sw":"ethekwini","definition":[],"translation":["[网络] 特克维尼；德班；纳塔尔省特克维尼市政区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1624,7 +1624,7 @@
 {"word":"ethelberta","sw":"ethelberta","definition":[],"translation":["[人名] 埃塞尔伯塔"],"pos":[],"exchange":["s:ethelbertas"],"examples":[],"phonetic":""}
 {"word":"ethelbertas","sw":"ethelbertas","definition":[],"translation":["[人名] 埃塞尔伯塔","(ethelberta 的复数)"],"pos":[],"exchange":["0:ethelberta","1:s"],"examples":[],"phonetic":""}
 {"word":"ethelberts","sw":"ethelberts","definition":[],"translation":["n. 艾塞尔伯特（肯特国王）"],"pos":[],"exchange":["0:ethelbert","1:s"],"examples":[],"phonetic":""}
-{"word":"ethelborn","sw":"ethelborn","definition":["ethelborn (not comparable)","(rare) noble, high-born","","","ethelborn (plural ethelborn)","(rare) a nobleman or noblewoman","(rare, in the plural  \"the ethelborn\") the nobility",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈɛθlbɔːn/"}
+{"word":"ethelborn","sw":"ethelborn","definition":["ethelborn (not comparable)","(rare) noble, high-born","","","ethelborn (plural ethelborn)","(rare) a nobleman or noblewoman","(rare, in the plural  \"the ethelborn\") the nobility"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈɛθlbɔːn/"}
 {"word":"ethelburga","sw":"ethelburga","definition":[],"translation":["[人名] 埃塞尔伯加"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethelda","sw":"ethelda","definition":[],"translation":["n. 艾塞尔达"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Etheldred","sw":"etheldred","definition":[],"translation":["埃塞尔德雷德(女子名)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'eθəl,drəd"}
@@ -1996,7 +1996,7 @@
 {"word":"ethical standard","sw":"ethicalstandard","definition":[],"translation":["伦理标准"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethical standards","sw":"ethicalstandards","definition":[],"translation":["道德标准；伦理标准"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethical system","sw":"ethicalsystem","definition":[],"translation":["[网络] 伦理道德制度；伦理体系；伦理系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ethical Ten Commandments","sw":"ethicaltencommandments","definition":["ethical Ten Commandments","Two of the three lists of religious and moral imperatives called the Ten Commandments which, according to the Hebrew Bible, were given to Moses on Mount Sinai in the form of two stone tablets.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ethical Ten Commandments","sw":"ethicaltencommandments","definition":["ethical Ten Commandments","Two of the three lists of religious and moral imperatives called the Ten Commandments which, according to the Hebrew Bible, were given to Moses on Mount Sinai in the form of two stone tablets."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethical theory","sw":"ethicaltheory","definition":[],"translation":["[网络] 伦理理论；道德理论；道德理論"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethical truth","sw":"ethicaltruth","definition":[],"translation":["诚实；真实"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethical value","sw":"ethicalvalue","definition":[],"translation":["道德价值"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2031,7 +2031,7 @@
 {"word":"ethicology","sw":"ethicology","definition":[],"translation":["[网络] 伦理学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethicon","sw":"ethicon","definition":[],"translation":["[网络] 爱惜康；爱惜康公司；可吸收缝线"],"pos":[],"exchange":["s:ethicons"],"examples":[],"phonetic":""}
 {"word":"ethicons","sw":"ethicons","definition":[],"translation":["[网络] 爱惜康；爱惜康公司；可吸收缝线","(ethicon 的复数)"],"pos":[],"exchange":["0:ethicon","1:s"],"examples":[],"phonetic":""}
-{"word":"ethics","sw":"ethics","definition":["n. the philosophical study of moral values and rules"],"translation":["n. 道德规范","[医] 伦理学"],"pos":["n:100"],"exchange":["0:ethic","1:s"],"examples":["They’re completely lacking in ethics."],"phonetic":"'eθiks"}
+{"word":"ethics","sw":"ethics","definition":["n. the philosophical study of moral values and rules"],"translation":["n. 道德规范","[医] 伦理学"],"pos":["n:100"],"exchange":["0:ethic","1:s"],"examples":["They're completely lacking in ethics."],"phonetic":"'eθiks"}
 {"word":"Ethics and Courtesy Month","sw":"ethicsandcourtesymonth","definition":[],"translation":["文明礼貌月"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethics and morality","sw":"ethicsandmorality","definition":[],"translation":["伦理道德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ethics climate survey","sw":"ethicsclimatesurvey","definition":[],"translation":["伦理气候调查"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4640,7 +4640,7 @@
 {"word":"euagarics","sw":"euagarics","definition":[],"translation":["[网络] 古代"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"euagathis semiflava","sw":"euagathissemiflava","definition":[],"translation":["端褐真径茧蜂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"euagrus formosanus","sw":"euagrusformosanus","definition":[],"translation":["台湾上户蛛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Euahlayi","sw":"euahlayi","definition":["Euahlayi","(plural only) An Australian Aboriginal people of New South Wales.","Their language or dialect.","","","Euahlayi (not comparable)","Of the Euahlayi people or language.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Euahlayi","sw":"euahlayi","definition":["Euahlayi","(plural only) An Australian Aboriginal people of New South Wales.","Their language or dialect.","","","Euahlayi (not comparable)","Of the Euahlayi people or language."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"euallele","sw":"euallele","definition":[],"translation":["优等位基因,真等位基因"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"eualpinol","sw":"eualpinol","definition":[],"translation":["优良姜醇"],"pos":[],"exchange":[],"examples":[],"phonetic":"ju:'ælpai,nɔl"}
 {"word":"euam","sw":"euam","definition":[],"translation":["[网络] 欧莫行政当局；欧盟海关舱单"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

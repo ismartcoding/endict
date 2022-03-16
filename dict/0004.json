@@ -49,7 +49,7 @@
 {"word":"aburaage","sw":"aburaage","definition":[],"translation":["[网络] 油扬；油炸豆腐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aburachan seed","sw":"aburachanseed","definition":[],"translation":["[网络] 阿布拉坎种子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aburachan seeds","sw":"aburachanseeds","definition":[],"translation":["[网络] 无花果种子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aburagiri","sw":"aburagiri","definition":["aburagiri (plural aburagiris)","A large Asian tree, Aleurites moluccana, that produces candlenuts.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aburagiri","sw":"aburagiri","definition":["aburagiri (plural aburagiris)","A large Asian tree, Aleurites moluccana, that produces candlenuts."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aburagiris","sw":"aburagiris","definition":[],"translation":["[网络] 阿格拉吉里斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aburamycin","sw":"aburamycin","definition":[],"translation":["[化] 油霉素; 阿布拉霉素","[医] 阿布拉霉素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aburas","sw":"aburas","definition":[],"translation":["n. 【材料学】大叶帽柱木"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ'bjurə"}
@@ -280,7 +280,7 @@
 {"word":"ABVS","sw":"abvs","definition":[],"translation":["abv.","abbr.","above"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"abW","sw":"abw","definition":[],"translation":["(=actual body weight) 实际体重"],"pos":[],"exchange":[],"examples":[],"phonetic":"30"}
 {"word":"abwa","sw":"abwa","definition":[],"translation":["abbr. Air Base Wallerfield <美国>沃勒菲尔德空军基地（在特立尼达岛）; Associated Business Writers of America 美国商务作家联盟; Association of Accounting Bodies in West Africa 西非会计团体联合会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"abwab","sw":"abwab","definition":["abwab (plural abwabs)","(India) A tax, or impost, levied by a chief on a landowner.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/əbˈwɑːb/"}
+{"word":"abwab","sw":"abwab","definition":["abwab (plural abwabs)","(India) A tax, or impost, levied by a chief on a landowner."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/əbˈwɑːb/"}
 {"word":"abwatt","sw":"abwatt","definition":["n a power unit equal to the power dissipated when 1 abampere flows across a potential difference of 1 abvolt (one ten-thousandth of a milliwatt)"],"translation":["n. [电]电磁瓦(特)"],"pos":[],"exchange":["s:abwatts"],"examples":[],"phonetic":"æb'wɔt"}
 {"word":"abwatts","sw":"abwatts","definition":[],"translation":["[网络] 瓦特"],"pos":[],"exchange":["0:abwatt","1:s"],"examples":[],"phonetic":""}
 {"word":"abwc","sw":"abwc","definition":[],"translation":["abbr. automatic bandwidth control 自动带宽控制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -300,7 +300,7 @@
 {"word":"Abya","sw":"abya","definition":[],"translation":["[地名] 阿比亚 ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Abyad","sw":"abyad","definition":[],"translation":["[网络] 阿比日"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Abyan","sw":"abyan","definition":[],"translation":["阿卜延"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"abydocomist","sw":"abydocomist","definition":["abydocomist (plural abydocomists)","(obsolete) A liar or sycophant who boasts of his falsehood.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/æbɪdəˈkəʊmɪst/"}
+{"word":"abydocomist","sw":"abydocomist","definition":["abydocomist (plural abydocomists)","(obsolete) A liar or sycophant who boasts of his falsehood."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/æbɪdəˈkəʊmɪst/"}
 {"word":"Abydos","sw":"abydos","definition":["n. an ancient Greek colony on the Asiatic side of the Dardanelles; scene of the legend of Hero and Leander"],"translation":["n. 阿拜多斯（小亚细亚古城）；阿比多斯（埃及古城）"],"pos":[],"exchange":["s:abydoss"],"examples":[],"phonetic":"ə'baidɔs"}
 {"word":"abydoss","sw":"abydoss","definition":[],"translation":["阿拜多斯(小亚细亚古城)；阿比多斯(埃及南部古城)"],"pos":[],"exchange":["0:abydos","1:s"],"examples":[],"phonetic":"ə'baidɔs"}
 {"word":"abye","sw":"abye","definition":["v make amends for","v make amends for"],"translation":["v. 赎(罪), 偿"],"pos":[],"exchange":["i:abying","p:abought","3:abys","d:abought"],"examples":[],"phonetic":"ә'bai"}
@@ -872,7 +872,7 @@
 {"word":"acad","sw":"acad","definition":[],"translation":["abbr. 专科院校, 学院（academy）"],"pos":[],"exchange":["s:acads"],"examples":[],"phonetic":""}
 {"word":"acadamies","sw":"acadamies","definition":[],"translation":["[网络] 学院"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academe","sw":"academe","definition":["n the academic world"],"translation":["n. 研究院, 学会(=academy),学术界,学院"],"pos":["n:100"],"exchange":["s:academes"],"examples":[],"phonetic":",ækә'di:m"}
-{"word":"academented","sw":"academented","definition":["academented (comparative more academented, superlative most academented)","(colloquial, derogatory) Representing wrong or harmful views or beliefs that are generally accepted in academia.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"academented","sw":"academented","definition":["academented (comparative more academented, superlative most academented)","(colloquial, derogatory) Representing wrong or harmful views or beliefs that are generally accepted in academia."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academes","sw":"academes","definition":["plural of academe","n the academic world"],"translation":["(academe 的复数) n.研究院, 学会(=academy),学术界,学院"],"pos":[],"exchange":["0:academe","1:s"],"examples":[],"phonetic":""}
 {"word":"academese","sw":"academese","definition":[],"translation":["n. 学术行话, 学术体,学术文章的风格"],"pos":[],"exchange":[],"examples":[],"phonetic":",ækә'di:mi:s"}
 {"word":"Academgorodok","sw":"academgorodok","definition":[],"translation":["<俄>n.(苏联的) 科学城 ( 在西伯利亚 )"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'kædәm,^ɔrә'dɔk"}
@@ -915,7 +915,7 @@
 {"word":"academic body","sw":"academicbody","definition":[],"translation":["[法] 学术团体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academic book","sw":"academicbook","definition":[],"translation":["学术著作"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academic building","sw":"academicbuilding","definition":[],"translation":["[网络] 学术楼；教学楼；教研楼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"academic bulemia","sw":"academicbulemia","definition":["The process of learning or memorizing by rote, subsequently followed by the regurgitation of that knowledge onto an exam answer sheet. Just as with the serious eating disorder, this form of bulemia results in no real retention of substance.","","This term is frequently applied to describe a common practice of young medical students.","","> I can't remember anything that I learned last night. It's like I grabbed the answer sheet, puked out all the answers and forgot everything immediately. I'd say that's academic bulemia.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"academic bulemia","sw":"academicbulemia","definition":["The process of learning or memorizing by rote, subsequently followed by the regurgitation of that knowledge onto an exam answer sheet. Just as with the serious eating disorder, this form of bulemia results in no real retention of substance.","","This term is frequently applied to describe a common practice of young medical students.","","> I can't remember anything that I learned last night. It's like I grabbed the answer sheet, puked out all the answers and forgot everything immediately. I'd say that's academic bulemia."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academic bulimia","sw":"academicbulimia","definition":[],"translation":["[网络] 学术贪食"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academic calendar","sw":"academiccalendar","definition":[],"translation":["校历"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"academic career","sw":"academiccareer","definition":[],"translation":["[网络] 学历；学业；学术生涯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1210,7 +1210,7 @@
 {"word":"acados","sw":"acados","definition":[],"translation":["阿卡多斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acads","sw":"acads","definition":["plural of acad"],"translation":["(acad 的复数) abbr. 专科院校, 学院（academy）"],"pos":[],"exchange":["0:acad","1:s"],"examples":[],"phonetic":""}
 {"word":"Acaena","sw":"acaena","definition":[],"translation":["[网络] 猬莓属；从纽西兰球果；从无瓣蔷薇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acafan","sw":"acafan","definition":["acafan (plural acafans)","(fandom slang) An academic who self-identifies as a member of fandom.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acafan","sw":"acafan","definition":["acafan (plural acafans)","(fandom slang) An academic who self-identifies as a member of fandom."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acah","sw":"acah","definition":[],"translation":["[=autoimmune chronic active hepatitis]自身免疫性慢性活动性肝炎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acahuato","sw":"acahuato","definition":[],"translation":["[地名] 阿卡瓦托 ( 墨 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acai","sw":"acai","definition":[],"translation":["n. 巴西苺，习惯写作：acai berry","n. ACAI（The Application Consultant of AUTO-IDS），自动识别应用顾问"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1236,13 +1236,13 @@
 {"word":"acalcicosis","sw":"acalcicosis","definition":[],"translation":["[医] 缺钙症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalcirosis","sw":"acalcirosis","definition":[],"translation":["缺钙症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalculia","sw":"acalculia","definition":[],"translation":["n. [医]计算力缺失"],"pos":[],"exchange":[],"examples":[],"phonetic":",eikæl'kju:liә"}
-{"word":"acalculiac","sw":"acalculiac","definition":["acalculiac (plural acalculiacs)","One who is unable, as a result of mental disability sometimes caused by brain injury, to employ basic mathematical skills",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acalculiac","sw":"acalculiac","definition":["acalculiac (plural acalculiacs)","One who is unable, as a result of mental disability sometimes caused by brain injury, to employ basic mathematical skills"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalculiacs","sw":"acalculiacs","definition":[],"translation":["[网络] 消化系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalculous","sw":"acalculous","definition":[],"translation":["无结石的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalculous cholecystitis","sw":"acalculouscholecystitis","definition":[],"translation":["无结石胆囊炎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acale","sw":"acale","definition":[],"translation":["[网络] 说不晃动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acaleph","sw":"acaleph","definition":["n. Alt. of Acalephan"],"translation":["n. 水母"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ækәlef"}
-{"word":"Acalepha","sw":"acalepha","definition":["Acalepha","(dated) A group of coelenterates including the jellyfish and sea nettles.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Acalepha","sw":"acalepha","definition":["Acalepha","(dated) A group of coelenterates including the jellyfish and sea nettles."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalephae","sw":"acalephae","definition":[],"translation":["[网络] 有刺激性的海生物；水母类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acalephe","sw":"acalephe","definition":[],"translation":["n. 【动】水母","[网络] 动水母；人工水母"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ'keɪlɪfi:"}
 {"word":"acalephs","sw":"acalephs","definition":["pl.  of Acalephan"],"translation":["n. 水母"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ækəlef"}
@@ -1264,7 +1264,7 @@
 {"word":"acalycine","sw":"acalycine","definition":["a. Alt. of Acalysinous"],"translation":["a. 无花萼的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'kælisin"}
 {"word":"acalycinous","sw":"acalycinous","definition":[],"translation":["a. [植](=acalycine)无花萼的"],"pos":[],"exchange":[],"examples":[],"phonetic":",ækә'lisinәs"}
 {"word":"acalyculate","sw":"acalyculate","definition":[],"translation":["[网络] 阿拉斯加"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acalymmate","sw":"acalymmate","definition":["acalymmate (not comparable)","(palynology) Forming clusters of pollen grains (usually tetrads or polyads) in which the sexines of the respective grains do not merge to form a continuous sheath.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acalymmate","sw":"acalymmate","definition":["acalymmate (not comparable)","(palynology) Forming clusters of pollen grains (usually tetrads or polyads) in which the sexines of the respective grains do not merge to form a continuous sheath."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acalypha","sw":"acalypha","definition":[],"translation":["铁苋（菜）属"],"pos":[],"exchange":["s:acalyphas"],"examples":[],"phonetic":""}
 {"word":"Acalypha acmophylla","sw":"acalyphaacmophylla","definition":[],"translation":["n. 尾叶铁苋菜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acalypha akoensis","sw":"acalyphaakoensis","definition":[],"translation":["n. 屏东铁苋菜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1298,7 +1298,7 @@
 {"word":"acalyptophis peronii","sw":"acalyptophisperonii","definition":[],"translation":["角海蛇；棘刺海蛇；细鳞海蛇；棘眦海蛇, 细鳞海蛇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acalyptrata","sw":"acalyptrata","definition":[],"translation":["[昆] 无翅瓣类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acalyptratae","sw":"acalyptratae","definition":[],"translation":["无翅瓣类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acalyptrate","sw":"acalyptrate","definition":["acalyptrate (comparative more acalyptrate, superlative most acalyptrate)","Of or pertaining to the Acalyptratae group.","","","acalyptrate (plural acalyptrates)","A muscoid fly belonging to the subsection Acalyptratae.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acalyptrate","sw":"acalyptrate","definition":["acalyptrate (comparative more acalyptrate, superlative most acalyptrate)","Of or pertaining to the Acalyptratae group.","","","acalyptrate (plural acalyptrates)","A muscoid fly belonging to the subsection Acalyptratae."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acalyptreatae","sw":"acalyptreatae","definition":[],"translation":["n. = Acalyptratae"],"pos":[],"exchange":[],"examples":[],"phonetic":"ei,kælip'treti:"}
 {"word":"acam","sw":"acam","definition":[],"translation":["abbr. androcam 果蝇钙调蛋白"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acamar","sw":"acamar","definition":[],"translation":["[天]天圆六(波江座W星)"],"pos":[],"exchange":["s:acamars"],"examples":[],"phonetic":"'ækәmә"}
@@ -1342,7 +1342,7 @@
 {"word":"Acanthaceae","sw":"acanthaceae","definition":["n. widely distributed herbs and shrubs and trees; sometimes placed in the order Scrophulariales"],"translation":["爵床科; 爵床科"],"pos":[],"exchange":["s:acanthaceae"],"examples":[],"phonetic":""}
 {"word":"acanthaceaes","sw":"acanthaceaes","definition":[],"translation":["n. [植] 爵床科"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ,kæn'θeisii:"}
 {"word":"acanthaceous","sw":"acanthaceous","definition":["a. Armed with prickles, as a plant.","a. Of, pertaining to, or resembling, the family of","plants of which the acanthus is the type."],"translation":["具刺的, 棘皮的, 有棘的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'kænθәsiәs"}
-{"word":"Acanthad","sw":"acanthad","definition":["Acanthad (plural Acanthads)","A plant that is a member of the Acanthaceae family.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Acanthad","sw":"acanthad","definition":["Acanthad (plural Acanthads)","A plant that is a member of the Acanthaceae family."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthae","sw":"acanthae","definition":[],"translation":["棘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthaesthesia","sw":"acanthaesthesia","definition":[],"translation":["[网络] 感觉异常"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthaglycoside","sw":"acanthaglycoside","definition":[],"translation":["[网络] 糖甙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1518,7 +1518,7 @@
 {"word":"Acanthodina","sw":"acanthodina","definition":[],"translation":["似荆棘牙形石属〔O2〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthodion","sw":"acanthodion","definition":[],"translation":["鞭状毛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthodrilids","sw":"acanthodrilids","definition":[],"translation":["[网络] 偶联物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acanthodriline","sw":"acanthodriline","definition":["acanthodriline (not comparable)","Belonging or related to the Acanthodrilidae family of earthworms.","","","acanthodriline (plural acanthodrilines)","A member of the Acanthodrilidae family.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acanthodriline","sw":"acanthodriline","definition":["acanthodriline (not comparable)","Belonging or related to the Acanthodrilidae family of earthworms.","","","acanthodriline (plural acanthodrilines)","A member of the Acanthodrilidae family."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthodrilines","sw":"acanthodrilines","definition":[],"translation":["[网络] 偶联物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acanthodus","sw":"acanthodus","definition":[],"translation":["荆棘牙形石属〔O1〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthofungus rimosus","sw":"acanthofungusrimosus","definition":[],"translation":["多裂棘囊菌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1680,7 +1680,7 @@
 {"word":"acanthopleura loochooana","sw":"acanthopleuraloochooana","definition":[],"translation":["琉球石鳖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopleura spinosa","sw":"acanthopleuraspinosa","definition":[],"translation":["海胆石鳖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopleura woodwardi","sw":"acanthopleurawoodwardi","definition":[],"translation":["花纹棘石鳖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acanthopod","sw":"acanthopod","definition":["acanthopod","Spiny-footed.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acanthopod","sw":"acanthopod","definition":["acanthopod","Spiny-footed."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopodia","sw":"acanthopodia","definition":[],"translation":["[网络] 棘状伪足；棘刺状伪足"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acanthopodina","sw":"acanthopodina","definition":[],"translation":["棘足亚目"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopodious","sw":"acanthopodious","definition":[],"translation":["[网络] 棘手的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1691,8 +1691,8 @@
 {"word":"Acanthoporella","sw":"acanthoporella","definition":[],"translation":["细刺管苔藓虫属〔Q〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopores","sw":"acanthopores","definition":[],"translation":["n. 【古生物学】刺孔"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'kænθəpɔ:"}
 {"word":"Acanthopsis","sw":"acanthopsis","definition":[],"translation":["[网络] 马头鳅属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acanthopt","sw":"acanthopt","definition":["acanthopt (plural acanthopts)","(ichthyology) A member of the taxonomic superorder of fish, Acanthopterygii.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acanthopteran","sw":"acanthopteran","definition":["acanthopteran (plural acanthopterans)","Alternative form of acanthopterygian","","","acanthopteran (comparative more acanthopteran, superlative most acanthopteran)","Alternative form of acanthopterygian",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acanthopt","sw":"acanthopt","definition":["acanthopt (plural acanthopts)","(ichthyology) A member of the taxonomic superorder of fish, Acanthopterygii."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acanthopteran","sw":"acanthopteran","definition":["acanthopteran (plural acanthopterans)","Alternative form of acanthopterygian","","","acanthopteran (comparative more acanthopteran, superlative most acanthopteran)","Alternative form of acanthopterygian"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopteri","sw":"acanthopteri","definition":["n. pl. A group of teleostean fishes having spiny fins.","See Acanthopterygii."],"translation":["n. 【鱼类】棘鳍类(＝ Acanthopterygii)"],"pos":[],"exchange":[],"examples":[],"phonetic":",ækən'θɔptəri"}
 {"word":"acanthopterous","sw":"acanthopterous","definition":[],"translation":["[网络] 刺激性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acanthopterygian","sw":"acanthopterygian","definition":["n a teleost fish with fins that are supported by sharp inflexible rays"],"translation":["n. 棘鳍类的鱼","a. 棘鳍类的"],"pos":[],"exchange":["s:acanthopterygians"],"examples":[],"phonetic":"'ækәn,θɔptә'ridʒiәn"}
@@ -2014,8 +2014,8 @@
 {"word":"acatenangoes","sw":"acatenangoes","definition":[],"translation":["[地名] 阿卡特南戈 ( 危 )","(acatenango 的复数)"],"pos":[],"exchange":["0:acatenango","1:s"],"examples":[],"phonetic":""}
 {"word":"Acateno","sw":"acateno","definition":[],"translation":["阿卡特诺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acatepec","sw":"acatepec","definition":[],"translation":["[地名] 阿卡特佩克 ( 墨 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acater","sw":"acater","definition":["acater (plural acaters)","(obsolete) caterer",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acaters","sw":"acaters","definition":["When someone is being whiny and think the world is after them. They pretend to be suicidal so people will pity them. They think the whole world revolves around them and that they are the only one's with a problem in their lives.","> Person 1: Man, I hate the world, it sucks! Yesterday I got a flat tire and no one helped me. No one loves me. People wouldn't even noticed if I died.","> Person 2: Oh don't be such a cater",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acater","sw":"acater","definition":["acater (plural acaters)","(obsolete) caterer"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acaters","sw":"acaters","definition":["When someone is being whiny and think the world is after them. They pretend to be suicidal so people will pity them. They think the whole world revolves around them and that they are the only one's with a problem in their lives.","> Person 1: Man, I hate the world, it sucks! Yesterday I got a flat tire and no one helped me. No one loves me. People wouldn't even noticed if I died.","> Person 2: Oh don't be such a cater"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acates","sw":"acates","definition":[],"translation":["[网络] 亚历山大"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acatharsia","sw":"acatharsia","definition":[],"translation":["排泄不能"],"pos":[],"exchange":[],"examples":[],"phonetic":"ækә'θɑ:siә"}
 {"word":"acatharsy","sw":"acatharsy","definition":[],"translation":["[医] 排泄不能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2840,7 +2840,7 @@
 {"word":"accensions","sw":"accensions","definition":[],"translation":["n. accend的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":"ək'senʃən"}
 {"word":"accensor","sw":"accensor","definition":[],"translation":["[网络] 认证机构"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accensors","sw":"accensors","definition":[],"translation":["[网络] 责任人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"accent","sw":"accent","definition":["n. distinctive manner of oral expression","n. a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation"],"translation":["n. 重音, 口音, 特点, 注重点","vt. 重读, 加重音号于, 强调"],"pos":["v:11","n:89"],"exchange":["s:accents","p:accented","i:accenting","d:accented","3:accents"],"examples":["She spoke English with an accent.","The Americans had learned Korean and spoke with a good accent.","In ‘today’ the accent is on the second syllable.","Canapé has an accent on the ‘e’.","In all our products the accent is on quality.","He has a strong southern/Boston accent.","She's French but she speaks with an impeccable English accent.","He speaks with a heavy/strong/thick Australianaccent.","I thought I could detect a slight Canadian accent.","The accent falls on the final syllable.","This season the accent is definitely on long, flowing, romantic clothes.","In any advertising campaign, you must accent the areas where your product is better than the competition.","Accent the first note of every bar.","She spoke with a slight southern accent.","In the word \"government,\" the accent is on the first syllable.","In Spanish, you usually accent the next-to-last syllable."],"phonetic":"ˈæksent|ˈæksent"}
+{"word":"accent","sw":"accent","definition":["n. distinctive manner of oral expression","n. a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation"],"translation":["n. 重音, 口音, 特点, 注重点","vt. 重读, 加重音号于, 强调"],"pos":["v:11","n:89"],"exchange":["s:accents","p:accented","i:accenting","d:accented","3:accents"],"examples":["She spoke English with an accent.","The Americans had learned Korean and spoke with a good accent.","In \"today\" the accent is on the second syllable.","Canapé has an accent on the \"e\".","In all our products the accent is on quality.","He has a strong southern/Boston accent.","She's French but she speaks with an impeccable English accent.","He speaks with a heavy/strong/thick Australianaccent.","I thought I could detect a slight Canadian accent.","The accent falls on the final syllable.","This season the accent is definitely on long, flowing, romantic clothes.","In any advertising campaign, you must accent the areas where your product is better than the competition.","Accent the first note of every bar.","She spoke with a slight southern accent.","In the word \"government,\" the accent is on the first syllable.","In Spanish, you usually accent the next-to-last syllable."],"phonetic":"ˈæksent|ˈæksent"}
 {"word":"accent acute","sw":"accentacute","definition":[],"translation":["[网络] 尖音符"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accent grave","sw":"accentgrave","definition":[],"translation":["[网络] 开音符；音符号；上的音调"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accent light","sw":"accentlight","definition":[],"translation":["加强灯光"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4809,9 +4809,9 @@
 {"word":"accin","sw":"accin","definition":[],"translation":["[网络] 委员会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accinate","sw":"accinate","definition":[],"translation":["[网络] 说明"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accinct","sw":"accinct","definition":[],"translation":["[网络] 相符"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"accinge","sw":"accinge","definition":["accinge (third-person singular simple present accinges, present participle accinging, simple past and past participle accinged)","(reflexive, archaic) To prepare oneself for action.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"accinge","sw":"accinge","definition":["accinge (third-person singular simple present accinges, present participle accinging, simple past and past participle accinged)","(reflexive, archaic) To prepare oneself for action."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accinged","sw":"accinged","definition":[],"translation":["[网络] 加速"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"accinges","sw":"accinges","definition":["accinges","third-person singular simple present indicative form of accinge",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"accinges","sw":"accinges","definition":["accinges","third-person singular simple present indicative form of accinge"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accinging","sw":"accinging","definition":[],"translation":["[网络] 加速"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accio","sw":"accio","definition":[],"translation":["n. (Accio)人名；(法)阿乔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"accion","sw":"accion","definition":[],"translation":["abbr. Americans for Community Cooperation in Other Nations 美国在外的社区合作"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4869,7 +4869,7 @@
 {"word":"acclaimeth","sw":"acclaimeth","definition":[],"translation":["[网络] 赞美"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acclaiming","sw":"acclaiming","definition":["v praise vociferously","v clap one's hands or shout after performances to indicate approval"],"translation":["v. 向…欢呼( acclaim的现在分词 ); 向…喝彩; 称赞…; 欢呼或拥戴（某人）为…"],"pos":[],"exchange":["0:acclaim","1:i"],"examples":[],"phonetic":"əˈkleimɪŋ"}
 {"word":"acclaims","sw":"acclaims","definition":["n enthusiastic approval","v praise vociferously","v clap one's hands or shout after performances to indicate approval"],"translation":["v. 向…欢呼( acclaim的第三人称单数 ); 向…喝彩; 称赞…; 欢呼或拥戴（某人）为…"],"pos":[],"exchange":["0:acclaim","1:s3"],"examples":[],"phonetic":"əˈkleimz"}
-{"word":"acclamate","sw":"acclamate","definition":["acclamate (third-person singular simple present acclamates, present participle acclamating, simple past and past participle acclamated)","(rare) To acclaim.","Misspelling of acclimate.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acclamate","sw":"acclamate","definition":["acclamate (third-person singular simple present acclamates, present participle acclamating, simple past and past participle acclamated)","(rare) To acclaim.","Misspelling of acclimate."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acclamation","sw":"acclamation","definition":["n enthusiastic approval"],"translation":["n. 欢呼, 称赞, 喝彩"],"pos":["n:100"],"exchange":["s:acclamations"],"examples":[],"phonetic":".æklә'meiʃәn"}
 {"word":"acclamations","sw":"acclamations","definition":["plural of acclamation","n enthusiastic approval"],"translation":["(acclamation 的复数) n. 欢呼, 称赞, 喝彩"],"pos":[],"exchange":["0:acclamation","1:s"],"examples":[],"phonetic":""}
 {"word":"acclamator","sw":"acclamator","definition":[],"translation":["[网络] 鼓掌者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

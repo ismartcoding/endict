@@ -482,7 +482,7 @@
 {"word":"Mpila","sw":"mpila","definition":[],"translation":["[地名] 姆皮拉 ( 刚(金) )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mpimbe","sw":"mpimbe","definition":[],"translation":["木平贝丘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mpinga","sw":"mpinga","definition":[],"translation":["[地名] 姆平加 ( 津、赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mpingo","sw":"mpingo","definition":["mpingo","Dalbergia melanoxylon, a small African tree in the family Fabaceae.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mpingo","sw":"mpingo","definition":["mpingo","Dalbergia melanoxylon, a small African tree in the family Fabaceae."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MPIPA","sw":"mpipa","definition":[],"translation":["[=microplaque immunoperoxidase assay]微斑免疫过氧化物酶技术"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MPIPC","sw":"mpipc","definition":[],"translation":["[=oxacillin]苯唑青霉素,苯甲异噁唑青霉素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mpirical temperature scale","sw":"mpiricaltemperaturescale","definition":[],"translation":["经验温标"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -627,7 +627,7 @@
 {"word":"MQSeries","sw":"mqseries","definition":[],"translation":["[网络] 中间件；消息中间件；消息管理器"],"pos":[],"exchange":["0:mqsery","1:s"],"examples":[],"phonetic":""}
 {"word":"MQT","sw":"mqt","definition":[],"translation":["[化] 多量子跃迁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MQTT","sw":"mqtt","definition":[],"translation":["[网络] 列遥测传输(Message Queuing Telemetry Transport)；推送消息；瑙佺瑧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"MQTT-SN","sw":"mqttsn","definition":["MQTT-SN","(programming) Initialism of MQ Telemetry Transport for Sensor Networks (a variation of the MQTT protocol for embedded devices on non-TCP/IP networks.)",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"MQTT-SN","sw":"mqttsn","definition":["MQTT-SN","(programming) Initialism of MQ Telemetry Transport for Sensor Networks (a variation of the MQTT protocol for embedded devices on non-TCP/IP networks.)"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mqw electroabsorption modulator","sw":"mqwelectroabsorptionmodulator","definition":[],"translation":["MQW 电致吸收调变器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mqw modulators","sw":"mqwmodulators","definition":[],"translation":["MQW调变器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MQW semiconductor laser","sw":"mqwsemiconductorlaser","definition":[],"translation":["多量子阱半导体激光器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -791,7 +791,7 @@
 {"word":"mroue","sw":"mroue","definition":[],"translation":["[网络] 路线"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mroueh","sw":"mroueh","definition":[],"translation":["穆鲁韦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mrouter","sw":"mrouter","definition":[],"translation":["多播路由程序"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mrow","sw":"mrow","definition":[],"translation":["mrow","The sound of a cat, midway between a meow and a purr or growl.",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mrow","sw":"mrow","definition":[],"translation":["mrow","The sound of a cat, midway between a meow and a purr or growl."],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mroz","sw":"mroz","definition":[],"translation":["[人名] 姆罗茨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mrozek","sw":"mrozek","definition":[],"translation":["n. (Mrozek)人名；(德)姆罗策克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mrp","sw":"mrp","definition":[],"translation":["abbr. 物资需求计划（material requirements planning）；制造资源计划（manufacturing resource planning）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1682,7 +1682,7 @@
 {"word":"much still less","sw":"muchstillless","definition":[],"translation":["conj. 更不用说(何况)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"much the same","sw":"muchthesame","definition":[],"translation":["[经] 几乎相同, 大致一样"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"much time","sw":"muchtime","definition":[],"translation":["很多的时间"],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌtʃ taim"}
-{"word":"much to be said","sw":"muchtobesaid","definition":["much to be said","Used to assert the defensibility or advisability of what follows.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"much to be said","sw":"muchtobesaid","definition":["much to be said","Used to assert the defensibility or advisability of what follows."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"much to my regret","sw":"muchtomyregret","definition":[],"translation":["深感遗憾,非常抱歉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"much to our regret","sw":"muchtoourregret","definition":[],"translation":["我们很遗憾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"much too","sw":"muchtoo","definition":[],"translation":["太,过分,非常"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1986,7 +1986,7 @@
 {"word":"mucke","sw":"mucke","definition":[],"translation":["[网络] 穆克；蚊子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucked","sw":"mucked","definition":["v remove muck, clear away muck, as in a mine","v spread manure, as for fertilization","v soil with mud, muck, or mire"],"translation":["v. 施粪肥于…( muck的过去式和过去分词 )"],"pos":[],"exchange":["0:muck","1:dp"],"examples":[],"phonetic":"mʌkt"}
 {"word":"mucked about","sw":"muckedabout","definition":[],"translation":["闲荡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mucked around","sw":"muckedaround","definition":["1) A sexual connotation, i.e., fooled around in bed.","","2) Fooled around in a friendly, non-sexual way.","> 1) We mucked around all night.","> 2) We mucked around all night.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mucked around","sw":"muckedaround","definition":["1) A sexual connotation, i.e., fooled around in bed.","","2) Fooled around in a friendly, non-sexual way.","> 1) We mucked around all night.","> 2) We mucked around all night."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucked in","sw":"muckedin","definition":[],"translation":["一起干活；吃（饭）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucked out","sw":"muckedout","definition":[],"translation":["v. 学习；清扫；打扫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucked up","sw":"muckedup","definition":[],"translation":["na. 弄坏；搞乱；清除(污物)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2014,7 +2014,7 @@
 {"word":"muckety muck","sw":"mucketymuck","definition":[],"translation":["[网络] 肥沃的垃圾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muckety mucks","sw":"mucketymucks","definition":[],"translation":["[网络] 垃圾粉碎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muckety-muck","sw":"mucketymuck","definition":[],"translation":["n. 有势力的人物, 大亨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muckety-mucks","sw":"mucketymucks","definition":["taken from Merriam-Webster Dictionary, evolved from Chinook Indians. They first used a form of muckety-muck meaning an arrogant, self-important person, \"high-muck-a-muck.\"","> Man, those [frattastic] muckety-mucks really [harsh my mellow]. Their parties are so [bernie]. I'm [swayze].",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muckety-mucks","sw":"mucketymucks","definition":["taken from Merriam-Webster Dictionary, evolved from Chinook Indians. They first used a form of muckety-muck meaning an arrogant, self-important person, \"high-muck-a-muck.\"","> Man, those [frattastic] muckety-mucks really [harsh my mellow]. Their parties are so [bernie]. I'm [swayze]."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muckheap","sw":"muckheap","definition":["n a heap of dung or refuse"],"translation":["n. 粪堆"],"pos":[],"exchange":["s:muckheaps"],"examples":[],"phonetic":"'mʌkhi:p"}
 {"word":"muckheaps","sw":"muckheaps","definition":[],"translation":["n. 粪堆","[网络] 粪堆和渣土堆"],"pos":[],"exchange":["0:muckheap","1:s"],"examples":[],"phonetic":""}
 {"word":"muckhill","sw":"muckhill","definition":["n a heap of dung or refuse"],"translation":["n. 粪堆"],"pos":[],"exchange":["s:muckhills"],"examples":[],"phonetic":"'mʌkhil"}
@@ -2574,7 +2574,7 @@
 {"word":"mucros","sw":"mucros","definition":[],"translation":["n. 【动,植】短尖头；端节；锐突","[网络] 微突起；销售药物；毛霉属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mucrospirifer","sw":"mucrospirifer","definition":[],"translation":["尖翼石燕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucsarnok","sw":"mucsarnok","definition":[],"translation":["[网络] 艺术展览馆；现代美术馆；艺术宫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"MUCTC","sw":"muctc","definition":["MUCTC","(transport) the Montreal Urban Community Transit Corporation — the public transit corporation for the Montreal Urban Community; it was replaced by the MTC in 2002, it replaced the Montreal Urban Community Transit Commission in 1985.","(transport) the Montreal Urban Community Transit Commission — the public transit commission for the Montreal Urban Community; it was replaced by the Montreal Urban Community Transit Corporation in 1985, it replaced the MTC in 1970.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"MUCTC","sw":"muctc","definition":["MUCTC","(transport) the Montreal Urban Community Transit Corporation — the public transit corporation for the Montreal Urban Community; it was replaced by the MTC in 2002, it replaced the Montreal Urban Community Transit Commission in 1985.","(transport) the Montreal Urban Community Transit Commission — the public transit commission for the Montreal Urban Community; it was replaced by the Montreal Urban Community Transit Corporation in 1985, it replaced the MTC in 1970."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucuadenine","sw":"mucuadenine","definition":[],"translation":["油麻藤狄宁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucuadeninine","sw":"mucuadeninine","definition":[],"translation":["油麻藤尼宁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucuadinine","sw":"mucuadinine","definition":[],"translation":["油麻藤狄宁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2635,7 +2635,7 @@
 {"word":"mucus plug","sw":"mucusplug","definition":[],"translation":["[医]粘液栓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucus sheath","sw":"mucussheath","definition":[],"translation":["黏液鞘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucus thread","sw":"mucusthread","definition":[],"translation":["黏液丝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mucus trooper","sw":"mucustrooper","definition":["An inconsiderate bastard who insists on coming to work with a cold or flu, thus infecting the rest of the workforce","> I wouldn't have got this cold if he wasn't such a mucus trooper",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mucus trooper","sw":"mucustrooper","definition":["An inconsiderate bastard who insists on coming to work with a cold or flu, thus infecting the rest of the workforce","> I wouldn't have got this cold if he wasn't such a mucus trooper"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucusless","sw":"mucusless","definition":[],"translation":["[网络] 无粘液"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mucuss","sw":"mucuss","definition":[],"translation":["mucus","['mju:kəs]","n.","【生物学】(由黏膜分泌的)黏液"],"pos":[],"exchange":["0:mucus","1:s"],"examples":[],"phonetic":"'mjuːkəs"}
 {"word":"Mucusso","sw":"mucusso","definition":[],"translation":["[地名] 穆库索 ( 安哥 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2751,13 +2751,13 @@
 {"word":"mud drilling","sw":"muddrilling","definition":[],"translation":["泥浆冲洗钻进"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud drum","sw":"muddrum","definition":[],"translation":["泥包;炉底锅筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud drums","sw":"muddrums","definition":[],"translation":["[动力] 炉底锅筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mud duck","sw":"mudduck","definition":["A female with less than admirable attributes","> That bitch is a mud duck.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mud ducks","sw":"mudducks","definition":["A female with less than admirable attributes","> That bitch is a mud duck.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mud duck","sw":"mudduck","definition":["A female with less than admirable attributes","> That bitch is a mud duck."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mud ducks","sw":"mudducks","definition":["A female with less than admirable attributes","> That bitch is a mud duck."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud dumping area","sw":"muddumpingarea","definition":[],"translation":["抛泥区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud eaters","sw":"mudeaters","definition":[],"translation":["食泥动物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud eel","sw":"mudeel","definition":[],"translation":["鳗螈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud factor movement","sw":"mudfactormovement","definition":[],"translation":["un. 放大系数"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mud fart","sw":"mudfart","definition":["A fart that is released by someone who is sick and has diarrhea. Whomever lets a mud fart will be delighted to find a creamy thick liquid that is somewhat similar to warm mud.","> \"Lilly waddled to the bathroom after letting a huge mud fart\".",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mud fart","sw":"mudfart","definition":["A fart that is released by someone who is sick and has diarrhea. Whomever lets a mud fart will be delighted to find a creamy thick liquid that is somewhat similar to warm mud.","> \"Lilly waddled to the bathroom after letting a huge mud fart\"."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud feeder","sw":"mudfeeder","definition":[],"translation":["食泥动物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud fever","sw":"mudfever","definition":[],"translation":["[医] 沼地热, 泥土热(疟疾或钩端螺旋体病)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud fight","sw":"mudfight","definition":[],"translation":["[网络] 泥中打架；泥浆大战"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2808,7 +2808,7 @@
 {"word":"mud jack","sw":"mudjack","definition":[],"translation":["[矿业] 压浆泵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud jacking","sw":"mudjacking","definition":[],"translation":["[公路] 压浆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud juice","sw":"mudjuice","definition":[],"translation":["泥汁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mud kicker","sw":"mudkicker","definition":["Out-of-date term for prostitute, probably fell out of use in the late 70's. You can often find the term in classic pimp lit, such as Ice Berg Slim, or lesser authors, such as Donald Goines.","> \"I felt great satisfaction from coping another mud kicker.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mud kicker","sw":"mudkicker","definition":["Out-of-date term for prostitute, probably fell out of use in the late 70's. You can often find the term in classic pimp lit, such as Ice Berg Slim, or lesser authors, such as Donald Goines.","> \"I felt great satisfaction from coping another mud kicker.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud kickers","sw":"mudkickers","definition":[],"translation":["[网络] 泥踢球员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud lamp","sw":"mudlamp","definition":[],"translation":["泥火山;泥丘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud land","sw":"mudland","definition":[],"translation":["un. 泥滩","[网络] 低潮时露出的泥岸地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3042,7 +3042,7 @@
 {"word":"mud-star","sw":"mudstar","definition":[],"translation":["泥海星"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud-therapy","sw":"mudtherapy","definition":[],"translation":["[医] 泥[土]疗法"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud-wall","sw":"mudwall","definition":[],"translation":["n. 土墙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mud-wrestle","sw":"mudwrestle","definition":["When two [hot] people do a [throwdown] in mud. Usually afterwards, they have a little fun.","> Dude, why does Christina keep asking me to mud wrestle?","> She wants to have fun with you.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mud-wrestle","sw":"mudwrestle","definition":["When two [hot] people do a [throwdown] in mud. Usually afterwards, they have a little fun.","> Dude, why does Christina keep asking me to mud wrestle?","> She wants to have fun with you."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud-wrestler","sw":"mudwrestler","definition":[],"translation":["[网络] 泥摔跤爱好者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mud-wrestling","sw":"mudwrestling","definition":[],"translation":["[网络] 泥浆摔跤"],"pos":[],"exchange":["s:mud-wrestlings"],"examples":[],"phonetic":""}
 {"word":"mud-wrestlings","sw":"mudwrestlings","definition":[],"translation":["[网络] 泥浆摔跤","(mud-wrestling 的复数)"],"pos":[],"exchange":["0:mud-wrestling","1:s"],"examples":[],"phonetic":""}
@@ -3078,7 +3078,7 @@
 {"word":"mudbrick","sw":"mudbrick","definition":[],"translation":["un. 泥砖","[网络] 德布里克；怀赫科岛酒庄；布莱克"],"pos":[],"exchange":["s:mudbricks"],"examples":[],"phonetic":""}
 {"word":"mudbricks","sw":"mudbricks","definition":[],"translation":["[网络] 泥砖"],"pos":[],"exchange":["0:mudbrick","1:s"],"examples":[],"phonetic":""}
 {"word":"mudbug","sw":"mudbug","definition":[],"translation":["[网络] 泥虫子；土话里把小龙虾叫泥巴虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mudbugging","sw":"mudbugging","definition":["Similar to motorboating, but done between someone's ass cheeks. When someone places their mouth between someone's ass cheeks and then shakes their head violently while making motor sounds with their lips.","","As coined in Episode 86 of the Wheels Off Liberty podcast by one Jamie Crane.","> I've been mudbugging so much that I can't even smell shit anymore!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mudbugging","sw":"mudbugging","definition":["Similar to motorboating, but done between someone's ass cheeks. When someone places their mouth between someone's ass cheeks and then shakes their head violently while making motor sounds with their lips.","","As coined in Episode 86 of the Wheels Off Liberty podcast by one Jamie Crane.","> I've been mudbugging so much that I can't even smell shit anymore!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudbugs","sw":"mudbugs","definition":[],"translation":["[网络] 笨蛋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudcake","sw":"mudcake","definition":[],"translation":["泥皮"],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌd'keɪk"}
 {"word":"mudcaked","sw":"mudcaked","definition":[],"translation":["[网络] 浑浊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3180,7 +3180,7 @@
 {"word":"muddy flesh","sw":"muddyflesh","definition":[],"translation":["肉泥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muddy Gap","sw":"muddygap","definition":[],"translation":["[地名] 马迪加普 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muddy ground","sw":"muddyground","definition":[],"translation":["淤泥地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Muddy Helmet","sw":"muddyhelmet","definition":["The term Muddy Helmet is used in reference to a film residue, coating, paste, or chunks of shit remaining on the head or just below the head of a cock after anal sex.","","This phenomenon results from pounding an anus not fully cleaned of feces.","","The term is often used when speaking of homosexual sex.","","A muddy helmet is sometimes referred to as a \"fag fuck cock collar\" or a \"shit kiss\".","> Hey. I see you are heading out with that little Brazilian faggot Andre. Don't get a muddy helmet.","> Last time you pounded that faggot Andre's ass, you had to use pineapple juice to get the mud off your helmet. What does that little hissy fit queer eat anyway? Motor oil?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Muddy Helmet","sw":"muddyhelmet","definition":["The term Muddy Helmet is used in reference to a film residue, coating, paste, or chunks of shit remaining on the head or just below the head of a cock after anal sex.","","This phenomenon results from pounding an anus not fully cleaned of feces.","","The term is often used when speaking of homosexual sex.","","A muddy helmet is sometimes referred to as a \"fag fuck cock collar\" or a \"shit kiss\".","> Hey. I see you are heading out with that little Brazilian faggot Andre. Don't get a muddy helmet.","> Last time you pounded that faggot Andre's ass, you had to use pineapple juice to get the mud off your helmet. What does that little hissy fit queer eat anyway? Motor oil?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muddy ice","sw":"muddyice","definition":[],"translation":["[网络] 含有泥沙贝壳石等的冰块"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muddy Peak","sw":"muddypeak","definition":[],"translation":["[地名] 马迪峰 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muddy road","sw":"muddyroad","definition":[],"translation":["泥泞道路"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3250,7 +3250,7 @@
 {"word":"mudguarded","sw":"mudguarded","definition":[],"translation":["n.","(汽车、自行车等的)挡泥板 [亦作 mudflap]"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌdgɑːd"}
 {"word":"mudguards","sw":"mudguards","definition":["n. a curved piece above the wheel of a bicycle or motorcycle to protect the rider from water or mud thrown up by the wheels"],"translation":["n. 挡泥板, 汽车的挡泥板( mudguard的复数形式 )"],"pos":[],"exchange":["0:mudguard","1:s"],"examples":[],"phonetic":"ˈmʌdˌɡɑ:dz"}
 {"word":"mudgut","sw":"mudgut","definition":[],"translation":["[网络] 泥肠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mudguts","sw":"mudguts","definition":["a fat person, esp around the guts","> Cheezy poofs will give you mudguts",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mudguts","sw":"mudguts","definition":["a fat person, esp around the guts","> Cheezy poofs will give you mudguts"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudhar","sw":"mudhar","definition":[],"translation":["[网络] 穆达尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudhat","sw":"mudhat","definition":[],"translation":["[网络] 泥浆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudhead","sw":"mudhead","definition":[],"translation":["[网络] 泥头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3299,7 +3299,7 @@
 {"word":"Mudki","sw":"mudki","definition":[],"translation":["[地名] 穆德吉 ( 印 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudkicker","sw":"mudkicker","definition":[],"translation":["[网络] 泥icker"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudkickers","sw":"mudkickers","definition":[],"translation":["[网络] 泥泞者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mudkips","sw":"mudkips","definition":["Mudkips were coolly brought to the 4chan table of love when this story with Copypasta-ed onto the site.","","Today being Halloween, I decided to fuck with the major retard at school when I came out of science for break. He was dressed as Ash. Knowing this was going to happen, I brough a Mudkips doll. Thus I started the conversation, making sure no one saw me.","","\"So I heard you like Mudkips...\" \"Mudkips? I LUUUUUUUUUUUUVE MUDKIPS.\" \"O RLY? So, would you ever fuck a Mudkips, that is..\" (he cuts me off before I could said 'if you were a mudkips') \"OF COURSE.\" \"Well I just happen to have a Mudkips here, and.\"","","Before I finished the sentence, which would have resulted in me hitting him across the face with the doll, he grabbed it. In one swift motion his pants were down and he was violenly humping it. Not to get between a man and his Mudkips I started to walk away, because there is no way I'd be caught wrestling a half-naked crazy guy humping a Mudkips.","","Needles to say, within 5 to 10 seconds, some girls saw him and started screaming. I cooly walked into a restroom, pretending nothing had ever happened; not that I had intended that outcome, but now that it was in play I didn't want to be involved.","","I came back two minutes later, and like any wanton act on school grounds there was now a huge crowd round him. He was still fucking it and baying this real fucked up 'EEEEEEEEEEINNNNF EEEEEEEEEEINNNF' sound. Suddenly a scuffle broke out in the middle, meaning he probably did something stupid.","","I asked someone what had happened. A girlfriend of one of the football players tried to get him to stop, but he bit her for trying to take it away. Someone called in a few football players (all dressed up like Road Warrior) who proceeded to pummel the shit out of the guy. Meanwhile the school police were freaking out and having trouble getting in to the situation.","","A few minutes later the intruder alarm went off and we were shuffled into classrooms. Over the intercom the principal announced that someone had thrown a flaming plush toy into the library. Uh.. what the hell.","","So we were kept there and about 30 minutes later the principal came on again. This time he was saying that whoever was behind the beating should turn themselves in. All of a sudden this woman began yelling \"I WILL SUE YOU FOR DAMAGES. YOU LITTLE PUNKS, I'M GONNA SUE...\" and it was cut off.","","I asked an office later what had happened. Apparently his mother had come to pick him up and threatened to sue for the beating and 'whatever else happened.' The school threatened to counter-sue because of lewd conduct, inciting a riot, and starting a fight.","","So I ask you: do you like Mudkips?","> I hath heardth that thou liketh kips of the mud.","> Mudkips. I heard you like them.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mudkips","sw":"mudkips","definition":["Mudkips were coolly brought to the 4chan table of love when this story with Copypasta-ed onto the site.","","Today being Halloween, I decided to fuck with the major retard at school when I came out of science for break. He was dressed as Ash. Knowing this was going to happen, I brough a Mudkips doll. Thus I started the conversation, making sure no one saw me.","","\"So I heard you like Mudkips...\" \"Mudkips? I LUUUUUUUUUUUUVE MUDKIPS.\" \"O RLY? So, would you ever fuck a Mudkips, that is..\" (he cuts me off before I could said 'if you were a mudkips') \"OF COURSE.\" \"Well I just happen to have a Mudkips here, and.\"","","Before I finished the sentence, which would have resulted in me hitting him across the face with the doll, he grabbed it. In one swift motion his pants were down and he was violenly humping it. Not to get between a man and his Mudkips I started to walk away, because there is no way I'd be caught wrestling a half-naked crazy guy humping a Mudkips.","","Needles to say, within 5 to 10 seconds, some girls saw him and started screaming. I cooly walked into a restroom, pretending nothing had ever happened; not that I had intended that outcome, but now that it was in play I didn't want to be involved.","","I came back two minutes later, and like any wanton act on school grounds there was now a huge crowd round him. He was still fucking it and baying this real fucked up 'EEEEEEEEEEINNNNF EEEEEEEEEEINNNF' sound. Suddenly a scuffle broke out in the middle, meaning he probably did something stupid.","","I asked someone what had happened. A girlfriend of one of the football players tried to get him to stop, but he bit her for trying to take it away. Someone called in a few football players (all dressed up like Road Warrior) who proceeded to pummel the shit out of the guy. Meanwhile the school police were freaking out and having trouble getting in to the situation.","","A few minutes later the intruder alarm went off and we were shuffled into classrooms. Over the intercom the principal announced that someone had thrown a flaming plush toy into the library. Uh.. what the hell.","","So we were kept there and about 30 minutes later the principal came on again. This time he was saying that whoever was behind the beating should turn themselves in. All of a sudden this woman began yelling \"I WILL SUE YOU FOR DAMAGES. YOU LITTLE PUNKS, I'M GONNA SUE...\" and it was cut off.","","I asked an office later what had happened. Apparently his mother had come to pick him up and threatened to sue for the beating and 'whatever else happened.' The school threatened to counter-sue because of lewd conduct, inciting a riot, and starting a fight.","","So I ask you: do you like Mudkips?","> I hath heardth that thou liketh kips of the mud.","> Mudkips. I heard you like them."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudlark","sw":"mudlark","definition":[],"translation":["清沟工人, 掘泥工人"],"pos":[],"exchange":["s:mudlarks"],"examples":[],"phonetic":"'mʌdlɑ:k"}
 {"word":"mudlarker","sw":"mudlarker","definition":[],"translation":["[网络] 泥土"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudlarks","sw":"mudlarks","definition":["-s form of mudlark"],"translation":["(mudlark 的第三人称 -s形式)  清沟工人, 掘泥工人"],"pos":[],"exchange":["0:mudlark","1:3s"],"examples":[],"phonetic":""}
@@ -3358,7 +3358,7 @@
 {"word":"mudscape","sw":"mudscape","definition":[],"translation":["[网络] 泥地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudscapes","sw":"mudscapes","definition":[],"translation":["[网络] 泥scapes"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudscow","sw":"mudscow","definition":[],"translation":["un. 泥驳","[网络] 平底泥驳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mudshark","sw":"mudshark","definition":["A white woman that dates black men, usually because of low self-esteem.","> After being beaten up and turned-out again by Rufus, Cindy realized there is a down side to being a mudshark.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mudshark","sw":"mudshark","definition":["A white woman that dates black men, usually because of low self-esteem.","> After being beaten up and turned-out again by Rufus, Cindy realized there is a down side to being a mudshark."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudsill","sw":"mudsill","definition":["n. The lowest sill of a structure, usually embedded in the","soil; the lowest timber of a house; also, that sill or timber of a","bridge which is laid at the bottom of the water. See Sill."],"translation":["n. 底基"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌdsil"}
 {"word":"mudsills","sw":"mudsills","definition":[],"translation":["n. 底基","[网络] 底梁；排架座木；低贱的人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudskipper","sw":"mudskipper","definition":["n found in tropical coastal regions of Africa and Asia; able to move on land on strong pectoral fins"],"translation":["n. [鱼]弹涂鱼,跳跳鱼,泥猴"],"pos":[],"exchange":["s:mudskippers"],"examples":[],"phonetic":"'mʌd,skipә(r)"}
@@ -3399,7 +3399,7 @@
 {"word":"muduserone","sw":"muduserone","definition":[],"translation":["明杜西酮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muduyyakha","sw":"muduyyakha","definition":[],"translation":["[地名] 穆杜伊亚哈河 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudvayne","sw":"mudvayne","definition":[],"translation":["[网络] 冒犯乐团；超铀元素；冒犯合唱团"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mudville","sw":"mudville","definition":["An unincorporated part of the city of Mt. Prospect. Known for its lawlessness and freedom from cops. The backwater of the whole city. When it rains all of mudville floods and gets all muddy-hence the name.","","Also an underground moonshining business is said to thrive.","","They are trying to build nice houses in the enterance to cover up that mudville is such a shithole.","> George- Yo man I'm headed to mudville today","> Hick- Okay make sure you don't forget your shotgun and boots.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mudville","sw":"mudville","definition":["An unincorporated part of the city of Mt. Prospect. Known for its lawlessness and freedom from cops. The backwater of the whole city. When it rains all of mudville floods and gets all muddy-hence the name.","","Also an underground moonshining business is said to thrive.","","They are trying to build nice houses in the enterance to cover up that mudville is such a shithole.","> George- Yo man I'm headed to mudville today","> Hick- Okay make sure you don't forget your shotgun and boots."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudwall","sw":"mudwall","definition":[],"translation":["un. 土墙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudwalled","sw":"mudwalled","definition":[],"translation":["[网络] 泥墙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mudwalling","sw":"mudwalling","definition":[],"translation":["[网络] 泥石流"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3519,7 +3519,7 @@
 {"word":"muff coupling","sw":"muffcoupling","definition":[],"translation":["[机] 套筒联结器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff coupling joint","sw":"muffcouplingjoint","definition":[],"translation":["筒形万向联轴器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff coupling movement","sw":"muffcouplingmovement","definition":[],"translation":["un. 套筒联轴节"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muff dive","sw":"muffdive","definition":["performing oral sex on a female","> yes matt..you can perform muff dive and rescue tactics on me at your comand",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muff dive","sw":"muffdive","definition":["performing oral sex on a female","> yes matt..you can perform muff dive and rescue tactics on me at your comand"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff diver","sw":"muffdiver","definition":[],"translation":["[网络] 潜水员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff divers","sw":"muffdivers","definition":[],"translation":["[网络] 潜水员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff diving","sw":"muffdiving","definition":[],"translation":["[网络] 睡眠潜水"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3528,8 +3528,8 @@
 {"word":"muff joint","sw":"muffjoint","definition":[],"translation":["套管连接;套筒接头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff pistol","sw":"muffpistol","definition":[],"translation":["[网络] 笨手枪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff pistols","sw":"muffpistols","definition":[],"translation":["[网络] 手套手枪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muff puff","sw":"muffpuff","definition":["n. When the top of ones pussy is fat or \"puffy\" but the girl herself is not.","> Oh my God Sarah, you can totally see your huge muff puff in that swim suit.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muff puffs","sw":"muffpuffs","definition":["n. When the top of ones pussy is fat or \"puffy\" but the girl herself is not.","> Oh my God Sarah, you can totally see your huge muff puff in that swim suit.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muff puff","sw":"muffpuff","definition":["n. When the top of ones pussy is fat or \"puffy\" but the girl herself is not.","> Oh my God Sarah, you can totally see your huge muff puff in that swim suit."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muff puffs","sw":"muffpuffs","definition":["n. When the top of ones pussy is fat or \"puffy\" but the girl herself is not.","> Oh my God Sarah, you can totally see your huge muff puff in that swim suit."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff winder","sw":"muffwinder","definition":[],"translation":["袖笼绞纱机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff-coupling","sw":"muffcoupling","definition":[],"translation":["套接；套筒联结器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muff-diver","sw":"muffdiver","definition":[],"translation":["[网络] 呻吟潜水员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3564,7 +3564,7 @@
 {"word":"muffin tin","sw":"muffintin","definition":[],"translation":["[网络] 松饼模；盛松饼的托儿；玛芬烤盘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muffin top","sw":"muffintop","definition":[],"translation":["n. 肚腩肉"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈmʌfɪn tɔp"}
 {"word":"muffin topped","sw":"muffintopped","definition":[],"translation":["腰部赘肉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muffin topping","sw":"muffintopping","definition":["when a girls random hip fat hangs off over the top of her jeans in an unnapealing manner.","> \"those grade nines are all muffin topping like theres no tomorrow, poor things\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muffin topping","sw":"muffintopping","definition":["when a girls random hip fat hangs off over the top of her jeans in an unnapealing manner.","> \"those grade nines are all muffin topping like theres no tomorrow, poor things\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muffin tops","sw":"muffintops","definition":[],"translation":["[网络] 松饼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muffin-man","sw":"muffinman","definition":[],"translation":["n. 卖松饼者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muffin-pan","sw":"muffinpan","definition":[],"translation":["[网络] 松饼烤盘；松饼进烤箱的器皿；杯形烤盘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3660,7 +3660,7 @@
 {"word":"muffy","sw":"muffy","definition":[],"translation":["[网络] 莫菲；笨笨；马菲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mufle","sw":"mufle","definition":[],"translation":["〈动〉吻端，鼻尖；嘴脸","粗野的(人)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mufler","sw":"mufler","definition":[],"translation":["[网络] 围巾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muflon","sw":"muflon","definition":["muflon (plural muflons)","Alternative form of mouflon",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muflon","sw":"muflon","definition":["muflon (plural muflons)","Alternative form of mouflon"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mufon","sw":"mufon","definition":[],"translation":["abbr. Mutual UFO Network 不明飞行物联合研究网"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MUFs","sw":"mufs","definition":[],"translation":["[网络] 小格子；多用户文件系统"],"pos":[],"exchange":["0:muf","1:s"],"examples":[],"phonetic":""}
 {"word":"mufson","sw":"mufson","definition":[],"translation":["[人名] 穆夫森"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3672,7 +3672,7 @@
 {"word":"mufti days","sw":"muftidays","definition":[],"translation":["[网络] 多天"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muftis","sw":"muftis","definition":["pl.  of Mufti"],"translation":["n. 便服( mufti的名词复数 )"],"pos":[],"exchange":["0:mufti","1:s"],"examples":[],"phonetic":"ˈmʌftiz"}
 {"word":"mufty","sw":"mufty","definition":[],"translation":["[网络] 大主教或穆夫堤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mufugly","sw":"mufugly","definition":["mother fuckin ugly. in addition to the word fugly-fuckin ugly","> need i express an example? it clearly says above mother fuckin ugly. if you konw what a mother is and u konw what fucking means and surly ur crusted face ass kowns what ugly means people ben sayin it to u all ur life-",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mufugly","sw":"mufugly","definition":["mother fuckin ugly. in addition to the word fugly-fuckin ugly","> need i express an example? it clearly says above mother fuckin ugly. if you konw what a mother is and u konw what fucking means and surly ur crusted face ass kowns what ugly means people ben sayin it to u all ur life-"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mufulira","sw":"mufulira","definition":[],"translation":["[地名] [赞比亚] 穆富利拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mufulwa","sw":"mufulwa","definition":[],"translation":["[地名] 穆富卢瓦 ( 刚(金) )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mufulwe Hills","sw":"mufulwehills","definition":[],"translation":["[地名] 穆富卢韦丘陵 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3683,16 +3683,16 @@
 {"word":"mug books","sw":"mugbooks","definition":[],"translation":["[网络] 杯子书"],"pos":[],"exchange":["0:mug book","1:s"],"examples":[],"phonetic":""}
 {"word":"mug cake","sw":"mugcake","definition":[],"translation":["[网络] 杯蛋糕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug cakes","sw":"mugcakes","definition":[],"translation":["[网络] 杯子蛋糕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mug down","sw":"mugdown","definition":["A Texas A&M tradition where you kiss your date every time the Fightin' Texas Aggies score points in a football game","> He got to Mug Down with his date after the Aggies scored the winning touchdown",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mug down","sw":"mugdown","definition":["A Texas A&M tradition where you kiss your date every time the Fightin' Texas Aggies score points in a football game","> He got to Mug Down with his date after the Aggies scored the winning touchdown"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug file","sw":"mugfile","definition":[],"translation":["[网络] mug文件"],"pos":[],"exchange":["s:mug files"],"examples":[],"phonetic":""}
 {"word":"mug files","sw":"mugfiles","definition":[],"translation":["[网络] mug文件","(mug file 的复数)"],"pos":[],"exchange":["0:mug file","1:s"],"examples":[],"phonetic":""}
-{"word":"mug me","sw":"mugme","definition":["the white headphones (sorry earpods) that come with the Apple iPod, a clear indication to any street thief that you own something worth nicking","> \"Hey Clare, can i borrow your spare mugmes, i can't find mine\"","> \"Did you hear Steve got his iPod nicked on the way to work? well that's not a suprise, you can see his mugmes a mile off against his black jacket\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mug me","sw":"mugme","definition":["the white headphones (sorry earpods) that come with the Apple iPod, a clear indication to any street thief that you own something worth nicking","> \"Hey Clare, can i borrow your spare mugmes, i can't find mine\"","> \"Did you hear Steve got his iPod nicked on the way to work? well that's not a suprise, you can see his mugmes a mile off against his black jacket\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug off","sw":"mugoff","definition":[],"translation":["[网络] 马克杯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug people","sw":"mugpeople","definition":[],"translation":["[网络] 行凶抢劫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug shot","sw":"mugshot","definition":[],"translation":["面部照片, 嫌疑犯照片"],"pos":[],"exchange":["s:mug shots"],"examples":[],"phonetic":""}
 {"word":"mug shots","sw":"mugshots","definition":[],"translation":["na. 【摄】特写镜头；面部照片；(警局存查的)嫌疑犯照片","[网络] 相片马克杯；十字绣图稿书-相片马克杯"],"pos":[],"exchange":["0:mug shot","1:s"],"examples":[],"phonetic":""}
 {"word":"mug up","sw":"mugup","definition":[],"translation":["<口>考前赶（功课）"],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌɡ ʌp"}
-{"word":"mug us","sw":"mugus","definition":["A term used by African scam artists (specifically of the [spam] variety) to describe the people they get money from. Literally translated, it means something like \"big idiot.\"","> I've got another five thousand messages from Nigerian losers who think I'm just another mugu.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mug us","sw":"mugus","definition":["A term used by African scam artists (specifically of the [spam] variety) to describe the people they get money from. Literally translated, it means something like \"big idiot.\"","> I've got another five thousand messages from Nigerian losers who think I'm just another mugu."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug-house","sw":"mughouse","definition":[],"translation":["[网络] 杯子屋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug-hunter","sw":"mughunter","definition":[],"translation":["n. 追求奖杯的运动员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mug-hunting","sw":"mughunting","definition":[],"translation":["[网络] 打狩猎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3857,7 +3857,7 @@
 {"word":"mugler","sw":"mugler","definition":[],"translation":["[网络] 穆勒；格勒；泰尼莫格格勒"],"pos":[],"exchange":["s:muglers"],"examples":[],"phonetic":""}
 {"word":"muglers","sw":"muglers","definition":[],"translation":["[网络] 穆勒；格勒；泰尼莫格格勒","(mugler 的复数)"],"pos":[],"exchange":["0:mugler","1:s"],"examples":[],"phonetic":""}
 {"word":"mugless","sw":"mugless","definition":[],"translation":["[网络] 无。。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muglet","sw":"muglet","definition":["Opposite of a mullet.  Where yo is pretty much shaved in th back and long on top.  Its damn ugly.","> Brohanishia:  oh hell no.  Shit.  what the fuck is on top of yo head.  Take that shit off.","> Treynicia:  Damn gurl.  I didn't know it was gonna affect you like that.  I'll be takin it off as soon as possible because I didn't know I would be actin a fool with this raggedy ass haircut.  Sorry gurl.  I gotsta represent a little more next time.","> Both in unison:  YOU KNOW!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muglet","sw":"muglet","definition":["Opposite of a mullet.  Where yo is pretty much shaved in th back and long on top.  Its damn ugly.","> Brohanishia:  oh hell no.  Shit.  what the fuck is on top of yo head.  Take that shit off.","> Treynicia:  Damn gurl.  I didn't know it was gonna affect you like that.  I'll be takin it off as soon as possible because I didn't know I would be actin a fool with this raggedy ass haircut.  Sorry gurl.  I gotsta represent a little more next time.","> Both in unison:  YOU KNOW!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mugly","sw":"mugly","definition":[],"translation":["[网络] 马格利；马格丽；冠毛犬马格丽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mugman","sw":"mugman","definition":[],"translation":["[美俚]照相师"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌ^mәn"}
 {"word":"mugnaini","sw":"mugnaini","definition":[],"translation":["[网络] 穆尼亚伊尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3987,7 +3987,7 @@
 {"word":"muharrem","sw":"muharrem","definition":[],"translation":["n. (Muharrem)人名；(土)穆哈雷姆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muharrum","sw":"muharrum","definition":[],"translation":["[网络] 穆哈拉姆"],"pos":[],"exchange":["s:muharrums"],"examples":[],"phonetic":""}
 {"word":"muharrums","sw":"muharrums","definition":[],"translation":["[网络] 穆哈拉姆","(muharrum 的复数)"],"pos":[],"exchange":["0:muharrum","1:s"],"examples":[],"phonetic":""}
-{"word":"muhassil","sw":"muhassil","definition":["muhassil (plural muhassils)","(now  historical) A senior public official under the Ottoman Empire charged with tax collection.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muhassil","sw":"muhassil","definition":["muhassil (plural muhassils)","(now  historical) A senior public official under the Ottoman Empire charged with tax collection."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muhavura","sw":"muhavura","definition":[],"translation":["[网络] 穆哈武拉；穆哈武拉火山"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muhayfif","sw":"muhayfif","definition":[],"translation":["木海非夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muhayjir","sw":"muhayjir","definition":[],"translation":["木海吉尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4100,7 +4100,7 @@
 {"word":"Muirs","sw":"muirs","definition":["plural of Muir","n. United States naturalist (born in England) who advocated the creation of national parks (1838-1914)"],"translation":["(Muir 的复数) 缪尔"],"pos":[],"exchange":["0:muir","1:s"],"examples":[],"phonetic":""}
 {"word":"muirwood","sw":"muirwood","definition":[],"translation":["[网络] 旧金山红木公园"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muis","sw":"muis","definition":[],"translation":["abbr. 新加坡回教理事会（Majils Ugama Islam Singapura）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"muisak","sw":"muisak","definition":["muisak (plural muisaks)","The soul of a victim of a tsantsa, oftentimes regarded as vengeful",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"muisak","sw":"muisak","definition":["muisak (plural muisaks)","The soul of a victim of a tsantsa, oftentimes regarded as vengeful"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muisca","sw":"muisca","definition":[],"translation":["[网络] 穆伊斯卡；穆伊斯卡人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muise","sw":"muise","definition":[],"translation":["[人名] 缪斯"],"pos":[],"exchange":["s:muises"],"examples":[],"phonetic":""}
 {"word":"muises","sw":"muises","definition":[],"translation":["n. (Muise)人名；(英)缪斯"],"pos":[],"exchange":["0:muise","1:s"],"examples":[],"phonetic":""}
@@ -4122,7 +4122,7 @@
 {"word":"muito","sw":"muito","definition":[],"translation":["[网络] 葡多，许多，大量的；画家王；妹度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muizenberg","sw":"muizenberg","definition":[],"translation":["[网络] 梅森堡；梅曾贝赫；布格"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muj","sw":"muj","definition":[],"translation":["[网络] 熊俊天；日本小姐；糁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mujaddara","sw":"mujaddara","definition":["mujaddara (uncountable)","A traditional Middle Eastern dish of cooked lentils and rice",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/muːˈdʒædəɹə/"}
+{"word":"mujaddara","sw":"mujaddara","definition":["mujaddara (uncountable)","A traditional Middle Eastern dish of cooked lentils and rice"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/muːˈdʒædəɹə/"}
 {"word":"mujadid","sw":"mujadid","definition":[],"translation":["[网络] 改革者"],"pos":[],"exchange":["s:mujadids"],"examples":[],"phonetic":""}
 {"word":"mujadids","sw":"mujadids","definition":[],"translation":["[网络] 改革者","(mujadid 的复数)"],"pos":[],"exchange":["0:mujadid","1:s"],"examples":[],"phonetic":""}
 {"word":"mujahadeen","sw":"mujahadeen","definition":[],"translation":["n. 圣战者组织"],"pos":[],"exchange":["s:mujahadeens"],"examples":[],"phonetic":"muːdʒəheɪ'diːn"}
@@ -4262,7 +4262,7 @@
 {"word":"Mukirengo","sw":"mukirengo","definition":[],"translation":["[地名] 穆基伦戈 ( 坦桑 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mukishi","sw":"mukishi","definition":[],"translation":["[地名] [刚果民主共和国] 穆基希"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mukka","sw":"mukka","definition":[],"translation":["[网络] 乳牛摩卡壶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mukkas","sw":"mukkas","definition":["If you are where I am from anyway Mukka means friends","> Hey Mukka! (Or in a msn name) I love my mukkas!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mukkas","sw":"mukkas","definition":["If you are where I am from anyway Mukka means friends","> Hey Mukka! (Or in a msn name) I love my mukkas!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mukke","sw":"mukke","definition":[],"translation":["穆克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muklek","sw":"muklek","definition":[],"translation":["n. (爱斯基摩人穿的)海豹皮靴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mukluk","sw":"mukluk","definition":[],"translation":["n. 海豹皮靴"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌklʌk"}
@@ -4499,7 +4499,7 @@
 {"word":"mulden press","sw":"muldenpress","definition":[],"translation":["压绒机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muldental","sw":"muldental","definition":[],"translation":["盆谷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulder","sw":"mulder","definition":[],"translation":["n. (Mulder)人名；(荷)米尔德；(英)马尔德；(德、意)穆尔德","马尔德"],"pos":[],"exchange":["s:mulders"],"examples":[],"phonetic":""}
-{"word":"Mulderangst","sw":"mulderangst","definition":["Mulderangst (uncountable)","(X-Files  fandom slang) Emotional distress experienced by the character Fox Mulder.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mulderangst","sw":"mulderangst","definition":["Mulderangst (uncountable)","(X-Files  fandom slang) Emotional distress experienced by the character Fox Mulder."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Muldergate","sw":"muldergate","definition":[],"translation":["[网络] 德门"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulders","sw":"mulders","definition":[],"translation":["马尔德","n. (Mulder)人名；(荷)米尔德；(英)马尔德；(德、意)穆尔德"],"pos":[],"exchange":["0:mulder","1:s"],"examples":[],"phonetic":""}
 {"word":"muldex","sw":"muldex","definition":[],"translation":["n. 复用器"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈmʌldeks"}
@@ -4691,7 +4691,7 @@
 {"word":"mulism","sw":"mulism","definition":[],"translation":["[网络] 牟利主义"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulistage tuning","sw":"mulistagetuning","definition":[],"translation":["多级调整"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulit-articular","sw":"mulitarticular","definition":[],"translation":["[医] 多关节的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mulita","sw":"mulita","definition":["mulita (plural mulitas)","Dasypus hybridus, the southern long-nosed armadillo.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mulita","sw":"mulita","definition":["mulita (plural mulitas)","Dasypus hybridus, the southern long-nosed armadillo."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulitas","sw":"mulitas","definition":[],"translation":["[网络] 辣味豆腐木里塔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"muliter","sw":"muliter","definition":[],"translation":["[网络] 穆利特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mulitilingual","sw":"mulitilingual","definition":[],"translation":["多语言"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4719,7 +4719,7 @@
 {"word":"mull layer","sw":"mulllayer","definition":[],"translation":["腐熟腐殖质层"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mull leaf beds","sw":"mullleafbeds","definition":[],"translation":["腐叶层"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mull of Kintyre","sw":"mullofkintyre","definition":[],"translation":["[网络] 琴泰岬；津泰尔海岬；金泰尔半岛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Mull of Kintyre rule","sw":"mullofkintyrerule","definition":["Mull of Kintyre rule","According to an urban legend, an unofficial guideline used by publishers and the media in the United Kingdom to decide to what degree of erection an image of a man's penis can be shown.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Mull of Kintyre rule","sw":"mullofkintyrerule","definition":["Mull of Kintyre rule","According to an urban legend, an unofficial guideline used by publishers and the media in the United Kingdom to decide to what degree of erection an image of a man's penis can be shown."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mull oil","sw":"mulloil","definition":[],"translation":["研糊油"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mull over","sw":"mullover","definition":[],"translation":["n. 岬, 海角; 认真琢磨, 反复思考"],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌl ˈəuvə"}
 {"word":"mull over something","sw":"mulloversomething","definition":[],"translation":["[网络] 在某事上摸索"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

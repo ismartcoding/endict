@@ -297,7 +297,7 @@
 {"word":"centesimated","sw":"centesimated","definition":[],"translation":["以一儆百","杀鸡儆猴"],"pos":[],"exchange":[],"examples":[],"phonetic":"sen'tesəmeɪt"}
 {"word":"centesimates","sw":"centesimates","definition":[],"translation":["以一儆百","杀鸡儆猴"],"pos":[],"exchange":[],"examples":[],"phonetic":"sen'tesəmeɪt"}
 {"word":"centesimating","sw":"centesimating","definition":[],"translation":["以一儆百","杀鸡儆猴"],"pos":[],"exchange":[],"examples":[],"phonetic":"sen'tesəmeɪt"}
-{"word":"centesimation","sw":"centesimation","definition":["centesimation","(military  historical, rare) The selection by lot of every hundredth man (of an army or group of prisoners or mutineers) for execution.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"sĕn'tēsĭmāʹshən, IPA: /ˌsɛntiːsɪˈmeɪʃən/"}
+{"word":"centesimation","sw":"centesimation","definition":["centesimation","(military  historical, rare) The selection by lot of every hundredth man (of an army or group of prisoners or mutineers) for execution."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"sĕn'tēsĭmāʹshən, IPA: /ˌsɛntiːsɪˈmeɪʃən/"}
 {"word":"centesimi","sw":"centesimi","definition":["n. a fractional monetary unit of several countries: Panama and Italy and Uruguay and Chile"],"translation":["n. 义大利辅币"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centesimo","sw":"centesimo","definition":["n a fractional monetary unit of several countries: Panama and Italy and Uruguay and Chile"],"translation":["n. 意大利钱币名, 巴拿马及乌拉圭之钱币名"],"pos":[],"exchange":["s:centesimoes"],"examples":[],"phonetic":"sen'tesi,mәu"}
 {"word":"centesimoes","sw":"centesimoes","definition":[],"translation":["n. 分（货币单位，为意大利里拉、乌拉圭新比索或巴拿马巴波亚的百分之一）"],"pos":[],"exchange":["0:centesimo","1:s"],"examples":[],"phonetic":"tʃen'tesɪməʊ"}
@@ -370,7 +370,7 @@
 {"word":"centi-weber","sw":"centiweber","definition":[],"translation":["[网络] 百分百"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centi-webers","sw":"centiwebers","definition":[],"translation":["[网络] 百分之百"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centiamp","sw":"centiamp","definition":[],"translation":["[网络] 中心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"centiampere","sw":"centiampere","definition":["centiampere (plural centiamperes)","(metrology) An SI unit of electric current equal to 10−2 amperes. Symbol: cA",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"centiampere","sw":"centiampere","definition":["centiampere (plural centiamperes)","(metrology) An SI unit of electric current equal to 10−2 amperes. Symbol: cA"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centiamps","sw":"centiamps","definition":[],"translation":["[网络] 中心点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centiare","sw":"centiare","definition":["n. See centare."],"translation":["n. 平方米"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sentiєә"}
 {"word":"centiares","sw":"centiares","definition":[],"translation":["[网络] 平方公尺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -420,8 +420,8 @@
 {"word":"centigray","sw":"centigray","definition":[],"translation":["(cGy)厘戈瑞(=0.01 Gy=1 rad)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'senti^rei"}
 {"word":"centigrays","sw":"centigrays","definition":[],"translation":["centigray","n.","【放射学】厘戈瑞(＝0.01Gy)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centihg","sw":"centihg","definition":[],"translation":["[医][=centimeters of mercury]厘米汞柱（表示压力）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sentɪhɡ"}
-{"word":"centikatal","sw":"centikatal","definition":["centikatal (plural centikatals)","(metrology) An SI unit of catalytic activity equal to 10−2 katals. Symbol: c",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"centikatals","sw":"centikatals","definition":["centikatals","plural of centikatal",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"centikatal","sw":"centikatal","definition":["centikatal (plural centikatals)","(metrology) An SI unit of catalytic activity equal to 10−2 katals. Symbol: c"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"centikatals","sw":"centikatals","definition":["centikatals","plural of centikatal"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centilane","sw":"centilane","definition":[],"translation":["[网络] 分巷分巷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centile","sw":"centile","definition":["n (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total"],"translation":["n. 变数区间的百分之一, 百分位数"],"pos":[],"exchange":["s:centiles"],"examples":[],"phonetic":"'sentail, -til"}
 {"word":"centile interval","sw":"centileinterval","definition":[],"translation":["百分位距"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -482,7 +482,7 @@
 {"word":"centimillionaires","sw":"centimillionaires","definition":[],"translation":["n. 亿万富翁"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sentɪ,mɪljə'neə"}
 {"word":"centimo","sw":"centimo","definition":["n. a fractional monetary unit of Venezuela and Costa Rica and Equatorial Guinea and Paraguay and Spain"],"translation":["n. 分(西班牙语系诸国的货币名)"],"pos":[],"exchange":["s:centimoes"],"examples":[],"phonetic":"'senti'mou"}
 {"word":"centimoes","sw":"centimoes","definition":[],"translation":["n. 分（西班牙语系诸国的货币名）"],"pos":[],"exchange":["0:centimo","1:s"],"examples":[],"phonetic":"'sentɪməʊ; 'θentɪmo; 'sen-"}
-{"word":"centimole","sw":"centimole","definition":["centimole (plural centimoles)","(metrology) An SI unit of [[amount of substance]] equal to 10−2 moles. Symbol: cmol",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"centimole","sw":"centimole","definition":["centimole (plural centimoles)","(metrology) An SI unit of [[amount of substance]] equal to 10−2 moles. Symbol: cmol"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centimoles","sw":"centimoles","definition":[],"translation":["[网络] 厘米"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centimorgan","sw":"centimorgan","definition":[],"translation":["[遗]厘摩(基因交换单位)"],"pos":[],"exchange":["s:centimorgans"],"examples":[],"phonetic":"senti'mɔ:^әn"}
 {"word":"centimorgans","sw":"centimorgans","definition":["plural of centimorgan"],"translation":["(centimorgan 的复数) [遗]厘摩(基因交换单位)"],"pos":[],"exchange":["0:centimorgan","1:s"],"examples":[],"phonetic":""}
@@ -2228,7 +2228,7 @@
 {"word":"centrarchids","sw":"centrarchids","definition":[],"translation":["n. 翻车鱼；太阳鱼","(centrarchid 的复数)"],"pos":[],"exchange":["0:centrarchid","1:s"],"examples":[],"phonetic":""}
 {"word":"centrarzne","sw":"centrarzne","definition":[],"translation":["二甲二苯四氮烯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centras","sw":"centras","definition":[],"translation":["n. 中心；中枢（centrum的复数）","n. (Centra)人名；(意)琴特拉"],"pos":[],"exchange":["0:centra","1:s"],"examples":[],"phonetic":"'sɛntrə"}
-{"word":"centrate","sw":"centrate","definition":[],"translation":["n. 离心滤液"],"pos":[],"exchange":[],"examples":[],"phonetic":"‘sentreɪt"}
+{"word":"centrate","sw":"centrate","definition":[],"translation":["n. 离心滤液"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sentreɪt"}
 {"word":"Centratherum","sw":"centratherum","definition":[],"translation":["[网络] 钮扣花属；菲律宾钮扣花属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centratherum punctatum fruticosum","sw":"centratherumpunctatumfruticosum","definition":[],"translation":["菲律宾钮扣花"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centration","sw":"centration","definition":[],"translation":["共轴性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3931,7 +3931,7 @@
 {"word":"centums","sw":"centums","definition":[],"translation":["num. 一百"],"pos":[],"exchange":["0:centum","1:s"],"examples":[],"phonetic":"'sentəm"}
 {"word":"centumvir","sw":"centumvir","definition":[],"translation":["[网络] 百合维"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centumviral","sw":"centumviral","definition":[],"translation":["[网络] 百合病毒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"centumvirate","sw":"centumvirate","definition":["centumvirate (plural centumvirates)","A group of one hundred people, especially (politics) a council of about 100 men who share power or rule, particularly (historical) such a group in ancient Rome.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"centumvirate","sw":"centumvirate","definition":["centumvirate (plural centumvirates)","A group of one hundred people, especially (politics) a council of about 100 men who share power or rule, particularly (historical) such a group in ancient Rome."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centumviri","sw":"centumviri","definition":[],"translation":["[网络] 百官法庭；大审院；百人团"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"centumvirs","sw":"centumvirs","definition":[],"translation":["[网络] 百叶窗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Centunculus","sw":"centunculus","definition":[],"translation":["[网络] 栎属"],"pos":[],"exchange":["s:centunculuss"],"examples":[],"phonetic":""}
@@ -4407,11 +4407,11 @@
 {"word":"cephalonasal","sw":"cephalonasal","definition":[],"translation":["颅鼻的,头鼻的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cephalone","sw":"cephalone","definition":[],"translation":["大头白痴"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sefәlәun"}
 {"word":"cephalonia","sw":"cephalonia","definition":[],"translation":["巨头症"],"pos":[],"exchange":["s:cephalonias"],"examples":[],"phonetic":",sefә'lәuniә"}
-{"word":"Cephalonian","sw":"cephalonian","definition":["Cephalonian (not comparable)","of or from Cephalonia","","","Cephalonian (plural Cephalonians)","someone from Cephalonia",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Cephalonian","sw":"cephalonian","definition":["Cephalonian (not comparable)","of or from Cephalonia","","","Cephalonian (plural Cephalonians)","someone from Cephalonia"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Cephalonians","sw":"cephalonians","definition":[],"translation":["[网络] 头晕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cephalonias","sw":"cephalonias","definition":[],"translation":["Cephalonia","[,sefə'ləuniə]","凯法利尼亚岛(希腊西部)"],"pos":[],"exchange":["0:cephalonia","1:s"],"examples":[],"phonetic":",sɛfə'loniə; ,sɛfə'lonjə"}
 {"word":"cephalonic acid","sw":"cephalonicacid","definition":[],"translation":["[化] 头孢菌酸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Cephaloniot","sw":"cephaloniot","definition":["Cephaloniot (plural Cephaloniots)","A Cephalonian","","","Cephaloniot (not comparable)","Cephalonian",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Cephaloniot","sw":"cephaloniot","definition":["Cephaloniot (plural Cephaloniots)","A Cephalonian","","","Cephaloniot (not comparable)","Cephalonian"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Cephaloniots","sw":"cephaloniots","definition":[],"translation":["[网络] 头颅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cephalonis","sw":"cephalonis","definition":[],"translation":["巨头症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cephalonium","sw":"cephalonium","definition":[],"translation":["头孢罗宁,头孢洛宁,头孢烟酰,烟酰头孢菌素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

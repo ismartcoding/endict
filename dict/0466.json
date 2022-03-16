@@ -191,7 +191,7 @@
 {"word":"rope up","sw":"ropeup","definition":[],"translation":["（两个或两个以上的爬山者）用同一条绳索系在一起"],"pos":[],"exchange":[],"examples":[],"phonetic":"rəup ʌp"}
 {"word":"rope walk","sw":"ropewalk","definition":[],"translation":["[网络] 打索街；投宿在打索街；大顺街"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rope walker","sw":"ropewalker","definition":[],"translation":["走绳索者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"rope wall","sw":"ropewall","definition":["rope wall (plural rope walls)","a type of wall obstacle in obstacle course racing with a flat straight vertical wall and a rope that is used to assist in climbing up the wall, and another rope to assist descending the reverse side of the wall",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"rope wall","sw":"ropewall","definition":["rope wall (plural rope walls)","a type of wall obstacle in obstacle course racing with a flat straight vertical wall and a rope that is used to assist in climbing up the wall, and another rope to assist descending the reverse side of the wall"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rope washer","sw":"ropewasher","definition":[],"translation":["绳状洗涤机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rope washing machine","sw":"ropewashingmachine","definition":[],"translation":["洗绳机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rope wave","sw":"ropewave","definition":[],"translation":["绳波"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2304,7 +2304,7 @@
 {"word":"rosthwaite","sw":"rosthwaite","definition":[],"translation":["[网络] 罗斯维特"],"pos":[],"exchange":["s:rosthwaites"],"examples":[],"phonetic":""}
 {"word":"rosthwaites","sw":"rosthwaites","definition":[],"translation":["[网络] 罗斯维特","(rosthwaite 的复数)"],"pos":[],"exchange":["0:rosthwaite","1:s"],"examples":[],"phonetic":""}
 {"word":"rosti","sw":"rosti","definition":[],"translation":["[网络] 土豆饼；薯饼；吕斯蒂"],"pos":[],"exchange":["s:rosti"],"examples":[],"phonetic":""}
-{"word":"rosticceria","sw":"rosticceria","definition":["rosticceria (plural rosticcerias)","An Italian rotisserie.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"rosticceria","sw":"rosticceria","definition":["rosticceria (plural rosticcerias)","An Italian rotisserie."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostis","sw":"rostis","definition":[],"translation":["[网络] 罗斯蒂斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostislav","sw":"rostislav","definition":[],"translation":["[网络] 罗斯蒂斯拉夫；罗夫号；罗斯提斯拉夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostite","sw":"rostite","definition":[],"translation":["[网络] 玫瑰石"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2391,7 +2391,7 @@
 {"word":"rostro","sw":"rostro","definition":[],"translation":["[网络] 罗斯特罗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rostrocaudal","sw":"rostrocaudal","definition":[],"translation":["首尾"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostroconchs","sw":"rostroconchs","definition":[],"translation":["喙壳类"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"rostrodorsal","sw":"rostrodorsal","definition":["rostrodorsal (not comparable)","(anatomy) Near the back of the beak or of any beak-like projection",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"rostrodorsal","sw":"rostrodorsal","definition":["rostrodorsal (not comparable)","(anatomy) Near the back of the beak or of any beak-like projection"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostrolateral","sw":"rostrolateral","definition":[],"translation":["[网络] 路边"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostrolateral compartment","sw":"rostrolateralcompartment","definition":[],"translation":["吻侧板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rostrolaterally","sw":"rostrolaterally","definition":[],"translation":["[网络] 罗斯特式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2454,7 +2454,7 @@
 {"word":"rosy garden","sw":"rosygarden","definition":[],"translation":["玫瑰园;十分美好的地方,桃园境界"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rosy in the garden","sw":"rosyinthegarden","definition":[],"translation":["十分美好,非常称心如意"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rosy Lee","sw":"rosylee","definition":[],"translation":["[网络] 罗西李"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Rosy Lees","sw":"rosylees","definition":["Rosy Lee is Cockney slang for Tea.","> Cup of Rosy Lee luv?\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Rosy Lees","sw":"rosylees","definition":["Rosy Lee is Cockney slang for Tea.","> Cup of Rosy Lee luv?\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rosy pastor","sw":"rosypastor","definition":[],"translation":["[网络] 玫瑰的牧师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rosy periwinkle","sw":"rosyperiwinkle","definition":[],"translation":["[网络] 长春花；长春花属；长春花属的植物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rosy periwinkles","sw":"rosyperiwinkles","definition":[],"translation":["[网络] 玫瑰色长春花"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4874,13 +4874,13 @@
 {"word":"rotf","sw":"rotf","definition":[],"translation":["[网络] 同系列"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ROTFL","sw":"rotfl","definition":[],"translation":["abbr. Rolling on the Floor Laughing 笑得在地板上打滚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ROTFLMAO","sw":"rotflmao","definition":[],"translation":["捧腹大笑（rolling on the floor laughing my ass off的缩写）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ROTFLMFAO","sw":"rotflmfao","definition":["rolling on the floor laughing my fucking ass off","","usually used in internet interaction, when someone says something funny.","> Person 1:","> I don't have to spellcheck eevrything","> Person 2:","> ROTFLMFAO",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ROTFLMFAOs","sw":"rotflmfaos","definition":["rolling on the floor laughing my fucking ass off","","usually used in internet interaction, when someone says something funny.","> Person 1:","> I don't have to spellcheck eevrything","> Person 2:","> ROTFLMFAO",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ROTFLMFAO","sw":"rotflmfao","definition":["rolling on the floor laughing my fucking ass off","","usually used in internet interaction, when someone says something funny.","> Person 1:","> I don't have to spellcheck eevrything","> Person 2:","> ROTFLMFAO"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ROTFLMFAOs","sw":"rotflmfaos","definition":["rolling on the floor laughing my fucking ass off","","usually used in internet interaction, when someone says something funny.","> Person 1:","> I don't have to spellcheck eevrything","> Person 2:","> ROTFLMFAO"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ROTFLOL","sw":"rotflol","definition":[],"translation":["[网络] 笑得直不起腰(rolling on the floor laughing out loud)；前仰后合放声大笑；在地上打滚狂笑不已"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rotge","sw":"rotge","definition":[],"translation":["[网络] 晕了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rotgesicht","sw":"rotgesicht","definition":[],"translation":["[网络] rotchesicht"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rotgipfler","sw":"rotgipfler","definition":[],"translation":["[网络] 红基夫娜；红其夫娜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"rotglmao","sw":"rotglmao","definition":["Rolling On The Ground Laughing My Ass Off","> ROTGLMAO!! that was so funny!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"rotglmao","sw":"rotglmao","definition":["Rolling On The Ground Laughing My Ass Off","> ROTGLMAO!! that was so funny!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rotgut","sw":"rotgut","definition":["n. any alcoholic beverage of inferior quality"],"translation":["n. 劣质威士忌酒"],"pos":["n:100"],"exchange":["s:rotguts"],"examples":[],"phonetic":"'rɒtgʌt"}
 {"word":"rotguts","sw":"rotguts","definition":[],"translation":["[网络] 萝卜"],"pos":[],"exchange":["0:rotgut","1:s"],"examples":[],"phonetic":""}
 {"word":"roth","sw":"roth","definition":["n. United States writer whose novels portray middle-class Jewish life (born in 1933)"],"translation":["n. 罗斯（姓氏）"],"pos":[],"exchange":["s:roths"],"examples":[],"phonetic":""}
@@ -4896,7 +4896,7 @@
 {"word":"rothays","sw":"rothays","definition":[],"translation":["[网络] 清澈见底的罗瑟河","(rothay 的复数)"],"pos":[],"exchange":["0:rothay","1:s"],"examples":[],"phonetic":""}
 {"word":"rothbard","sw":"rothbard","definition":[],"translation":["[网络] 罗斯巴德；罗思巴德；美国大萧条"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rothbardian","sw":"rothbardian","definition":[],"translation":["[网络] 罗斯巴迪亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Rothbardianism","sw":"rothbardianism","definition":["Rothbardianism (uncountable)","(politics, economics) The political and/or economic philosophy championed by Murray N. Rothbard.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Rothbardianism","sw":"rothbardianism","definition":["Rothbardianism (uncountable)","(politics, economics) The political and/or economic philosophy championed by Murray N. Rothbard."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rothbardians","sw":"rothbardians","definition":[],"translation":["[网络] 罗斯巴第人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rothbart","sw":"rothbart","definition":[],"translation":["[网络] 罗斯巴特；恶徒罗斯巴特；罗特巴特"],"pos":[],"exchange":["s:rothbarts"],"examples":[],"phonetic":""}
 {"word":"rothbarts","sw":"rothbarts","definition":[],"translation":["[网络] 罗斯巴特；恶徒罗斯巴特；罗特巴特","(rothbart 的复数)"],"pos":[],"exchange":["0:rothbart","1:s"],"examples":[],"phonetic":""}
@@ -4910,7 +4910,7 @@
 {"word":"rothchild index of monopoly","sw":"rothchildindexofmonopoly","definition":[],"translation":["独佔的罗斯泰指标"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rothchildren","sw":"rothchildren","definition":[],"translation":["[网络] 罗瑟查尔德；罗斯蔡尔德；罗斯查德","(rothchild 的复数)"],"pos":[],"exchange":["0:rothchild","1:s"],"examples":[],"phonetic":""}
 {"word":"rothe","sw":"rothe","definition":[],"translation":["[人名] 罗思"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Rothed","sw":"rothed","definition":["A way to describe being screwed or taken advantage of by a financial service company. It is believed to have been derived as a result of many investors getting shafted by a California-based brokerage firm called Roth Capital.","> I was rothed by a scumbag broker.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Rothed","sw":"rothed","definition":["A way to describe being screwed or taken advantage of by a financial service company. It is believed to have been derived as a result of many investors getting shafted by a California-based brokerage firm called Roth Capital.","> I was rothed by a scumbag broker."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rothel","sw":"rothel","definition":[],"translation":["罗特尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rothembow","sw":"rothembow","definition":[],"translation":["[网络] 旋转弯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rothemuhle regenerative air preheater","sw":"rothemuhleregenerativeairpreheater","definition":[],"translation":["风罩再生式空气预热器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

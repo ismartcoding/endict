@@ -426,7 +426,7 @@
 {"word":"Ressaca","sw":"ressaca","definition":[],"translation":["[地名] 雷萨卡 ( 巴西 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ressaix","sw":"ressaix","definition":[],"translation":["[地名] 雷赛 ( 比 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ressala","sw":"ressala","definition":[],"translation":["[网络] 雷萨萨拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ressaldar","sw":"ressaldar","definition":["ressaldar (plural ressaldars)","The native captain of an Indian cavalry regiment.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ressaldar","sw":"ressaldar","definition":["ressaldar (plural ressaldars)","The native captain of an Indian cavalry regiment."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ressam","sw":"ressam","definition":[],"translation":["[网络] 画家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ressant","sw":"ressant","definition":[],"translation":["[网络] 反抗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ressaquinha","sw":"ressaquinha","definition":[],"translation":["[地名] 雷萨基尼亚 ( 巴西 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -443,7 +443,7 @@
 {"word":"Resserella","sw":"resserella","definition":[],"translation":["[网络] 雷士贝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Resserops","sw":"resserops","definition":[],"translation":["雷氏虫属〔三叶虫类，C〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Resseta","sw":"resseta","definition":[],"translation":["[地名] 列谢塔河 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ressie","sw":"ressie","definition":["a dedicated fan of “Resident Evil” movies or game","> Magical Milla is marvellous in every role she plays, but the Ressies, understandably, want her to play only Alice, the lead in Resident Evil films.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ressie","sw":"ressie","definition":["a dedicated fan of “Resident Evil” movies or game","> Magical Milla is marvellous in every role she plays, but the Ressies, understandably, want her to play only Alice, the lead in Resident Evil films."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ressler","sw":"ressler","definition":[],"translation":["[人名] 雷斯勒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ressner","sw":"ressner","definition":[],"translation":["[网络] 雷斯纳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ressons","sw":"ressons","definition":[],"translation":["[地名] 雷松 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -500,7 +500,7 @@
 {"word":"rest guiding plate Aker clasp","sw":"restguidingplateakerclasp","definition":[],"translation":["RPA卡环"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rest guiding plate I bar clasp","sw":"restguidingplateibarclasp","definition":[],"translation":["RPI卡环"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rest hardening","sw":"resthardening","definition":[],"translation":["un. 静止硬化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"rest his soul","sw":"resthissoul","definition":["rest his soul","(idiomatic) Used parenthetically to mark the referent as being deceased",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"rest his soul","sw":"resthissoul","definition":["rest his soul","(idiomatic) Used parenthetically to mark the referent as being deceased"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rest home","sw":"resthome","definition":[],"translation":["疗养院"],"pos":[],"exchange":["s:rest homes"],"examples":[],"phonetic":""}
 {"word":"rest homes","sw":"resthomes","definition":[],"translation":["un. 休养所；疗养所；疗养院"],"pos":[],"exchange":["0:rest home","1:s"],"examples":[],"phonetic":""}
 {"word":"rest house","sw":"resthouse","definition":[],"translation":["n. 招待所, 客栈, 休养别墅"],"pos":[],"exchange":["s:rest houses"],"examples":[],"phonetic":"rest haus"}
@@ -614,8 +614,8 @@
 {"word":"restacking","sw":"restacking","definition":[],"translation":["[网络] 改造；重整"],"pos":[],"exchange":["0:restack","1:i"],"examples":[],"phonetic":""}
 {"word":"restacks","sw":"restacks","definition":[],"translation":["[网络] 恢复"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restad","sw":"restad","definition":[],"translation":["[网络] 欧瑞斯塔；雷斯塔；拉斯塔德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"RESTafarian","sw":"restafarian","definition":["RESTafarian (plural RESTafarians)","(computing, informal) A programmer who uses REST (Representational State Transfer).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"restaff","sw":"restaff","definition":["restaff (third-person singular simple present restaffs, present participle restaffing, simple past and past participle restaffed)","(transitive) To staff again or anew; to supply with new employees.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"RESTafarian","sw":"restafarian","definition":["RESTafarian (plural RESTafarians)","(computing, informal) A programmer who uses REST (Representational State Transfer)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"restaff","sw":"restaff","definition":["restaff (third-person singular simple present restaffs, present participle restaffing, simple past and past participle restaffed)","(transitive) To staff again or anew; to supply with new employees."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restaffed","sw":"restaffed","definition":[],"translation":["[网络] 休息"],"pos":[],"exchange":["0:restaff","1:d"],"examples":[],"phonetic":""}
 {"word":"restaffing","sw":"restaffing","definition":[],"translation":["[网络] 休息"],"pos":[],"exchange":["0:restaff","1:i"],"examples":[],"phonetic":""}
 {"word":"restage","sw":"restage","definition":[],"translation":["vt. 重新上演；重演"],"pos":["v:100"],"exchange":[],"examples":[],"phonetic":"ri:'steidʒ"}
@@ -814,7 +814,7 @@
 {"word":"restedness","sw":"restedness","definition":[],"translation":["[网络] 休息"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restek","sw":"restek","definition":[],"translation":["[网络] 力无敌；瑞斯泰克；环境气体采样筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restel","sw":"restel","definition":[],"translation":["布雷斯特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"restem","sw":"restem","definition":["restem (third-person singular simple present restems, present participle restemming, simple past and past participle restemmed)","To force back against the current.","To stem, or move against.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"restem","sw":"restem","definition":["restem (third-person singular simple present restems, present participle restemming, simple past and past participle restemmed)","To force back against the current.","To stem, or move against."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restemmed","sw":"restemmed","definition":[],"translation":["[网络] 重新开始"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restemming","sw":"restemming","definition":[],"translation":["[网络] 重新开始"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restems","sw":"restems","definition":[],"translation":["[网络] 休息"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -887,10 +887,10 @@
 {"word":"restiness","sw":"restiness","definition":[],"translation":["[网络] 宁静"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting","sw":"resting","definition":["v not move; be in a resting position","v take a short break from one's activities in order to relax","v give a rest to","v have a place in relation to something else","v be at rest","v stay the same; remain in a certain state","v be inherent or innate in;","v put something in a resting position, as for support or steadying","v sit, as on a branch","v rest on or as if on a pillow","v be inactive, refrain from acting"],"translation":["a. 静止的；休眠的"],"pos":["j:100"],"exchange":["0:rest","1:i","s:restings"],"examples":[],"phonetic":"'restiŋ"}
 {"word":"resting area","sw":"restingarea","definition":[],"translation":["休息区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"resting asshole face","sw":"restingassholeface","definition":["A person, usually a boy, who naturally looks mean when his face is expressionless, without meaning to.","> Nah, he's just got a resting asshole face, he's actually really cool",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"resting asshole face","sw":"restingassholeface","definition":["A person, usually a boy, who naturally looks mean when his face is expressionless, without meaning to.","> Nah, he's just got a resting asshole face, he's actually really cool"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting bacteria","sw":"restingbacteria","definition":[],"translation":["静止细菌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting barrel","sw":"restingbarrel","definition":[],"translation":["固定滚筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"resting bitch face","sw":"restingbitchface","definition":["a person, usually a girl, who naturally looks mean when her face is expressionless, without meaning to.","> Nah, she's just got a resting bitch face, she's actually really sweet",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"resting bitch face","sw":"restingbitchface","definition":["a person, usually a girl, who naturally looks mean when her face is expressionless, without meaning to.","> Nah, she's just got a resting bitch face, she's actually really sweet"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting bud","sw":"restingbud","definition":[],"translation":["休眠芽,潜伏芽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting cardiac output","sw":"restingcardiacoutput","definition":[],"translation":["静息心排出量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting cell","sw":"restingcell","definition":[],"translation":["静止细胞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -899,7 +899,7 @@
 {"word":"resting contact","sw":"restingcontact","definition":[],"translation":["静止接点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting current","sw":"restingcurrent","definition":[],"translation":["[医] 休止电流"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting cyst","sw":"restingcyst","definition":[],"translation":["休眠包囊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"resting douche face","sw":"restingdoucheface","definition":["similar to the resting bitch face. when a guy just looks like an asshole but hes actually a nice guy with a face of a complete doucher","> Naw dude Aidan's chill, he just has a resting douche face.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"resting douche face","sw":"restingdoucheface","definition":["similar to the resting bitch face. when a guy just looks like an asshole but hes actually a nice guy with a face of a complete doucher","> Naw dude Aidan's chill, he just has a resting douche face."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting egg","sw":"restingegg","definition":[],"translation":["休眠卵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting electric potential","sw":"restingelectricpotential","definition":[],"translation":["静息电位;静息电位"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"resting expiratory level","sw":"restingexpiratorylevel","definition":[],"translation":["安静呼气水平"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1065,7 +1065,7 @@
 {"word":"restless legss","sw":"restlesslegss","definition":[],"translation":["[医] 多动腿(小腿麻痛感,不断活动可以消除)","(restless legs 的复数)"],"pos":[],"exchange":["0:restless legs","1:s"],"examples":[],"phonetic":""}
 {"word":"restless life","sw":"restlesslife","definition":[],"translation":["浮躁不安的生活","不安定生活"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restless limbs","sw":"restlesslimbs","definition":[],"translation":["不宁肢体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Restless Lip Syndrome","sw":"restlesslipsyndrome","definition":["When a person keeps interrupting a conversation and can't keep their mouth shut.","> Chris has to come my house to drink because when we're at his house, Lindas Restless Lip Syndrome prevents us from carrying on a conversation.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Restless Lip Syndrome","sw":"restlesslipsyndrome","definition":["When a person keeps interrupting a conversation and can't keep their mouth shut.","> Chris has to come my house to drink because when we're at his house, Lindas Restless Lip Syndrome prevents us from carrying on a conversation."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restless night","sw":"restlessnight","definition":[],"translation":["[网络] 焦躁不安的夜晚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restless sleep","sw":"restlesssleep","definition":[],"translation":["卧不安"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈrestlis sli:p"}
 {"word":"restless viewer","sw":"restlessviewer","definition":[],"translation":["游离观众"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1411,7 +1411,7 @@
 {"word":"restraints of princes","sw":"restraintsofprinces","definition":[],"translation":["政府的扣押"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restraints of trade","sw":"restraintsoftrade","definition":[],"translation":["n. 贸易管制"],"pos":[],"exchange":["0:restraint of trade","1:s"],"examples":[],"phonetic":""}
 {"word":"restraints on financial budgets","sw":"restraintsonfinancialbudgets","definition":[],"translation":["财务预算约束"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"restrategise","sw":"restrategise","definition":["restrategise (third-person singular simple present restrategises, present participle restrategising, simple past and past participle restrategised)","(intransitive, chiefly Britain) To form a new strategy.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"restrategise","sw":"restrategise","definition":["restrategise (third-person singular simple present restrategises, present participle restrategising, simple past and past participle restrategised)","(intransitive, chiefly Britain) To form a new strategy."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restrategize","sw":"restrategize","definition":[],"translation":["[网络] 遏制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restrategized","sw":"restrategized","definition":[],"translation":["[网络] 遏制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"restrategizes","sw":"restrategizes","definition":[],"translation":["[网络] 遏制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2659,7 +2659,7 @@
 {"word":"ret","sw":"ret","definition":["v. place (flax, hemp, or jute) in liquid so as to promote loosening of the fibers from the woody tissue"],"translation":["vt. 沤软","vi. 受潮湿腐烂","[计] 可靠地面终端"],"pos":["v:100"],"exchange":["s:rets","i:retting","p:retted","3:rets","d:retted"],"examples":[],"phonetic":"ret"}
 {"word":"reta","sw":"reta","definition":[],"translation":["abbr. 制冷工程师与技师协会（Refrigerating Engineers and Technicians Association）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"reta mirabilia","sw":"retamirabilia","definition":[],"translation":["[网络] reta奇迹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retaardvark","sw":"retaardvark","definition":["1. farm raised aardvarks","2. derogatory alternative to typical \"retard\", can be used in the same circumstances.","-related to: morongoose, quailtard","> Stop licking the pavement, you retaardvark",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retaardvark","sw":"retaardvark","definition":["1. farm raised aardvarks","2. derogatory alternative to typical \"retard\", can be used in the same circumstances.","-related to: morongoose, quailtard","> Stop licking the pavement, you retaardvark"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retable","sw":"retable","definition":["n. A shelf behind the altar, for display of lights, vases of","wlowers, etc."],"translation":["n. 组塑,祭坛装饰"],"pos":[],"exchange":["s:retables"],"examples":[],"phonetic":"ri'teibl"}
 {"word":"retabled","sw":"retabled","definition":["past tense of retable","n. A shelf behind the altar, for display of lights, vases of","wlowers, etc."],"translation":["(retable 的过去时) n.组塑,祭坛装饰"],"pos":[],"exchange":["0:retable","1:p"],"examples":[],"phonetic":""}
 {"word":"retables","sw":"retables","definition":["-s form of retable","n. A shelf behind the altar, for display of lights, vases of","wlowers, etc."],"translation":["(retable 的第三人称 -s形式) n.组塑,祭坛装饰"],"pos":[],"exchange":["0:retable","1:s3"],"examples":[],"phonetic":""}
@@ -3139,7 +3139,7 @@
 {"word":"Retalon-lingual","sw":"retalonlingual","definition":[],"translation":["醋酸己烷雌酚,己烷雌酚二醋酸酯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Retama","sw":"retama","definition":[],"translation":["[网络] 缘生决明木；雷塔马"],"pos":[],"exchange":["s:retamas"],"examples":[],"phonetic":""}
 {"word":"Retamal","sw":"retamal","definition":[],"translation":["[地名] 雷塔马尔 ( 西 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retamas","sw":"retamas","definition":["retamas","plural of retama",""],"translation":[],"pos":[],"exchange":["0:retama","1:s"],"examples":[],"phonetic":""}
+{"word":"retamas","sw":"retamas","definition":["retamas","plural of retama"],"translation":[],"pos":[],"exchange":["0:retama","1:s"],"examples":[],"phonetic":""}
 {"word":"Retamin","sw":"retamin","definition":[],"translation":["氯苯丁嗪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retamine","sw":"retamine","definition":[],"translation":["[化] 瑞它明","[医] 鹰爪豆硷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Retamito","sw":"retamito","definition":[],"translation":["[地名] 雷塔米托 ( 阿根 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3152,10 +3152,10 @@
 {"word":"retanning agent","sw":"retanningagent","definition":[],"translation":["[化] 复鞣剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retap","sw":"retap","definition":[],"translation":["[网络] 天线应用部分；三烷基磷酸盐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retapamulin","sw":"retapamulin","definition":[],"translation":["[网络] 瑞他莫林；瑞他莫林软膏；瑞他帕林"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retape","sw":"retape","definition":["retape (third-person singular simple present retapes, present participle retaping, simple past and past participle retaped)","To tape again",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retape","sw":"retape","definition":["retape (third-person singular simple present retapes, present participle retaping, simple past and past participle retaped)","To tape again"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retaped","sw":"retaped","definition":[],"translation":["[网络] 回击"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retapering","sw":"retapering","definition":[],"translation":["修尖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retapes","sw":"retapes","definition":["retapes","third-person singular simple present indicative form of retape",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retapes","sw":"retapes","definition":["retapes","third-person singular simple present indicative form of retape"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retaping","sw":"retaping","definition":[],"translation":["[网络] 元件编带"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retapped","sw":"retapped","definition":[],"translation":["[网络] 打折"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retapping","sw":"retapping","definition":[],"translation":["(桩工的)复打"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3163,7 +3163,7 @@
 {"word":"retarcyl","sw":"retarcyl","definition":[],"translation":["水杨酸吗啉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retard","sw":"retard","definition":["v. cause to move more slowly or operate at a slower rate","v. be delayed"],"translation":["n. 阻止, 延迟","vt. 妨碍, 延迟, 使减速","vi. 减速, 延迟"],"pos":["n:13","v:87"],"exchange":["i:retarding","3:retards","d:retarded","p:retarded","s:retards"],"examples":[],"phonetic":"ri'tɑ:d"}
 {"word":"retard button","sw":"retardbutton","definition":[],"translation":["减速按钮"],"pos":[],"exchange":[],"examples":[],"phonetic":"rɪˈtɑ:d ˈbʌtən"}
-{"word":"retard in aluminum foil","sw":"retardinaluminumfoil","definition":["What a lady's knight in shining armor becomes when she really gets to know him.","> I thought he was my knight in shining armor. Turns out, he was just a retard in aluminum foil!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retard in aluminum foil","sw":"retardinaluminumfoil","definition":["What a lady's knight in shining armor becomes when she really gets to know him.","> I thought he was my knight in shining armor. Turns out, he was just a retard in aluminum foil!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retard position","sw":"retardposition","definition":[],"translation":["延迟点火位置"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retard stop","sw":"retardstop","definition":[],"translation":["延迟挡块"],"pos":[],"exchange":[],"examples":[],"phonetic":"rɪˈtɑ:d stɔp"}
 {"word":"retard the development of potato","sw":"retardthedevelopmentofpotato","definition":[],"translation":["使马铃薯发育迟缓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3400,7 +3400,7 @@
 {"word":"retardments","sw":"retardments","definition":[],"translation":["[网络] 迟钝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Retardo","sw":"retardo","definition":[],"translation":["苯乙双胍,降糖灵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retards","sw":"retards","definition":["n a person of subnormal intelligence","v cause to move more slowly or operate at a slower rate","v be delayed","v slow the growth or development of","v lose velocity; move more slowly"],"translation":["v. 使减速( retard的第三人称单数 ); 妨碍; 阻止; 推迟"],"pos":[],"exchange":["0:retard","1:3"],"examples":[],"phonetic":"rɪˈtɑ:dz"}
-{"word":"retardy","sw":"retardy","definition":["Someone who is continually and repeatedly late or virtually never on time.  Plays on the fact that there is an element of stupidity in frequently being late or \"tardy\" all the time.","> John is retardy.  I can't believe it!  That's been everyday this week that he's been late for class.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retardy","sw":"retardy","definition":["Someone who is continually and repeatedly late or virtually never on time.  Plays on the fact that there is an element of stupidity in frequently being late or \"tardy\" all the time.","> John is retardy.  I can't believe it!  That's been everyday this week that he's been late for class."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retarget","sw":"retarget","definition":[],"translation":["vt. 把…作为新目标（或对象）, 把…指向新目标"],"pos":["v:100"],"exchange":[],"examples":[],"phonetic":"ri'tɑ:ɡit"}
 {"word":"retargetability","sw":"retargetability","definition":[],"translation":["[计] 重定目标机能力"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retargetable","sw":"retargetable","definition":[],"translation":["[计] 可重定目标的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3523,7 +3523,7 @@
 {"word":"reteach","sw":"reteach","definition":[],"translation":["[网络] 教学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"reteaches","sw":"reteaches","definition":[],"translation":["[网络] 教学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"reteaching","sw":"reteaching","definition":[],"translation":["[网络] 再教学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"reteam","sw":"reteam","definition":["reteam (third-person singular simple present reteams, present participle reteaming, simple past and past participle reteamed)","(transitive) To team (two or more people) together again.","(intransitive) To team up again.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"reteam","sw":"reteam","definition":["reteam (third-person singular simple present reteams, present participle reteaming, simple past and past participle reteamed)","(transitive) To team (two or more people) together again.","(intransitive) To team up again."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"reteaming","sw":"reteaming","definition":[],"translation":["[网络] 团队重组；重塑成功团队"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retear","sw":"retear","definition":[],"translation":["[网络] 回复"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retearing","sw":"retearing","definition":[],"translation":["[网络] 退休"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3852,8 +3852,8 @@
 {"word":"rethrowing","sw":"rethrowing","definition":[],"translation":["[网络] 重掷；例外的再提出"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rethrown","sw":"rethrown","definition":[],"translation":["[网络] 被推翻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rethrows","sw":"rethrows","definition":[],"translation":["[网络] 重新抛出"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Rethuglican","sw":"rethuglican","definition":["A Republican who gets into an elected seat and then proceeds to change the laws so each illegal act he or she makes is now legal.","> Tom DeLay blames the liberal media for reports of his illegal acts while House Rethuglican Leader.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Rethuglicans","sw":"rethuglicans","definition":["A Republican who gets into an elected seat and then proceeds to change the laws so each illegal act he or she makes is now legal.","> Tom DeLay blames the liberal media for reports of his illegal acts while House Rethuglican Leader.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Rethuglican","sw":"rethuglican","definition":["A Republican who gets into an elected seat and then proceeds to change the laws so each illegal act he or she makes is now legal.","> Tom DeLay blames the liberal media for reports of his illegal acts while House Rethuglican Leader."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Rethuglicans","sw":"rethuglicans","definition":["A Republican who gets into an elected seat and then proceeds to change the laws so each illegal act he or she makes is now legal.","> Tom DeLay blames the liberal media for reports of his illegal acts while House Rethuglican Leader."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rethunder","sw":"rethunder","definition":[],"translation":["[网络] 重新"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"rethunk","sw":"rethunk","definition":[],"translation":["[网络] 反思"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Rethwisch","sw":"rethwisch","definition":[],"translation":["[地名] 雷特维施 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3873,7 +3873,7 @@
 {"word":"retia venosum dorsale pedis","sw":"retiavenosumdorsalepedis","definition":[],"translation":["[医] 足背静脉网"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retia venosum plantare","sw":"retiavenosumplantare","definition":[],"translation":["[医] 足底静脉网"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retial","sw":"retial","definition":[],"translation":["[医] 网的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retiari","sw":"retiari","definition":["retiari","(nonstandard) plural of retiarius",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retiari","sw":"retiari","definition":["retiari","(nonstandard) plural of retiarius"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retiarian","sw":"retiarian","definition":[],"translation":["[网络] 视讯员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retiaries","sw":"retiaries","definition":[],"translation":["[网络] 保险公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retiarii","sw":"retiarii","definition":[],"translation":["n. (古罗马持三叉戟和网的)角斗士","[网络] 网斗士"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4563,7 +4563,7 @@
 {"word":"retinotopy","sw":"retinotopy","definition":[],"translation":["[网络] 视网膜部位再现"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retinotoxic","sw":"retinotoxic","definition":[],"translation":["毒害视网膜的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retinovascular","sw":"retinovascular","definition":[],"translation":["[网络] 视网膜血管"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retint","sw":"retint","definition":["retint (third-person singular simple present retints, present participle retinting, simple past and past participle retinted)","To tint again.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"retint","sw":"retint","definition":["retint (third-person singular simple present retints, present participle retinting, simple past and past participle retinted)","To tint again."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retinted","sw":"retinted","definition":[],"translation":["[网络] 重新点了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retinue","sw":"retinue","definition":["n the group following and attending to some important person"],"translation":["n. 随行人员, 侍从们"],"pos":["n:100"],"exchange":["s:retinues"],"examples":[],"phonetic":"'retinju:"}
 {"word":"retinued","sw":"retinued","definition":[],"translation":["a. 在随员[待从]簇拥下的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'retinju:d"}
@@ -4831,7 +4831,7 @@
 {"word":"retorquing","sw":"retorquing","definition":[],"translation":["[网络] 退火"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retorsion","sw":"retorsion","definition":["n. Same as Retortion."],"translation":["n. 报复行为"],"pos":[],"exchange":[],"examples":[],"phonetic":"ri'tɔ:ʃәn"}
 {"word":"retorsions","sw":"retorsions","definition":[],"translation":["n. 【法】报复","[网络] 报复行为；反报；报复反驳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"retort","sw":"retort","definition":["n. a vessel where substances are distilled or decomposed by heat","v. answer back"],"translation":["n. 反驳, 顶嘴, 蒸馏器, 曲颈甑","vi. 反驳, 回嘴, 反击","vt. 反击, 反驳, 蒸馏"],"pos":["n:31","v:69"],"exchange":["p:retorted","s:retorts","3:retorts","d:retorted","i:retorting"],"examples":["‘Don't be ridiculous!’ Pat retorted angrily.","Sam retorted that it was my fault as much as his.","\"That doesn't concern you!\" she retorted.","\"I'm going to tell him,\" said Max. \"Just you try!\" came the retort.","Since the 1700s, gas has been made by baking coal in airtight retorts.","On the various shelves were retorts, beakers, distilling tubes, and burners."],"phonetic":"rɪˈtɔːt|rɪˈtɔːrt"}
+{"word":"retort","sw":"retort","definition":["n. a vessel where substances are distilled or decomposed by heat","v. answer back"],"translation":["n. 反驳, 顶嘴, 蒸馏器, 曲颈甑","vi. 反驳, 回嘴, 反击","vt. 反击, 反驳, 蒸馏"],"pos":["n:31","v:69"],"exchange":["p:retorted","s:retorts","3:retorts","d:retorted","i:retorting"],"examples":["\"Don't be ridiculous!\" Pat retorted angrily.","Sam retorted that it was my fault as much as his.","\"That doesn't concern you!\" she retorted.","\"I'm going to tell him,\" said Max. \"Just you try!\" came the retort.","Since the 1700s, gas has been made by baking coal in airtight retorts.","On the various shelves were retorts, beakers, distilling tubes, and burners."],"phonetic":"rɪˈtɔːt|rɪˈtɔːrt"}
 {"word":"retort analysis","sw":"retortanalysis","definition":[],"translation":["固粒合量测定(泥浆)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retort basket","sw":"retortbasket","definition":[],"translation":["杀菌篮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"retort burn","sw":"retortburn","definition":[],"translation":["甑灼, 杀菌灼伤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

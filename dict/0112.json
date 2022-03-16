@@ -525,7 +525,7 @@
 {"word":"comprende","sw":"comprende","definition":[],"translation":["[网络] 理解"],"pos":[],"exchange":["s:comprendes"],"examples":[],"phonetic":""}
 {"word":"comprender","sw":"comprender","definition":[],"translation":["[网络] 了解；肯芬德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"comprendes","sw":"comprendes","definition":[],"translation":["[网络] 理解","(comprende 的复数)"],"pos":[],"exchange":["0:comprende","1:s"],"examples":[],"phonetic":""}
-{"word":"comprendo","sw":"comprendo","definition":["comprendo?","(slang) do you understand?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"comprendo","sw":"comprendo","definition":["comprendo?","(slang) do you understand?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"comprendre","sw":"comprendre","definition":[],"translation":["[网络] 理解；懂；我想弄明白"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"comprends","sw":"comprends","definition":[],"translation":["[网络] 压制"],"pos":[],"exchange":["0:comprend","1:3s"],"examples":[],"phonetic":""}
 {"word":"compreseed iron powder core","sw":"compreseedironpowdercore","definition":[],"translation":["压粉铁心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2264,8 +2264,8 @@
 {"word":"computed velocity","sw":"computedvelocity","definition":[],"translation":["计算速度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computed zenith distance","sw":"computedzenithdistance","definition":[],"translation":["[网络] 计算顶距"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computency","sw":"computency","definition":[],"translation":["n. 对电脑理论和操作的精通，精通计算机"],"pos":[],"exchange":[],"examples":[],"phonetic":"kəm'pju:tənsi"}
-{"word":"computenik","sw":"computenik","definition":["Noun. A computer technician, a geek or a nerd.","> A virus crashed my system but the computenik came round and fixed it.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"computeniks","sw":"computeniks","definition":["Noun. A computer technician, a geek or a nerd.","> A virus crashed my system but the computenik came round and fixed it.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"computenik","sw":"computenik","definition":["Noun. A computer technician, a geek or a nerd.","> A virus crashed my system but the computenik came round and fixed it."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"computeniks","sw":"computeniks","definition":["Noun. A computer technician, a geek or a nerd.","> A virus crashed my system but the computenik came round and fixed it."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computent","sw":"computent","definition":[],"translation":["[网络] 计算"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computer","sw":"computer","definition":["n. a machine for performing calculations automatically"],"translation":["n. 电脑, 电子计算机","[计] 计算机"],"pos":["n:100"],"exchange":["s:computers"],"examples":["The whole process is run and monitored by computer.","He spends all day playing on his computer.","All our customer orders are handled by computer.","We've put all our records on computer.","You will need a user name and password in order to log onto the computer.","You may need to restart your computer after installing the update.","Please log off the network and shut down your computer before you leave the office.","If the computer keeps crashing unexpectedly, check to make sure you don't have a virus.","All our records are held on computer.","I've been sitting at the computer all day.","Right click to download the file onto your computer."],"phonetic":"kəmˈpjuːtə(r)|kəmˈpjuːtər"}
 {"word":"computer abuse","sw":"computerabuse","definition":[],"translation":["电脑滥用"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3303,7 +3303,7 @@
 {"word":"computer-enhanceds","sw":"computerenhanceds","definition":[],"translation":["computer-enhanced","[kəm'pju:tə,in'hɑ:nst]","adj.","电脑清晰度增强(或改善)的；电脑增益的(经过计算机处理使画面色彩更加鲜明的)"],"pos":[],"exchange":["0:computer-enhanced","1:s"],"examples":[],"phonetic":"kəm'pju:tə,in'hɑ:nst"}
 {"word":"computer-enhancement","sw":"computerenhancement","definition":[],"translation":["n. 【摄影术】电脑清晰度增强；电脑增益(通过计算机提高画面质量，改进色彩明晰度)"],"pos":[],"exchange":[],"examples":[],"phonetic":"kəm'pju:tə,in'hɑ:nsmənt"}
 {"word":"computer-experiment","sw":"computerexperiment","definition":[],"translation":["计算机实验"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"computer-face","sw":"computerface","definition":["v. to squint and kind of frown as you look at your [computer] to give the illusion that you are in fact very busy analyzing something vital to your work;","","often used in conjunction with [paper-shuffling] and calling numbers that you know won't answer then acting really frustrated when you hang-up so that it gives the impression your chasing a very important account and have a lot on your plate already","> After I [computer-faced] facebook for an hour this morning, I called a random number and talked to an older gentleman for 27 minutes about the prospect of leasing his mineral rights until he realized he didn't own any mineral rights, so I hung-up and went back to [computer-facing] a New York Times article about fashion week.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"computer-face","sw":"computerface","definition":["v. to squint and kind of frown as you look at your [computer] to give the illusion that you are in fact very busy analyzing something vital to your work;","","often used in conjunction with [paper-shuffling] and calling numbers that you know won't answer then acting really frustrated when you hang-up so that it gives the impression your chasing a very important account and have a lot on your plate already","> After I [computer-faced] facebook for an hour this morning, I called a random number and talked to an older gentleman for 27 minutes about the prospect of leasing his mineral rights until he realized he didn't own any mineral rights, so I hung-up and went back to [computer-facing] a New York Times article about fashion week."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computer-friendly","sw":"computerfriendly","definition":[],"translation":["[网络] 可以用计算机处理的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"computer-game","sw":"computergame","definition":[],"translation":["un. 计算机游戏","[网络] 电脑游戏；电子游戏；电子游戏机"],"pos":[],"exchange":["s:computer-games"],"examples":[],"phonetic":""}
 {"word":"computer-games","sw":"computergames","definition":[],"translation":["un. 计算机游戏","[网络] 电脑游戏；电子游戏；打电玩"],"pos":[],"exchange":["0:computer-game","1:s"],"examples":[],"phonetic":""}
@@ -3950,7 +3950,7 @@
 {"word":"con us","sw":"conus","definition":[],"translation":["abbr. 美国大陆；美国本土（Continental United States）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kɔnəs"}
 {"word":"con woman","sw":"conwoman","definition":[],"translation":["[网络] 骗子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"con women","sw":"conwomen","definition":[],"translation":["[网络] 女人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"con ya","sw":"conya","definition":["An Irish way of saying shit","> Them Tottenham bures need soap bad smell of conya from them",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"con ya","sw":"conya","definition":["An Irish way of saying shit","> Them Tottenham bures need soap bad smell of conya from them"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"con-a","sw":"cona","definition":[],"translation":["伴刀豆球蛋白a"],"pos":[],"exchange":["s:con-some"],"examples":[],"phonetic":""}
 {"word":"con-actor","sw":"conactor","definition":[],"translation":["[网络] 参与者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"con-agra","sw":"conagra","definition":[],"translation":["n. 康尼格拉（美国食品公司）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4063,7 +4063,7 @@
 {"word":"conarial","sw":"conarial","definition":[],"translation":["[医] 松果体的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"conario-hypophyseal","sw":"conariohypophyseal","definition":[],"translation":["[医] 松果体垂体的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"conariohypophysial tract","sw":"conariohypophysialtract","definition":[],"translation":["[医] 松果垂体束(胚)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"conarion","sw":"conarion","definition":["conarion","(obsolete) pineal gland.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"conarion","sw":"conarion","definition":["conarion","(obsolete) pineal gland."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"conarite","sw":"conarite","definition":[],"translation":["n. 康镍蛇纹石"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"conarium","sw":"conarium","definition":["n. The pineal gland."],"translation":["n. [解]松果体"],"pos":[],"exchange":[],"examples":[],"phonetic":"kәj'neәriәm"}
 {"word":"conarrhiamine","sw":"conarrhiamine","definition":[],"translation":["康拉雷明"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4409,7 +4409,7 @@
 {"word":"concavoconcave lens","sw":"concavoconcavelens","definition":[],"translation":["双凹透镜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"concavoconvex","sw":"concavoconvex","definition":[],"translation":["[医] 凹凸的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"concavoconvex lens","sw":"concavoconvexlens","definition":[],"translation":["凹凸透镜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"concavous","sw":"concavous","definition":[],"translation":["concavous (comparative more concavous, superlative most concavous)","(obsolete) concave",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"concavous","sw":"concavous","definition":[],"translation":["concavous (comparative more concavous, superlative most concavous)","(obsolete) concave"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"concavously","sw":"concavously","definition":[],"translation":["[网络] 很厉害"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"concavum pedis","sw":"concavumpedis","definition":[],"translation":["[医] 足底凹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CONCAWE","sw":"concawe","definition":[],"translation":["[网络] 欧洲石油化工协会；康凯维"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

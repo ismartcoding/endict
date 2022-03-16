@@ -184,7 +184,7 @@
 {"word":"Magnana","sw":"magnana","definition":[],"translation":["[地名] 马尼亚纳 ( 科特 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnane","sw":"magnane","definition":[],"translation":["镁烷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnanerie","sw":"magnanerie","definition":[],"translation":["[医]蚕室"],"pos":[],"exchange":[],"examples":[],"phonetic":"mæɡ'nənəri:"}
-{"word":"magnaneries","sw":"magnaneries","definition":["magnaneries","plural of magnanerie",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"magnaneries","sw":"magnaneries","definition":["magnaneries","plural of magnanerie"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnanery","sw":"magnanery","definition":[],"translation":["[网络] magnanerie"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnani","sw":"magnani","definition":[],"translation":["[网络] 玛格奈尼；麦兰妮"],"pos":[],"exchange":["s:magnanis"],"examples":[],"phonetic":""}
 {"word":"magnanime","sw":"magnanime","definition":[],"translation":["宽宏的，大度的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -780,7 +780,7 @@
 {"word":"magnesyn","sw":"magnesyn","definition":[],"translation":["磁自动同步机(转子有固定磁极的自动同步机)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mæ^nisin"}
 {"word":"magnesyn compass","sw":"magnesyncompass","definition":[],"translation":["磁自动同步机罗盘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnesyn repeater","sw":"magnesynrepeater","definition":[],"translation":["磁罗经复示器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"magnet","sw":"magnet","definition":["n. (physics) a device that attracts iron and produces a magnetic field"],"translation":["n. 磁铁, 有吸引力之人, 有吸引力之物","[化] 磁体"],"pos":["n:100"],"exchange":["s:magnets"],"examples":["In the 1990s the area became a magnet for new investment.","The scent of flowers acts as a magnet to bees.","The United States has always acted as a magnet for people seeking fame and fortune.","Magnets are used to attach the toy train's cars to the engine.","We use a refrigerator magnet (= small decorative magnet that will stick to a steel door) to hang our kids’ latest drawings.","fig. New York City remains a magnet for tourists (= it attracts them)."],"phonetic":"ˈmæɡnət|ˈmæɡnət"}
+{"word":"magnet","sw":"magnet","definition":["n. (physics) a device that attracts iron and produces a magnetic field"],"translation":["n. 磁铁, 有吸引力之人, 有吸引力之物","[化] 磁体"],"pos":["n:100"],"exchange":["s:magnets"],"examples":["In the 1990s the area became a magnet for new investment.","The scent of flowers acts as a magnet to bees.","The United States has always acted as a magnet for people seeking fame and fortune.","Magnets are used to attach the toy train's cars to the engine.","We use a refrigerator magnet (= small decorative magnet that will stick to a steel door) to hang our kids' latest drawings.","fig. New York City remains a magnet for tourists (= it attracts them)."],"phonetic":"ˈmæɡnət|ˈmæɡnət"}
 {"word":"magnet anisotrophy","sw":"magnetanisotrophy","definition":[],"translation":["各向异性性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnet arc","sw":"magnetarc","definition":[],"translation":["弧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnet armature","sw":"magnetarmature","definition":[],"translation":["铁；磁衔铁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4368,7 +4368,7 @@
 {"word":"magnophyric texture","sw":"magnophyrictexture","definition":[],"translation":["粗斑状结构"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Magnoplasm","sw":"magnoplasm","definition":[],"translation":["硫酸镁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Magnor","sw":"magnor","definition":[],"translation":["[地名] 芒努尔 ( 挪 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"magnorder","sw":"magnorder","definition":["magnorder (plural magnorders)","(taxononmy) A taxon one rank above a superorder, and below gigaorder or a class. A magnorder is the highest taxonomic ranking of order.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"magnorder","sw":"magnorder","definition":["magnorder (plural magnorders)","(taxononmy) A taxon one rank above a superorder, and below gigaorder or a class. A magnorder is the highest taxonomic ranking of order."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Magnorite","sw":"magnorite","definition":[],"translation":["硅镁耐火砖"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mæ^nәurait"}
 {"word":"magnosalicin","sw":"magnosalicin","definition":[],"translation":["辛夷水杨甙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"magnoscope","sw":"magnoscope","definition":[],"translation":["电听诊器"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mæ^nәu,skәup"}
@@ -4790,7 +4790,7 @@
 {"word":"Mahar","sw":"mahar","definition":[],"translation":["[网络] 马哈尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"maharaj","sw":"maharaj","definition":[],"translation":["n. (Maharaj)人名；(南非)马哈拉杰；(印、斐)马哈拉杰"],"pos":[],"exchange":["s:maharajs"],"examples":[],"phonetic":""}
 {"word":"maharaja","sw":"maharaja","definition":["n. a great raja; a Hindu prince or king in India ranking above a raja"],"translation":["n. 印度王公, 土帮主"],"pos":["n:100"],"exchange":["s:maharajas"],"examples":[],"phonetic":",mɑ:hә'rɑ:dʒә"}
-{"word":"maharajadhiraja","sw":"maharajadhiraja","definition":["maharajadhiraja (plural maharajadhirajas)","A royal ruler's title on the Indian subcontinent, roughly meaning 'great king of kings', a prestigious indication of the princely state's particularly high rank.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"maharajadhiraja","sw":"maharajadhiraja","definition":["maharajadhiraja (plural maharajadhirajas)","A royal ruler's title on the Indian subcontinent, roughly meaning 'great king of kings', a prestigious indication of the princely state's particularly high rank."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"maharajah","sw":"maharajah","definition":["n a great raja; a Hindu prince or king in India ranking above a raja"],"translation":["n. （印度的）土邦主, 王公（的称号）"],"pos":["n:100"],"exchange":["s:maharajahs"],"examples":[],"phonetic":"mɑ:hə'rɑ:dʒə"}
 {"word":"maharajahs","sw":"maharajahs","definition":["plural of maharajah","n a great raja; a Hindu prince or king in India ranking above a raja"],"translation":["(maharajah 的复数) n. （印度的）土邦主, 王公（的称号）"],"pos":[],"exchange":["0:maharajah","1:s"],"examples":[],"phonetic":""}
 {"word":"maharajas","sw":"maharajas","definition":["n. a great raja; a Hindu prince or king in India ranking above a raja"],"translation":["n. （印度的）王公"],"pos":[],"exchange":["0:maharaja","1:s"],"examples":[],"phonetic":",mɑː(h)ə'rɑːdʒə; ,məhɑː-"}

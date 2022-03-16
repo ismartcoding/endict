@@ -228,7 +228,7 @@
 {"word":"aedess","sw":"aedess","definition":[],"translation":["n. 【昆虫】伊蚊属"],"pos":[],"exchange":["0:aedes","1:s"],"examples":[],"phonetic":"ei'i:di:z"}
 {"word":"AEDH","sw":"aedh","definition":[],"translation":["[=aepfelsaure-dehydrogenase]苹果酸脱氢酶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aedicula","sw":"aedicula","definition":[],"translation":["n. (=aedicule)小型建筑物"],"pos":[],"exchange":[],"examples":[],"phonetic":"i:'dikjulә"}
-{"word":"aediculae","sw":"aediculae","definition":["aediculae","plural of aedicula",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aediculae","sw":"aediculae","definition":["aediculae","plural of aedicula"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aedicule","sw":"aedicule","definition":[],"translation":["n. 小型建筑物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aedicules","sw":"aedicules","definition":[],"translation":["n. 小型建筑物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aedile","sw":"aedile","definition":["n. A magistrate in ancient Rome, who had the superintendence","of public buildings, highways, shows, etc.; hence, a municipal officer."],"translation":["n. 古罗马掌管公共建筑物、道路、供水、社会秩序和文娱活动等的民选行政官"],"pos":[],"exchange":["s:aediles"],"examples":[],"phonetic":"'i:dail"}
@@ -330,10 +330,10 @@
 {"word":"Aegiceras majus","sw":"aegicerasmajus","definition":[],"translation":["[网络] Aegiceras大师"],"pos":[],"exchange":["s:aegiceras majuss"],"examples":[],"phonetic":""}
 {"word":"aegiceras majuss","sw":"aegicerasmajuss","definition":[],"translation":["[网络] Aegiceras大师","(aegiceras majus 的复数)"],"pos":[],"exchange":["0:aegiceras majus","1:s"],"examples":[],"phonetic":""}
 {"word":"aegicerass","sw":"aegicerass","definition":[],"translation":["[网络] 蜡烛果属；桐花；桐花树属","(aegiceras 的复数)"],"pos":[],"exchange":["0:aegiceras","1:s"],"examples":[],"phonetic":""}
-{"word":"aegicrane","sw":"aegicrane","definition":["aegicrane (plural aegicranes)","(architecture) the carved head of a ram or goat used as decoration",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aegid","sw":"aegid","definition":["aegid (plural aegids)","(zoology) Any member of the Aegidae.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aegicrane","sw":"aegicrane","definition":["aegicrane (plural aegicranes)","(architecture) the carved head of a ram or goat used as decoration"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aegid","sw":"aegid","definition":["aegid (plural aegids)","(zoology) Any member of the Aegidae."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Aegidae","sw":"aegidae","definition":[],"translation":["泳水虱科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aegides","sw":"aegides","definition":["aegides","plural of aegis",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aegides","sw":"aegides","definition":["aegides","plural of aegis"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Aegidius","sw":"aegidius","definition":[],"translation":["[网络] 乌斯；埃吉德"],"pos":[],"exchange":["s:aegidiuss"],"examples":[],"phonetic":""}
 {"word":"aegidiuss","sw":"aegidiuss","definition":[],"translation":["[网络] 乌斯；埃吉德","(aegidius 的复数)"],"pos":[],"exchange":["0:aegidius","1:s"],"examples":[],"phonetic":""}
 {"word":"aegilops","sw":"aegilops","definition":["n goat grass"],"translation":["内呲脓肿穿破"],"pos":[],"exchange":["s:aegilopss"],"examples":[],"phonetic":"'i:dʒilәps"}
@@ -576,7 +576,7 @@
 {"word":"aengus","sw":"aengus","definition":[],"translation":["[人名] 安格斯"],"pos":[],"exchange":["s:aenguss"],"examples":[],"phonetic":""}
 {"word":"aenguss","sw":"aenguss","definition":[],"translation":["[人名] 安格斯","(aengus 的复数)"],"pos":[],"exchange":["0:aengus","1:s"],"examples":[],"phonetic":""}
 {"word":"AENGV","sw":"aengv","definition":[],"translation":["abbr. Armored Engineer Vehicle 装甲工程车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Aenianian","sw":"aenianian","definition":["Aenianian (not comparable)","Relating or pertaining to Aeniania.","","","Aenianian (plural Aenianians)","A citizen of Aeniania",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Aenianian","sw":"aenianian","definition":["Aenianian (not comparable)","Relating or pertaining to Aeniania.","","","Aenianian (plural Aenianians)","A citizen of Aeniania"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aenictus ceylonicus","sw":"aenictusceylonicus","definition":[],"translation":["钖兰迷蚁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aenictus latiscapus sateri","sw":"aenictuslatiscapussateri","definition":[],"translation":["广肩迷蚁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aenictus latiscapus satoi","sw":"aenictuslatiscapussatoi","definition":[],"translation":["佐藤迷蚁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3515,8 +3515,8 @@
 {"word":"aethelthryths","sw":"aethelthryths","definition":[],"translation":["[网络] 埃塞德丽达","(aethelthryth 的复数)"],"pos":[],"exchange":["0:aethelthryth","1:s"],"examples":[],"phonetic":""}
 {"word":"Aethelwulf","sw":"aethelwulf","definition":[],"translation":["＝ Ethelwulf"],"pos":[],"exchange":[],"examples":[],"phonetic":"'æθəl,wulf"}
 {"word":"aethemorpha taiwana","sw":"aethemorphataiwana","definition":[],"translation":["台湾短翅长筒金花虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aetheogam","sw":"aetheogam","definition":["aetheogam (plural aetheogams)","(botany) A cryptogam; a plant of the obsolete taxonomic class Cryptogamia, having neither stamina nor pistils, and therefore no proper flowers, such as an alga, fern, fungus, lichen or moss.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ā.ēʹthĭōgăm, IPA: /eɪˈiːθɪəʊɡæm/,"}
-{"word":"aetheogamous","sw":"aetheogamous","definition":["aetheogamous (not comparable)","(botany)[1] Of the nature of an aetheogam.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ā.ē'thēŏʹgəməs, IPA: /eɪˌiːθiːˈɒɡəməs/,"}
+{"word":"aetheogam","sw":"aetheogam","definition":["aetheogam (plural aetheogams)","(botany) A cryptogam; a plant of the obsolete taxonomic class Cryptogamia, having neither stamina nor pistils, and therefore no proper flowers, such as an alga, fern, fungus, lichen or moss."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ā.ēʹthĭōgăm, IPA: /eɪˈiːθɪəʊɡæm/,"}
+{"word":"aetheogamous","sw":"aetheogamous","definition":["aetheogamous (not comparable)","(botany)[1] Of the nature of an aetheogam."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ā.ē'thēŏʹgəməs, IPA: /eɪˌiːθiːˈɒɡəməs/,"}
 {"word":"aether","sw":"aether","definition":["n. personification of the sky or upper air breathed by the Olympians; son of Erebus and night or of Chaos and darkness"],"translation":["n. 醚, 以太, 太空","[化] 以太; 醚"],"pos":[],"exchange":["s:aethers"],"examples":[],"phonetic":"'i:θә"}
 {"word":"aether aceticus","sw":"aetheraceticus","definition":[],"translation":["[医] 乙酸乙酯, 醋醚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aether anestheticus","sw":"aetheranestheticus","definition":[],"translation":["[医] 麻醉醚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3618,7 +3618,7 @@
 {"word":"aethylmorphine hydrochloride","sw":"aethylmorphinehydrochloride","definition":[],"translation":["[药] 盐酸乙基吗啡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aethylparabenum","sw":"aethylparabenum","definition":[],"translation":["对羟基苯甲酸乙酯"],"pos":[],"exchange":[],"examples":[],"phonetic":"i:θil'pærәbenәm"}
 {"word":"aethyr","sw":"aethyr","definition":[],"translation":["[网络] 伊希尔；埃塞；艾西尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aethyrs","sw":"aethyrs","definition":["Celtic word used to describe, essentially, altered states of consciousness. Usually attained through naturally occuring psychotropic drugs.","","Druids would often take psilocybin in ceremony and trip off into the Aethyr.","","Similar to Sanskrit word \"Loka\".","> \"He's just taken a shitload of mushies - he'll be in the Aethyr for hours\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aethyrs","sw":"aethyrs","definition":["Celtic word used to describe, essentially, altered states of consciousness. Usually attained through naturally occuring psychotropic drugs.","","Druids would often take psilocybin in ceremony and trip off into the Aethyr.","","Similar to Sanskrit word \"Loka\".","> \"He's just taken a shitload of mushies - he'll be in the Aethyr for hours\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetideopsis armata","sw":"aetideopsisarmata","definition":[],"translation":["武装助鹰嘴水蚤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetideus acutus","sw":"aetideusacutus","definition":[],"translation":["尖鹰嘴水蚤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetideus armatus","sw":"aetideusarmatus","definition":[],"translation":["武装鹰嘴水蚤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3636,7 +3636,7 @@
 {"word":"aetiogenesis","sw":"aetiogenesis","definition":[],"translation":["[网络] 发病机制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetiohemin","sw":"aetiohemin","definition":[],"translation":["[医] 初氯血红素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetiolation","sw":"aetiolation","definition":[],"translation":["黄化(现象)"],"pos":[],"exchange":[],"examples":[],"phonetic":",i:tiә'leiʃәn"}
-{"word":"aetiologia","sw":"aetiologia","definition":["aetiologia (uncountable)","(rhetoric) Attributing a cause for a statement or claim made, often as a simple relative clause of explanation.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aetiologia","sw":"aetiologia","definition":["aetiologia (uncountable)","(rhetoric) Attributing a cause for a statement or claim made, often as a simple relative clause of explanation."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetiologic","sw":"aetiologic","definition":["a of or relating to the philosophical study of causation","a relating to the etiology of a disease"],"translation":["原因论的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetiologicai","sw":"aetiologicai","definition":[],"translation":["病因学的,病原学的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aetiological","sw":"aetiological","definition":["a of or relating to the philosophical study of causation","a relating to the etiology of a disease"],"translation":["a. 病因论的, 病原学的"],"pos":[],"exchange":[],"examples":[],"phonetic":",i:tiә'lɔdʒikәl"}
@@ -3739,18 +3739,18 @@
 {"word":"AFAC","sw":"afac","definition":[],"translation":["abbr. Air Force Armament Centre 空军装备中心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aface","sw":"aface","definition":[],"translation":["[网络] 一张脸；一张面孔；不认得面孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAD","sw":"afad","definition":[],"translation":["[=Association of Fatty Acid Distillers]脂肪酸制造商协会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Afade","sw":"afade","definition":["Afade","An Afro-Asiatic language of Nigeria.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Afade","sw":"afade","definition":["Afade","An Afro-Asiatic language of Nigeria."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afaf","sw":"afaf","definition":[],"translation":["[网络] 全美钢琴比赛(American Fine Arts Festival)；河北；闉戦澕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAFC","sw":"afafc","definition":[],"translation":["abbr. Air Force Accounting and Finance Center <美>空军财会金融中心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Afafi","sw":"afafi","definition":[],"translation":["[地名] 阿法菲 ( 乍 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAFP","sw":"afafp","definition":[],"translation":["[=amniotic fluid alpha-fetoprotein]羊水甲胎蛋白"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Afagnangan","sw":"afagnangan","definition":[],"translation":["[地名] 阿法尼扬冈 ( 多哥 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Afago","sw":"afago","definition":[],"translation":["[地名] 阿法戈 ( 尼日利 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"AFAIAC","sw":"afaiac","definition":["1) [Acronym] for \"As Far As I Am Concerned\".","> 1) AFAIAC, we should make the pie higher.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"AFAIAC","sw":"afaiac","definition":["1) [Acronym] for \"As Far As I Am Concerned\".","> 1) AFAIAC, we should make the pie higher."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAIC","sw":"afaic","definition":[],"translation":["[网络] 至于我们关心的事(As Far As I'm Concerned)；就我所关心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"AFAICR","sw":"afaicr","definition":["As Far As I Can Remember","> \"How long ago were we told to clean our rooms?\"","> \"AFAICR, since we got our own rooms.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"AFAICS","sw":"afaics","definition":["As far as I'm concerned.","> This doesn't really need an example, AFAIC.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"AFAICT","sw":"afaict","definition":["As Far As I Can Tell","> afaict, it doesn't work.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"AFAICR","sw":"afaicr","definition":["As Far As I Can Remember","> \"How long ago were we told to clean our rooms?\"","> \"AFAICR, since we got our own rooms.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"AFAICS","sw":"afaics","definition":["As far as I'm concerned.","> This doesn't really need an example, AFAIC."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"AFAICT","sw":"afaict","definition":["As Far As I Can Tell","> afaict, it doesn't work."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAIK","sw":"afaik","definition":[],"translation":["[网络] 据我所知(as far as I know)；就我所知；只要我知道"],"pos":[],"exchange":["s:afaiks"],"examples":[],"phonetic":""}
 {"word":"afaiks","sw":"afaiks","definition":[],"translation":["据我所知(非正式，AFAIK，as far as I know的缩写)"],"pos":[],"exchange":["0:afaik","1:s"],"examples":[],"phonetic":""}
 {"word":"afaint","sw":"afaint","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3761,8 +3761,8 @@
 {"word":"afaite","sw":"afaite","definition":[],"translation":["[网络] 非常的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afaitement","sw":"afaitement","definition":[],"translation":["[网络] 不满意"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFAIU","sw":"afaiu","definition":[],"translation":["[网络] 据我所知"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"AFAIUI","sw":"afaiui","definition":["Short for \"as far as I understand it\"","> \"When will the page be back?\"","> \"AFAIUI, in 2 hours\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"afakasi","sw":"afakasi","definition":["used by Samoans to classify those who have one Samoan parent and one Palagi parent.  originates from the word \"half-caste\".","> \"what ethnicity are you?\"","> \"my dad's samoan and my mum's palagi, so i'm 100% afakasi!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"AFAIUI","sw":"afaiui","definition":["Short for \"as far as I understand it\"","> \"When will the page be back?\"","> \"AFAIUI, in 2 hours\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"afakasi","sw":"afakasi","definition":["used by Samoans to classify those who have one Samoan parent and one Palagi parent.  originates from the word \"half-caste\".","> \"what ethnicity are you?\"","> \"my dad's samoan and my mum's palagi, so i'm 100% afakasi!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afalanine","sw":"afalanine","definition":[],"translation":["阿丙氨酸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afald","sw":"afald","definition":[],"translation":["[网络] 好了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afaldly","sw":"afaldly","definition":[],"translation":["[网络] 很高兴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3892,7 +3892,7 @@
 {"word":"afecto","sw":"afecto","definition":[],"translation":["[网络] 情感"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afede","sw":"afede","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afeed","sw":"afeed","definition":[],"translation":["[网络] 快乐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Afeefa","sw":"afeefa","definition":["A girl who's hard to get to know easily. Treats everyone differently. She's really interesting WHEN you get to know her. Good at heart :)","> Afeefa is the only person I've ever trusted fully.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Afeefa","sw":"afeefa","definition":["A girl who's hard to get to know easily. Treats everyone differently. She's really interesting WHEN you get to know her. Good at heart :)","> Afeefa is the only person I've ever trusted fully."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AFEES","sw":"afees","definition":[],"translation":["Automated Armed Forces Examining and Entrance Station 自动化武装部队新兵检查与接收站"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afefe","sw":"afefe","definition":[],"translation":["[网络] 非凡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Afegame","sw":"afegame","definition":[],"translation":["[地名] 阿费加梅 ( 加纳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3944,7 +3944,7 @@
 {"word":"affabulatory","sw":"affabulatory","definition":[],"translation":["[网络] 感觉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affactuated","sw":"affactuated","definition":[],"translation":["[网络] 承诺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affactuating","sw":"affactuating","definition":[],"translation":["[网络] 实现"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"affadavit","sw":"affadavit","definition":["Very Rare.  Only comes about with the coexistence of one \"YOUNGEST\", and one \"GREAT AFFA.\"  Only then, do you truly have an affa-david.  ha, youngest...","> Affadavit is much too rare an occurence to cite an example.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affadavit","sw":"affadavit","definition":["Very Rare.  Only comes about with the coexistence of one \"YOUNGEST\", and one \"GREAT AFFA.\"  Only then, do you truly have an affa-david.  ha, youngest...","> Affadavit is much too rare an occurence to cite an example."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affadavits","sw":"affadavits","definition":[],"translation":["[网络] 宣誓书"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Affade","sw":"affade","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affain","sw":"affain","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4266,7 +4266,7 @@
 {"word":"afferre","sw":"afferre","definition":[],"translation":["[网络] aff re"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affers","sw":"affers","definition":[],"translation":["之后","(affer 的复数)"],"pos":[],"exchange":["0:affer","1:s"],"examples":[],"phonetic":""}
 {"word":"affesed","sw":"affesed","definition":[],"translation":["[网络] 感动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"affetti","sw":"affetti","definition":["affetti (uncountable)","(art) Human passion and feelings expressed through gesture",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affetti","sw":"affetti","definition":["affetti (uncountable)","(art) Human passion and feelings expressed through gesture"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affettuoso","sw":"affettuoso","definition":["adv. With feeling."],"translation":["adv. 深情地"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә.fetju'әuzәu"}
 {"word":"AFFF","sw":"afff","definition":[],"translation":["轻水泡沫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Affghanistan","sw":"affghanistan","definition":[],"translation":["[网络] 斯坦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4596,7 +4596,7 @@
 {"word":"affinors","sw":"affinors","definition":[],"translation":["[网络] 亲戚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affinoside","sw":"affinoside","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affion","sw":"affion","definition":[],"translation":["烟土, 鸦片土"],"pos":[],"exchange":[],"examples":[],"phonetic":"'æfiɔn"}
-{"word":"affirm","sw":"affirm","definition":["v. to declare or affirm solemnly and formally as true","v. say yes to"],"translation":["v. 断言, 确认"],"pos":["v:100"],"exchange":["p:affirmed","d:affirmed","i:affirming","3:affirms","s:affirms"],"examples":["Both sides affirmed their commitment to the ceasefire.","The decision was affirmed by the Court of Appeal.","I can affirm that no one will lose their job.","The suspect affirmed (that) he had been at home all evening.","She affirmed her intention to apply for the post.","The government has affirmed its commitment to equal rights.","Applicants signed a form affirming their citizenship.","These stories affirmed that the world is strange.","We’re looking for affirmation of the city's goal."],"phonetic":"əˈfɜːm|əˈfɜːrm"}
+{"word":"affirm","sw":"affirm","definition":["v. to declare or affirm solemnly and formally as true","v. say yes to"],"translation":["v. 断言, 确认"],"pos":["v:100"],"exchange":["p:affirmed","d:affirmed","i:affirming","3:affirms","s:affirms"],"examples":["Both sides affirmed their commitment to the ceasefire.","The decision was affirmed by the Court of Appeal.","I can affirm that no one will lose their job.","The suspect affirmed (that) he had been at home all evening.","She affirmed her intention to apply for the post.","The government has affirmed its commitment to equal rights.","Applicants signed a form affirming their citizenship.","These stories affirmed that the world is strange.","We're looking for affirmation of the city's goal."],"phonetic":"əˈfɜːm|əˈfɜːrm"}
 {"word":"affirm the original judgement","sw":"affirmtheoriginaljudgement","definition":[],"translation":["[法] 维持原判"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirm the orignal judgment","sw":"affirmtheorignaljudgment","definition":[],"translation":["[法] 维持原判"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirm to","sw":"affirmto","definition":[],"translation":["证明,证实…"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4610,7 +4610,7 @@
 {"word":"affirmances","sw":"affirmances","definition":[],"translation":["n. 确认；断言；证实"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'fɜːməns"}
 {"word":"affirmant","sw":"affirmant","definition":["n. One who affirms or asserts.","n. One who affirms, instead of taking an oath."],"translation":["n. 断言者, 确认者","[法] 誓言者, 确认者"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'fә:mәnt"}
 {"word":"affirmants","sw":"affirmants","definition":[],"translation":["n. 确认者；断言者"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'fɜːmənt"}
-{"word":"affirmata","sw":"affirmata","definition":["affirmata","plural of affirmatum",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affirmata","sw":"affirmata","definition":["affirmata","plural of affirmatum"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirmatio","sw":"affirmatio","definition":[],"translation":["[网络] 肯定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirmation","sw":"affirmation","definition":["n. the act of affirming or asserting or stating something","n. (religion) a solemn declaration that serves the same purpose as an oath (if an oath is objectionable to the person on religious or ethical grounds)","n. a judgment by a higher court that the judgment of a lower court was correct and should stand"],"translation":["n. 肯定, 断言, 证实","[医] 肯定, 确认"],"pos":["n:100"],"exchange":["s:affirmations"],"examples":["She nodded in affirmation.","We welcome the government's affirmation of its intention to act.","The reports are an affirmation that the students are learning.","\"Sound familiar?\" Obama said, rousing a chorus of affirmations.","She was nodding in affirmation.","He scours the newspapers for slights and affirmation.","A young child relies on its mother for comfort, affirmation, and encouragement."],"phonetic":"ˌæfəˈmeɪʃn|ˌæfərˈmeɪʃn"}
 {"word":"affirmation and negation","sw":"affirmationandnegation","definition":[],"translation":["肯定和否定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4662,7 +4662,7 @@
 {"word":"affirmativist","sw":"affirmativist","definition":[],"translation":["[网络] 肯定主义者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirmativists","sw":"affirmativists","definition":[],"translation":["[网络] 肯定主义者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirmatory","sw":"affirmatory","definition":["a. Giving affirmation; assertive; affirmative."],"translation":["a. 确定的；承诺的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'fə:mətəri"}
-{"word":"affirmatum","sw":"affirmatum","definition":["affirmatum (plural affirmata)","Something that is affirmed.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affirmatum","sw":"affirmatum","definition":["affirmatum (plural affirmata)","Something that is affirmed."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirme","sw":"affirme","definition":[],"translation":["[网络] 感谢"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affirmed","sw":"affirmed","definition":["imp. & p. p. of Affirm"],"translation":["n. 收到来电","vt. 肯定（affirm的过去式）","vi. 断言（affirm的过去式）"],"pos":[],"exchange":["0:affirm","1:pd","s:affirmeds"],"examples":[],"phonetic":""}
 {"word":"affirmed without opinion","sw":"affirmedwithoutopinion","definition":[],"translation":["[网络] 维持原判却未说明理由"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4759,7 +4759,7 @@
 {"word":"afflight","sw":"afflight","definition":[],"translation":["近月飞行"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'flait"}
 {"word":"afflue","sw":"afflue","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affluence","sw":"affluence","definition":["n. abundant wealth"],"translation":["n. 富裕, 丰富, 流注","[医] 丰富, 流入"],"pos":["n:100"],"exchange":["s:affluences"],"examples":["The 1950s were an age of affluence in America.","What we are seeing increasingly is a society of private affluence and public squalor.","The nation's affluence has made two- and even three-car families the norm.","This period saw the increase of real wages and affluence in British society."],"phonetic":"ˈæfluəns|ˈæfluəns"}
-{"word":"affluence of incohol","sw":"affluenceofincohol","definition":["affluence of incohol","(humorous) The influence of alcohol; drunkenness.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affluence of incohol","sw":"affluenceofincohol","definition":["affluence of incohol","(humorous) The influence of alcohol; drunkenness."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affluences","sw":"affluences","definition":[],"translation":["n. 富裕；丰富；流入；汇聚"],"pos":[],"exchange":["0:affluence","1:s"],"examples":[],"phonetic":"'æflʊəns"}
 {"word":"affluencies","sw":"affluencies","definition":[],"translation":["n. 富裕（等于affluence）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'æfluənsi"}
 {"word":"affluency","sw":"affluency","definition":["n. Affluence."],"translation":["n. <废>=affluence"],"pos":[],"exchange":[],"examples":[],"phonetic":"'æfljәnsi"}
@@ -4794,7 +4794,7 @@
 {"word":"affodill","sw":"affodill","definition":[],"translation":["[网络] aff ill"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affodills","sw":"affodills","definition":[],"translation":["[网络] 亲戚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affogato","sw":"affogato","definition":[],"translation":["[网络] 阿芙佳朵；冰激凌咖啡；法奇朵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"affogatos","sw":"affogatos","definition":["Meaning cool; hip; a riot.","","Derives from the coffee \"affogato\" which is the new crack, which is the old black and the new latte.","> It was so affogato when I boffed all over some durriers at Flinders St.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"affogatos","sw":"affogatos","definition":["Meaning cool; hip; a riot.","","Derives from the coffee \"affogato\" which is the new crack, which is the old black and the new latte.","> It was so affogato when I boffed all over some durriers at Flinders St."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Affolterbach","sw":"affolterbach","definition":[],"translation":["[地名] 阿福尔特巴赫 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Affoltern","sw":"affoltern","definition":[],"translation":["阿弗田"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affoorded","sw":"affoorded","definition":[],"translation":["[网络] 沉迷于"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4809,7 +4809,7 @@
 {"word":"afforciament","sw":"afforciament","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afforciaments","sw":"afforciaments","definition":[],"translation":["[网络] 亲爱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afforcing","sw":"afforcing","definition":[],"translation":["[网络] 沉重的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"afford","sw":"afford","definition":["v. be able to spare or give up","v. have the financial means to do something or buy something","v. afford access to"],"translation":["vt. 买得起, 足以, 给予"],"pos":["v:100"],"exchange":["d:afforded","3:affords","p:afforded","i:affording"],"examples":["None of them could afford £50 for a ticket.","I’d give up work if I could afford it.","We can't afford to go abroad this summer.","She never took a taxi, even though she could afford to.","She can well afford to pay for herself.","They couldn't afford to buy a house there.","We can't afford to have children.","He couldn't afford the money to go on the trip.","We cannot afford to ignore this warning.","They could ill afford to lose any more staff.","The people who suffer most are those who can least afford to lose.","We simply can't afford to take any risks.","She felt she couldn't afford any more time off work.","We cannot afford any more delays.","The tree affords some shelter from the sun.","The legislation aims to afford protection to employees.","Being a college professor affords you the opportunity simply to write and do research.","The programme affords young people the chance to gain work experience.","I don't know how he can afford a new car on his salary.","Few people are able to afford cars like that.","She couldn't afford the time off work to see him.","I can't afford to buy a house.","The hut afforded little protection from the elements.","Her seat afforded her an uninterrupted view of the stage.","I don't know how he can afford a new car.","He is over 60 and can't afford his pension contributions.","Debt is not necessarily a bad thing if the consumer can afford to pay it back.","We can afford to wait.","I can't afford to pay attention to any controversy."],"phonetic":"əˈfɔːd|əˈfɔːrd"}
+{"word":"afford","sw":"afford","definition":["v. be able to spare or give up","v. have the financial means to do something or buy something","v. afford access to"],"translation":["vt. 买得起, 足以, 给予"],"pos":["v:100"],"exchange":["d:afforded","3:affords","p:afforded","i:affording"],"examples":["None of them could afford £50 for a ticket.","I'd give up work if I could afford it.","We can't afford to go abroad this summer.","She never took a taxi, even though she could afford to.","She can well afford to pay for herself.","They couldn't afford to buy a house there.","We can't afford to have children.","He couldn't afford the money to go on the trip.","We cannot afford to ignore this warning.","They could ill afford to lose any more staff.","The people who suffer most are those who can least afford to lose.","We simply can't afford to take any risks.","She felt she couldn't afford any more time off work.","We cannot afford any more delays.","The tree affords some shelter from the sun.","The legislation aims to afford protection to employees.","Being a college professor affords you the opportunity simply to write and do research.","The programme affords young people the chance to gain work experience.","I don't know how he can afford a new car on his salary.","Few people are able to afford cars like that.","She couldn't afford the time off work to see him.","I can't afford to buy a house.","The hut afforded little protection from the elements.","Her seat afforded her an uninterrupted view of the stage.","I don't know how he can afford a new car.","He is over 60 and can't afford his pension contributions.","Debt is not necessarily a bad thing if the consumer can afford to pay it back.","We can afford to wait.","I can't afford to pay attention to any controversy."],"phonetic":"əˈfɔːd|əˈfɔːrd"}
 {"word":"afford an opportunity","sw":"affordanopportunity","definition":[],"translation":["给[找着,得到,给,造,失去,抓住,利用]机会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afford employment to","sw":"affordemploymentto","definition":[],"translation":["为…提供就业机会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"afford facility for study","sw":"affordfacilityforstudy","definition":[],"translation":["un. 给予研究方便"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4949,7 +4949,7 @@
 {"word":"affrighting","sw":"affrighting","definition":["p. pr. & vb. n. of Affright"],"translation":["n. 惊吓；恐怖","vt. 惊吓；使…恐怖"],"pos":[],"exchange":["1:i","0:affright"],"examples":[],"phonetic":"ə'fraɪt"}
 {"word":"affrightment","sw":"affrightment","definition":["n. Affright; the state of being frightened; sudden fear","or alarm."],"translation":["n. 惊吓；恐怖 (affright的变形)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affrights","sw":"affrights","definition":["n an overwhelming feeling of fear and anxiety","v cause fear in"],"translation":["v. 惊吓, 恐怖（affright的第三人称单数形式）"],"pos":[],"exchange":["1:3","0:affright"],"examples":[],"phonetic":""}
-{"word":"Affrilachian","sw":"affrilachian","definition":["An African American who is from the Appalachian region of the United States.","> Frank X is a real Affrilachian brutha, and so is I !",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Affrilachian","sw":"affrilachian","definition":["An African American who is from the Appalachian region of the United States.","> Frank X is a real Affrilachian brutha, and so is I !"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affront","sw":"affront","definition":["n a deliberately offensive act or something producing the effect of deliberate disrespect","v treat, mention, or speak to rudely"],"translation":["n. 公开侮辱, 轻蔑","vt. 公开侮辱, 冒犯, 面对"],"pos":["v:16","n:84"],"exchange":["d:affronted","p:affronted","s:affronts","i:affronting","3:affronts"],"examples":[],"phonetic":"ә'frʌnt"}
 {"word":"affront death","sw":"affrontdeath","definition":[],"translation":["临死不惧,誓死如归"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"affronted","sw":"affronted","definition":["v treat, mention, or speak to rudely"],"translation":["a. 被冒犯的；被侮辱的"],"pos":["j:100"],"exchange":["0:affront","1:dp"],"examples":[],"phonetic":""}

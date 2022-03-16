@@ -127,7 +127,7 @@
 {"word":"cruelest","sw":"cruelest","definition":["s (of persons or their actions) able or disposed to inflict pain or suffering"],"translation":["a. 残酷的；残忍的；残暴的；故意使别人遭受痛苦的；以他人的痛苦为乐的；令人痛苦的"],"pos":[],"exchange":[],"examples":[],"phonetic":"krʊəl"}
 {"word":"cruelhearted","sw":"cruelhearted","definition":[],"translation":["adj. 狠心的,绝情的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruelheartedness","sw":"cruelheartedness","definition":[],"translation":["[网络] 残酷的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cruell","sw":"cruell","definition":["cruell","Obsolete spelling of cruel","","","cruell (plural cruells)","Obsolete spelling of crewel",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cruell","sw":"cruell","definition":["cruell","Obsolete spelling of cruel","","","cruell (plural cruells)","Obsolete spelling of crewel"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruella","sw":"cruella","definition":[],"translation":["[网络] 库伊拉；鲁拉；小女人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruella de vil","sw":"cruelladevil","definition":[],"translation":["[网络] 坏女人库伊拉；库伊拉·德维尔；恶魔克鲁拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruelled","sw":"cruelled","definition":[],"translation":["adj. 残忍的；令人痛苦的；严酷的","adv. 〈口〉极度","[网络] 残酷的；无情的；残暴的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kruːəl"}
@@ -254,7 +254,7 @@
 {"word":"cruiseway","sw":"cruiseway","definition":[],"translation":["n. <英>供乘船游览用的河道"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kru:zwei"}
 {"word":"cruiseways","sw":"cruiseways","definition":[],"translation":["n.","[英国英语]供乘船游览用的河道，通行游船的水道，游览船航道"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kru:zwei"}
 {"word":"cruisewear","sw":"cruisewear","definition":[],"translation":["[网络] 度假服；航海装"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cruisey","sw":"cruisey","definition":["cruisey","Alternative spelling of cruisy",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cruisey","sw":"cruisey","definition":["cruisey","Alternative spelling of cruisy"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruisier","sw":"cruisier","definition":[],"translation":["[网络] 巡洋舰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruisiest","sw":"cruisiest","definition":[],"translation":["[网络] 最危险"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cruisin","sw":"cruisin","definition":[],"translation":["[网络] 碰碰车；漫游；航行"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -339,8 +339,8 @@
 {"word":"crum up","sw":"crumup","definition":[],"translation":["[美国英语]【军事】(海军陆战队)整理(容貌和军服)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crumb","sw":"crumb","definition":["n. a very small quantity of something","n. small piece of e.g. bread or cake","v. coat with bread crumbs","v. break into crumbs"],"translation":["n. 碎屑, 面包屑, 少许","vt. 捏碎, 弄碎"],"pos":["n:100"],"exchange":["s:crumbs","p:crumbed","i:crumbing","3:crumbs","d:crumbed"],"examples":[],"phonetic":"krʌm"}
 {"word":"crumb bloom","sw":"crumbbloom","definition":[],"translation":["面包瓤的光泽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"crumb bum","sw":"crumbbum","definition":["Someone who is acting like a complete arse, affectionate insult","> You crumb bum",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"crumb bums","sw":"crumbbums","definition":["Someone who is acting like a complete arse, affectionate insult","> You crumb bum",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"crumb bum","sw":"crumbbum","definition":["Someone who is acting like a complete arse, affectionate insult","> You crumb bum"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"crumb bums","sw":"crumbbums","definition":["Someone who is acting like a complete arse, affectionate insult","> You crumb bum"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crumb cake","sw":"crumbcake","definition":[],"translation":["[网络] 屑饼蛋糕；一种上面洒有糖粉的蛋糕；糖酥蛋糕"],"pos":[],"exchange":["s:crumb cakes"],"examples":[],"phonetic":""}
 {"word":"crumb cakes","sw":"crumbcakes","definition":[],"translation":["[网络] 屑饼蛋糕；一种上面洒有糖粉的蛋糕；糖酥蛋糕","(crumb cake 的复数)"],"pos":[],"exchange":["0:crumb cake","1:s"],"examples":[],"phonetic":""}
 {"word":"crumb cruncher","sw":"crumbcruncher","definition":[],"translation":["[网络] 碎屑搅拌机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -439,7 +439,7 @@
 {"word":"crumminess","sw":"crumminess","definition":[],"translation":["n. crummy的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crummock","sw":"crummock","definition":[],"translation":["[人名] 克拉莫克"],"pos":[],"exchange":["s:crummocks"],"examples":[],"phonetic":""}
 {"word":"Crummock Water","sw":"crummockwater","definition":[],"translation":["[地名] 克拉莫克湖 ( 英 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"crummocks","sw":"crummocks","definition":["crummocks","plural of crummock",""],"translation":[],"pos":[],"exchange":["0:crummock","1:s"],"examples":[],"phonetic":""}
+{"word":"crummocks","sw":"crummocks","definition":["crummocks","plural of crummock"],"translation":[],"pos":[],"exchange":["0:crummock","1:s"],"examples":[],"phonetic":""}
 {"word":"crummy","sw":"crummy","definition":["s of very poor quality; flimsy"],"translation":["a. 丰满的"],"pos":["j:100"],"exchange":["s:crummies"],"examples":[],"phonetic":"'krʌmi"}
 {"word":"crump","sw":"crump","definition":["v. make a noise typical of an engine lacking lubricants","v. bombard with heavy shells","v. explode heavily or with a loud dull noise"],"translation":["vi. 轰地一声爆炸","n. 炸弹, 嘎吱声"],"pos":[],"exchange":["d:crumped","s:crumps","i:crumping","p:crumped","3:crumps"],"examples":[],"phonetic":"krʌmp"}
 {"word":"Crump Lake","sw":"crumplake","definition":[],"translation":["[地名] 克兰普湖 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -508,7 +508,7 @@
 {"word":"crunchtime","sw":"crunchtime","definition":[],"translation":["[网络] 紧要关头；关键时间；关键时刻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crunchvid","sw":"crunchvid","definition":[],"translation":["n. (电影、电视或有关运动、社会的事件等影像的)最精彩部分"],"pos":[],"exchange":[],"examples":[],"phonetic":"'krʌntʃvid"}
 {"word":"crunchy","sw":"crunchy","definition":[],"translation":["a. 发嘎吱嘎吱声的"],"pos":["j:100"],"exchange":["s:crunchies","r:crunchier","t:crunchiest"],"examples":[],"phonetic":"'krʌntʃi"}
-{"word":"crunchy con","sw":"crunchycon","definition":["A fiscal republican with some liberal social views.","> Nancy Reagan is a crunchy con about stem cell research.","> The crunchy cons believe decriminalizing and taxing marajuana could be profitable and alleviate the drug wars at the border.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"crunchy con","sw":"crunchycon","definition":["A fiscal republican with some liberal social views.","> Nancy Reagan is a crunchy con about stem cell research.","> The crunchy cons believe decriminalizing and taxing marajuana could be profitable and alleviate the drug wars at the border."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crunchy granola","sw":"crunchygranola","definition":[],"translation":["[网络] 松脆燕麦坚果"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crunchy granolas","sw":"crunchygranolas","definition":[],"translation":["[网络] 脆脆的格兰托拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crunchy roll","sw":"crunchyroll","definition":[],"translation":["[网络] 脆皮卷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -848,7 +848,7 @@
 {"word":"crushed-stone","sw":"crushedstone","definition":[],"translation":["[医]碎石"],"pos":[],"exchange":[],"examples":[],"phonetic":"k'rʌʃtst'əʊn"}
 {"word":"crushed-velvet","sw":"crushedvelvet","definition":[],"translation":["[网络] 拷花丝绒；压皱天鹅绒"],"pos":[],"exchange":["s:crushed-velvets"],"examples":[],"phonetic":""}
 {"word":"crushed-velvets","sw":"crushedvelvets","definition":[],"translation":["[网络] 拷花丝绒；压皱天鹅绒","(crushed-velvet 的复数)"],"pos":[],"exchange":["0:crushed-velvet","1:s"],"examples":[],"phonetic":""}
-{"word":"crushee","sw":"crushee","definition":["crushee (plural crushees)","The person on whom one has a crush (infatuation).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"crushee","sw":"crushee","definition":["crushee (plural crushees)","The person on whom one has a crush (infatuation)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Crusheen","sw":"crusheen","definition":[],"translation":["克拉辛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crushel","sw":"crushel","definition":[],"translation":["[网络] 十字架"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"crusher","sw":"crusher","definition":["n. a device that crushes something"],"translation":["n. 碾碎机, 打击","[化] 破碎机; 压碎机; 轧碎机"],"pos":["n:100"],"exchange":["s:crushers"],"examples":[],"phonetic":"'krʌʃә"}
@@ -1304,7 +1304,7 @@
 {"word":"crwth","sw":"crwth","definition":["n. See 4th Crowd."],"translation":["n. 克鲁斯琴(古代英国的弓弦乐器)"],"pos":[],"exchange":[],"examples":[],"phonetic":"kru:θ"}
 {"word":"crwths","sw":"crwths","definition":[],"translation":["n.","【音乐】克鲁斯琴(古代英国的弓弦乐器)"],"pos":[],"exchange":[],"examples":[],"phonetic":"kru:θ"}
 {"word":"crx","sw":"crx","definition":[],"translation":["abbr. cefroxadine 头孢沙定（抗生素）; cone-rod homeobox 锥杆同源框"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cry","sw":"cry","definition":["n. a loud utterance; often in protest or opposition","n. a loud utterance of emotion (especially when inarticulate)","n. a fit of weeping","n. the characteristic utterance of an animal"],"translation":["n. 叫声, 哭声, 大叫","vi. 哭, 叫, 喊","vt. 叫喊, 大声说, 哭出"],"pos":["n:23","v:77"],"exchange":["p:cried","i:crying","s:cries","3:cries","d:cried"],"examples":["It's all right. Don't cry.","I just couldn't stop crying.","The little boy fell over and started to cry.","The baby was crying for (= because it wanted) its mother.","There's nothing to cry about.","He felt like crying with rage.","She threw her arms around his neck crying tears of joy.","He started to cry real tears.","‘Waaa!’ she cried.","I found him crying his eyes out (= crying very much).","That night she cried herself to sleep.","She ran to the window and cried for help.","‘You're safe!’ Tom cried in delight.","Seagulls followed the boat, crying loudly.","A pair of eagles cried out to each other as they circled above the trees.","As the saying goes—it's no use crying over spilt milk.","He was a fatherly shoulder to cry on when things went wrong.","I could hear someone crying in the next room.","\"There, there, don't cry,\" she said.","We all laughed until we cried.","She cried bitter tears when she got the letter.","He cried for joy when he heard that his son had been found alive and well.","\"Watch out!\" she cried.","They were wakened by cries of \"Fire!\" from the next room.","\"It's all right, have a good cry,\" he said, stroking her hair.","I heard someone crying in the next room.","\"Help me!\" he cried.","She cried out in pain as she fell.","\"Go on, have a good cry,\" he said."],"phonetic":"kraɪ|kraɪ"}
+{"word":"cry","sw":"cry","definition":["n. a loud utterance; often in protest or opposition","n. a loud utterance of emotion (especially when inarticulate)","n. a fit of weeping","n. the characteristic utterance of an animal"],"translation":["n. 叫声, 哭声, 大叫","vi. 哭, 叫, 喊","vt. 叫喊, 大声说, 哭出"],"pos":["n:23","v:77"],"exchange":["p:cried","i:crying","s:cries","3:cries","d:cried"],"examples":["It's all right. Don't cry.","I just couldn't stop crying.","The little boy fell over and started to cry.","The baby was crying for (= because it wanted) its mother.","There's nothing to cry about.","He felt like crying with rage.","She threw her arms around his neck crying tears of joy.","He started to cry real tears.","\"Waaa!\" she cried.","I found him crying his eyes out (= crying very much).","That night she cried herself to sleep.","She ran to the window and cried for help.","\"You're safe!\" Tom cried in delight.","Seagulls followed the boat, crying loudly.","A pair of eagles cried out to each other as they circled above the trees.","As the saying goes—it's no use crying over spilt milk.","He was a fatherly shoulder to cry on when things went wrong.","I could hear someone crying in the next room.","\"There, there, don't cry,\" she said.","We all laughed until we cried.","She cried bitter tears when she got the letter.","He cried for joy when he heard that his son had been found alive and well.","\"Watch out!\" she cried.","They were wakened by cries of \"Fire!\" from the next room.","\"It's all right, have a good cry,\" he said, stroking her hair.","I heard someone crying in the next room.","\"Help me!\" he cried.","She cried out in pain as she fell.","\"Go on, have a good cry,\" he said."],"phonetic":"kraɪ|kraɪ"}
 {"word":"cry a halt","sw":"cryahalt","definition":[],"translation":["(命令)停止"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry against","sw":"cryagainst","definition":[],"translation":["大声反对"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry aim","sw":"cryaim","definition":[],"translation":["助威"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1366,7 +1366,7 @@
 {"word":"cry Ruth","sw":"cryruth","definition":[],"translation":["vt. 清空肠胃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry shame on","sw":"cryshameon","definition":[],"translation":["责备, 非难"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry shares","sw":"cryshares","definition":[],"translation":["(看到别人捡来或偷来的东西)要求均分;要求瓜分;要求分享"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cry someone a river","sw":"crysomeoneariver","definition":["cry someone a river","(idiomatic, often sarcastic) To weep profusely or excessively in the presence of another person.","(idiomatic, usually sarcastic, by extension) To try to obtain the sympathy of another person by complaining or sniveling.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cry someone a river","sw":"crysomeoneariver","definition":["cry someone a river","(idiomatic, often sarcastic) To weep profusely or excessively in the presence of another person.","(idiomatic, usually sarcastic, by extension) To try to obtain the sympathy of another person by complaining or sniveling."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry stinking fish","sw":"crystinkingfish","definition":[],"translation":["叫卖臭鱼, 暴露自己的缺点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry the blues","sw":"crytheblues","definition":[],"translation":["没精打采"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cry to","sw":"cryto","definition":[],"translation":["向…请求〔抱怨〕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2898,14 +2898,14 @@
 {"word":"cryptopodia fornicata","sw":"cryptopodiafornicata","definition":[],"translation":["圆拱隐足蟹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopolar","sw":"cryptopolar","definition":[],"translation":["隐极性的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopole","sw":"cryptopole","definition":[],"translation":["下陷气孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cryptopolyploid","sw":"cryptopolyploid","definition":["cryptopolyploid (not comparable)","(genetics) polyploid while appearing to be diploid",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cryptopolyploid","sw":"cryptopolyploid","definition":["cryptopolyploid (not comparable)","(genetics) polyploid while appearing to be diploid"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopolyploidy","sw":"cryptopolyploidy","definition":[],"translation":["[网络] 极端多倍体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopone butteli","sw":"cryptoponebutteli","definition":[],"translation":["布氏隐针蚁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopone tavianae","sw":"cryptoponetavianae","definition":[],"translation":["台湾隐针蚁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptopore","sw":"cryptopore","definition":[],"translation":["下陷气孔"],"pos":[],"exchange":[],"examples":[],"phonetic":"'kriptәpɔ:"}
 {"word":"cryptoporous","sw":"cryptoporous","definition":[],"translation":["[医] 隐孔的, 隐隙的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptoporphyrin","sw":"cryptoporphyrin","definition":[],"translation":["[化] 隐卟啉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cryptoporticus","sw":"cryptoporticus","definition":["cryptoporticus (plural cryptoporticuses or cryptoportici)","(Roman architecture) A vaulted corridor or arcade at, or just below ground level; normally lit by openings in the upper part of the vault. Also a roofed promenade that is enclosed with side walls that have windows or openings instead of columns.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cryptoporticus","sw":"cryptoporticus","definition":["cryptoporticus (plural cryptoporticuses or cryptoportici)","(Roman architecture) A vaulted corridor or arcade at, or just below ground level; normally lit by openings in the upper part of the vault. Also a roofed promenade that is enclosed with side walls that have windows or openings instead of columns."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptoprocessing","sw":"cryptoprocessing","definition":[],"translation":["[网络] 密码处理"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptoprocessor","sw":"cryptoprocessor","definition":[],"translation":["[网络] 密码处理器；密码学处理器；运算器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptoprocessors","sw":"cryptoprocessors","definition":[],"translation":["[网络] 密码处理器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2963,7 +2963,7 @@
 {"word":"cryptoscopy","sw":"cryptoscopy","definition":[],"translation":["[医] 萤光镜透视检查, X线透视检查"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptosecurity","sw":"cryptosecurity","definition":[],"translation":["[计] 保密措施"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptoseptate","sw":"cryptoseptate","definition":[],"translation":["隐隔壁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cryptosexist","sw":"cryptosexist","definition":["cryptosexist (not comparable)","(rare) Covertly sexist; not obviously sexist.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cryptosexist","sw":"cryptosexist","definition":["cryptosexist (not comparable)","(rare) Covertly sexist; not obviously sexist."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptosexual","sw":"cryptosexual","definition":[],"translation":["难辨性别的"],"pos":[],"exchange":[],"examples":[],"phonetic":",kriptәu'seksjuәl"}
 {"word":"cryptosiphum gallarum","sw":"cryptosiphumgallarum","definition":[],"translation":["艾草短管蚜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cryptospermia","sw":"cryptospermia","definition":[],"translation":["少精子症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4727,7 +4727,7 @@
 {"word":"ctenoid scale","sw":"ctenoidscale","definition":[],"translation":["[医] 栉样鳞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenoid scales","sw":"ctenoidscales","definition":[],"translation":["栉鳞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenoid structure","sw":"ctenoidstructure","definition":[],"translation":["栉状构造"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ctenoidean","sw":"ctenoidean","definition":["ctenoidean (not comparable)","(zoology) Relating to the Ctenoidei.","","","ctenoidean (plural ctenoideans)","(zoology) Any member of the Ctenoidei.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ctenoidean","sw":"ctenoidean","definition":["ctenoidean (not comparable)","(zoology) Relating to the Ctenoidei.","","","ctenoidean (plural ctenoideans)","(zoology) Any member of the Ctenoidei."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenoides","sw":"ctenoides","definition":[],"translation":["[网络] 栉锉蛤属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenoides ales","sw":"ctenoidesales","definition":[],"translation":["圆栉锉蛤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenoides concentrica","sw":"ctenoidesconcentrica","definition":[],"translation":["同心栉锉蛤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4740,7 +4740,7 @@
 {"word":"ctenomys talarum","sw":"ctenomystalarum","definition":[],"translation":["栉鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenopharyngodon idella","sw":"ctenopharyngodonidella","definition":[],"translation":["草鱼；鲩；鲲；池鱼；草根鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ctenopharyngodon idellus","sw":"ctenopharyngodonidellus","definition":[],"translation":["[医] 鲩(草鱼)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ctenophile","sw":"ctenophile","definition":["ctenophile (plural ctenophiles)","a lover of combs",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ctenophile","sw":"ctenophile","definition":["ctenophile (plural ctenophiles)","a lover of combs"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ctenophoa","sw":"ctenophoa","definition":[],"translation":["栉水母动物门"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctenophora","sw":"ctenophora","definition":["n. pl. A class of Coelenterata, commonly ellipsoidal in","shape, swimming by means of eight longitudinal rows of paddles. The","separate paddles somewhat resemble combs."],"translation":["栉极动物"],"pos":[],"exchange":["s:ctenophoras"],"examples":[],"phonetic":""}
 {"word":"ctenophoran","sw":"ctenophoran","definition":[],"translation":["a. [动]栉水母的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ti'nɔfәrәn"}
@@ -4805,15 +4805,15 @@
 {"word":"ctf","sw":"ctf","definition":[],"translation":["abbr. certify 证明; certified 有证明的; certificate 证书; combined task force 联合特遣部队"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctfa","sw":"ctfa","definition":[],"translation":["abbr. California Tree Fruit Agreement 加利福尼亚树果实协议; Cosmetics;  Toiletry;  and Fragrance Association 化妆品"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctfc","sw":"ctfc","definition":[],"translation":["abbr. central time and frequency control 中央时间和频率控制; Commodity Futures Trading Commission 商品期货交易佣金; communication test flash call 通信测试特急呼叫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ctfd","sw":"ctfd","definition":["Calm the fuck down.","> Dude, ctfd.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ctfd","sw":"ctfd","definition":["Calm the fuck down.","> Dude, ctfd."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CTFE","sw":"ctfe","definition":[],"translation":["abbr. Chlorotrifluor Ethylene 三氟氯乙烯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CTFL","sw":"ctfl","definition":[],"translation":["[网络] Certified Tester Foundation Level; 履和皮革; 认证"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctfmon","sw":"ctfmon","definition":[],"translation":["abbr. 输入法图标；输入法管理；公用追踪设备监视器（Common Trace Facility Monitor）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CTFO","sw":"ctfo","definition":[],"translation":["[网络] 北大千方；千方科技；北京千方科技集团有限公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctfs","sw":"ctfs","definition":[],"translation":["abbr. certificates （复数）证明书，执照"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CTFT","sw":"ctft","definition":[],"translation":["Centre Technique Forestier Tropical (French-Tropical Forest Technical Center) (法语)热带森林技术中心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"CTFU","sw":"ctfu","definition":["Cracks the Fuck Up. When laughing so hard you can hardly breathe.","> When someone does or says something completly and utterly funny, ridiculous or stupid.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"CTFUs","sw":"ctfus","definition":["Cracks the Fuck Up. When laughing so hard you can hardly breathe.","> When someone does or says something completly and utterly funny, ridiculous or stupid.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"CTFU","sw":"ctfu","definition":["Cracks the Fuck Up. When laughing so hard you can hardly breathe.","> When someone does or says something completly and utterly funny, ridiculous or stupid."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"CTFUs","sw":"ctfus","definition":["Cracks the Fuck Up. When laughing so hard you can hardly breathe.","> When someone does or says something completly and utterly funny, ridiculous or stupid."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"CTFV","sw":"ctfv","definition":[],"translation":["[=Colorado tick fever virus]科罗拉多蜱热病毒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctg","sw":"ctg","definition":[],"translation":["[医][=cardiotachometer]心动计数器, 心率计"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ctga","sw":"ctga","definition":[],"translation":["[=complete transposition of the great arteries]大动脉完全错位"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

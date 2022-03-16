@@ -118,7 +118,7 @@
 {"word":"forgoing","sw":"forgoing","definition":["p. pr. & vb. n. of Forgo"],"translation":["v. 没有也行, 放弃( forgo的现在分词 )"],"pos":[],"exchange":["0:forgo","1:i","s:forgoings"],"examples":[],"phonetic":"fɔ:'gəʊɪŋ"}
 {"word":"forgoings","sw":"forgoings","definition":[],"translation":["forgoing","vt.","forgo的变形","forgo","[fɔ:'ɡəu]","vt.","弃绝，摒绝，放弃，抛弃；作罢，戒除；节制，抑制","[古语]离开；经过","[古语]忽略，疏忽[亦作 forego]","近义词:","relinquish","变形：","vt.","forgowent",". forgone",". forgoing"],"pos":[],"exchange":["0:forgoing","1:s"],"examples":[],"phonetic":"fɔ:'ɡəu"}
 {"word":"forgone","sw":"forgone","definition":["v do without or cease to hold or adhere to","v be earlier in time; go back further","v lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime"],"translation":["v. 没有也行, 放弃( forgo的过去分词 )"],"pos":[],"exchange":["1:d","0:forgo"],"examples":[],"phonetic":"fɔ:ˈgɒn"}
-{"word":"Forgoogle","sw":"forgoogle","definition":["A thought runs through your head while you are busy doing something. You make a mental note to look it up when you are done. By the time you are ready to google it you realize you've forgotten what the heck it was you wanted to find out.","> I was watching TV and wondered where I'd seen that woman before. I waited till the program was over and damn if I didn't forgoogle her name.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Forgoogle","sw":"forgoogle","definition":["A thought runs through your head while you are busy doing something. You make a mental note to look it up when you are done. By the time you are ready to google it you realize you've forgotten what the heck it was you wanted to find out.","> I was watching TV and wondered where I'd seen that woman before. I waited till the program was over and damn if I didn't forgoogle her name."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forgot","sw":"forgot","definition":["v dismiss from the mind; stop remembering","v be unable to remember","v forget to do something","v leave behind unintentionally"],"translation":["forget的过去式和过去分词"],"pos":[],"exchange":["0:forget","1:pd"],"examples":[],"phonetic":"fә'gɒt"}
 {"word":"Forgot password","sw":"forgotpassword","definition":[],"translation":["[网络] 忘记密码；忘记了密码；忘记密码了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forgot-ten","sw":"forgotten","definition":[],"translation":["v. 忘记（forget的过去分词）"],"pos":[],"exchange":[],"examples":[],"phonetic":"fə'ɡɒtn"}
@@ -141,8 +141,8 @@
 {"word":"Forgurt","sw":"forgurt","definition":[],"translation":["n. 【商标】冷冻酸乳酪"],"pos":[],"exchange":[],"examples":[],"phonetic":"'frəuɡət"}
 {"word":"forgy","sw":"forgy","definition":[],"translation":["[网络] 狂妄"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhale","sw":"forhale","definition":[],"translation":["[网络] 呼噜声"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forhang","sw":"forhang","definition":["forhang (third-person singular simple present forhangs, present participle forhanging, simple past and past participle forhanged)","(obsolete) to hang to death, put to death by hanging.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forhard","sw":"forhard","definition":["forhard (third-person singular simple present forhards, present participle forharding, simple past and past participle forharded)","(transitive, intransitive, obsolete) To harden up.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forhang","sw":"forhang","definition":["forhang (third-person singular simple present forhangs, present participle forhanging, simple past and past participle forhanged)","(obsolete) to hang to death, put to death by hanging."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forhard","sw":"forhard","definition":["forhard (third-person singular simple present forhards, present participle forharding, simple past and past participle forharded)","(transitive, intransitive, obsolete) To harden up."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhare","sw":"forhare","definition":[],"translation":["[网络] 招呼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhead","sw":"forhead","definition":[],"translation":["[网络] 发展论坛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forheim","sw":"forheim","definition":[],"translation":["[地名] 福尔海姆 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -150,7 +150,7 @@
 {"word":"forhew","sw":"forhew","definition":[],"translation":["[网络] 福建"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhide","sw":"forhide","definition":[],"translation":["[网络] 禁止"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhight","sw":"forhight","definition":[],"translation":["[网络] 再见"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forhill","sw":"forhill","definition":["forhill (third-person singular simple present forhills, present participle forhilling, simple past and past participle forhilled)","(transitive, obsolete) To cover; protect.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forhill","sw":"forhill","definition":["forhill (third-person singular simple present forhills, present participle forhilling, simple past and past participle forhilled)","(transitive, obsolete) To cover; protect."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forhistal","sw":"forhistal","definition":[],"translation":["马来酸二甲茚定,马来酸吡啶茚胺,马来酸二甲吡茚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhoar","sw":"forhoar","definition":[],"translation":["[网络] 富豪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forhoared","sw":"forhoared","definition":[],"translation":["[网络] 受欢迎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -185,7 +185,7 @@
 {"word":"forisomes","sw":"forisomes","definition":[],"translation":["[网络] 果冻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Foristal","sw":"foristal","definition":[],"translation":["二甲茚定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forit","sw":"forit","definition":[],"translation":["澳昔哌汀,氧苯哌吲哚,奥泼定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forizzle","sw":"forizzle","definition":["\"for real\"","> \"Dude, I used to be a woman!\" \"Fo rizzle?\"  \"fo sho\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forizzle","sw":"forizzle","definition":["\"for real\"","> \"Dude, I used to be a woman!\" \"Fo rizzle?\"  \"fo sho\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forjudge","sw":"forjudge","definition":[],"translation":["vt.预断, 臆断, 推断, [律]驱逐"],"pos":[],"exchange":[],"examples":[],"phonetic":"fɔ:'dʒʌdʒ"}
 {"word":"forjudged","sw":"forjudged","definition":[],"translation":["forjudged","vt.","forjudge的变形","forjudge","[fɔ:'dʒʌdʒ]","vt.","= forejudge2","变形：","vt.","forjudged",". forjudging"],"pos":[],"exchange":[],"examples":[],"phonetic":"fɔ:'dʒʌdʒ"}
 {"word":"forjudgement","sw":"forjudgement","definition":[],"translation":["[网络] 判断"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -484,13 +484,13 @@
 {"word":"forlani","sw":"forlani","definition":[],"translation":["[网络] 福拉拉尼"],"pos":[],"exchange":["s:forlani"],"examples":[],"phonetic":""}
 {"word":"forlano","sw":"forlano","definition":[],"translation":["[人名] 福拉诺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlapped","sw":"forlapped","definition":[],"translation":["[网络] 被封锁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forlat","sw":"forlat","definition":["forlat (third-person singular simple present forlats, present participle forlatting, simple past forleet or forlut, past participle forlatten or forlutten)","(transitive, Britain  dialectal, Northern England, Scotland) To deal a blow; hit out.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forlat","sw":"forlat","definition":["forlat (third-person singular simple present forlats, present participle forlatting, simple past forleet or forlut, past participle forlatten or forlutten)","(transitive, Britain  dialectal, Northern England, Scotland) To deal a blow; hit out."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlaw","sw":"forlaw","definition":[],"translation":["[网络] 对于法律"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forlax","sw":"forlax","definition":[],"translation":["福松"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlay","sw":"forlay","definition":[],"translation":["[网络] 镶嵌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlead","sw":"forlead","definition":[],"translation":["[网络] 为铅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forleave","sw":"forleave","definition":[],"translation":["[网络] 动身去；离开去"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forleet","sw":"forleet","definition":["forleet (third-person singular simple present forleets, present participle forleeting, simple past and past participle forleet)","Alternative form of forlet","","","forleet","simple past tense of forlat",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forleet","sw":"forleet","definition":["forleet (third-person singular simple present forleets, present participle forleeting, simple past and past participle forleet)","Alternative form of forlet","","","forleet","simple past tense of forlat"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlend","sw":"forlend","definition":[],"translation":["[网络] 支持"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlending","sw":"forlending","definition":[],"translation":["[网络] 退出"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlength","sw":"forlength","definition":[],"translation":["[网络] 长度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -500,7 +500,7 @@
 {"word":"forlesing","sw":"forlesing","definition":[],"translation":["[网络] 伪造"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlesings","sw":"forlesings","definition":[],"translation":["[网络] 伪造"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlest","sw":"forlest","definition":[],"translation":["un. 生怕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forlet","sw":"forlet","definition":["forlet (third-person singular simple present forlets, present participle forletting, simple past and past participle forlet)","(transitive, archaic or Britain  dialectal) To abandon; give up; leave; leave behind; forsake; desert; neglect. [10th-17th c.]","(transitive, Britain  dialectal, Scotland) To forget.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forlet","sw":"forlet","definition":["forlet (third-person singular simple present forlets, present participle forletting, simple past and past participle forlet)","(transitive, archaic or Britain  dialectal) To abandon; give up; leave; leave behind; forsake; desert; neglect. [10th-17th c.]","(transitive, Britain  dialectal, Scotland) To forget."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlets","sw":"forlets","definition":[],"translation":["[网络] 小屋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forletting","sw":"forletting","definition":[],"translation":["[网络] 排水"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forley square","sw":"forleysquare","definition":[],"translation":["福莱广场(纽约市，地方法院所在地)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -515,7 +515,7 @@
 {"word":"forlode","sw":"forlode","definition":[],"translation":["[网络] 推翻"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forloin","sw":"forloin","definition":[],"translation":["[网络] 芦荟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlong","sw":"forlong","definition":[],"translation":["na. 长久 longs and shorts 1. 诗〔尤指古希腊的和古拉丁的〕. 2. 【建筑】长短砌合","[网络] 弗隆；佛龙；欧龙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forloppin","sw":"forloppin","definition":["forloppin","(Britain  dialectal, Scotland) Being a runaway, vagabond, or renegade.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forloppin","sw":"forloppin","definition":["forloppin","(Britain  dialectal, Scotland) Being a runaway, vagabond, or renegade."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlore","sw":"forlore","definition":[],"translation":["[网络] 祝福"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forlorn","sw":"forlorn","definition":["s. marked by or showing hopelessness"],"translation":["a. 孤独的, 悲惨的, 凄凉的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"fә'lɒ:n"}
 {"word":"forlorn hope","sw":"forlornhope","definition":[],"translation":["n. 敢死队, 希望甚微孤注一掷的事业"],"pos":[],"exchange":["s:forlorn hopes"],"examples":[],"phonetic":"fəˈlɔ:n həup"}
@@ -2931,7 +2931,7 @@
 {"word":"fornia","sw":"fornia","definition":[],"translation":["[网络] 尼亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornical","sw":"fornical","definition":["a. Relating to a fornix."],"translation":["a. 穹窿的, 拱形空间的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'fɔ:nikәl"}
 {"word":"fornical conjunctiva","sw":"fornicalconjunctiva","definition":[],"translation":["[医] 穹隆结膜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Fornicalia","sw":"fornicalia","definition":["Fornicalia","An ancient Roman festival in honor of the goddess Fornax. Romans burned spelt (a kind of grain) as an offering on or around February 17th as an offering so that their ovens would not burn during the coming year.","","","Fornicalia","(humorous) California (state of the United States)",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Fornicalia","sw":"fornicalia","definition":["Fornicalia","An ancient Roman festival in honor of the goddess Fornax. Romans burned spelt (a kind of grain) as an offering on or around February 17th as an offering so that their ovens would not burn during the coming year.","","","Fornicalia","(humorous) California (state of the United States)"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornicarer","sw":"fornicarer","definition":[],"translation":["[网络] for arer。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornicarious","sw":"fornicarious","definition":[],"translation":["[网络] 无情的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornicary","sw":"fornicary","definition":[],"translation":["[网络] 野餐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2957,7 +2957,7 @@
 {"word":"fornicators","sw":"fornicators","definition":["plural of fornicator","n someone who commits adultery or fornication"],"translation":["(fornicator 的复数) n. 私通者","[法] 私通者, 通奸者"],"pos":[],"exchange":["0:fornicator","1:s"],"examples":[],"phonetic":""}
 {"word":"fornicatory","sw":"fornicatory","definition":[],"translation":["[网络] 敬礼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornicatrice","sw":"fornicatrice","definition":[],"translation":["私通者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fornicatrix","sw":"fornicatrix","definition":["fornicatrix (plural fornicatrices)","A female fornicator.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"fornicatrix","sw":"fornicatrix","definition":["fornicatrix (plural fornicatrices)","A female fornicator."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Fornicatus","sw":"fornicatus","definition":[],"translation":["穹窿状的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fornices","sw":"fornices","definition":["pl.  of Fornix"],"translation":["n. 穹窿, 穹( fornix的名词复数 )"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈfɔ:niksiz"}
 {"word":"forniciform","sw":"forniciform","definition":[],"translation":["a. 弯曲状的"],"pos":[],"exchange":[],"examples":[],"phonetic":"fɔ:'nisifɔ:m"}
@@ -3019,7 +3019,7 @@
 {"word":"foroxone","sw":"foroxone","definition":[],"translation":["[化] 呋喃唑酮; 痢特灵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forpained","sw":"forpained","definition":[],"translation":["[网络] 不耐烦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forpamper","sw":"forpamper","definition":[],"translation":["[网络] 伪装"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forpass","sw":"forpass","definition":["forpass (third-person singular simple present forpasses, present participle forpassing, simple past and past participle forpassed)","(intransitive, obsolete) To go by; pass, go past; pass unnoticed; cross.","(transitive, obsolete) To go beyond, exceed; surpass.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forpass","sw":"forpass","definition":["forpass (third-person singular simple present forpasses, present participle forpassing, simple past and past participle forpassed)","(intransitive, obsolete) To go by; pass, go past; pass unnoticed; cross.","(transitive, obsolete) To go beyond, exceed; surpass."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forpassed","sw":"forpassed","definition":[],"translation":["[网络] 被通过"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forpasses","sw":"forpasses","definition":[],"translation":["[网络] 通道"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forpassing","sw":"forpassing","definition":[],"translation":["[网络] 通过"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3080,7 +3080,7 @@
 {"word":"forrie","sw":"forrie","definition":[],"translation":["[网络] 福里"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forrign","sw":"forrign","definition":[],"translation":["a. 外国的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forrill","sw":"forrill","definition":[],"translation":["[网络] 快车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forrit","sw":"forrit","definition":["forrit (not comparable)","(Scotland) Forwards, forward.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forrit","sw":"forrit","definition":["forrit (not comparable)","(Scotland) Forwards, forward."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forro","sw":"forro","definition":[],"translation":["[网络] 弗乐舞；福尔罗；巴西佛乐舞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forroast","sw":"forroast","definition":[],"translation":["[网络] 进餐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forroot","sw":"forroot","definition":[],"translation":["[网络] 一键卸载"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3156,9 +3156,9 @@
 {"word":"forshield","sw":"forshield","definition":[],"translation":["[网络] 挡风玻璃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forshorten","sw":"forshorten","definition":[],"translation":["vt.按透视法缩小"],"pos":[],"exchange":[],"examples":[],"phonetic":"'fɔːʃɔːtn"}
 {"word":"forshrink","sw":"forshrink","definition":[],"translation":["[网络] 收缩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forshrunk","sw":"forshrunk","definition":["forshrunk (comparative more forshrunk, superlative most forshrunk)","Utterly shrunk; entirely shrunk up.","","","forshrunk","past participle of forshrink.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forshrunk","sw":"forshrunk","definition":["forshrunk (comparative more forshrunk, superlative most forshrunk)","Utterly shrunk; entirely shrunk up.","","","forshrunk","past participle of forshrink."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forsht","sw":"forsht","definition":[],"translation":["[人名] 福什特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forshut","sw":"forshut","definition":["forshut (third-person singular simple present forshuts, present participle forshutting, simple past and past participle forshut)","(transitive) To shut off or out; preclude; prohibit.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forshut","sw":"forshut","definition":["forshut (third-person singular simple present forshuts, present participle forshutting, simple past and past participle forshut)","(transitive) To shut off or out; preclude; prohibit."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forsight","sw":"forsight","definition":[],"translation":["[网络] 视而不见"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forsin","sw":"forsin","definition":[],"translation":["[网络] 为罪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Forsinard","sw":"forsinard","definition":[],"translation":["[地名] 福西纳德 ( 英 )"],"pos":[],"exchange":["s:forsinards"],"examples":[],"phonetic":""}
@@ -3183,7 +3183,7 @@
 {"word":"forslowed","sw":"forslowed","definition":[],"translation":["[网络] 舍弃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forslowing","sw":"forslowing","definition":[],"translation":["[网络] 放下"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forslows","sw":"forslows","definition":[],"translation":["[网络] 放弃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forslowth","sw":"forslowth","definition":["forslowth (third-person singular simple present forslowths, present participle forslowthing, simple past and past participle forslowthed)","(transitive, obsolete) To lose by sloth or negligence.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forslowth","sw":"forslowth","definition":["forslowth (third-person singular simple present forslowths, present participle forslowthing, simple past and past participle forslowthed)","(transitive, obsolete) To lose by sloth or negligence."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forslund","sw":"forslund","definition":[],"translation":["福斯隆德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forsman","sw":"forsman","definition":[],"translation":["[网络] 福建人"],"pos":[],"exchange":["s:forsmen"],"examples":[],"phonetic":""}
 {"word":"Forsmark","sw":"forsmark","definition":[],"translation":["[地名] 福什马克 ( 瑞典 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3696,7 +3696,7 @@
 {"word":"forthdeals","sw":"forthdeals","definition":[],"translation":["[网络] 福音"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthdo","sw":"forthdo","definition":[],"translation":["[网络] 先生"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthdraw","sw":"forthdraw","definition":[],"translation":["[网络] 出来"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forthdrawing","sw":"forthdrawing","definition":["forthdrawing","present participle of forthdraw","","","forthdrawing (not comparable)","Drawing or extending forth","","","forthdrawing (uncountable)","A going forth or forward",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forthdrawing","sw":"forthdrawing","definition":["forthdrawing","present participle of forthdraw","","","forthdrawing (not comparable)","Drawing or extending forth","","","forthdrawing (uncountable)","A going forth or forward"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthe","sw":"forthe","definition":[],"translation":["[网络] 为少数者的；艺术；眼前"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthegill","sw":"forthegill","definition":[],"translation":["三叉神经痛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortheir","sw":"fortheir","definition":[],"translation":["[网络] 他们的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3713,7 +3713,7 @@
 {"word":"forthfore","sw":"forthfore","definition":[],"translation":["[网络] 以前"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthgang","sw":"forthgang","definition":[],"translation":["[网络] 四方"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthgangs","sw":"forthgangs","definition":[],"translation":["[网络] 四方"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"forthgive","sw":"forthgive","definition":["forthgive (third-person singular simple present forthgives, present participle forthgiveing, simple past and past participle forthgiveed)","(obsolete) To give forth",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"forthgive","sw":"forthgive","definition":["forthgive (third-person singular simple present forthgives, present participle forthgiveing, simple past and past participle forthgiveed)","(obsolete) To give forth"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthglide","sw":"forthglide","definition":[],"translation":["[网络] 四轮车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthglided","sw":"forthglided","definition":[],"translation":["[网络] 四合"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"forthglides","sw":"forthglides","definition":[],"translation":["[网络] 四轮车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3925,7 +3925,7 @@
 {"word":"Fortnum and Mason","sw":"fortnumandmason","definition":[],"translation":["福特南—梅森公司(英国伦敦一家犬食品杂货公司)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortnums","sw":"fortnums","definition":["plural of fortnum"],"translation":["(fortnum 的复数)  [人名] [英格兰人姓氏] 福特纳姆绰号, 四肢发达头脑简单的人, 来源于古法语, 含义是“强壮的+驴”(strong+donkey)"],"pos":[],"exchange":["0:fortnum","1:s"],"examples":[],"phonetic":""}
 {"word":"forto","sw":"forto","definition":[],"translation":["[网络] 力量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fortochka","sw":"fortochka","definition":["fortochka (plural fortochkas)","A small ventilation window, spanning the frame of one window pane, that opens on hinges independently of the whole window, common in Russia, post-Soviet states and Finland.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"fortochka","sw":"fortochka","definition":["fortochka (plural fortochkas)","A small ventilation window, spanning the frame of one window pane, that opens on hinges independently of the whole window, common in Russia, post-Soviet states and Finland."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Fortodyl","sw":"fortodyl","definition":[],"translation":["维生素D2"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Fortogyl","sw":"fortogyl","definition":[],"translation":["骨化醇,丁二素,钙化醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortoin","sw":"fortoin","definition":[],"translation":["甲醛缩可土树皮素"],"pos":[],"exchange":[],"examples":[],"phonetic":"'fɔ:tɔ:n"}
@@ -4075,7 +4075,7 @@
 {"word":"fortunary","sw":"fortunary","definition":[],"translation":["[网络] 幸运的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortunas","sw":"fortunas","definition":[],"translation":["n. 福耳图那（罗马神话中的命运女神）"],"pos":[],"exchange":["0:fortuna","1:s"],"examples":[],"phonetic":"fɔ:'tju:nə"}
 {"word":"fortunata","sw":"fortunata","definition":[],"translation":["[网络] 佛尔图娜塔；凶狼蛛；福尔图娜塔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"fortunate","sw":"fortunate","definition":["a. having unexpected good fortune","s. supremely favored","s. presaging good fortune"],"translation":["a. 幸运的, 幸福的"],"pos":["j:100"],"exchange":[],"examples":["Remember those less fortunate than yourselves.","I have been fortunate enough to visit many parts of the world as a lecturer.","I was fortunate in having a good teacher.","It was very fortunate for him that I arrived on time.","You're very fortunate to have found such a nice house.","He was fortunate in his choice of assistant.","It was fortunate that they had set out early because the traffic was terrible.","You’re fortunate to have found such a pleasant house.","It was fortunate that you left in time.","Fortunately we were already home when it started to snow."],"phonetic":"ˈfɔːtʃənət|ˈfɔːrtʃənət"}
+{"word":"fortunate","sw":"fortunate","definition":["a. having unexpected good fortune","s. supremely favored","s. presaging good fortune"],"translation":["a. 幸运的, 幸福的"],"pos":["j:100"],"exchange":[],"examples":["Remember those less fortunate than yourselves.","I have been fortunate enough to visit many parts of the world as a lecturer.","I was fortunate in having a good teacher.","It was very fortunate for him that I arrived on time.","You're very fortunate to have found such a nice house.","He was fortunate in his choice of assistant.","It was fortunate that they had set out early because the traffic was terrible.","You're fortunate to have found such a pleasant house.","It was fortunate that you left in time.","Fortunately we were already home when it started to snow."],"phonetic":"ˈfɔːtʃənət|ˈfɔːrtʃənət"}
 {"word":"fortunate in","sw":"fortunatein","definition":[],"translation":["于…很幸运"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortunateling","sw":"fortunateling","definition":[],"translation":["[网络] 幸好"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"fortunately","sw":"fortunately","definition":["r. by good fortune"],"translation":["adv. 幸运地, 幸亏"],"pos":["r:100"],"exchange":[],"examples":["I was late, but fortunately the meeting hadn't started.","The documents fortunately survived the fire.","Fortunately or unfortunately, those times have passed.","Fortunately for him, he was very soon offered another job.","Fortunately, we got home before it started to rain."],"phonetic":"ˈfɔːtʃənətli|ˈfɔːrtʃənətli"}

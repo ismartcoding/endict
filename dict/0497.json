@@ -636,7 +636,7 @@
 {"word":"Sirecard","sw":"sirecard","definition":[],"translation":["去颤器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sirecust","sw":"sirecust","definition":[],"translation":["监护仪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sired","sw":"sired","definition":["imp. & p. p. of Sire"],"translation":["v. 公畜( sire的过去式和过去分词 ); 陛下"],"pos":[],"exchange":["0:sire","1:dp"],"examples":[],"phonetic":"saɪəd"}
-{"word":"siredon","sw":"siredon","definition":["siredon (plural siredons)","(zoology) The larval form of any salamander while it still has external gills, especially one of those which, like the axolotl, sometimes lay eggs while in this larval state, but which under more favourable conditions lose their gills and become normal salamanders.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"siredon","sw":"siredon","definition":["siredon (plural siredons)","(zoology) The larval form of any salamander while it still has external gills, especially one of those which, like the axolotl, sometimes lay eggs while in this larval state, but which under more favourable conditions lose their gills and become normal salamanders."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"siree","sw":"siree","definition":[],"translation":["n. 先生"],"pos":[],"exchange":["s:sirees"],"examples":[],"phonetic":"sә:'ri:"}
 {"word":"sireen","sw":"sireen","definition":[],"translation":["[网络] 警笛声"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sirees","sw":"sirees","definition":[],"translation":["n. 先生（等于sirree）"],"pos":[],"exchange":["0:siree","1:s"],"examples":[],"phonetic":"sə'ri"}
@@ -961,7 +961,7 @@
 {"word":"sirventes","sw":"sirventes","definition":[],"translation":["<法>n.讽刺诗歌"],"pos":[],"exchange":[],"examples":[],"phonetic":"siә'vent"}
 {"word":"siryah","sw":"siryah","definition":[],"translation":["[网络] 先生"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sis","sw":"sis","definition":["n a female person who has the same parents as another person","n a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors","n a complete metric system of units of measurement for scientists; fundamental quantities are length (meter) and mass (kilogram) and time (second) and electric current (ampere) and temperature (kelvin) and amount of matter (mole) and luminous intensity (candela)","n the syllable naming the seventh (subtonic) note of any musical scale in solmization"],"translation":["n. [美口]姐妹（等于sister）"],"pos":["n:100"],"exchange":["0:si","s:ses"],"examples":[],"phonetic":"sis"}
-{"word":"sis boom bah","sw":"sisboombah","definition":["sis boom bah","an exclamation of encouragement","(dated) The characteristic sound made by a firecracker.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sis boom bah","sw":"sisboombah","definition":["sis boom bah","an exclamation of encouragement","(dated) The characteristic sound made by a firecracker."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sis-boom-bah","sw":"sisboombah","definition":[],"translation":["n. [美国俚语]观赏性运动项目，(尤指)美式橄榄球"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sis'bu:m'bɑ:"}
 {"word":"sis-s","sw":"siss","definition":[],"translation":["abbr. 智能怠速停止系统（Smart Idle Stop System）"],"pos":[],"exchange":["0:i-","1:s"],"examples":[],"phonetic":"sis"}
 {"word":"sis-sis-s","sw":"sississ","definition":[],"translation":["abbr. 微光（Image Intensification）","(i-i- 的复数)"],"pos":[],"exchange":["0:i-i-","1:s"],"examples":[],"phonetic":""}
@@ -1124,7 +1124,7 @@
 {"word":"sissification","sw":"sissification","definition":[],"translation":["[网络] 解职"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sissified","sw":"sissified","definition":["s having unsuitable feminine qualities"],"translation":["a. <口>女孩子气的,女人腔的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sisi,faid"}
 {"word":"sissifies","sw":"sissifies","definition":[],"translation":["[网络] sissified"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sissify","sw":"sissify","definition":["sissify (third-person singular simple present sissifies, present participle sissifying, simple past and past participle sissified)","(transitive) To make sissy; to emasculate.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sissify","sw":"sissify","definition":["sissify (third-person singular simple present sissifies, present participle sissifying, simple past and past participle sissified)","(transitive) To make sissy; to emasculate."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sissifying","sw":"sissifying","definition":[],"translation":["[网络] 吵架"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sissile dislocation","sw":"sissiledislocation","definition":[],"translation":["弗兰克局部位错"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sissili","sw":"sissili","definition":[],"translation":["[地名] 锡西利河 ( 布基·加纳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1167,7 +1167,7 @@
 {"word":"sist","sw":"sist","definition":["v. t. To stay, as judicial proceedings; to delay or suspend; to","stop.","v. t. To cause to take a place, as at the bar of a court; hence,","to cite; to summon; to bring into court.","n. A stay or suspension of proceedings; an order for a stay of","proceedings."],"translation":["abbr. 塞斯特；斯洛文尼亚标准化协会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sista","sw":"sista","definition":[],"translation":["[网络] 郭凤；姊妹帮"],"pos":[],"exchange":["s:sistas"],"examples":[],"phonetic":""}
 {"word":"sistah","sw":"sistah","definition":[],"translation":["n. 姐妹（同sister）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sistahs","sw":"sistahs","definition":["memebase's way to annoy the hell out of people by putting it meaninglessly at the end of every post so then you have to look it up to find out what it is","> Hey sistah","> STFU",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sistahs","sw":"sistahs","definition":["memebase's way to annoy the hell out of people by putting it meaninglessly at the end of every post so then you have to look it up to find out what it is","> Hey sistah","> STFU"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sistan","sw":"sistan","definition":[],"translation":["锡斯坦[西亚一地区](包括伊朗东部和阿富汗西南部)"],"pos":[],"exchange":[],"examples":[],"phonetic":"si'stɑ:n"}
 {"word":"sistani","sw":"sistani","definition":[],"translation":["[网络] 西斯塔尼；锡斯坦尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sistani Persian","sw":"sistanipersian","definition":[],"translation":["[网络] 西斯塔尼波斯人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1279,7 +1279,7 @@
 {"word":"Sisteron","sw":"sisteron","definition":[],"translation":["[地名] 锡斯特龙 ( 法 )"],"pos":[],"exchange":["s:sisterons"],"examples":[],"phonetic":""}
 {"word":"sisterons","sw":"sisterons","definition":[],"translation":["[地名] 锡斯特龙 ( 法 )","(sisteron 的复数)"],"pos":[],"exchange":["0:sisteron","1:s"],"examples":[],"phonetic":""}
 {"word":"sisters","sw":"sisters","definition":["n a female person who has the same parents as another person","n (Roman Catholic Church) a title given to a nun (and used as a form of address)","n a female person who is a fellow member of a sorority or labor union or other group","n (slang) sometimes used as a term of address for attractive young women"],"translation":["n. 姐妹们（sister的复数形式）"],"pos":[],"exchange":["0:sister","1:s"],"examples":[],"phonetic":""}
-{"word":"sisters before misters","sw":"sistersbeforemisters","definition":["sisters before misters","A woman should prioritize her female friends over her boyfriend or husband.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sisters before misters","sw":"sistersbeforemisters","definition":["sisters before misters","A woman should prioritize her female friends over her boyfriend or husband."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sisters of mercy","sw":"sistersofmercy","definition":[],"translation":["n. 慈善修女会会员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sisters thread","sw":"sistersthread","definition":[],"translation":["[网络] 姐姐的线程"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sisters-german","sw":"sistersgerman","definition":[],"translation":["[网络] 姊妹 - 德国人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1355,7 +1355,7 @@
 {"word":"Sisyphean","sw":"sisyphean","definition":["a. of or relating to Sisyphus","s. both extremely effortful and futile"],"translation":["a. 永远做不完的, 徒劳的"],"pos":["j:100"],"exchange":["s:sisypheans"],"examples":[],"phonetic":",sisi'fi(:)әn"}
 {"word":"Sisyphean task","sw":"sisypheantask","definition":[],"translation":["= labour of Sisyphus [见labour]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sisypheans","sw":"sisypheans","definition":[],"translation":["Sisyphean","[,sisi'fi:ən]","adj.","像西绪福斯一样的","徒劳无益的；永无休止的"],"pos":[],"exchange":["0:sisyphean","1:s"],"examples":[],"phonetic":",sisi'fi:ən"}
-{"word":"Sisyphism","sw":"sisyphism","definition":["Sisyphism (uncountable)","Infinite labor that produces nothing.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Sisyphism","sw":"sisyphism","definition":["Sisyphism (uncountable)","Infinite labor that produces nothing."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sisyphus","sw":"sisyphus","definition":["n. (Greek legend) a king in ancient Greece who offended Zeus and whose punishment was to roll a huge boulder to the top of a steep hill; each time the boulder neared the top it rolled back down and Sisyphus was forced to start again"],"translation":["n. 科林斯王（希腊暴君）"],"pos":[],"exchange":["s:sisyphuss"],"examples":[],"phonetic":"'sisifәs"}
 {"word":"sisyphuss","sw":"sisyphuss","definition":[],"translation":["Sisyphus","['sisifəs]","n.","【希腊神话】西绪福斯(科林斯国的暴君，死后入地狱被罚做永无休止的推巨石苦工)"],"pos":[],"exchange":["0:sisyphus","1:s"],"examples":[],"phonetic":"'sisifəs"}
 {"word":"Sisyridae","sw":"sisyridae","definition":[],"translation":["n. 水蛉科","[网络] 脉翅目水蛉科；海绵蜻蛉科"],"pos":[],"exchange":["s:sisyridaes"],"examples":[],"phonetic":""}
@@ -1394,7 +1394,7 @@
 {"word":"sit below the salt","sw":"sitbelowthesalt","definition":[],"translation":["社会地位低"],"pos":[],"exchange":[],"examples":[],"phonetic":"sit biˈləu ðə sɔ:lt"}
 {"word":"sit beside","sw":"sitbeside","definition":[],"translation":["坐在…的旁边"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sit between two stools","sw":"sitbetweentwostools","definition":[],"translation":["两头落空；两边都不讨好"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sit bitch","sw":"sitbitch","definition":["v. to sit crammed in the middle of two people in the back seat of an automobile","","(sitting bitch= adj.)","","see: Get rich or sit bitch.","> Everyone got to the car first so I had to sit bitch.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sit bitch","sw":"sitbitch","definition":["v. to sit crammed in the middle of two people in the back seat of an automobile","","(sitting bitch= adj.)","","see: Get rich or sit bitch.","> Everyone got to the car first so I had to sit bitch."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sit bodkin","sw":"sitbodkin","definition":[],"translation":["(在车、船中)挤坐在两人中间"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sit bolt upright","sw":"sitboltupright","definition":[],"translation":["挺直地坐着."],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sit bone","sw":"sitbone","definition":[],"translation":["[网络] 坐骨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1559,7 +1559,7 @@
 {"word":"Sitamau","sw":"sitamau","definition":[],"translation":["夕塔茂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sitampiky","sw":"sitampiky","definition":[],"translation":["[地名] 锡坦皮基 ( 马达 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitan","sw":"sitan","definition":[],"translation":["印度被单布"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sitæn"}
-{"word":"Sitanagaram","sw":"sitanagaram","definition":["Sitanagaram","Name of a village in Andhra Pradesh.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Sitanagaram","sw":"sitanagaram","definition":["Sitanagaram","Name of a village in Andhra Pradesh."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sitanalysis","sw":"sitanalysis","definition":[],"translation":["淘汰分析"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sitankai","sw":"sitankai","definition":[],"translation":["[地名] 锡坦凯 ( 菲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitanle","sw":"sitanle","definition":[],"translation":["[网络] 西塔利亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1573,7 +1573,7 @@
 {"word":"Sitaris","sw":"sitaris","definition":[],"translation":["[网络] 芜菁属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitarist","sw":"sitarist","definition":[],"translation":["西塔尔琴演奏者"],"pos":[],"exchange":["s:sitarists"],"examples":[],"phonetic":"'sɪtərɪst"}
 {"word":"sitarists","sw":"sitarists","definition":[],"translation":["n. 西他；锡塔尔琴（印度的一种大弦弹拨乐器） (sitar的变形)"],"pos":[],"exchange":["0:sitarist","1:s"],"examples":[],"phonetic":""}
-{"word":"sitarlike","sw":"sitarlike","definition":["sitarlike (comparative more sitarlike, superlative most sitarlike)","Resembling or characteristic of a sitar.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sitarlike","sw":"sitarlike","definition":["sitarlike (comparative more sitarlike, superlative most sitarlike)","Resembling or characteristic of a sitar."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitars","sw":"sitars","definition":["n. a stringed instrument of India; has a long neck and movable frets; has 6 or 7 metal strings for playing and usually 13 resonating strings"],"translation":["n. 锡塔尔琴（印度的一种大弦弹拨乐器）( sitar的复数形式 )"],"pos":[],"exchange":["0:sitar","1:s"],"examples":[],"phonetic":"siˈtɑ:z"}
 {"word":"sitas","sw":"sitas","definition":[],"translation":["[网络] 时间空间"],"pos":[],"exchange":["0:sita","1:s"],"examples":[],"phonetic":""}
 {"word":"Sitasjaure","sw":"sitasjaure","definition":[],"translation":["[地名] 锡塔斯湖 ( 瑞典 )"],"pos":[],"exchange":["s:sitasjaures"],"examples":[],"phonetic":""}
@@ -1590,7 +1590,7 @@
 {"word":"sitchin","sw":"sitchin","definition":[],"translation":["[网络] 西琴；撒迦利亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitcom","sw":"sitcom","definition":["n a humorous drama based on situations that might arise in day-to-day life","n a humorous television program based on situations that could arise in everyday life"],"translation":["abbr. 情景喜剧（situation comedy）"],"pos":["n:100"],"exchange":["s:sitcoms"],"examples":[],"phonetic":"'sitkɔm"}
 {"word":"sitcome","sw":"sitcome","definition":[],"translation":["(=situation comedy)(广播、电视中的)系列幽默剧"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sitkʌm"}
-{"word":"sitcomedian","sw":"sitcomedian","definition":["sitcomedian (plural sitcomedians)","An actor who appears on a sitcom.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sitcomedian","sw":"sitcomedian","definition":["sitcomedian (plural sitcomedians)","An actor who appears on a sitcom."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitcomic","sw":"sitcomic","definition":[],"translation":["[网络] 情景喜剧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitcomish","sw":"sitcomish","definition":[],"translation":["[网络] 静静的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitcomlike","sw":"sitcomlike","definition":[],"translation":["[网络] 情景喜剧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1869,10 +1869,10 @@
 {"word":"sithas","sw":"sithas","definition":[],"translation":["[网络] 瑟尔的双胞胎儿子西萨斯"],"pos":[],"exchange":["0:sitha","1:s"],"examples":[],"phonetic":""}
 {"word":"sithe","sw":"sithe","definition":[],"translation":["[网络] 赛德公司；德赛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sithed","sw":"sithed","definition":["a. Scythed."],"translation":["adv. , prep., conj. [口语] = since [亦作sithence ／'siðəns／, sithens ／'siðənz／]"],"pos":[],"exchange":[],"examples":[],"phonetic":"sɪθ"}
-{"word":"sithee","sw":"sithee","definition":["sithee","(Yorkshire) See here.","(Lancashire, Yorkshire) See you!",""],"translation":[],"pos":[],"exchange":["s:sithees"],"examples":[],"phonetic":""}
+{"word":"sithee","sw":"sithee","definition":["sithee","(Yorkshire) See here.","(Lancashire, Yorkshire) See you!"],"translation":[],"pos":[],"exchange":["s:sithees"],"examples":[],"phonetic":""}
 {"word":"sithees","sw":"sithees","definition":[],"translation":["sithee","(Yorkshire) See here.","(Lancashire, Yorkshire) See you!","","(sithee 的复数)"],"pos":[],"exchange":["0:sithee","1:s"],"examples":[],"phonetic":""}
 {"word":"sithement","sw":"sithement","definition":[],"translation":["[网络] 休息"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sithen","sw":"sithen","definition":["sithen","(obsolete) From or since the time that.","(obsolete) since then, after that.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sithen","sw":"sithen","definition":["sithen","(obsolete) From or since the time that.","(obsolete) since then, after that."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sithence","sw":"sithence","definition":[],"translation":["[网络] 斯蒂芬斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sithens","sw":"sithens","definition":[],"translation":["[网络] 情景"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sither","sw":"sither","definition":[],"translation":["na. 骑稳(牛,马)不要被摔下"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1897,7 +1897,7 @@
 {"word":"Sitila","sw":"sitila","definition":[],"translation":["[地名] 锡蒂拉 ( 莫 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitiles","sw":"sitiles","definition":[],"translation":["[网络] 地窖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitin","sw":"sitin","definition":[],"translation":["n. 静止抗议"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sitinakite","sw":"sitinakite","definition":["sitinakite","(mineralogy) A tetragonal-ditetragonal dipyramidal mineral containing hydrogen, niobium, oxygen, potassium, silicon, sodium, and titanium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sitinakite","sw":"sitinakite","definition":["sitinakite","(mineralogy) A tetragonal-ditetragonal dipyramidal mineral containing hydrogen, niobium, oxygen, potassium, silicon, sodium, and titanium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"siting","sw":"siting","definition":["v assign a location to","v be seated","v be around, often idly or without specific purpose","v take a seat","v be in session","v assume a posture as for artistic purposes","v sit and travel on the back of animal, usually while controlling its motions","v be located or situated somewhere","v work or act as a baby-sitter; I have too much homework to do\"","v show to a seat; assign a seat for","v serve in a specific professional capacity"],"translation":["n. 建设地点的决定, 道路定线"],"pos":["n:100"],"exchange":["0:site","1:i","s:sitings"],"examples":[],"phonetic":"'saitiŋ"}
 {"word":"siting criteria","sw":"sitingcriteria","definition":[],"translation":["址准则"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"siting investigation","sw":"sitinginvestigation","definition":[],"translation":["选址勘察"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1960,7 +1960,7 @@
 {"word":"siton","sw":"siton","definition":[],"translation":["na. 压制；〔口语〕责备；审理(案件等)；调查","[网络] 新东"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitooteries","sw":"sitooteries","definition":[],"translation":["[网络] sitooters"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitootery","sw":"sitootery","definition":[],"translation":["[网络] 静坐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sitophilia","sw":"sitophilia","definition":["sitophilia (uncountable)","foodplay",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sitophilia","sw":"sitophilia","definition":["sitophilia (uncountable)","foodplay"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitophilous","sw":"sitophilous","definition":[],"translation":["食物上生的"],"pos":[],"exchange":[],"examples":[],"phonetic":",saitә'filәs"}
 {"word":"Sitophilus","sw":"sitophilus","definition":[],"translation":["米象属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sitophilus granarius","sw":"sitophilusgranarius","definition":[],"translation":["[植保] 谷象"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2086,7 +2086,7 @@
 {"word":"sitting arch","sw":"sittingarch","definition":[],"translation":["[医] 坐弓, 坐位弓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitting around","sw":"sittingaround","definition":[],"translation":["[网络] 闲坐着；乱放；闲坐著"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sitting back","sw":"sittingback","definition":[],"translation":["na. 松劲休息；不活动","[网络] 防守"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sitting bitch","sw":"sittingbitch","definition":["Sitting in the middle seat in the back of a car. Usually the unpopular persons spot, or the spot of the person who doesn't call shotgun or a window seat","> James is the loser so he got stuck sitting bitch","> As soon as the car was in sight everyone called shotgun or window seat so i got stuck sitting bitch",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sitting bitch","sw":"sittingbitch","definition":["Sitting in the middle seat in the back of a car. Usually the unpopular persons spot, or the spot of the person who doesn't call shotgun or a window seat","> James is the loser so he got stuck sitting bitch","> As soon as the car was in sight everyone called shotgun or window seat so i got stuck sitting bitch"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sitting Bull","sw":"sittingbull","definition":[],"translation":["坐着的公牛（北美印第安人部落首领）"],"pos":[],"exchange":["s:sitting bulls"],"examples":[],"phonetic":""}
 {"word":"sitting bulls","sw":"sittingbulls","definition":[],"translation":["坐着的公牛（北美印第安人部落首领）"],"pos":[],"exchange":["0:sitting bull","1:s"],"examples":[],"phonetic":""}
 {"word":"sitting by","sw":"sittingby","definition":[],"translation":["na. 袖手旁观；坐在一旁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2475,7 +2475,7 @@
 {"word":"six bits","sw":"sixbits","definition":[],"translation":["[美国俚语]75美分，3／4美元"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six bladed fan","sw":"sixbladedfan","definition":[],"translation":["un. 六叶风扇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six bladed grab","sw":"sixbladedgrab","definition":[],"translation":["六爪抓具"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"six bob a day tourist","sw":"sixbobadaytourist","definition":["six bob a day tourist (plural six bob a day tourists)","(Australia, historical, slang) An Australian soldier serving in World War I, especially a volunteer.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"six bob a day tourist","sw":"sixbobadaytourist","definition":["six bob a day tourist (plural six bob a day tourists)","(Australia, historical, slang) An Australian soldier serving in World War I, especially a volunteer."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six bowels","sw":"sixbowels","definition":[],"translation":["六腑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six break oil breaker","sw":"sixbreakoilbreaker","definition":[],"translation":["un. 六断点油断路器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six by","sw":"sixby","definition":[],"translation":["n. 六轮大卡车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2496,7 +2496,7 @@
 {"word":"six degrees of freedom","sw":"sixdegreesoffreedom","definition":[],"translation":["六自由度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six degrees of separation","sw":"sixdegreesofseparation","definition":[],"translation":["[电影]六度分离"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six digit system","sw":"sixdigitsystem","definition":[],"translation":["[计] 六位制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"six down","sw":"sixdown","definition":["Refering to police officers [po-po],[pigs],[five-o] ect.  The old style six shot police .357 magnum or the like in a holster, hence the bullets are six in quanity and facing down.","> Six-down fool, run!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"six down","sw":"sixdown","definition":["Refering to police officers [po-po],[pigs],[five-o] ect.  The old style six shot police .357 magnum or the like in a holster, hence the bullets are six in quanity and facing down.","> Six-down fool, run!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Six Dynasties","sw":"sixdynasties","definition":[],"translation":["六朝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six electrode tube","sw":"sixelectrodetube","definition":[],"translation":["[电] 六极管"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"six excesses","sw":"sixexcesses","definition":[],"translation":["六淫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2763,7 +2763,7 @@
 {"word":"sixains","sw":"sixains","definition":[],"translation":["[网络] 六行诗节"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixareen","sw":"sixareen","definition":[],"translation":["[网络] 六人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixareens","sw":"sixareens","definition":[],"translation":["[网络] 六眼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sixas","sw":"sixas","definition":["term used by austrian double-national tennis champion and davis-coup player Peter Angerer","","short and slang word for \"Siehst du es\", (\"Are you seeing it\" in English)","> Sixas, des woa a Luftikus)",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sixas","sw":"sixas","definition":["term used by austrian double-national tennis champion and davis-coup player Peter Angerer","","short and slang word for \"Siehst du es\", (\"Are you seeing it\" in English)","> Sixas, des woa a Luftikus)"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixby","sw":"sixby","definition":[],"translation":["n.六轮大卡车"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sɪksbɪ"}
 {"word":"sixbyfour","sw":"sixbyfour","definition":[],"translation":["n.有四个驱动轮的六轮卡车"],"pos":[],"exchange":[],"examples":[],"phonetic":"sɪksbiː'fɔː"}
 {"word":"sixbysix","sw":"sixbysix","definition":[],"translation":["n.有六个驱动轮的六轮卡车"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sɪksbɪzɪks"}
@@ -2942,7 +2942,7 @@
 {"word":"sixtieths","sw":"sixtieths","definition":[],"translation":["第六十（个）( sixtieth的名词复数 )"],"pos":[],"exchange":["0:sixtieth","1:s"],"examples":[],"phonetic":""}
 {"word":"Sixtine","sw":"sixtine","definition":[],"translation":["a. 罗马教宗Sixtus的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'siksti:n, -tin"}
 {"word":"sixto","sw":"sixto","definition":[],"translation":["[网络] 六点"],"pos":[],"exchange":["s:sixtoes"],"examples":[],"phonetic":""}
-{"word":"Sixto-Clementine","sw":"sixtoclementine","definition":["Sixto-Clementine (not comparable)","Of, pertaining to, or designating the edition or text of the Vulgate (1592, corrected in 1593 and 1598), correcting that of Pope Sixtus V (r. 1585–90), which was revised on the orders of Pope Clement VIII (r. 1592–1605).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌsɪkstəʊˈklɛməntaɪn/"}
+{"word":"Sixto-Clementine","sw":"sixtoclementine","definition":["Sixto-Clementine (not comparable)","Of, pertaining to, or designating the edition or text of the Vulgate (1592, corrected in 1593 and 1598), correcting that of Pope Sixtus V (r. 1585–90), which was revised on the orders of Pope Clement VIII (r. 1592–1605)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˌsɪkstəʊˈklɛməntaɪn/"}
 {"word":"sixtoes","sw":"sixtoes","definition":[],"translation":["[网络] 六趾鞋"],"pos":[],"exchange":["0:sixto","1:s"],"examples":[],"phonetic":""}
 {"word":"sixts","sw":"sixts","definition":[],"translation":["[地名] [法国] 锡克斯特","(sixt 的复数)"],"pos":[],"exchange":["0:sixt","1:s"],"examples":[],"phonetic":""}
 {"word":"sixtus","sw":"sixtus","definition":[],"translation":["[网络] 斯都五世；教皇西克斯特；教宗西斯笃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2956,9 +2956,9 @@
 {"word":"sixty fourth rest","sw":"sixtyfourthrest","definition":[],"translation":["六十四分休止符"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixty minutes","sw":"sixtyminutes","definition":[],"translation":["[网络] 六十分钟；六十分钟时事杂志"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixty nine","sw":"sixtynine","definition":[],"translation":["[网络] 六九；阿么；晶锐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sixty nined","sw":"sixtynined","definition":["When you are trying to record, remember, or enter number codes and while doing so a friend or co-worker makes a comment using the number sixty nine in a sexually explicit manner that messes up your train of though that causes you to have to start over again.","> Here is the pickup for tables twelve, thirty, and sixty nine. Lisa for the last time, there is no table sixty nine. Ya Pete I know... there could be. Hey Jason, Lisa just sixtynined me and now I don't remember any of the table numbers.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sixty nines","sw":"sixtynines","definition":["sexual position where both partners are performing oral sex on each other at the same time","> You talkin bout six, to the nine indeed - LL Cool J \"Doin It Remix\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sixty nining","sw":"sixtynining","definition":["the pracice of positioning oneself with one's partner so that both people have the other's genitalia in their mouths","> they were sixty nining in the closet",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sixty nined","sw":"sixtynined","definition":["When you are trying to record, remember, or enter number codes and while doing so a friend or co-worker makes a comment using the number sixty nine in a sexually explicit manner that messes up your train of though that causes you to have to start over again.","> Here is the pickup for tables twelve, thirty, and sixty nine. Lisa for the last time, there is no table sixty nine. Ya Pete I know... there could be. Hey Jason, Lisa just sixtynined me and now I don't remember any of the table numbers."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sixty nines","sw":"sixtynines","definition":["sexual position where both partners are performing oral sex on each other at the same time","> You talkin bout six, to the nine indeed - LL Cool J \"Doin It Remix\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sixty nining","sw":"sixtynining","definition":["the pracice of positioning oneself with one's partner so that both people have the other's genitalia in their mouths","> they were sixty nining in the closet"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixty six","sw":"sixtysix","definition":[],"translation":["[网络] 六十六；1966年世界杯；世界盃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixty-eight","sw":"sixtyeight","definition":["s being eight more than sixty"],"translation":["六十八"],"pos":["m:100"],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sixty-eighth","sw":"sixtyeighth","definition":[],"translation":["num. 第六十八"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sɪkstiː'eɪtθ"}
@@ -3444,7 +3444,7 @@
 {"word":"sizzlingly","sw":"sizzlingly","definition":[],"translation":["[网络] 激动地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sizzlings","sw":"sizzlings","definition":[],"translation":["adj. 极热的","vi. 发咝咝声（sizzle的现在分词）"],"pos":[],"exchange":["0:sizzling","1:s"],"examples":[],"phonetic":"'sɪz(ə)lɪŋ; 'sɪzlɪŋ"}
 {"word":"sizzly","sw":"sizzly","definition":[],"translation":["[网络] 。ly"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sizzurp","sw":"sizzurp","definition":["The original formula:","","Promethazine w/Codeine syrup","Any fruit flavored soda","A jolly rancher","","Put it all in a styrofoam cup and enjoy. The codeine is mainly responsible for the euphoria felt after drinking sizzurp. Promethazine causes motor skill impairment, lethargy, and extreme drowsiness. If it doesn't have promethazine, it ain't real sizzurp.","","DXM is not a component of sizzurp, although it may produce vaguely similar effects to the above recipe in doses ranging from 150 - 250 mg.","> I drank a deuce (2 oz.) of sizzurp and got straight folded.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sizzurp","sw":"sizzurp","definition":["The original formula:","","Promethazine w/Codeine syrup","Any fruit flavored soda","A jolly rancher","","Put it all in a styrofoam cup and enjoy. The codeine is mainly responsible for the euphoria felt after drinking sizzurp. Promethazine causes motor skill impairment, lethargy, and extreme drowsiness. If it doesn't have promethazine, it ain't real sizzurp.","","DXM is not a component of sizzurp, although it may produce vaguely similar effects to the above recipe in doses ranging from 150 - 250 mg.","> I drank a deuce (2 oz.) of sizzurp and got straight folded."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sj","sw":"sj","definition":[],"translation":["abbr. 耶稣会（Society of Jesus）；软焊接头（Soldered Joint）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sja","sw":"sja","definition":[],"translation":["[医]槐凝集素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"SJAA","sw":"sjaa","definition":[],"translation":["abbr. St. John Ambulance Association <英>圣约翰救护协会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3564,13 +3564,13 @@
 {"word":"skagged-up","sw":"skaggedup","definition":[],"translation":["adj. 〈俚〉服用海洛因成瘾的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skagger","sw":"skagger","definition":[],"translation":["scag2 , skag","[skæɡ]","n.","[美国俚语]海洛因","skag1","[skæɡ]","n.","= scag1","skag2","[skæɡ]","n.","= scag2"],"pos":[],"exchange":[],"examples":[],"phonetic":"skæɡ"}
 {"word":"skaggs","sw":"skaggs","definition":[],"translation":["[人名] 斯卡格斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skaggy","sw":"skaggy","definition":["skaggy (comparative more skaggy, superlative most skaggy)","Alternative form of scaggy","","","skaggy (plural skaggies)","(historical) A Haida medicine man.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skaggy","sw":"skaggy","definition":["skaggy (comparative more skaggy, superlative most skaggy)","Alternative form of scaggy","","","skaggy (plural skaggies)","(historical) A Haida medicine man."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skagit","sw":"skagit","definition":[],"translation":["[网络] 华盛顿州斯卡吉特；史卡基；斯卡基特"],"pos":[],"exchange":["s:skagits"],"examples":[],"phonetic":""}
 {"word":"Skagit County","sw":"skagitcounty","definition":[],"translation":["[地名] 斯卡吉特县 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skagit River","sw":"skagitriver","definition":[],"translation":["[地名] 斯卡吉特河 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skagits","sw":"skagits","definition":[],"translation":["[网络] Skagits"],"pos":[],"exchange":["0:skagit","1:s"],"examples":[],"phonetic":""}
-{"word":"Skaglick","sw":"skaglick","definition":["This word can be used to replace almost any curse word. It is commonly used as an insult. It can replace words like duck, fucker, mother-fucker, faggot, nigger, slut, whore, cock sucker, the list goes on.","> \"Shut the hell up you skag lick\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Skaglicks","sw":"skaglicks","definition":["This word can be used to replace almost any curse word. It is commonly used as an insult. It can replace words like duck, fucker, mother-fucker, faggot, nigger, slut, whore, cock sucker, the list goes on.","> \"Shut the hell up you skag lick\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Skaglick","sw":"skaglick","definition":["This word can be used to replace almost any curse word. It is commonly used as an insult. It can replace words like duck, fucker, mother-fucker, faggot, nigger, slut, whore, cock sucker, the list goes on.","> \"Shut the hell up you skag lick\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Skaglicks","sw":"skaglicks","definition":["This word can be used to replace almost any curse word. It is commonly used as an insult. It can replace words like duck, fucker, mother-fucker, faggot, nigger, slut, whore, cock sucker, the list goes on.","> \"Shut the hell up you skag lick\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skags","sw":"skags","definition":[],"translation":["n. 海洛因；香烟头"],"pos":[],"exchange":["0:skag","1:s"],"examples":[],"phonetic":"skæg"}
 {"word":"skagway","sw":"skagway","definition":[],"translation":["[地名] [美国] 斯卡圭"],"pos":[],"exchange":["s:skagways"],"examples":[],"phonetic":""}
 {"word":"skagways","sw":"skagways","definition":[],"translation":["[地名] [美国] 斯卡圭","(skagway 的复数)"],"pos":[],"exchange":["0:skagway","1:s"],"examples":[],"phonetic":""}
@@ -3586,7 +3586,7 @@
 {"word":"skains mate","sw":"skainsmate","definition":[],"translation":["[网络] 天空伙伴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skair","sw":"skair","definition":[],"translation":["[网络] 天空"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skait","sw":"skait","definition":[],"translation":["[网络] 无糖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skaith","sw":"skaith","definition":["skaith (plural skaiths)","(Scotland, law, obsolete) Alternative form of scathe: damage.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skaith","sw":"skaith","definition":["skaith (plural skaiths)","(Scotland, law, obsolete) Alternative form of scathe: damage."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skaithless","sw":"skaithless","definition":[],"translation":["[网络] 无懈可击"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skakels","sw":"skakels","definition":[],"translation":["[网络] skakel"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skakkebaek","sw":"skakkebaek","definition":[],"translation":["[网络] 内分泌学家斯卡凯贝克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3613,7 +3613,7 @@
 {"word":"Skallelv","sw":"skallelv","definition":[],"translation":["[地名] 斯卡莱尔夫 ( 挪 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skalling","sw":"skalling","definition":[],"translation":["[网络] 溜冰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skallingen","sw":"skallingen","definition":[],"translation":["[地名] 斯凯灵恩半岛 ( 丹 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skalls","sw":"skalls","definition":["skalls","third-person singular simple present indicative form of skall",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skalls","sw":"skalls","definition":["skalls","third-person singular simple present indicative form of skall"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skalocaine","sw":"skalocaine","definition":[],"translation":["普鲁卡因"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skaloun","sw":"skaloun","definition":[],"translation":["[网络] 斯卡隆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skals","sw":"skals","definition":[],"translation":["[地名] 斯凯尔斯 ( 丹 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3628,7 +3628,7 @@
 {"word":"skan","sw":"skan","definition":[],"translation":["[网络] 诗刊；萱；斯科纳"],"pos":[],"exchange":["s:skans"],"examples":[],"phonetic":""}
 {"word":"skance","sw":"skance","definition":[],"translation":["[网络] 小事"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skanda","sw":"skanda","definition":[],"translation":["[网络] 陀；塞建陀；韦驮"],"pos":[],"exchange":["s:skandas"],"examples":[],"phonetic":""}
-{"word":"skandall","sw":"skandall","definition":[],"translation":["skandall (plural skandalls)","Obsolete spelling of scandal",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skandall","sw":"skandall","definition":[],"translation":["skandall (plural skandalls)","Obsolete spelling of scandal"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skandalon","sw":"skandalon","definition":[],"translation":["<希>n.[宗](使人走入迷途的)障碍物, 迷津"],"pos":[],"exchange":[],"examples":[],"phonetic":"'skændәlɔn"}
 {"word":"skandas","sw":"skandas","definition":[],"translation":["[网络] 业力为蕴；五薀"],"pos":[],"exchange":["0:skanda","1:s"],"examples":[],"phonetic":""}
 {"word":"skander","sw":"skander","definition":[],"translation":["[网络] 教名斯坎德；一尊垫高史肯伯格"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3646,15 +3646,15 @@
 {"word":"skanger","sw":"skanger","definition":[],"translation":["[网络] sk。。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skangers","sw":"skangers","definition":[],"translation":["[网络] 魔术师"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skank","sw":"skank","definition":["n. a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees","v. dance the skank"],"translation":["缺德的人；讨厌鬼"],"pos":["n:100"],"exchange":["s:skanks"],"examples":[],"phonetic":""}
-{"word":"skank top","sw":"skanktop","definition":["bra strap tank top","> It is hot out so I am wearing this skank top.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skank-whore","sw":"skankwhore","definition":["the name you use when you find out your girlfriend or wife cheated on you after you asked her repeatedly then finally she confesses.  Usually the person she cheated on you with is a loser, therefore the word skank.","> I'm so sorry honey that I cheated on you with the school janitor.  It's ok, I knew you were nothing but a \"skank whore\".",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skank-whores","sw":"skankwhores","definition":["the name you use when you find out your girlfriend or wife cheated on you after you asked her repeatedly then finally she confesses.  Usually the person she cheated on you with is a loser, therefore the word skank.","> I'm so sorry honey that I cheated on you with the school janitor.  It's ok, I knew you were nothing but a \"skank whore\".",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skank top","sw":"skanktop","definition":["bra strap tank top","> It is hot out so I am wearing this skank top."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skank-whore","sw":"skankwhore","definition":["the name you use when you find out your girlfriend or wife cheated on you after you asked her repeatedly then finally she confesses.  Usually the person she cheated on you with is a loser, therefore the word skank.","> I'm so sorry honey that I cheated on you with the school janitor.  It's ok, I knew you were nothing but a \"skank whore\"."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skank-whores","sw":"skankwhores","definition":["the name you use when you find out your girlfriend or wife cheated on you after you asked her repeatedly then finally she confesses.  Usually the person she cheated on you with is a loser, therefore the word skank.","> I'm so sorry honey that I cheated on you with the school janitor.  It's ok, I knew you were nothing but a \"skank whore\"."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skanked","sw":"skanked","definition":["past tense of skank","n. a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees","v. dance the skank"],"translation":["(skank 的过去时)  缺德的人；讨厌鬼"],"pos":[],"exchange":["0:skank","1:p"],"examples":[],"phonetic":""}
 {"word":"skanker","sw":"skanker","definition":[],"translation":["[俚语]","n. 邋遢鬼，着乞丐服者","adj. 令人作呕的[亦作skanky]"],"pos":[],"exchange":[],"examples":[],"phonetic":"skæŋk"}
 {"word":"skankier","sw":"skankier","definition":[],"translation":["令人反感的；令人讨厌的","(skanky 的比较级)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skankiest","sw":"skankiest","definition":[],"translation":["[网络] 最棒的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skankily","sw":"skankily","definition":["to be skank, to be dirty or unclean.","> I don't like that girl, shes kinda [skankily].",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skankiness","sw":"skankiness","definition":[],"translation":["skankiness (uncountable)","The state or condition of being skanky.",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skankily","sw":"skankily","definition":["to be skank, to be dirty or unclean.","> I don't like that girl, shes kinda [skankily]."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skankiness","sw":"skankiness","definition":[],"translation":["skankiness (uncountable)","The state or condition of being skanky."],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skanking","sw":"skanking","definition":["-ing form of skank","n. a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees","v. dance the skank"],"translation":["(skank 的现在分词)  缺德的人；讨厌鬼"],"pos":[],"exchange":["0:skank","1:i"],"examples":[],"phonetic":""}
 {"word":"skanks","sw":"skanks","definition":["n. any substance considered disgustingly foul or unpleasant","n. a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees","v. dance the skank"],"translation":["n. 讨厌, 粗鄙的人"],"pos":[],"exchange":["0:skank","1:s"],"examples":[],"phonetic":"skæŋk"}
 {"word":"skanky","sw":"skanky","definition":["s highly offensive; arousing aversion or disgust"],"translation":["令人反感的；令人讨厌的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":""}
@@ -3705,7 +3705,7 @@
 {"word":"skarste","sw":"skarste","definition":[],"translation":["[网络] 斯卡尔斯特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skarstind","sw":"skarstind","definition":[],"translation":["[地名] 斯卡尔峰 ( 挪 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skarszewy","sw":"skarszewy","definition":[],"translation":["[地名] 斯卡尔谢维 ( 波 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skart","sw":"skart","definition":["skart (plural skarts)","(Britain, dialect) A bird, the shag.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skart","sw":"skart","definition":["skart (plural skarts)","(Britain, dialect) A bird, the shag."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skaryszew","sw":"skaryszew","definition":[],"translation":["[地名] 斯卡雷谢夫 ( 波 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skas","sw":"skas","definition":[],"translation":["[网络] 壁纸；空间隔离；浦田杂货衣舖"],"pos":[],"exchange":["0:ska","1:s"],"examples":[],"phonetic":""}
 {"word":"Skase","sw":"skase","definition":[],"translation":["[网络] 茶具"],"pos":[],"exchange":["s:skases"],"examples":[],"phonetic":""}
@@ -3713,8 +3713,8 @@
 {"word":"skat","sw":"skat","definition":[],"translation":["n. 一种用三十二张牌三人玩的纸牌游戏"],"pos":[],"exchange":["s:skats"],"examples":[],"phonetic":"skɑ:t, skæt"}
 {"word":"skata","sw":"skata","definition":[],"translation":["[网络] 坂田"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skatable","sw":"skatable","definition":[],"translation":["[网络] 滑板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skatah","sw":"skatah","definition":["Greek slang for rich aristocrat.  Of the upper class.","> The skatah of the town owns many shops and businesses.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skatahs","sw":"skatahs","definition":["Greek slang for rich aristocrat.  Of the upper class.","> The skatah of the town owns many shops and businesses.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skatah","sw":"skatah","definition":["Greek slang for rich aristocrat.  Of the upper class.","> The skatah of the town owns many shops and businesses."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skatahs","sw":"skatahs","definition":["Greek slang for rich aristocrat.  Of the upper class.","> The skatah of the town owns many shops and businesses."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skatalites","sw":"skatalites","definition":[],"translation":["[网络] 斯卡特拉茨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skatamathesia","sw":"skatamathesia","definition":[],"translation":["[医] [言语]理解不能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skatathon","sw":"skatathon","definition":[],"translation":["[网络] 滑板运动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3737,7 +3737,7 @@
 {"word":"skate park","sw":"skatepark","definition":[],"translation":["[网络] 滑板公园；溜冰公园；滑板运动区"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skate punk","sw":"skatepunk","definition":[],"translation":["[网络] 滑板朋克；滑板庞克；滑板流氓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skate rink","sw":"skaterink","definition":[],"translation":["滑冰场，溜冰场"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skate rocks","sw":"skaterocks","definition":["this means fuck off ( F-off ) plain and simple","","this originates from skateboarding world,","it is similar in origin to suck lemons,","you can 'suck lemons' or go suck lemons or you should suck lemons","are all replacable with F-you or F-off or skate rocks","meaning, skateboarding in rocks or gravel is NOT fun,","so,, you can skate rocks, would be a usage from its origin, but now, it is like most F-off/F-you phrases and can stand alone, and not be so grammatically correct","such as, 'people that are cruel, skate rocks and leave me alone;","> If you dont like what I say then skate rocks.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skate rocks","sw":"skaterocks","definition":["this means fuck off ( F-off ) plain and simple","","this originates from skateboarding world,","it is similar in origin to suck lemons,","you can 'suck lemons' or go suck lemons or you should suck lemons","are all replacable with F-you or F-off or skate rocks","meaning, skateboarding in rocks or gravel is NOT fun,","so,, you can skate rocks, would be a usage from its origin, but now, it is like most F-off/F-you phrases and can stand alone, and not be so grammatically correct","such as, 'people that are cruel, skate rocks and leave me alone;","> If you dont like what I say then skate rocks."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skate round","sw":"skateround","definition":[],"translation":["vt. 一笔带过(略过)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skate sailing","sw":"skatesailing","definition":[],"translation":["滑冰航行"],"pos":[],"exchange":[],"examples":[],"phonetic":"skeit ˈseɪlɪŋ"}
 {"word":"skate shoe","sw":"skateshoe","definition":[],"translation":["n. 暴走鞋；飞行鞋；滑轮运动鞋","[网络] 冰鞋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3778,7 +3778,7 @@
 {"word":"skatepunk","sw":"skatepunk","definition":[],"translation":["[网络] 滑板朋克；滑板庞克；誉为滑板庞克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skater","sw":"skater","definition":["n. someone who skates"],"translation":["n. 溜冰者"],"pos":["n:100"],"exchange":["s:skaters"],"examples":[],"phonetic":"'skeitә"}
 {"word":"skater boy","sw":"skaterboy","definition":[],"translation":["[网络] 滑板男孩；滑板少年；溜冰男孩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skater skank","sw":"skaterskank","definition":["that one ratchet bitch who has a rep for showing up to any old run down shitty skate parks with her hoe friends on the prowl for poser skaters with tiny dicks","> dude check out the skater skank haha the fuck they think this skate park is?? a whore house?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skater skank","sw":"skaterskank","definition":["that one ratchet bitch who has a rep for showing up to any old run down shitty skate parks with her hoe friends on the prowl for poser skaters with tiny dicks","> dude check out the skater skank haha the fuck they think this skate park is?? a whore house?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skaterly","sw":"skaterly","definition":[],"translation":["[网络] 溜冰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skaters","sw":"skaters","definition":["n. someone who skates"],"translation":["n. 滑冰者（ skater的复数形式 ）"],"pos":[],"exchange":["0:skater","1:s"],"examples":[],"phonetic":"s'keɪtəz"}
 {"word":"skates","sw":"skates","definition":["n sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs","n large edible rays having a long snout and thick tail with pectoral fins continuous with the head; swim by undulating the edges of the pectoral fins","v move along on skates"],"translation":["n. 冰鞋；滑架（skate的复数）"],"pos":[],"exchange":["0:skate","1:s3"],"examples":[],"phonetic":""}
@@ -3828,7 +3828,7 @@
 {"word":"skazine","sw":"skazine","definition":[],"translation":["n. 斯卡迷杂志"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈskɑ:zi:n"}
 {"word":"Skazir","sw":"skazir","definition":[],"translation":["斯卡季尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skazka","sw":"skazka","definition":[],"translation":["[网络] 哈萨克斯坦设计"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skazzy","sw":"skazzy","definition":["kind of neat, but slightly jankidy.","> Her skazzy sense of style reflected her love of Goodwill and garage sales.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skazzy","sw":"skazzy","definition":["kind of neat, but slightly jankidy.","> Her skazzy sense of style reflected her love of Goodwill and garage sales."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skb","sw":"skb","definition":[],"translation":["abbr. skindbind (Dano-Norwegian=leatherbound) （丹麦-挪威语）皮面精装的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"SkBF","sw":"skbf","definition":[],"translation":["[=skin blood flow]皮肤血流"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skc","sw":"skc","definition":[],"translation":["abbr. sky clear 天空晴朗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3874,8 +3874,8 @@
 {"word":"skee","sw":"skee","definition":["n. A long strip of wood, curved upwards in front, used on the","foot for sliding."],"translation":["n. 滑雪, 滑水"],"pos":[],"exchange":[],"examples":[],"phonetic":"ʃi:, ski:"}
 {"word":"skee ball","sw":"skeeball","definition":[],"translation":["[网络] 滑雪球；大滚球；木滚球"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skee-Ball","sw":"skeeball","definition":[],"translation":["[网络] 滑雪球；滑球；快乐滚球"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skee-wee","sw":"skeewee","definition":["warning that the police are coming. used if you can not whistle","> \"warn a brother, if you can't whistle holler skee wee\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skee-wees","sw":"skeewees","definition":["warning that the police are coming. used if you can not whistle","> \"warn a brother, if you can't whistle holler skee wee\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skee-wee","sw":"skeewee","definition":["warning that the police are coming. used if you can not whistle","> \"warn a brother, if you can't whistle holler skee wee\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skee-wees","sw":"skeewees","definition":["warning that the police are coming. used if you can not whistle","> \"warn a brother, if you can't whistle holler skee wee\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeeball","sw":"skeeball","definition":[],"translation":["[网络] 快乐滚球；投分球台"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeebies","sw":"skeebies","definition":[],"translation":["[网络] 驶向史基比","(skeeby 的复数)"],"pos":[],"exchange":["0:skeeby","1:s"],"examples":[],"phonetic":""}
 {"word":"skeeby","sw":"skeeby","definition":[],"translation":["[网络] 驶向史基比"],"pos":[],"exchange":["s:skeebies"],"examples":[],"phonetic":""}
@@ -3903,17 +3903,17 @@
 {"word":"skeet","sw":"skeet","definition":["n. the sport of shooting at clay pigeons that are hurled upward in such a way as to simulate the flight of a bird"],"translation":["n. 双向飞碟"],"pos":["n:100"],"exchange":["s:skeets"],"examples":[],"phonetic":"ski:t"}
 {"word":"skeet field","sw":"skeetfield","definition":[],"translation":["飞靶射击场"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeet gun","sw":"skeetgun","definition":[],"translation":["长式掷弹筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeet her","sw":"skeether","definition":["someone who mooches off of you.","","a bitch that sleeps around, doesn't wrap it, may or may not have kids","","an ex girlfriend that is constantly trying to get your NOW man back.","","a broke ass man","> Trina, is one hell of a skeether. That bitch be always pulling tricks!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeet her","sw":"skeether","definition":["someone who mooches off of you.","","a bitch that sleeps around, doesn't wrap it, may or may not have kids","","an ex girlfriend that is constantly trying to get your NOW man back.","","a broke ass man","> Trina, is one hell of a skeether. That bitch be always pulling tricks!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeet shooter","sw":"skeetshooter","definition":[],"translation":["[网络] 双向飞碟射击"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeet shooting","sw":"skeetshooting","definition":[],"translation":["双向飞碟射击"],"pos":[],"exchange":["s:skeet shootings"],"examples":[],"phonetic":"ˈski:t ʃu:tɪŋ"}
 {"word":"skeet shootings","sw":"skeetshootings","definition":[],"translation":["双向飞碟射击"],"pos":[],"exchange":["0:skeet shooting","1:s"],"examples":[],"phonetic":""}
-{"word":"skeet skeet","sw":"skeetskeet","definition":["jizz, ejaculate, spooge, cum, to blow one's load, get rid of the baby batter,or otherwise squirt seminal fluid from the penis.","> Dude, I totally skeeted in her hair!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeet skeets","sw":"skeetskeets","definition":["jizz, ejaculate, spooge, cum, to blow one's load, get rid of the baby batter,or otherwise squirt seminal fluid from the penis.","> Dude, I totally skeeted in her hair!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeet skirt","sw":"skeetskirt","definition":["\"Skeetskirt\" is derived from the original \"skirt\" which urban kids use to say they're leaving..\"I'm bout to skirt\". However, \"skeetskirt\" is used by urban females to mean \"come and go\" as in she's about to go hop on a dick...cum...and leave right after.","> \"Yo girl! I'm bout to skeetskirt on this boo over herr'!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeet skeet","sw":"skeetskeet","definition":["jizz, ejaculate, spooge, cum, to blow one's load, get rid of the baby batter,or otherwise squirt seminal fluid from the penis.","> Dude, I totally skeeted in her hair!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeet skeets","sw":"skeetskeets","definition":["jizz, ejaculate, spooge, cum, to blow one's load, get rid of the baby batter,or otherwise squirt seminal fluid from the penis.","> Dude, I totally skeeted in her hair!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeet skirt","sw":"skeetskirt","definition":["\"Skeetskirt\" is derived from the original \"skirt\" which urban kids use to say they're leaving..\"I'm bout to skirt\". However, \"skeetskirt\" is used by urban females to mean \"come and go\" as in she's about to go hop on a dick...cum...and leave right after.","> \"Yo girl! I'm bout to skeetskirt on this boo over herr'!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeet-shooting","sw":"skeetshooting","definition":[],"translation":["n. 〔体〕双向飞碟射击","[网络] 飞靶射击"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ski:t ʃu:tɪŋ"}
-{"word":"skeeta","sw":"skeeta","definition":["a girl who's a little slut.Talks to a bunch of different dudes and messes around with them.if in a group of girls \"Skeeta Squad\"","> Ay bro check out them girls.","> Na chill man that bitch is a skeeta.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeta","sw":"skeeta","definition":["a girl who's a little slut.Talks to a bunch of different dudes and messes around with them.if in a group of girls \"Skeeta Squad\"","> Ay bro check out them girls.","> Na chill man that bitch is a skeeta."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeetah","sw":"skeetah","definition":[],"translation":["[网络] 十六岁的二哥斯基塔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeetas","sw":"skeetas","definition":["An annoying insect that bites you and sucks your blood. [mosquitos]","> The fuck'n skeetas are bad tonight.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeetas","sw":"skeetas","definition":["An annoying insect that bites you and sucks your blood. [mosquitos]","> The fuck'n skeetas are bad tonight."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeeted","sw":"skeeted","definition":[],"translation":["n. 双向飞碟；水瓢；斯吉特","vt. 使急行；喷液体","vi. 迅速跑开；泼"],"pos":[],"exchange":[],"examples":[],"phonetic":"skiːt"}
 {"word":"skeeter","sw":"skeeter","definition":[],"translation":["n. 蚊子, 冰上滑行船"],"pos":["n:100"],"exchange":["s:skeeters"],"examples":[],"phonetic":"'ski:tә"}
 {"word":"skeeter hawk","sw":"skeeterhawk","definition":[],"translation":["[网络] 斯科特鹰"],"pos":[],"exchange":["s:skeeter hawks"],"examples":[],"phonetic":""}
@@ -3923,23 +3923,23 @@
 {"word":"skeeting","sw":"skeeting","definition":[],"translation":["n. 双向飞碟；水瓢；斯吉特","vt. 使急行；喷液体","vi. 迅速跑开；泼"],"pos":[],"exchange":[],"examples":[],"phonetic":"skiːt"}
 {"word":"skeets","sw":"skeets","definition":[],"translation":["n. 双向飞碟；水瓢；斯吉特","vt. 使急行；喷液体","vi. 迅速跑开；泼"],"pos":[],"exchange":["0:skeet","1:s"],"examples":[],"phonetic":"skiːt"}
 {"word":"skeetshoot","sw":"skeetshoot","definition":[],"translation":["vi.[体]作双向飞碟射击"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ski: t- ʃu: t"}
-{"word":"skeeve","sw":"skeeve","definition":["(verb) to gross out; to digust; to make your skin crawl, sometimes with undertones of sexual deviance/perversion","> It really skeeved me out when he ate the gummy bear off the floor in the movie theater.","> or","> Twenty-year-old guys who date girls too young to drive really skeeve me out.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeeved out","sw":"skeevedout","definition":["Leery and creeped out of someone or something in a \" makes my skin crawl\" way.","> I'm skeeved out by Steve Bannon.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeeves","sw":"skeeves","definition":["To creep or give a sense of foreboding. Used in the American sitcom show \"Drake & Josh\"","> Josh: Let's get out of here.","> Drake: Yeah, this place gives me the skeeves",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeve","sw":"skeeve","definition":["(verb) to gross out; to digust; to make your skin crawl, sometimes with undertones of sexual deviance/perversion","> It really skeeved me out when he ate the gummy bear off the floor in the movie theater.","> or","> Twenty-year-old guys who date girls too young to drive really skeeve me out."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeved out","sw":"skeevedout","definition":["Leery and creeped out of someone or something in a \" makes my skin crawl\" way.","> I'm skeeved out by Steve Bannon."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeves","sw":"skeeves","definition":["To creep or give a sense of foreboding. Used in the American sitcom show \"Drake & Josh\"","> Josh: Let's get out of here.","> Drake: Yeah, this place gives me the skeeves"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeeving","sw":"skeeving","definition":[],"translation":["[网络] s。。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeevy","sw":"skeevy","definition":[],"translation":["[网络] 这个字就是经典了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeeza","sw":"skeeza","definition":["See also, hoe.  Term used to describe the basic hoe.","> That bitch is a skeeza.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezah","sw":"skeezah","definition":["1) some hoe, tramp, whore, bitch, skank, trick, freak nasty, hoochie mama, etc.","> Example 1:","> Rob:  Yo there be much skeezah's up in this heezy .. fo sheezy.. my neezy!","> Wingman:  Word!..sheezahs...ready to pleezahs.. and aint no teezahs..",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezahs","sw":"skeezahs","definition":["1) some hoe, tramp, whore, bitch, skank, trick, freak nasty, hoochie mama, etc.","> Example 1:","> Rob:  Yo there be much skeezah's up in this heezy .. fo sheezy.. my neezy!","> Wingman:  Word!..sheezahs...ready to pleezahs.. and aint no teezahs..",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezas","sw":"skeezas","definition":["See also, hoe.  Term used to describe the basic hoe.","> That bitch is a skeeza.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeeze","sw":"skeeze","definition":["1. a male or female who is ammoral and dirty.  2. a word used to insult just about anyone.","> Go home you dirty skeeze!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeza","sw":"skeeza","definition":["See also, hoe.  Term used to describe the basic hoe.","> That bitch is a skeeza."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezah","sw":"skeezah","definition":["1) some hoe, tramp, whore, bitch, skank, trick, freak nasty, hoochie mama, etc.","> Example 1:","> Rob:  Yo there be much skeezah's up in this heezy .. fo sheezy.. my neezy!","> Wingman:  Word!..sheezahs...ready to pleezahs.. and aint no teezahs.."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezahs","sw":"skeezahs","definition":["1) some hoe, tramp, whore, bitch, skank, trick, freak nasty, hoochie mama, etc.","> Example 1:","> Rob:  Yo there be much skeezah's up in this heezy .. fo sheezy.. my neezy!","> Wingman:  Word!..sheezahs...ready to pleezahs.. and aint no teezahs.."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezas","sw":"skeezas","definition":["See also, hoe.  Term used to describe the basic hoe.","> That bitch is a skeeza."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeeze","sw":"skeeze","definition":["1. a male or female who is ammoral and dirty.  2. a word used to insult just about anyone.","> Go home you dirty skeeze!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeezer","sw":"skeezer","definition":[],"translation":["n. 一个言行怪异的人"],"pos":[],"exchange":[],"examples":[],"phonetic":"s'kiːzə"}
-{"word":"skeezers","sw":"skeezers","definition":["1) A slang term for woman with low morals and poor hygene. Derived from 'Skeezy', a variant of the word 'Skeevy', meaning filthy or stained with fecal matter, urine and/or semen.","2) A low-class prostitute; one who is diseased, ugly, prematurely aged and/or worn-out from hard work and rough trade.","3) An immoral woman with no pride; one who engages in humiliating and degrading sexual acts for little or no gratitude or reward.","> 1) \"Man that skeezer smells pretty ripe.\"","> 2) \"20 bucks!? For THAT? Man, for that kind of money you could buy four skeezers like her and still feel cheated!\"","> 3) That skeezer did WHAT? With WHAT sports team? And she KNEW they were filming her? Man, if they have any compassion at all they should at least buy her dinner afterwards...or offer to hose her down before the next tour group came by...\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezes","sw":"skeezes","definition":["1. a male or female who is ammoral and dirty.  2. a word used to insult just about anyone.","> Go home you dirty skeeze!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezers","sw":"skeezers","definition":["1) A slang term for woman with low morals and poor hygene. Derived from 'Skeezy', a variant of the word 'Skeevy', meaning filthy or stained with fecal matter, urine and/or semen.","2) A low-class prostitute; one who is diseased, ugly, prematurely aged and/or worn-out from hard work and rough trade.","3) An immoral woman with no pride; one who engages in humiliating and degrading sexual acts for little or no gratitude or reward.","> 1) \"Man that skeezer smells pretty ripe.\"","> 2) \"20 bucks!? For THAT? Man, for that kind of money you could buy four skeezers like her and still feel cheated!\"","> 3) That skeezer did WHAT? With WHAT sports team? And she KNEW they were filming her? Man, if they have any compassion at all they should at least buy her dinner afterwards...or offer to hose her down before the next tour group came by...\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezes","sw":"skeezes","definition":["1. a male or female who is ammoral and dirty.  2. a word used to insult just about anyone.","> Go home you dirty skeeze!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeezicks","sw":"skeezicks","definition":[],"translation":["n. (人)废物，饭桶；混蛋; 小淘气"],"pos":[],"exchange":[],"examples":[],"phonetic":"'skiːzɪks"}
 {"word":"skeeziness","sw":"skeeziness","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezo","sw":"skeezo","definition":["a complete and total dumb neighborhood ho, or a completely pussy-whooped male who picks his gf over his homies.","","[ho], [pussy], [whooped]","> 1. A yo skeezo come here so we can fuck.","> 2. Hey, Jack is a fucken skeezo man. He never kicks it with us anymore.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeezy","sw":"skeezy","definition":["Shabby, dirty, and vulgar; tawdry","> Veronica remarked, \"That bitch was straight up skeezy.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezo","sw":"skeezo","definition":["a complete and total dumb neighborhood ho, or a completely pussy-whooped male who picks his gf over his homies.","","[ho], [pussy], [whooped]","> 1. A yo skeezo come here so we can fuck.","> 2. Hey, Jack is a fucken skeezo man. He never kicks it with us anymore."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeezy","sw":"skeezy","definition":["Shabby, dirty, and vulgar; tawdry","> Veronica remarked, \"That bitch was straight up skeezy.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeffington","sw":"skeffington","definition":[],"translation":["n. (Skeffington)人名；(英)斯凯芬顿"],"pos":[],"exchange":["s:skeffingtons"],"examples":[],"phonetic":""}
 {"word":"skeffingtons","sw":"skeffingtons","definition":[],"translation":["n. (Skeffington)人名；(英)斯凯芬顿","(skeffington 的复数)"],"pos":[],"exchange":["0:skeffington","1:s"],"examples":[],"phonetic":""}
 {"word":"Skefilsstadhir","sw":"skefilsstadhir","definition":[],"translation":["[地名] 斯凯维尔斯塔济 ( 冰 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3951,7 +3951,7 @@
 {"word":"Skeggers","sw":"skeggers","definition":[],"translation":["n. 【鱼类】幼鲑，一龄鲑"],"pos":[],"exchange":[],"examples":[],"phonetic":"'skeɡə"}
 {"word":"Skeggjastadhir","sw":"skeggjastadhir","definition":[],"translation":["[地名] 斯凯贾斯塔济 ( 冰 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeggs","sw":"skeggs","definition":[],"translation":["[人名] 斯凯格斯"],"pos":[],"exchange":["0:skegg","1:s"],"examples":[],"phonetic":""}
-{"word":"Skeggy","sw":"skeggy","definition":["Skeggy","(slang) Skegness",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Skeggy","sw":"skeggy","definition":["Skeggy","(slang) Skegness"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skegness","sw":"skegness","definition":[],"translation":["[地名] [英国] 斯凯格内斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skegs","sw":"skegs","definition":["plural of skeg","n a brace that extends from the rear of the keel to support the rudderpost"],"translation":["(skeg 的复数) [船]龙骨的后部, 导流尾鳍"],"pos":[],"exchange":["0:skeg","1:s3"],"examples":[],"phonetic":""}
 {"word":"skehan","sw":"skehan","definition":[],"translation":["[人名] 斯凯恩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3959,7 +3959,7 @@
 {"word":"skeif","sw":"skeif","definition":[],"translation":["抛光铊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeigh","sw":"skeigh","definition":[],"translation":["a. [主苏格兰英语]；(女人)倨傲的；难对付的","adv. 傲慢地[亦作skeech,skiech]"],"pos":[],"exchange":[],"examples":[],"phonetic":"ski:k"}
 {"word":"skeil","sw":"skeil","definition":[],"translation":["[网络] 标度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeiling","sw":"skeiling","definition":["skeiling (plural skeilings)","(architecture) A straight sloped part of a ceiling, such as on the underside of a pitched roof.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skeiling","sw":"skeiling","definition":["skeiling (plural skeilings)","(architecture) A straight sloped part of a ceiling, such as on the underside of a pitched roof."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skein","sw":"skein","definition":["n. coils of worsted yarn"],"translation":["n. 一束, 飞鸟群, 纠纷","[医] 染色质纽, 丝球; 线团, 线球"],"pos":["n:100"],"exchange":["s:skeins"],"examples":[],"phonetic":"skein"}
 {"word":"skein breaker tenacity","sw":"skeinbreakertenacity","definition":[],"translation":["绞纱断裂强度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skein breaking strength","sw":"skeinbreakingstrength","definition":[],"translation":["绞纱断裂强力"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3987,7 +3987,7 @@
 {"word":"skelalgia","sw":"skelalgia","definition":[],"translation":["[医] 腿痛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skelasthenia","sw":"skelasthenia","definition":[],"translation":["[医] 腿无力"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skelatony","sw":"skelatony","definition":[],"translation":["[医] 腿血管紧张不足"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skelator","sw":"skelator","definition":["An anorexic looking girl","> Damn, Cameron Diaz used to be a fine piece and now she looks like fuckin' skelator",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skelator","sw":"skelator","definition":["An anorexic looking girl","> Damn, Cameron Diaz used to be a fine piece and now she looks like fuckin' skelator"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skelaxin","sw":"skelaxin","definition":[],"translation":["美他沙酮,间噁酮的商品名"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skelby","sw":"skelby","definition":[],"translation":["[地名] 斯凯尔比 ( 丹 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skelctal soil","sw":"skelctalsoil","definition":[],"translation":["粗骨土"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4385,7 +4385,7 @@
 {"word":"skepsful","sw":"skepsful","definition":[],"translation":["[网络] 乖乖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skepsis","sw":"skepsis","definition":[],"translation":["n. <美> = scepsis"],"pos":[],"exchange":[],"examples":[],"phonetic":"'skepsis"}
 {"word":"skepti","sw":"skepti","definition":[],"translation":["[网络] 怀疑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skeptic","sw":"skeptic","definition":["n. someone who habitually doubts accepted beliefs"],"translation":["n. 怀疑者, 怀疑论者, 不可知论者"],"pos":["n:100"],"exchange":["s:skeptics"],"examples":["I am a born skeptic.","He was unable to convince the skeptics in the audience.","People say it can cure colds, but I'm a skeptic.","They’re very skeptical of his motives.","He displays a healthy skepticism toward his own beliefs."],"phonetic":"ˈskeptɪk|ˈskeptɪk"}
+{"word":"skeptic","sw":"skeptic","definition":["n. someone who habitually doubts accepted beliefs"],"translation":["n. 怀疑者, 怀疑论者, 不可知论者"],"pos":["n:100"],"exchange":["s:skeptics"],"examples":["I am a born skeptic.","He was unable to convince the skeptics in the audience.","People say it can cure colds, but I'm a skeptic.","They're very skeptical of his motives.","He displays a healthy skepticism toward his own beliefs."],"phonetic":"ˈskeptɪk|ˈskeptɪk"}
 {"word":"skeptical","sw":"skeptical","definition":["s denying or questioning the tenets of especially a religion","s marked by or given to doubt"],"translation":["a. 怀疑论的, 怀疑的, 不可知论的","[法] 怀疑的, 不信的, 怀疑论者的"],"pos":["j:100"],"exchange":[],"examples":["I am skeptical about his chances of winning.","The public remain skeptical of these claims.","She looked highly skeptical.","Many experts remain skeptical about/of his claims."],"phonetic":"ˈskeptɪkl|ˈskeptɪkl"}
 {"word":"skeptical spirit","sw":"skepticalspirit","definition":[],"translation":["怀疑精神"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈskeptɪkəl"}
 {"word":"skeptically","sw":"skeptically","definition":["r with scepticism; in a sceptical manner"],"translation":["adv. 怀疑地"],"pos":["r:100"],"exchange":[],"examples":[],"phonetic":"'skeptɪkəlɪ"}
@@ -4405,7 +4405,7 @@
 {"word":"skeptopathy","sw":"skeptopathy","definition":[],"translation":["[网络] skeptop病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skeptophylaxis","sw":"skeptophylaxis","definition":[],"translation":["微量免疫性"],"pos":[],"exchange":[],"examples":[],"phonetic":",skeptәfi'læksis"}
 {"word":"Sker","sw":"sker","definition":["comparative of SK"],"translation":["(SK 的比较级) [医] 链球菌激酶, 链球菌致活酶"],"pos":[],"exchange":["s:skers"],"examples":[],"phonetic":""}
-{"word":"skerd","sw":"skerd","definition":["Scared, Frightened","> Is you skerd?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skerd","sw":"skerd","definition":["Scared, Frightened","> Is you skerd?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skere","sw":"skere","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skerele","sw":"skerele","definition":[],"translation":["[网络] 脚手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skerling","sw":"skerling","definition":[],"translation":["[网络] 溜冰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4416,7 +4416,7 @@
 {"word":"skerping","sw":"skerping","definition":[],"translation":["[网络] 跑步"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Skerpioenpunt","sw":"skerpioenpunt","definition":[],"translation":["[地名] 斯凯皮温蓬特 ( 南非 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skerratt","sw":"skerratt","definition":[],"translation":["[人名] 斯凯拉特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skerred","sw":"skerred","definition":["scared.. afraid of somthin","> i aint never skerred!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skerred","sw":"skerred","definition":["scared.. afraid of somthin","> i aint never skerred!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skerrett","sw":"skerrett","definition":[],"translation":["[人名] 斯凯里特"],"pos":[],"exchange":["s:skerretts"],"examples":[],"phonetic":""}
 {"word":"skerretts","sw":"skerretts","definition":[],"translation":["[人名] 斯凯里特","(skerrett 的复数)"],"pos":[],"exchange":["0:skerrett","1:s"],"examples":[],"phonetic":""}
 {"word":"skerrick","sw":"skerrick","definition":[],"translation":["n. <澳><美口>[常用于否定句]最少量,一点点"],"pos":[],"exchange":[],"examples":[],"phonetic":"'skerik"}
@@ -4430,7 +4430,7 @@
 {"word":"sket","sw":"sket","definition":[],"translation":["vt. （英）使溅湿"],"pos":[],"exchange":[],"examples":[],"phonetic":"sket"}
 {"word":"sketch","sw":"sketch","definition":["n. preliminary drawing for later elaboration","n. a brief literary description","n. short descriptive summary (of events)","v. make a sketch of"],"translation":["n. 素描, 草图, 小品","v. 描绘略图, 画素描或速写"],"pos":["v:34","n:66"],"exchange":["s:sketches","p:sketched","d:sketched","i:sketching","3:sketches"],"examples":["The artist is making sketches for his next painting.","She drew a sketch map of the area to show us the way.","The drama group did a sketch about a couple buying a new car.","My mother made a (pencil) sketch of my brother reading a book.","I thought the sketch about celebrity chefs was really funny.","The art students were told to sketch the landscape.","When I have some spare time, I like to sketch.","The artist has sketched out a design for the new school.","She helped write a sketch for a comedy show.","I like to sketch."],"phonetic":"sketʃ|sketʃ"}
 {"word":"sketch ball","sw":"sketchball","definition":[],"translation":["[网络] 素描球"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketch balls","sw":"sketchballs","definition":["a. A person that is so involved in drugs, alcohol, sex, and general debauchery above what is conceiveably possible.","b. A shady character.","c. Someone that appears to have no moral judgment, self-respect, or general hygiene to the point where he/she is a total laughingstock that must be avoided.","> Holy crap man, he lives in Roxbury, obviously hes a sketchball.","> She dumped him and went out with two other guys on the same day? Holy sketchball, batman!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketch balls","sw":"sketchballs","definition":["a. A person that is so involved in drugs, alcohol, sex, and general debauchery above what is conceiveably possible.","b. A shady character.","c. Someone that appears to have no moral judgment, self-respect, or general hygiene to the point where he/she is a total laughingstock that must be avoided.","> Holy crap man, he lives in Roxbury, obviously hes a sketchball.","> She dumped him and went out with two other guys on the same day? Holy sketchball, batman!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketch blank","sw":"sketchblank","definition":[],"translation":["异形板坯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketch block","sw":"sketchblock","definition":[],"translation":["n. 写生簿"],"pos":[],"exchange":["s:sketch blocks"],"examples":[],"phonetic":"sketʃ blɔk"}
 {"word":"sketch blocks","sw":"sketchblocks","definition":[],"translation":["[网络] 草图块"],"pos":[],"exchange":["0:sketch block","1:s"],"examples":[],"phonetic":""}
@@ -4470,12 +4470,12 @@
 {"word":"sketch-pad","sw":"sketchpad","definition":[],"translation":["速写本"],"pos":[],"exchange":["s:sketch-pads"],"examples":[],"phonetic":""}
 {"word":"sketch-pads","sw":"sketchpads","definition":["plural of sketch-pad"],"translation":["(sketch-pad 的复数) 速写本"],"pos":[],"exchange":["0:sketch-pad","1:s"],"examples":[],"phonetic":""}
 {"word":"sketch-plate","sw":"sketchplate","definition":[],"translation":["[化] 裁边板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketcha","sw":"sketcha","definition":["The most un-trustowrthy back stabbing person on this universe, will often have sex with gutter rats.","> No example can be used for such a person named sketcha.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketcha","sw":"sketcha","definition":["The most un-trustowrthy back stabbing person on this universe, will often have sex with gutter rats.","> No example can be used for such a person named sketcha."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketchability","sw":"sketchability","definition":[],"translation":["[网络] 可描画性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketchable","sw":"sketchable","definition":[],"translation":["[网络] 可描画"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketchas","sw":"sketchas","definition":["The most un-trustowrthy back stabbing person on this universe, will often have sex with gutter rats.","> No example can be used for such a person named sketcha.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketchas","sw":"sketchas","definition":["The most un-trustowrthy back stabbing person on this universe, will often have sex with gutter rats.","> No example can be used for such a person named sketcha."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketchball","sw":"sketchball","definition":[],"translation":["[网络] 素描球"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketchballs","sw":"sketchballs","definition":["a. A person that is so involved in drugs, alcohol, sex, and general debauchery above what is conceiveably possible.","b. A shady character.","c. Someone that appears to have no moral judgment, self-respect, or general hygiene to the point where he/she is a total laughingstock that must be avoided.","> Holy crap man, he lives in Roxbury, obviously hes a sketchball.","> She dumped him and went out with two other guys on the same day? Holy sketchball, batman!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketchballs","sw":"sketchballs","definition":["a. A person that is so involved in drugs, alcohol, sex, and general debauchery above what is conceiveably possible.","b. A shady character.","c. Someone that appears to have no moral judgment, self-respect, or general hygiene to the point where he/she is a total laughingstock that must be avoided.","> Holy crap man, he lives in Roxbury, obviously hes a sketchball.","> She dumped him and went out with two other guys on the same day? Holy sketchball, batman!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketchblock","sw":"sketchblock","definition":[],"translation":["n. 素描本，写生本，速写簿"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sketʃblɔk"}
 {"word":"sketchboard","sw":"sketchboard","definition":[],"translation":["[网络] 绘图板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketchbook","sw":"sketchbook","definition":["n. a book containing sheets of paper on which sketches can be drawn"],"translation":["n. 写生簿, 素描簿, 短文集, 随笔集"],"pos":["n:100"],"exchange":["s:sketchbooks"],"examples":[],"phonetic":""}
@@ -4519,13 +4519,13 @@
 {"word":"sketchy","sw":"sketchy","definition":["s. giving only major points; lacking completeness"],"translation":["a. 概略的, 草草完成的"],"pos":["j:100"],"exchange":["s:sketchies","r:sketchier","t:sketchiest"],"examples":["He gave us a very sketchy account of his visit.","He was a man with a sketchy past and even sketchier morals.","So far we only have sketchy information about what caused the explosion.","They lived in a sketchy neighborhood.","Officials provided only sketchy details of the trip."],"phonetic":"ˈsketʃi|ˈsketʃi"}
 {"word":"sketchy specification","sw":"sketchyspecification","definition":[],"translation":["概略的规范"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skete","sw":"skete","definition":[],"translation":["n. (希腊正教会的)僧侣团体,隐士团体"],"pos":[],"exchange":[],"examples":[],"phonetic":"ski:t"}
-{"word":"sketel","sw":"sketel","definition":["A west Indian slang for a slut,ho, a girl who has been around the block once or twice.","> Look at she, dat a sketel yes.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketels","sw":"sketels","definition":["A west Indian slang for a slut,ho, a girl who has been around the block once or twice.","> Look at she, dat a sketel yes.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketel","sw":"sketel","definition":["A west Indian slang for a slut,ho, a girl who has been around the block once or twice.","> Look at she, dat a sketel yes."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketels","sw":"sketels","definition":["A west Indian slang for a slut,ho, a girl who has been around the block once or twice.","> Look at she, dat a sketel yes."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skets","sw":"skets","definition":[],"translation":["vt. （英）使溅湿","n. (Sket)人名；(匈)什凯特"],"pos":[],"exchange":[],"examples":[],"phonetic":"sket"}
-{"word":"skett","sw":"skett","definition":["A fat, sweaty, disgusting girl that nobody wants to be with.","> Jenny is such a Skett, nobody will ever want to be with THAT !! haha",""],"translation":[],"pos":[],"exchange":["s:sketts"],"examples":[],"phonetic":""}
-{"word":"skettel","sw":"skettel","definition":["n. A Caribbean term for a woman of loose morals.","> Carolina is a real skettel dred.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sketti","sw":"sketti","definition":["sketti (uncountable)","(childish, nonstandard) spaghetti",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skettle","sw":"skettle","definition":["skettle (plural skettles)","(Caribbean, derogatory, slang) A promiscuous woman.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skett","sw":"skett","definition":["A fat, sweaty, disgusting girl that nobody wants to be with.","> Jenny is such a Skett, nobody will ever want to be with THAT !! haha"],"translation":[],"pos":[],"exchange":["s:sketts"],"examples":[],"phonetic":""}
+{"word":"skettel","sw":"skettel","definition":["n. A Caribbean term for a woman of loose morals.","> Carolina is a real skettel dred."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sketti","sw":"sketti","definition":["sketti (uncountable)","(childish, nonstandard) spaghetti"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skettle","sw":"skettle","definition":["skettle (plural skettles)","(Caribbean, derogatory, slang) A promiscuous woman."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sketts","sw":"sketts","definition":[],"translation":["A fat, sweaty, disgusting girl that nobody wants to be with.","> Jenny is such a Skett, nobody will ever want to be with THAT !! haha","","(skett 的复数)"],"pos":[],"exchange":["0:skett","1:s"],"examples":[],"phonetic":""}
 {"word":"skeuomorph","sw":"skeuomorph","definition":[],"translation":["仿制品"],"pos":[],"exchange":["s:skeuomorphs"],"examples":[],"phonetic":""}
 {"word":"skeuomorphic","sw":"skeuomorphic","definition":[],"translation":["[网络] 福斯托崇尚的是仿实设计；设计一直强调模仿现实物品；福斯托崇尚的是拟物化设计"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4796,8 +4796,8 @@
 {"word":"skewing scheme","sw":"skewingscheme","definition":[],"translation":["斜移方案"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skewing slot","sw":"skewingslot","definition":[],"translation":["槽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skewings","sw":"skewings","definition":[],"translation":["[网络] 歪斜"],"pos":[],"exchange":["0:skewing","1:s"],"examples":[],"phonetic":""}
-{"word":"skewl","sw":"skewl","definition":["Skewl is another way to spell school","> \"Skewl Sux\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"skewls","sw":"skewls","definition":["Skewl is another way to spell school","> \"Skewl Sux\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skewl","sw":"skewl","definition":["Skewl is another way to spell school","> \"Skewl Sux\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"skewls","sw":"skewls","definition":["Skewl is another way to spell school","> \"Skewl Sux\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skewly","sw":"skewly","definition":[],"translation":["[网络] 歪斜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"skewness","sw":"skewness","definition":["n an oblique or slanting asymmetry"],"translation":["[计] 倾斜度","[医] 偏斜"],"pos":["n:100"],"exchange":["s:skewnesses"],"examples":[],"phonetic":""}
 {"word":"skewness coefficient","sw":"skewnesscoefficient","definition":[],"translation":["偏斜系数"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

@@ -95,7 +95,7 @@
 {"word":"arenitas blancas","sw":"arenitasblancas","definition":[],"translation":["阿连尼塔布兰卡斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arenite","sw":"arenite","definition":[],"translation":["n. [地]砂岩, 砂碎屑岩"],"pos":[],"exchange":["s:arenites"],"examples":[],"phonetic":"'ærәnait"}
 {"word":"arenites","sw":"arenites","definition":["plural of arenite"],"translation":["(arenite 的复数) n.[地]砂岩, 砂碎屑岩"],"pos":[],"exchange":["0:arenite","1:s"],"examples":[],"phonetic":""}
-{"word":"arenitic","sw":"arenitic","definition":["arenitic (not comparable)","(geology) Of or related to arenite",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"arenitic","sw":"arenitic","definition":["arenitic (not comparable)","(geology) Of or related to arenite"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arenium ion","sw":"areniumion","definition":[],"translation":["[化] 芳正离子; 芳基正离子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arenium ions","sw":"areniumions","definition":[],"translation":["[网络] 金属离子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arenization","sw":"arenization","definition":[],"translation":["n. 砂屑化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -633,7 +633,7 @@
 {"word":"argentoproteium","sw":"argentoproteium","definition":[],"translation":["蛋白银"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argentopyrite","sw":"argentopyrite","definition":[],"translation":["n. 阿硫铁银矿","[网络] 含银黄铁矿"],"pos":[],"exchange":[],"examples":[],"phonetic":"ɑ:dʒəntə'paɪəraɪt"}
 {"word":"argentose","sw":"argentose","definition":[],"translation":["核蛋白银"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ɑ:dʒәntәus"}
-{"word":"argentotennantite","sw":"argentotennantite","definition":["argentotennantite","(mineralogy) An isometric-hextetrahedral mineral containing antimony, arsenic, copper, iron, silver, sulfur, and zinc.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"argentotennantite","sw":"argentotennantite","definition":["argentotennantite","(mineralogy) An isometric-hextetrahedral mineral containing antimony, arsenic, copper, iron, silver, sulfur, and zinc."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argentotennatite","sw":"argentotennatite","definition":[],"translation":["银锌黝铜矿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argentous","sw":"argentous","definition":["a relating to compounds in which silver is univalent"],"translation":["a. 银的, 亚银的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ɑ:'dʒentәs"}
 {"word":"argentous chlorate","sw":"argentouschlorate","definition":[],"translation":["＝ silver chlorate"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1208,8 +1208,8 @@
 {"word":"argument-forms","sw":"argumentforms","definition":[],"translation":["[网络] 论证形式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argument-quality","sw":"argumentquality","definition":[],"translation":["论据质量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumenta","sw":"argumenta","definition":[],"translation":["n. 〈外〉同“argument. argumentum ad hominem”","[网络] 议论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"argumenta ad fidem","sw":"argumentaadfidem","definition":["argumenta ad fidem pl","plural of argumentum ad fidem",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtə ăd fĭʹdĕm, IPA: /ɑːɡjuːˈmɛntə æd ˈfɪdɛm/"}
-{"word":"argumenta ad populum","sw":"argumentaadpopulum","definition":["argumenta ad populum pl","plural of argumentum ad populum",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtə ăd pŏʹpyo͝oləm, IPA: /ɑːɡjuːˈmɛntə æd ˈpɒpjʊləm/"}
+{"word":"argumenta ad fidem","sw":"argumentaadfidem","definition":["argumenta ad fidem pl","plural of argumentum ad fidem"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtə ăd fĭʹdĕm, IPA: /ɑːɡjuːˈmɛntə æd ˈfɪdɛm/"}
+{"word":"argumenta ad populum","sw":"argumentaadpopulum","definition":["argumenta ad populum pl","plural of argumentum ad populum"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtə ăd pŏʹpyo͝oləm, IPA: /ɑːɡjuːˈmɛntə æd ˈpɒpjʊləm/"}
 {"word":"argumentable","sw":"argumentable","definition":[],"translation":["[网络] 可论证"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentacin","sw":"argumentacin","definition":[],"translation":["[网络] 论证"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumental","sw":"argumental","definition":["a. Of, pertaining to, or containing, argument;","argumentative."],"translation":["a. 好争辩的, 辩论的（等于argumentative）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1253,7 +1253,7 @@
 {"word":"argumentum ad captandum","sw":"argumentumadcaptandum","definition":[],"translation":["[法] 迎合听者偏见或利益的辩论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad consequentiam","sw":"argumentumadconsequentiam","definition":[],"translation":["[网络] 诉诸后果"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad crumenam","sw":"argumentumadcrumenam","definition":[],"translation":["[网络] 诉诸富贵；诉诸富贵的谬误"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"argumentum ad fidem","sw":"argumentumadfidem","definition":["argumentum ad fidem (plural argumenta ad fidem)","(rhetoric) A fallacious argument that asserts the truth of a proposition by an appeal to pious testimony or religious revelation.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtəm ăd fĭʹdĕm, IPA: /ɑːɡjuːˈmɛntəm æd ˈfɪdɛm/"}
+{"word":"argumentum ad fidem","sw":"argumentumadfidem","definition":["argumentum ad fidem (plural argumenta ad fidem)","(rhetoric) A fallacious argument that asserts the truth of a proposition by an appeal to pious testimony or religious revelation."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtəm ăd fĭʹdĕm, IPA: /ɑːɡjuːˈmɛntəm æd ˈfɪdɛm/"}
 {"word":"argumentum ad hominem","sw":"argumentumadhominem","definition":[],"translation":["[网络] 人身攻击的谬误；人身批判；迎合对方的偏见的辩论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad ignorandiam","sw":"argumentumadignorandiam","definition":[],"translation":["[法] 迎合无知听众的辩论"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad ignorantiam","sw":"argumentumadignorantiam","definition":[],"translation":["[拉丁语]；迎合听众的无知的辩论；基于对手无知而进行的辩论，利用对方不明事实真相(而作的论证)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1261,7 +1261,7 @@
 {"word":"argumentum ad misericordiam","sw":"argumentumadmisericordiam","definition":[],"translation":["[拉丁语]乞怜(的言论)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad nauseam","sw":"argumentumadnauseam","definition":[],"translation":["[网络] 三人成虎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad numerum","sw":"argumentumadnumerum","definition":[],"translation":["[网络] 数大无谬论；诉诸大数"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"argumentum ad passiones","sw":"argumentumadpassiones","definition":["argumentum ad passiones (plural argumenta ad passiones)","(rhetoric) An appeal or argument intended to convince the listener(s) by agitating the emotions, rather than by appealing to sober judgment.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtəm ăd păsĭōʹnēz, IPA: /ɑːɡjuːˈmɛntəm æd pæsɪˈəʊniːz/"}
+{"word":"argumentum ad passiones","sw":"argumentumadpassiones","definition":["argumentum ad passiones (plural argumenta ad passiones)","(rhetoric) An appeal or argument intended to convince the listener(s) by agitating the emotions, rather than by appealing to sober judgment."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"ärgyo͞omĕnʹtəm ăd păsĭōʹnēz, IPA: /ɑːɡjuːˈmɛntəm æd pæsɪˈəʊniːz/"}
 {"word":"argumentum ad populum","sw":"argumentumadpopulum","definition":[],"translation":["[网络] 诉诸群众；群众论据；诉诸大众的谬误"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad rem","sw":"argumentumadrem","definition":[],"translation":["[法] 中肯的论证"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argumentum ad verecundiam","sw":"argumentumadverecundiam","definition":[],"translation":["[网络] 诉诸权威的错谬；诉诸权威的论证；诉诸权威的谬误"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1337,7 +1337,7 @@
 {"word":"argynnis paphia formosicola","sw":"argynnispaphiaformosicola","definition":[],"translation":["绿豹蛱蝶；绿斑豹蝶；绿豹斑蛱蝶；绿豹斑蝶；多标豹蛱蝶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argynnis tropicalis","sw":"argynnistropicalis","definition":[],"translation":["热带豹蛱蝶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argynniss","sw":"argynniss","definition":[],"translation":["[网络] 豹蛱蝶属；短颚果蝠；热带豹蛱蝶","(argynnis 的复数)"],"pos":[],"exchange":["0:argynnis","1:s"],"examples":[],"phonetic":""}
-{"word":"Argyrades","sw":"argyrades","definition":["Argyrades","A town and a municipality in the southern part of the island of Corfu in northwestern Greece",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Argyrades","sw":"argyrades","definition":["Argyrades","A town and a municipality in the southern part of the island of Corfu in northwestern Greece"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argyraemia","sw":"argyraemia","definition":[],"translation":["[医] 银血[病]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Argyranthemum","sw":"argyranthemum","definition":[],"translation":["[网络] 木筒篙属；木茼蒿属；木筒蒿属"],"pos":[],"exchange":["s:argyranthemums"],"examples":[],"phonetic":""}
 {"word":"Argyranthemum frutescens","sw":"argyranthemumfrutescens","definition":[],"translation":["[网络] 木茼蒿；木春菊；玛格丽特菊"],"pos":[],"exchange":["s:argyranthemum frutescenss"],"examples":[],"phonetic":""}
@@ -1411,7 +1411,7 @@
 {"word":"Argyropyrite","sw":"argyropyrite","definition":[],"translation":["中银黄铁矿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argyros","sw":"argyros","definition":[],"translation":["n. (Argyros)人名；(英)阿吉罗斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argyrose","sw":"argyrose","definition":[],"translation":["(=argyrite)辉银矿"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ɑ:dʒirәus"}
-{"word":"argyroses","sw":"argyroses","definition":["argyroses","plural of argyrosis",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"argyroses","sw":"argyroses","definition":["argyroses","plural of argyrosis"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argyrosis","sw":"argyrosis","definition":[],"translation":["[医] 银质沉着病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"argyrosis of conjunctiva","sw":"argyrosisofconjunctiva","definition":[],"translation":["结膜银沉着症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Argyrosominae","sw":"argyrosominae","definition":[],"translation":["白姑鱼亚科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1694,7 +1694,7 @@
 {"word":"arietellus setosus","sw":"arietellussetosus","definition":[],"translation":["多毛尖头水蚤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arietellus simplex","sw":"arietellussimplex","definition":[],"translation":["简尖头水蚤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arieti","sw":"arieti","definition":[],"translation":["[网络] 阿瑞提；阿瑞亚提"],"pos":[],"exchange":["s:arieti"],"examples":[],"phonetic":""}
-{"word":"Arietian","sw":"arietian","definition":["Arietian (not comparable)","(astrology) Of or pertaining to the astrological sign of Aries.","","","Arietian (plural Arietians)","(astrology) Person born under the astrological sign of Aries.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Arietian","sw":"arietian","definition":["Arietian (not comparable)","(astrology) Of or pertaining to the astrological sign of Aries.","","","Arietian (plural Arietians)","(astrology) Person born under the astrological sign of Aries."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arietids","sw":"arietids","definition":[],"translation":["白羊流星群"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arietiform","sw":"arietiform","definition":[],"translation":["羊角形"],"pos":[],"exchange":[],"examples":[],"phonetic":",eәri'etifɔ:m"}
 {"word":"arietina","sw":"arietina","definition":[],"translation":["[网络] 毛瓣玉凤花"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1814,7 +1814,7 @@
 {"word":"Aringay","sw":"aringay","definition":[],"translation":["[地名] 阿灵艾 ( 菲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aringo","sw":"aringo","definition":[],"translation":["[网络] 李濠任"],"pos":[],"exchange":["s:aringoes"],"examples":[],"phonetic":""}
 {"word":"aringoes","sw":"aringoes","definition":[],"translation":["[网络] 李濠任","(aringo 的复数)"],"pos":[],"exchange":["0:aringo","1:s"],"examples":[],"phonetic":""}
-{"word":"Arinj","sw":"arinj","definition":["Arinj","a village in Armenia",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Arinj","sw":"arinj","definition":["Arinj","a village in Armenia"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arino","sw":"arino","definition":[],"translation":["阿里诺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arinos","sw":"arinos","definition":[],"translation":["[地名] [巴西] 阿里努斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arinthod","sw":"arinthod","definition":[],"translation":["[地名] 阿兰托 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1832,7 +1832,7 @@
 {"word":"ariola","sw":"ariola","definition":[],"translation":["n. (Ariola)人名；(尼日利)阿里奥拉；(意、西)阿廖拉"],"pos":[],"exchange":["s:ariolas"],"examples":[],"phonetic":""}
 {"word":"ariolas","sw":"ariolas","definition":[],"translation":["n. (Ariola)人名；(尼日利)阿里奥拉；(意、西)阿廖拉","(ariola 的复数)"],"pos":[],"exchange":["0:ariola","1:s"],"examples":[],"phonetic":""}
 {"word":"ariolate","sw":"ariolate","definition":[],"translation":["[网络] 一气呵成"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"ariolater","sw":"ariolater","definition":["ariolater (plural ariolaters) (also aruspex)","one who practices the art of divination and uses interpretation to produce omens.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ariolater","sw":"ariolater","definition":["ariolater (plural ariolaters) (also aruspex)","one who practices the art of divination and uses interpretation to produce omens."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ariolation","sw":"ariolation","definition":[],"translation":["[网络] 无礼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ariomma","sw":"ariomma","definition":[],"translation":["[网络] 无齿鲳属"],"pos":[],"exchange":["s:ariommas"],"examples":[],"phonetic":""}
 {"word":"ariomma brevimanum","sw":"ariommabrevimanum","definition":[],"translation":["短鳍无齿鲳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1859,7 +1859,7 @@
 {"word":"ariosoma major","sw":"ariosomamajor","definition":[],"translation":["大锥体糯鳗；大美体鳗(大奇鳗)；糯米鳗；穴子鳗；臭腥鳗；海鳗；沙鳗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ariosoma meeki","sw":"ariosomameeki","definition":[],"translation":["米克氏锥体糯鳗；米克氏美体鳗；米克氏糯鳗；糯米鳗；穴子鳗；臭腥鳗；海鳗；沙鳗；白鳗；银箸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ariosos","sw":"ariosos","definition":[],"translation":["咏叹调( arioso的名词复数 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Ariostan","sw":"ariostan","definition":["Ariostan (comparative more Ariostan, superlative most Ariostan)","(poetry) Characteristic of the Italian poet Ludovico Ariosto (1474–1533).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Ariostan","sw":"ariostan","definition":["Ariostan (comparative more Ariostan, superlative most Ariostan)","(poetry) Characteristic of the Italian poet Ludovico Ariosto (1474–1533)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ariosto","sw":"ariosto","definition":[],"translation":["阿里奥斯托（人名）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ariot","sw":"ariot","definition":[],"translation":["adv. 骚乱地, adj.长得过于茂盛的"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ'raiәt"}
 {"word":"arious","sw":"arious","definition":[],"translation":["[网络] 爱…的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1936,7 +1936,7 @@
 {"word":"ariser","sw":"ariser","definition":[],"translation":["[网络] 伞绳本身并不是一个操纵带"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arises","sw":"arises","definition":["v come into existence; take on form or shape","v originate or come into being","v rise to one's feet","v result or issue","v move upward","v take part in a rebellion; renounce a former allegiance","v get up and out of bed"],"translation":["v. 出现；发生；站立"],"pos":[],"exchange":["0:arise","1:3"],"examples":[],"phonetic":""}
 {"word":"arisest","sw":"arisest","definition":[],"translation":["vi.","(从坐，躺或跪中)起身，起来，起立：","She arises from her chair when he entered the room.","当他进房间时她从椅子上站起来。","起床：","They arose at sunrise to get an early start to the park.","他们黎明即起，早出发去公园。","升起，上升，升高：","A thin curl of smoke arose lazily from the cobin.","一缕薄烟懒洋洋地从小屋升起。","(事物、局面等)形成，生产；发生；呈现；出现：","New problems arose imperceptibly.","新问题不知不觉地产生。","(由…)引起，(由…)产生，由…得出；起因于，由于；起源(于)；发出；出自(与from或out of连用)：","After such destruction many problems in resettlement often arise.","在这样的破坏之后重新定居中的许多问题常常由此产生。","The present difficulties in our country arise from(或out of)the reduced value of its money.","我国目前的困难是货币贬值引起的。","起来造反；起而反对；奋起斗争；反抗：","rise in arms","举行武装起义","复活，起死回生","[废语]爬上高位；变得更加显赫","近义词:","rise","变形：","vi.","arose",". arisen",". arising"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'raɪz"}
-{"word":"ariseth","sw":"ariseth","definition":["ariseth","archaic third-person singular simple present indicative form of arise",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ariseth","sw":"ariseth","definition":["ariseth","archaic third-person singular simple present indicative form of arise"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arish","sw":"arish","definition":[],"translation":["[网络] 阿里什；阿里什自助游指南；油舅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arishima Takeo","sw":"arishimatakeo","definition":[],"translation":["有岛武郎(1878-1923),日本人,小说家、评论家。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arishth","sw":"arishth","definition":[],"translation":["[网络] 阿拉斯加"],"pos":[],"exchange":["s:arishths"],"examples":[],"phonetic":""}
@@ -1944,7 +1944,7 @@
 {"word":"arising","sw":"arising","definition":["p. pr. & vb. n. of Arise"],"translation":["出现","产生"],"pos":[],"exchange":["0:arise","1:i","s:arisings"],"examples":[],"phonetic":""}
 {"word":"arising out","sw":"arisingout","definition":[],"translation":["[科技] 引起"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arisings","sw":"arisings","definition":["v come into existence; take on form or shape","v originate or come into being","v rise to one's feet","v result or issue","v move upward","v take part in a rebellion; renounce a former allegiance","v get up and out of bed"],"translation":["n. 废弃物, 剩余物；副产品"],"pos":[],"exchange":["0:arising","1:s"],"examples":[],"phonetic":"ә'raiziŋz"}
-{"word":"Arislav","sw":"arislav","definition":["Arislav","A male given name",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Arislav","sw":"arislav","definition":["Arislav","A male given name"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arismendi","sw":"arismendi","definition":[],"translation":["[网络] 迭戈·阿里斯门迪；阿利斯文迪；阿里斯梅迪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arisness","sw":"arisness","definition":[],"translation":["[网络] 可怕的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arison","sw":"arison","definition":[],"translation":["n. (Arison)人名；(西)阿里松；(英)阿里森"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2606,7 +2606,7 @@
 {"word":"arjuni","sw":"arjuni","definition":[],"translation":["[地名] [印度] 阿尔久尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arjuns","sw":"arjuns","definition":[],"translation":["n. (Arjun)人名；(尼、印)阿尔琼"],"pos":[],"exchange":["0:arjun","1:s"],"examples":[],"phonetic":""}
 {"word":"ark","sw":"ark","definition":["n. (Judaism) sacred chest where the ancient Hebrews kept the two tablets containing the Ten Commandments","n. a boat built by Noah to save his family and animals from the flood"],"translation":["n. 方舟, 柜"],"pos":["n:100"],"exchange":["s:arks"],"examples":[],"phonetic":"ɑ:k"}
-{"word":"ark at ee","sw":"arkatee","definition":["ark at ee","(Britain  dialect, Bristol and West Country, informal) Listen to you; listen to yourself; listen to it.","(Britain  dialect, Bristol and West Country, informal) Used to draw attention to something or someone.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ark at ee","sw":"arkatee","definition":["ark at ee","(Britain  dialect, Bristol and West Country, informal) Listen to you; listen to yourself; listen to it.","(Britain  dialect, Bristol and West Country, informal) Used to draw attention to something or someone."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ark clam","sw":"arkclam","definition":[],"translation":["[网络] 活赤贝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ark of the Covenant","sw":"arkofthecovenant","definition":[],"translation":["n. 约柜（藏于古犹太圣殿至圣所内、刻有十诫的两块石板）"],"pos":[],"exchange":["s:arks of the covenant"],"examples":[],"phonetic":""}
 {"word":"Ark of the Testimony","sw":"arkofthetestimony","definition":[],"translation":["[网络] 约柜可译作见证的柜；法柜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2615,7 +2615,7 @@
 {"word":"ark shell","sw":"arkshell","definition":[],"translation":["舟贝"],"pos":[],"exchange":["s:ark shells"],"examples":[],"phonetic":"ɑ:k ʃel"}
 {"word":"ark shells","sw":"arkshells","definition":[],"translation":["瓦楞子；赤贝"],"pos":[],"exchange":["0:ark shell","1:s"],"examples":[],"phonetic":""}
 {"word":"ark-floater","sw":"arkfloater","definition":[],"translation":["[网络] 方舟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Ark-La-Tex","sw":"arklatex","definition":["Ark-La-Tex","A socio-economic region of the United States comprising the parts of Arkansas, Louisiana, Texas and Oklahoma around the borders between these four states.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Ark-La-Tex","sw":"arklatex","definition":["Ark-La-Tex","A socio-economic region of the United States comprising the parts of Arkansas, Louisiana, Texas and Oklahoma around the borders between these four states."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ark-of-the-covenant","sw":"arkofthecovenant","definition":[],"translation":["na. 约柜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arka","sw":"arka","definition":[],"translation":["[地名] 阿尔卡 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arkadak","sw":"arkadak","definition":[],"translation":["[地名] 阿尔卡达克 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2719,8 +2719,8 @@
 {"word":"arkless","sw":"arkless","definition":[],"translation":["[网络] 无节制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arkley","sw":"arkley","definition":[],"translation":["阿克利"],"pos":[],"exchange":["s:arkleys"],"examples":[],"phonetic":""}
 {"word":"arkleys","sw":"arkleys","definition":[],"translation":["阿克利","(arkley 的复数)"],"pos":[],"exchange":["0:arkley","1:s"],"examples":[],"phonetic":""}
-{"word":"Arklitten","sw":"arklitten","definition":["Arklitten","(historical) A village, located in what was historically East Prussia and is now Poland; the village is now called Arklity.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"arkload","sw":"arkload","definition":["arkload (plural arkloads)","Enough to fill an ark.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Arklitten","sw":"arklitten","definition":["Arklitten","(historical) A village, located in what was historically East Prussia and is now Poland; the village is now called Arklity."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"arkload","sw":"arkload","definition":["arkload (plural arkloads)","Enough to fill an ark."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Arklow","sw":"arklow","definition":[],"translation":["[地名] 阿克洛 ( 爱 )"],"pos":[],"exchange":["s:arklows"],"examples":[],"phonetic":""}
 {"word":"arklows","sw":"arklows","definition":[],"translation":["[地名] 阿克洛 ( 爱 )","(arklow 的复数)"],"pos":[],"exchange":["0:arklow","1:s"],"examples":[],"phonetic":""}
 {"word":"arko","sw":"arko","definition":[],"translation":["n. (Arko)人名；(法、加纳)阿尔科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2888,7 +2888,7 @@
 {"word":"arm cable","sw":"armcable","definition":[],"translation":["[医] 臂簧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arm canal","sw":"armcanal","definition":[],"translation":["腕细腔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arm candy","sw":"armcandy","definition":[],"translation":["（男子参加社交活动时所带的）挂臂美女"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"arm cardio","sw":"armcardio","definition":["Masturbation","> Since his girlfriend broke up with him, he's really been getting in a lot of arm cardio.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"arm cardio","sw":"armcardio","definition":["Masturbation","> Since his girlfriend broke up with him, he's really been getting in a lot of arm cardio."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arm casting","sw":"armcasting","definition":[],"translation":["(信号机的)臂板铸件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arm cavity","sw":"armcavity","definition":[],"translation":["腕腔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"arm center","sw":"armcenter","definition":[],"translation":["[医] 臂运动中枢"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3406,8 +3406,8 @@
 {"word":"armbruster","sw":"armbruster","definition":[],"translation":["[人名] 安布鲁斯特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armchair","sw":"armchair","definition":["n. chair with a support on each side for arms"],"translation":["n. 扶手椅"],"pos":["n:100"],"exchange":["s:armchairs"],"examples":["He eased himself into the big armchair.","She sat in an armchair by the fire, reading a newspaper."],"phonetic":"ˈɑːmtʃeə(r)|ˈɑːrmtʃer"}
 {"word":"armchair assembling clamp","sw":"armchairassemblingclamp","definition":[],"translation":["[家具] 扶手椅装配夹持器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"armchair commando","sw":"armchaircommando","definition":["If a nerd isnt any of the following:","internet gangster","troll","copycat","poser","dickhead","etc","he is an...","ARMCHAIR COMMANDO!","","An armchair commando is a lowlife nerd kid who sits at home shows off his military knowledge and argues about anything that has to do with military and politics involving military and pretends to know more than scientists do about ballistics, measurements, Parts of a weapon and more...","They quickly search through forums, wikipedias for more info and come to their own conclusion or most of the time copy and paste a paragraph from wikipedia","> guy1: \"m16s are cool thanx to the bullets they use!\"","> Armchair commando: \"NO YOU DOUCHEBAG the m16 was developed BEFORE vietnam war and it uses the 5.56x45 milimeter round which travels around 3000 feet per second and the round disintegrates as soon as it hits rough surface....bla...bla.....bla....making the M16 AWESOME!..\"","> guy1: \"duh thats pretty much what i said",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"armchair commandos","sw":"armchaircommandos","definition":["If a nerd isnt any of the following:","internet gangster","troll","copycat","poser","dickhead","etc","he is an...","ARMCHAIR COMMANDO!","","An armchair commando is a lowlife nerd kid who sits at home shows off his military knowledge and argues about anything that has to do with military and politics involving military and pretends to know more than scientists do about ballistics, measurements, Parts of a weapon and more...","They quickly search through forums, wikipedias for more info and come to their own conclusion or most of the time copy and paste a paragraph from wikipedia","> guy1: \"m16s are cool thanx to the bullets they use!\"","> Armchair commando: \"NO YOU DOUCHEBAG the m16 was developed BEFORE vietnam war and it uses the 5.56x45 milimeter round which travels around 3000 feet per second and the round disintegrates as soon as it hits rough surface....bla...bla.....bla....making the M16 AWESOME!..\"","> guy1: \"duh thats pretty much what i said",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"armchair commando","sw":"armchaircommando","definition":["If a nerd isnt any of the following:","internet gangster","troll","copycat","poser","dickhead","etc","he is an...","ARMCHAIR COMMANDO!","","An armchair commando is a lowlife nerd kid who sits at home shows off his military knowledge and argues about anything that has to do with military and politics involving military and pretends to know more than scientists do about ballistics, measurements, Parts of a weapon and more...","They quickly search through forums, wikipedias for more info and come to their own conclusion or most of the time copy and paste a paragraph from wikipedia","> guy1: \"m16s are cool thanx to the bullets they use!\"","> Armchair commando: \"NO YOU DOUCHEBAG the m16 was developed BEFORE vietnam war and it uses the 5.56x45 milimeter round which travels around 3000 feet per second and the round disintegrates as soon as it hits rough surface....bla...bla.....bla....making the M16 AWESOME!..\"","> guy1: \"duh thats pretty much what i said"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"armchair commandos","sw":"armchaircommandos","definition":["If a nerd isnt any of the following:","internet gangster","troll","copycat","poser","dickhead","etc","he is an...","ARMCHAIR COMMANDO!","","An armchair commando is a lowlife nerd kid who sits at home shows off his military knowledge and argues about anything that has to do with military and politics involving military and pretends to know more than scientists do about ballistics, measurements, Parts of a weapon and more...","They quickly search through forums, wikipedias for more info and come to their own conclusion or most of the time copy and paste a paragraph from wikipedia","> guy1: \"m16s are cool thanx to the bullets they use!\"","> Armchair commando: \"NO YOU DOUCHEBAG the m16 was developed BEFORE vietnam war and it uses the 5.56x45 milimeter round which travels around 3000 feet per second and the round disintegrates as soon as it hits rough surface....bla...bla.....bla....making the M16 AWESOME!..\"","> guy1: \"duh thats pretty much what i said"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armchair critic","sw":"armchaircritic","definition":[],"translation":["闭门造车的批评家,不做调查研究的批评家;不负责任的批评家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armchair general","sw":"armchairgeneral","definition":[],"translation":["[网络] 纸上谈兵的将军；光说不练的人；历史军事丛书"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armchair generals","sw":"armchairgenerals","definition":[],"translation":["[网络] 扶手椅将军"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3646,7 +3646,7 @@
 {"word":"Armenophile","sw":"armenophile","definition":[],"translation":["[网络] 亚美尼亚人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Armenophiles","sw":"armenophiles","definition":[],"translation":["[网络] 亚美尼亚人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Armenophilia","sw":"armenophilia","definition":[],"translation":["[网络] 亚美尼亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Armenophobe","sw":"armenophobe","definition":["Armenophobe (plural Armenophobes)","a person having a fear, dislike of, hatred or aversion to the Armenians, Republic of Armenia and the Armenian culture",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Armenophobe","sw":"armenophobe","definition":["Armenophobe (plural Armenophobes)","a person having a fear, dislike of, hatred or aversion to the Armenians, Republic of Armenia and the Armenian culture"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Armenophobes","sw":"armenophobes","definition":[],"translation":["[网络] 亚美尼亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Armenophobia","sw":"armenophobia","definition":[],"translation":["[网络] 亚美尼亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armenopolis romania","sw":"armenopolisromania","definition":[],"translation":["阿美诺波利斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4567,7 +4567,7 @@
 {"word":"Armydata","sw":"armydata","definition":[],"translation":["[计] 陆军信息编码系统"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Armyl","sw":"armyl","definition":[],"translation":["赖氨四环素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armyless","sw":"armyless","definition":[],"translation":["[网络] 无。。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"armylike","sw":"armylike","definition":["armylike (comparative more armylike, superlative most armylike)","Resembling or characteristic of an army.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"armylike","sw":"armylike","definition":["armylike (comparative more armylike, superlative most armylike)","Resembling or characteristic of an army."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armyll","sw":"armyll","definition":[],"translation":["[网络] 腋下"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armylle","sw":"armylle","definition":[],"translation":["[网络] 手镯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"armyman","sw":"armyman","definition":[],"translation":["n. 军人"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ɑ:mimæn"}

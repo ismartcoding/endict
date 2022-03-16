@@ -2190,7 +2190,7 @@
 {"word":"ChemPort","sw":"chemport","definition":[],"translation":["是美国化学会(ACS)化学文摘社(CAS)提供的服务,其内容是CAS的Caplus数据库,界面是STNeasy。其特点是通过与ChemPort 的成员出版社链接,该电子期刊的订户可就地获取所需文献的原文,其他期刊和专利文献也可以通过CAS 的原文复印服务获取"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chemquasabamticook Lake","sw":"chemquasabamticooklake","definition":[],"translation":["[地名] 切姆夸萨班蒂库克湖 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chems","sw":"chems","definition":[],"translation":["[医][=chemistries]化学"],"pos":[],"exchange":["0:chem","1:s"],"examples":[],"phonetic":"'kemz"}
-{"word":"chemsex","sw":"chemsex","definition":["Strictly speaking, chemsex refers to gay or bisexual men using drugs to facilitate sex with other men. Culturally, though, it has become a catch-all term for sex involving drugs and \"chemsex parties\", where groups of gay and bisexual men meet up, get high, and have sex with one another.","","It's important to note that it's distinct from drug use which later leads to sexual activity: chemsex is where men take a certain drug or drugs because they are about to have sex.","> It would be hot to have chemsex with you whole night!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chemsex","sw":"chemsex","definition":["Strictly speaking, chemsex refers to gay or bisexual men using drugs to facilitate sex with other men. Culturally, though, it has become a catch-all term for sex involving drugs and \"chemsex parties\", where groups of gay and bisexual men meet up, get high, and have sex with one another.","","It's important to note that it's distinct from drug use which later leads to sexual activity: chemsex is where men take a certain drug or drugs because they are about to have sex.","> It would be hot to have chemsex with you whole night!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chemstation","sw":"chemstation","definition":[],"translation":["化学工作站"],"pos":[],"exchange":["s:chemstations"],"examples":[],"phonetic":""}
 {"word":"chemstations","sw":"chemstations","definition":["plural of chemstation"],"translation":["(chemstation 的复数) 化学工作站"],"pos":[],"exchange":["0:chemstation","1:s"],"examples":[],"phonetic":""}
 {"word":"chemstaxis","sw":"chemstaxis","definition":[],"translation":["趋化性,趋药性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2619,7 +2619,7 @@
 {"word":"chequebook journalism","sw":"chequebookjournalism","definition":[],"translation":["n. 重金新闻, 支票新闻（花大笔钱购买有关犯罪或名人隐私的信息为报纸文章提供素材）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chequebooking","sw":"chequebooking","definition":["-ing form of chequebook","n a book issued to holders of checking accounts"],"translation":["(chequebook 的现在分词) n. 支票簿"],"pos":[],"exchange":["0:chequebook","1:i"],"examples":[],"phonetic":""}
 {"word":"chequebooks","sw":"chequebooks","definition":["n. a book issued to holders of checking accounts"],"translation":["n. 支票本"],"pos":[],"exchange":["0:chequebook","1:s"],"examples":[],"phonetic":"'tʃekbuk"}
-{"word":"chequeen","sw":"chequeen","definition":["chequeen (plural chequeens)","(historical) A gold coin formerly used in Italy and Turkey; a sequin.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chequeen","sw":"chequeen","definition":["chequeen (plural chequeens)","(historical) A gold coin formerly used in Italy and Turkey; a sequin."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chequeens","sw":"chequeens","definition":[],"translation":["[网络] 骗子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chequeless","sw":"chequeless","definition":[],"translation":["[网络] 无价值"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chequer","sw":"chequer","definition":["n one of the flat round pieces used in playing the game of checkers","v mark into squares or draw squares on; draw crossed lines on","v variegate with different colors, shades, or patterns"],"translation":["n. (一粒)棋子, 西洋跳棋, 方格图案, 格子花, 花楸果, 排列成方格式的石头","vt. 把...画/制成方格图案形, 交替变换"],"pos":[],"exchange":["s:chequers","p:chequered","d:chequered","i:chequering","3:chequers"],"examples":[],"phonetic":"'tʃekә"}
@@ -2889,7 +2889,7 @@
 {"word":"Chernaya","sw":"chernaya","definition":[],"translation":["车纳雅"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernaya kalitva","sw":"chernayakalitva","definition":[],"translation":["车纳雅卡利特瓦河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernaya kholunitsa","sw":"chernayakholunitsa","definition":[],"translation":["车纳雅荷鲁尼查"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Chernbog","sw":"chernbog","definition":["Chernbog","A male given name",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Chernbog","sw":"chernbog","definition":["Chernbog","A male given name"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherne","sw":"cherne","definition":[],"translation":["[网络] 切尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernecha sloboda","sw":"chernechasloboda","definition":[],"translation":["车内查斯洛波达"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chernenko","sw":"chernenko","definition":[],"translation":["契尔年科（人名）"],"pos":[],"exchange":["s:chernenkoes"],"examples":[],"phonetic":""}
@@ -2941,7 +2941,7 @@
 {"word":"Chernobyl syndrome","sw":"chernobylsyndrome","definition":[],"translation":["[网络] 切尔诺贝利综合症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernobyl-style","sw":"chernobylstyle","definition":[],"translation":["[网络] 车诺比尔式"],"pos":[],"exchange":["s:chernobyl-styles"],"examples":[],"phonetic":""}
 {"word":"chernobyl-styles","sw":"chernobylstyles","definition":[],"translation":["[网络] 车诺比尔式","(chernobyl-style 的复数)"],"pos":[],"exchange":["0:chernobyl-style","1:s"],"examples":[],"phonetic":""}
-{"word":"chernobylite","sw":"chernobylite","definition":["chernobylite (uncountable)","(mineralogy) A technogenic crystalline zirconium silicate containing uranium as a solid solution, discovered in the corium produced by the Chernobyl nuclear accident.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chernobylite","sw":"chernobylite","definition":["chernobylite (uncountable)","(mineralogy) A technogenic crystalline zirconium silicate containing uranium as a solid solution, discovered in the corium produced by the Chernobyl nuclear accident."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernobyls","sw":"chernobyls","definition":[],"translation":["[网络] 切尔诺贝利"],"pos":[],"exchange":["0:chernobyl","1:s"],"examples":[],"phonetic":""}
 {"word":"Chernof Glacier","sw":"chernofglacier","definition":[],"translation":["[地名] 切尔诺夫冰川 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chernoff","sw":"chernoff","definition":[],"translation":["[人名] 切尔诺夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3071,7 +3071,7 @@
 {"word":"cherry apple","sw":"cherryapple","definition":[],"translation":["[网络] 樱桃苹果"],"pos":[],"exchange":["s:cherry apples"],"examples":[],"phonetic":""}
 {"word":"cherry apples","sw":"cherryapples","definition":[],"translation":["[网络] 樱桃苹果","(cherry apple 的复数)"],"pos":[],"exchange":["0:cherry apple","1:s"],"examples":[],"phonetic":""}
 {"word":"cherry Bakewell","sw":"cherrybakewell","definition":[],"translation":["[网络] 樱桃Bakewell"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cherry Bakewell tart","sw":"cherrybakewelltart","definition":["","","","","A Cherry Bakewell","","","a Bakewell tart with icing and half glacé cherry on top",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cherry Bakewell tart","sw":"cherrybakewelltart","definition":["","","","","A Cherry Bakewell","","","a Bakewell tart with icing and half glacé cherry on top"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry Bakewells","sw":"cherrybakewells","definition":[],"translation":["[网络] 樱桃Bakewells"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry bay","sw":"cherrybay","definition":[],"translation":["[建] 桂樱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry birch","sw":"cherrybirch","definition":[],"translation":["山桦"],"pos":[],"exchange":["s:cherry birches"],"examples":[],"phonetic":"ˈtʃeri: bɜ:tʃ"}
@@ -3197,7 +3197,7 @@
 {"word":"cherry-sized","sw":"cherrysized","definition":[],"translation":["[网络] 樱桃大小"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry-stone","sw":"cherrystone","definition":[],"translation":["na. 樱桃核；(北美)小蛤蜊","[网络] 樱桃石；樱桃桃"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry-tomato","sw":"cherrytomato","definition":[],"translation":["n. 【植】樱桃番茄","[网络] 圣女果"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cherry-tops","sw":"cherrytops","definition":["Police squad car (the falshing lights up top)","> The po is coming in their cherry tops",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cherry-tops","sw":"cherrytops","definition":["Police squad car (the falshing lights up top)","> The po is coming in their cherry tops"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry-tree","sw":"cherrytree","definition":[],"translation":["na. 樱桃树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry-vanilla","sw":"cherryvanilla","definition":[],"translation":["[网络] 草莓香草味"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cherry-wood","sw":"cherrywood","definition":[],"translation":["[网络] 樱桃木；樱桃木餐坊；樱桃木餐厅"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":""}
@@ -3623,7 +3623,7 @@
 {"word":"chest protectors","sw":"chestprotectors","definition":[],"translation":["护胸"],"pos":[],"exchange":["0:chest protector","1:s"],"examples":[],"phonetic":""}
 {"word":"chest pull","sw":"chestpull","definition":[],"translation":["推胸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chest pulley weight","sw":"chestpulleyweight","definition":[],"translation":["扩胸器（滑车负重扩胸器）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chest puppies","sw":"chestpuppies","definition":["breasts","> get those chest puppies out",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chest puppies","sw":"chestpuppies","definition":["breasts","> get those chest puppies out"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chest radiograph","sw":"chestradiograph","definition":[],"translation":["[医]胸片"],"pos":[],"exchange":[],"examples":[],"phonetic":"tʃest ˈreidiəuɡrɑ:f"}
 {"word":"chest radiographic device","sw":"chestradiographicdevice","definition":[],"translation":["胸部X光摄影装置"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chest radiography","sw":"chestradiography","definition":[],"translation":["[医]胸部X线摄影（术）"],"pos":[],"exchange":[],"examples":[],"phonetic":"tʃest reidiˈɔɡrəfi"}
@@ -3956,7 +3956,7 @@
 {"word":"Chevanceaux","sw":"chevanceaux","definition":[],"translation":["[地名] 舍旺索 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chevannes","sw":"chevannes","definition":[],"translation":["[地名] 舍瓦讷 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chevaster","sw":"chevaster","definition":[],"translation":["[网络] 雪佛龙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chevauchee","sw":"chevauchee","definition":["chevauchee (plural chevauchees)","(historical) A military raid by cavalry through enemy territory, designed to disrupt rural communities and weaken an opponent.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chevauchee","sw":"chevauchee","definition":["chevauchee (plural chevauchees)","(historical) A military raid by cavalry through enemy territory, designed to disrupt rural communities and weaken an opponent."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chevauchees","sw":"chevauchees","definition":[],"translation":["[网络] 骑马巡逻的义务"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chevaux","sw":"chevaux","definition":[],"translation":["n. 〈外〉马","[网络] 牧马图"],"pos":[],"exchange":["s:chevauxes"],"examples":[],"phonetic":""}
 {"word":"chevaux de frise","sw":"chevauxdefrise","definition":[],"translation":["n. 〈外〉【军】(阻止骑兵进攻的)拒马；(墙上的)防贼钉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4148,7 +4148,7 @@
 {"word":"Chewa","sw":"chewa","definition":[],"translation":["[网络] 切瓦人；瓦族；契瓦文"],"pos":[],"exchange":["s:chewas"],"examples":[],"phonetic":""}
 {"word":"chewability","sw":"chewability","definition":[],"translation":["[网络] 咀嚼力"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chewable","sw":"chewable","definition":["s. easy to cut or chew"],"translation":["a. chew的变形"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chewable liquor","sw":"chewableliquor","definition":["Club candy that's been around for some time known as 'chewable liquor': gelatinous lozenges that contain concentrated alcohol and are very potent.","> Another club favorite similar to chewable liquor is called (rather punnigly...) AWOL:","> Alcohol WithOut Liquid, which is an inhalable form of alcohol, mixed with oxygen for faster 'hit' effect.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chewable liquor","sw":"chewableliquor","definition":["Club candy that's been around for some time known as 'chewable liquor': gelatinous lozenges that contain concentrated alcohol and are very potent.","> Another club favorite similar to chewable liquor is called (rather punnigly...) AWOL:","> Alcohol WithOut Liquid, which is an inhalable form of alcohol, mixed with oxygen for faster 'hit' effect."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chewable tablet","sw":"chewabletablet","definition":[],"translation":["咀嚼片剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chewabler","sw":"chewabler","definition":[],"translation":["adj. chew的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chewables","sw":"chewables","definition":[],"translation":["[网络] 咀嚼片"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4259,7 +4259,7 @@
 {"word":"chey","sw":"chey","definition":[],"translation":["abbr. Cheyenne 夏安族（人）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chey Kampok","sw":"cheykampok","definition":[],"translation":["[地名] 则贡博 ( 柬 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chey Thum","sw":"cheythum","definition":[],"translation":["[地名] 则吞 ( 柬 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"cheyah","sw":"cheyah","definition":["A word niggers use to say yes.","> Nigger did you get high today? Cheyah!!!!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"cheyah","sw":"cheyah","definition":["A word niggers use to say yes.","> Nigger did you get high today? Cheyah!!!!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cheyder","sw":"cheyder","definition":[],"translation":["[网络] 雪佛兰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"cheyenne","sw":"cheyenne","definition":["n. the capital and largest city of Wyoming; located in the southeastern corner of the state","n. the Algonquian language spoken by the Cheyenne","n. a member of a North American Indian people living on the western plains (now living in Oklahoma and Montana)"],"translation":["n. 夏安族；夏安族人；夏安语"],"pos":[],"exchange":[],"examples":[],"phonetic":"ʃai'en"}
 {"word":"Cheyenne County","sw":"cheyennecounty","definition":[],"translation":["[地名] 夏延县 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4329,7 +4329,7 @@
 {"word":"Chhattisgarhi","sw":"chhattisgarhi","definition":[],"translation":["[网络] 恰蒂斯加尔语"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chhay","sw":"chhay","definition":[],"translation":["蔡"],"pos":[],"exchange":["s:chhays"],"examples":[],"phonetic":""}
 {"word":"chhays","sw":"chhays","definition":[],"translation":["蔡","(chhay 的复数)"],"pos":[],"exchange":["0:chhay","1:s"],"examples":[],"phonetic":""}
-{"word":"chhena","sw":"chhena","definition":["chhena (uncountable)","A fresh, unripened curd cheese widely used in India and Bangladesh.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chhena","sw":"chhena","definition":["chhena (uncountable)","A fresh, unripened curd cheese widely used in India and Bangladesh."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chheng","sw":"chheng","definition":[],"translation":["[网络] 青；尚界呛"],"pos":[],"exchange":["s:chhengs"],"examples":[],"phonetic":""}
 {"word":"chhengs","sw":"chhengs","definition":[],"translation":["[网络] 青；尚界呛","(chheng 的复数)"],"pos":[],"exchange":["0:chheng","1:s"],"examples":[],"phonetic":""}
 {"word":"chhertum","sw":"chhertum","definition":[],"translation":["[网络] 小鸡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4493,7 +4493,7 @@
 {"word":"Chiaocheng raw goatskins","sw":"chiaochengrawgoatskins","definition":[],"translation":["交城山羊板皮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chiaoha","sw":"chiaoha","definition":[],"translation":["交河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiaous","sw":"chiaous","definition":[],"translation":["[网络] 好的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chiaoux","sw":"chiaoux","definition":["chiaoux","Obsolete spelling of chiaus",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chiaoux","sw":"chiaoux","definition":["chiaoux","Obsolete spelling of chiaus"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chiapa","sw":"chiapa","definition":[],"translation":["[地名] 恰帕 ( 墨 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiapagenin","sw":"chiapagenin","definition":[],"translation":["齐亚帕皂苷配基,查帕皂甙元"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiapan","sw":"chiapan","definition":[],"translation":["[网络] 夹板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4535,7 +4535,7 @@
 {"word":"chiaro-oscuro","sw":"chiarooscuro","definition":[],"translation":["[网络] 明暗法"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiaroes","sw":"chiaroes","definition":[],"translation":["[网络] 奇里奥；凯润；浅色的","(chiaro 的复数)"],"pos":[],"exchange":["0:chiaro","1:s"],"examples":[],"phonetic":""}
 {"word":"Chiaromonte","sw":"chiaromonte","definition":[],"translation":["[地名] 基亚罗蒙特 ( 意 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chiaroscuri","sw":"chiaroscuri","definition":["chiaroscuri","plural of chiaroscuro",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chiaroscuri","sw":"chiaroscuri","definition":["chiaroscuri","plural of chiaroscuro"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiaroscurist","sw":"chiaroscurist","definition":["n. A painter who cares for and studies light and shade","rather than color."],"translation":["n. 明暗对照法画家(或木刻家)"],"pos":[],"exchange":[],"examples":[],"phonetic":"ki,ɑ:rә'skjjәrist"}
 {"word":"chiaroscurists","sw":"chiaroscurists","definition":[],"translation":["明暗对照法画家（或木刻家）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chiaroscuro","sw":"chiaroscuro","definition":["n. a monochrome picture made by using several different shades of the same color"],"translation":["n. 用明暗对照所作的素描, 明暗对照法"],"pos":["n:100"],"exchange":["s:chiaroscuroes"],"examples":[],"phonetic":"ki.ɑ:rә'skjuәrәu"}
@@ -4686,7 +4686,7 @@
 {"word":"Chibuto","sw":"chibuto","definition":[],"translation":["[地名] 希布托 ( 莫 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chibwe","sw":"chibwe","definition":[],"translation":["[地名] 奇布韦 ( 赞 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chic","sw":"chic","definition":["n. elegance by virtue of being fashionable","s. elegant and stylish"],"translation":["n. 漂亮, 别致的款式","a. 漂亮的, 别致的"],"pos":["j:86","n:14"],"exchange":["s:chics"],"examples":[],"phonetic":"ʃi:k"}
-{"word":"Chic Murray","sw":"chicmurray","definition":["Chic Murray (plural Chic Murrays)","(rhyming slang) A (meal of) curry.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Chic Murray","sw":"chicmurray","definition":["Chic Murray (plural Chic Murrays)","(rhyming slang) A (meal of) curry."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chic sale","sw":"chicsale","definition":[],"translation":["露天厕所"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chic Slae","sw":"chicslae","definition":[],"translation":["[诙谐语]露天厕所"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chic style","sw":"chicstyle","definition":[],"translation":["新潮款式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4694,8 +4694,8 @@
 {"word":"chica","sw":"chica","definition":["n. A red coloring matter. extracted from the Bignonia Chica,","used by some tribes of South American Indians to stain the skin.","n. A fermented liquor or beer made in South American from a","decoction of maize.","n. A popular Moorish, Spanish, and South American dance, said","to be the original of the fandango, etc."],"translation":["[医] 契卡(中美洲玉米制造的一种饮料)"],"pos":[],"exchange":["s:chicas"],"examples":[],"phonetic":""}
 {"word":"chicaco","sw":"chicaco","definition":[],"translation":["[网络] 草彅刚；廖家禄"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chicacole","sw":"chicacole","definition":[],"translation":["[地名] *奇卡科尔(斯里加古兰的旧称) ( 印 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chicadee","sw":"chicadee","definition":["Slang. A [girl].","> That chicadee looks like she could use a good facelift.","> Don't worry about it, chicadee.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chicadees","sw":"chicadees","definition":["Slang. A [girl].","> That chicadee looks like she could use a good facelift.","> Don't worry about it, chicadee.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chicadee","sw":"chicadee","definition":["Slang. A [girl].","> That chicadee looks like she could use a good facelift.","> Don't worry about it, chicadee."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chicadees","sw":"chicadees","definition":["Slang. A [girl].","> That chicadee looks like she could use a good facelift.","> Don't worry about it, chicadee."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chicago","sw":"chicago","definition":["n. largest city in Illinois; a bustling Great Lakes port that extends 26 miles along the southwestern shoreline of Lake Michigan"],"translation":["n. 芝加哥"],"pos":[],"exchange":["s:chicagoes"],"examples":["They traveled from New Orleans to Chicago.","He taught at the University of Chicago."],"phonetic":"ʃɪˈkɑːɡəʊ|ʃɪˈkɑːɡəʊ"}
 {"word":"Chicago acid","sw":"chicagoacid","definition":[],"translation":["[化] 芝加哥酸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chicago Bears","sw":"chicagobears","definition":[],"translation":["n. 芝加哥熊队"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4782,7 +4782,7 @@
 {"word":"Chicano studies","sw":"chicanostudies","definition":[],"translation":["[网络] 墨西哥裔美国人研究；墨西哥裔研究；卡奇诺研究"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicanoes","sw":"chicanoes","definition":[],"translation":["n. 奇卡诺人（指墨西哥裔美国人或在美国的讲西班牙语的拉丁美洲人后裔）"],"pos":[],"exchange":["0:chicano","1:s"],"examples":[],"phonetic":"tʃi:'kɑ:nəu"}
 {"word":"chicanos","sw":"chicanos","definition":[],"translation":["n. <西>墨西哥裔美国人，在美国的墨西哥男人( chicano的名词复数 )"],"pos":[],"exchange":[],"examples":[],"phonetic":"tʃiˈkɑ:nəuz"}
-{"word":"Chicanx","sw":"chicanx","definition":["Chicanx","(neologism) Chicano or Chicana (and of any gender).","","","Chicanx (plural Chicanxs)","(neologism) A Chicano or Chicana (of any gender).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Chicanx","sw":"chicanx","definition":["Chicanx","(neologism) Chicano or Chicana (and of any gender).","","","Chicanx (plural Chicanxs)","(neologism) A Chicano or Chicana (of any gender)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chicapa","sw":"chicapa","definition":[],"translation":["希卡帕河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicas","sw":"chicas","definition":["plural of chica","n. A red coloring matter. extracted from the Bignonia Chica,","used by some tribes of South American Indians to stain the skin.","n. A fermented liquor or beer made in South American from a","decoction of maize.","n. A popular Moorish, Spanish, and South American dance, said","to be the original of the fandango, etc."],"translation":["(chica 的复数) [医] 契卡(中美洲玉米制造的一种饮料)"],"pos":[],"exchange":["0:chica","1:s"],"examples":[],"phonetic":""}
 {"word":"Chicayan","sw":"chicayan","definition":[],"translation":["契卡扬"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4818,7 +4818,7 @@
 {"word":"chichenpox","sw":"chichenpox","definition":[],"translation":["鸡痘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicherin","sw":"chicherin","definition":[],"translation":["[网络] 契切林；人民委员齐采林；月苏外长切克霖"],"pos":[],"exchange":["s:chicherins"],"examples":[],"phonetic":""}
 {"word":"chicherins","sw":"chicherins","definition":[],"translation":["[网络] 契切林；人民委员齐采林；月苏外长切克霖","(chicherin 的复数)"],"pos":[],"exchange":["0:chicherin","1:s"],"examples":[],"phonetic":""}
-{"word":"chiches","sw":"chiches","definition":[],"translation":["chiches","plural of chiche",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chiches","sw":"chiches","definition":[],"translation":["chiches","plural of chiche"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chichester","sw":"chichester","definition":[],"translation":["奇切斯特[英国英格兰南部城市](西苏塞克斯郡首府)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'tʃitʃәstә(r)"}
 {"word":"Chichester Harbour","sw":"chichesterharbour","definition":[],"translation":["[地名] 奇切斯特港 ( 英 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Chichevache","sw":"chichevache","definition":[],"translation":["[网络] 奇切瓦什"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4896,7 +4896,7 @@
 {"word":"chick lit","sw":"chicklit","definition":[],"translation":["n. 鸡仔文学"],"pos":[],"exchange":[],"examples":[],"phonetic":"tʃɪk lɪt"}
 {"word":"chick livability","sw":"chicklivability","definition":[],"translation":["仔鸡成活率"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chick magnet","sw":"chickmagnet","definition":[],"translation":["[网络] 小鸡磁铁；少妇杀手；少女杀手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chick magnets","sw":"chickmagnets","definition":["A man who attracts women the way a magnet attracts iron shavings.","> Babes can't keep their hands off that guy; he's a total chick magnet.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chick magnets","sw":"chickmagnets","definition":["A man who attracts women the way a magnet attracts iron shavings.","> Babes can't keep their hands off that guy; he's a total chick magnet."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chick method","sw":"chickmethod","definition":[],"translation":["[医] 用鸡测定法"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chick nutritional dermatosis","sw":"chicknutritionaldermatosis","definition":[],"translation":["[医] 鸡营养性皮肤病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chick pea","sw":"chickpea","definition":[],"translation":["嘴豆"],"pos":[],"exchange":[],"examples":[],"phonetic":"tʃɪk pi:"}
@@ -4918,7 +4918,7 @@
 {"word":"chick-peas","sw":"chickpeas","definition":[],"translation":["[网络] 鹰嘴豆；鸡豆；藜豆"],"pos":[],"exchange":["0:chick-pea","1:s"],"examples":[],"phonetic":""}
 {"word":"chick-pecked","sw":"chickpecked","definition":[],"translation":["adj. 怕女朋友的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'tʃikpekt"}
 {"word":"chicka","sw":"chicka","definition":[],"translation":["[网络] 支持"],"pos":[],"exchange":["s:chickas"],"examples":[],"phonetic":""}
-{"word":"chickabee","sw":"chickabee","definition":["fine ass girls that u and ya boyz go out ta find on the weekends.......or on any day that u see one","> Man im jus gettin fresh fittin ta go out and find some chickabees.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chickabee","sw":"chickabee","definition":["fine ass girls that u and ya boyz go out ta find on the weekends.......or on any day that u see one","> Man im jus gettin fresh fittin ta go out and find some chickabees."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chickabiddies","sw":"chickabiddies","definition":[],"translation":["n. 鸡宝宝；小鸡；乖宝宝（对小孩的昵称）"],"pos":[],"exchange":[],"examples":[],"phonetic":"'tʃikə,bidi"}
 {"word":"chickabiddy","sw":"chickabiddy","definition":["n. A chicken; a fowl; also, a trivial term of endearment","for a child."],"translation":["n. 小鸡, 鸡宝宝, 乖宝宝"],"pos":[],"exchange":[],"examples":[],"phonetic":"'tʃikәbidi"}
 {"word":"chickadee","sw":"chickadee","definition":["n. any of various small grey-and-black songbirds of North America"],"translation":["n. 山雀"],"pos":["n:100"],"exchange":["s:chickadees"],"examples":[],"phonetic":"'tʃikәdi:"}
@@ -4931,7 +4931,7 @@
 {"word":"chickara","sw":"chickara","definition":[],"translation":["[网络] 奇卡拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chickaree","sw":"chickaree","definition":["n. The American red squirrel (Sciurus Hudsonius); -- so","called from its cry."],"translation":["n. 红松鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":"'tʃikәri:"}
 {"word":"chickarees","sw":"chickarees","definition":[],"translation":["n. 【动】(美洲)红松鼠","[网络] 红毛栗鼠；红毛栗鼠的一种；赤栗鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chickas","sw":"chickas","definition":["a sexy latin female.","also spelled as [chika]","> Did u see that chicka",""],"translation":[],"pos":[],"exchange":["0:chicka","1:s"],"examples":[],"phonetic":""}
+{"word":"chickas","sw":"chickas","definition":["a sexy latin female.","also spelled as [chika]","> Did u see that chicka"],"translation":[],"pos":[],"exchange":["0:chicka","1:s"],"examples":[],"phonetic":""}
 {"word":"chickasaw","sw":"chickasaw","definition":["n a member of the Muskhogean people formerly living in northern Mississippi","n the Muskhogean language of the Chickasaw"],"translation":["契卡索人(美国马斯科吉印第安人一个部落成员, 过去住在密西西比州北部和田纳西州的部分地区, 现在住在俄克拉何马州)"],"pos":[],"exchange":["s:chickasaws"],"examples":[],"phonetic":"'tʃikә,sɔ:"}
 {"word":"Chickasaw County","sw":"chickasawcounty","definition":[],"translation":["[地名] 奇克索县 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chickasaw plum","sw":"chickasawplum","definition":[],"translation":["[网络] 芝麻李子"],"pos":[],"exchange":["s:chickasaw plums"],"examples":[],"phonetic":""}
@@ -4994,7 +4994,7 @@
 {"word":"chicken casserole","sw":"chickencasserole","definition":[],"translation":["[网络] 砂锅鸡"],"pos":[],"exchange":["s:chicken casseroles"],"examples":[],"phonetic":""}
 {"word":"chicken casseroles","sw":"chickencasseroles","definition":[],"translation":["[网络] 砂锅鸡","(chicken casserole 的复数)"],"pos":[],"exchange":["0:chicken casserole","1:s"],"examples":[],"phonetic":""}
 {"word":"chicken choker","sw":"chickenchoker","definition":[],"translation":["[网络] 猫咪为什么会哽住"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"chicken chokers","sw":"chickenchokers","definition":["A male who masturbates.","> Don't mess with that chicken choker.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"chicken chokers","sw":"chickenchokers","definition":["A male who masturbates.","> Don't mess with that chicken choker."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicken cholera","sw":"chickencholera","definition":[],"translation":["[医] 鸡霍乱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicken cholera sera","sw":"chickencholerasera","definition":[],"translation":["[医] 鸡霍乱血清"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"chicken chow mein","sw":"chickenchowmein","definition":[],"translation":["[网络] 鸡炒面；鸡肉炒面；鸡丁炒面"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

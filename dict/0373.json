@@ -321,7 +321,7 @@
 {"word":"numerical weights","sw":"numericalweights","definition":[],"translation":["[经] 权衡值"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numerical word","sw":"numericalword","definition":[],"translation":["[计] 数值字"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numerical-control","sw":"numericalcontrol","definition":[],"translation":["na. 【计】(利用穿孔带对机械操作进行的)数字控制","[网络] 数值控制；数控；数控技术"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"numericalize","sw":"numericalize","definition":["To put in numerical order. Similar to alphabetize: to put in alphabetical order.","> Could you please numericalize those files?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"numericalize","sw":"numericalize","definition":["To put in numerical order. Similar to alphabetize: to put in alphabetical order.","> Could you please numericalize those files?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numerically","sw":"numerically","definition":["r. in number; with regard to numbers"],"translation":["adv. 数字, 数值, 用数字表示"],"pos":["r:100"],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numerically coded","sw":"numericallycoded","definition":[],"translation":["字编码的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numerically coded instruction","sw":"numericallycodedinstruction","definition":[],"translation":["数字编码指令"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -475,7 +475,7 @@
 {"word":"nummet","sw":"nummet","definition":[],"translation":["n. <英方>午饭,便餐"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌmit"}
 {"word":"nummi","sw":"nummi","definition":[],"translation":["abbr. New United Motor Manufacturing Inc 新联合发动机制造公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nummie","sw":"nummie","definition":[],"translation":["[网络] 麻木"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nummies","sw":"nummies","definition":["Delicious.","> Mmmmm.. that cake was nummy!",""],"translation":[],"pos":[],"exchange":["0:nummy","1:s"],"examples":[],"phonetic":""}
+{"word":"nummies","sw":"nummies","definition":["Delicious.","> Mmmmm.. that cake was nummy!"],"translation":[],"pos":[],"exchange":["0:nummy","1:s"],"examples":[],"phonetic":""}
 {"word":"nummiform","sw":"nummiform","definition":[],"translation":["[医] 钱币形的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numminen","sw":"numminen","definition":[],"translation":["[网络] 数量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numming","sw":"numming","definition":[],"translation":["[网络] 数字"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -529,7 +529,7 @@
 {"word":"numpt","sw":"numpt","definition":[],"translation":["[网络] 数目"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numptie","sw":"numptie","definition":[],"translation":["[网络] 麻木"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numpties","sw":"numpties","definition":[],"translation":["[网络] 数字"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"numpts","sw":"numpts","definition":["As a verb: To screw up completely and/or hilariously.","As a noun: A complete failure, referring to a person.","> \"Alright, I need to take care of this paper before Darius numpts it (up).\"","> or","> \"I already know the button inputs, you numpt.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"numpts","sw":"numpts","definition":["As a verb: To screw up completely and/or hilariously.","As a noun: A complete failure, referring to a person.","> \"Alright, I need to take care of this paper before Darius numpts it (up).\"","> or","> \"I already know the button inputs, you numpt.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"numpty","sw":"numpty","definition":[],"translation":["n. 傻瓜；笨蛋"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌmpti"}
 {"word":"numptyish","sw":"numptyish","definition":[],"translation":["[网络] 麻木的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nums","sw":"nums","definition":[],"translation":["[网络] 数量；当前被选中的页；总条目数"],"pos":[],"exchange":["0:num","1:s"],"examples":[],"phonetic":""}
@@ -570,11 +570,11 @@
 {"word":"nunation","sw":"nunation","definition":[],"translation":["n. [语]词尾加\"n\"(如阿拉伯语某些名词的词尾变化)"],"pos":[],"exchange":[],"examples":[],"phonetic":"nʌ'neiʃәn"}
 {"word":"nunations","sw":"nunations","definition":[],"translation":["n.","【语言学】词尾加“n”"],"pos":[],"exchange":[],"examples":[],"phonetic":"nʌ'neiʃən"}
 {"word":"Nunatsiavut","sw":"nunatsiavut","definition":[],"translation":["[网络] 努纳武特；努纳西亚伏"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nunatukavut","sw":"nunatukavut","definition":["Nunatukavut","Inuit territory in Canada encompassing Southern Labrador, from the Churchill River, South to Lodge Bay and West to the extent of the official border between Quebec and Labrador.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nunatukavut","sw":"nunatukavut","definition":["Nunatukavut","Inuit territory in Canada encompassing Southern Labrador, from the Churchill River, South to Lodge Bay and West to the extent of the official border between Quebec and Labrador."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nunavik","sw":"nunavik","definition":[],"translation":["[网络] 努纳维克；努拿维克；拿大努纳维克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nunavimmiut","sw":"nunavimmiut","definition":["Nunavimmiut","A person from Nunavik.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nunavummiuq","sw":"nunavummiuq","definition":["Nunavummiuq (plural Nunavummiut)","A person from Nunavut.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nunavummiut","sw":"nunavummiut","definition":["Nunavummiut","plural of Nunavummiuq",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nunavimmiut","sw":"nunavimmiut","definition":["Nunavimmiut","A person from Nunavik."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nunavummiuq","sw":"nunavummiuq","definition":["Nunavummiuq (plural Nunavummiut)","A person from Nunavut."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nunavummiut","sw":"nunavummiut","definition":["Nunavummiut","plural of Nunavummiuq"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nunavut","sw":"nunavut","definition":["n. an Arctic territory in northern Canada created in 1999 and governed solely by the Inuit; includes the eastern part of what was the Northwest Territories and most of the islands of the Arctic Archipelago"],"translation":["n. 努勒维特（位于加拿大）"],"pos":[],"exchange":["s:nunavuts"],"examples":[],"phonetic":"nu:'nə'vu:t"}
 {"word":"nunavuts","sw":"nunavuts","definition":[],"translation":["n. 努勒维特（位于加拿大）","(nunavut 的复数)"],"pos":[],"exchange":["0:nunavut","1:s"],"examples":[],"phonetic":""}
 {"word":"nunawading","sw":"nunawading","definition":[],"translation":["[网络] 纽纳瓦丁；南得瓦丁；澳大利亚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -646,7 +646,7 @@
 {"word":"nunez","sw":"nunez","definition":[],"translation":["努涅斯（人名）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nung","sw":"nung","definition":[],"translation":["[网络] 侬族；但愿人长久；农"],"pos":[],"exchange":["s:nungs"],"examples":[],"phonetic":""}
 {"word":"Nung-ni","sw":"nungni","definition":[],"translation":["陵里"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nunga","sw":"nunga","definition":["nungas are boobs. as said in a vair fun book.","> an older brother said that when you pull on one it bounces and makes the noise \"nunga nunga nunga\". this is the true origin. although, it may not be so true in itself.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nunga","sw":"nunga","definition":["nungas are boobs. as said in a vair fun book.","> an older brother said that when you pull on one it bounces and makes the noise \"nunga nunga nunga\". this is the true origin. although, it may not be so true in itself."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nungarin","sw":"nungarin","definition":[],"translation":["[地名] 楠加林 ( 澳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nungas","sw":"nungas","definition":[],"translation":["[网络] 恩加斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nungba","sw":"nungba","definition":[],"translation":["[地名] 农巴 ( 印 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -695,9 +695,9 @@
 {"word":"nunnery","sw":"nunnery","definition":["n. the convent of a community of nuns"],"translation":["n. 女修道院, 尼姑庵"],"pos":["n:100"],"exchange":["s:nunneries"],"examples":[],"phonetic":"'nʌnәri"}
 {"word":"nunnery school","sw":"nunneryschool","definition":[],"translation":["修女学校"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nunney","sw":"nunney","definition":[],"translation":["[网络] 游英格兰西南部纳尼；游英格兰纳尼；马游英国之纳尼村纳尼城堡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nunnies","sw":"nunnies","definition":["Pussy, vagina.","> Did you see the photo of Britney Spears going commando? You could see her nunny!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nunnies","sw":"nunnies","definition":["Pussy, vagina.","> Did you see the photo of Britney Spears going commando? You could see her nunny!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nunning","sw":"nunning","definition":[],"translation":["[网络] 叙事学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nunnish","sw":"nunnish","definition":["nunnish (comparative more nunnish, superlative most nunnish)","Of, pertaining to, or resembling a nun.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nunnish","sw":"nunnish","definition":["nunnish (comparative more nunnish, superlative most nunnish)","Of, pertaining to, or resembling a nun."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nunno","sw":"nunno","definition":[],"translation":["[人名] 农诺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nunns","sw":"nunns","definition":[],"translation":["[人名] [英格兰人姓氏] 纳恩斯取自父名，来源于Nunn,含义是“纳恩之子”(son of Nunn)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nunny","sw":"nunny","definition":[],"translation":["[网络] 纳尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -849,7 +849,7 @@
 {"word":"nuptual","sw":"nuptual","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nupur","sw":"nupur","definition":[],"translation":["[网络] 诺普尔；女子诺普尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuqrah","sw":"nuqrah","definition":[],"translation":["[地名] 努格拉 ( 沙特 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nuqta","sw":"nuqta","definition":["nuqta (plural nuqta)","A diacritic used in the Devanagari script to describe modern sounds borrowed from languages not native to Devanagari, mainly Urdu (Arabic, Farsi) and English.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nuqta","sw":"nuqta","definition":["nuqta (plural nuqta)","A diacritic used in the Devanagari script to describe modern sounds borrowed from languages not native to Devanagari, mainly Urdu (Arabic, Farsi) and English."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuque","sw":"nuque","definition":[],"translation":["n. 项, 颈背"],"pos":[],"exchange":[],"examples":[],"phonetic":"nu:k, nju:k"}
 {"word":"Nuqui","sw":"nuqui","definition":[],"translation":["奴基"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nur","sw":"nur","definition":["n. A hard knot in wood; also, a hard knob of wood used by boys in","playing hockey."],"translation":["abbr. 全国铁路工人联合会（National Union of Railwaymen）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -970,8 +970,8 @@
 {"word":"nurotyl","sw":"nurotyl","definition":[],"translation":["三氟乙醚,双三氟乙基醚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuroz","sw":"nuroz","definition":[],"translation":["聚合木松香"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nju:rɔz"}
 {"word":"NURP","sw":"nurp","definition":[],"translation":["[网络] 城市径流计划；研究计划；塞入"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nurple","sw":"nurple","definition":["Forceful pressure applied to one's nipple by another living thing.  Varieties of nurples are defined by the color of the skin surrounding the areola post-nurple, the ideal post-nurple coloration being violet; hence, 'purple nurple.'","> Popping out of the shadows, he deftly clamped his thumb and forefinger down upon Dave's nipple- a purple nurple had been administered.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nurples","sw":"nurples","definition":["Forceful pressure applied to one's nipple by another living thing.  Varieties of nurples are defined by the color of the skin surrounding the areola post-nurple, the ideal post-nurple coloration being violet; hence, 'purple nurple.'","> Popping out of the shadows, he deftly clamped his thumb and forefinger down upon Dave's nipple- a purple nurple had been administered.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nurple","sw":"nurple","definition":["Forceful pressure applied to one's nipple by another living thing.  Varieties of nurples are defined by the color of the skin surrounding the areola post-nurple, the ideal post-nurple coloration being violet; hence, 'purple nurple.'","> Popping out of the shadows, he deftly clamped his thumb and forefinger down upon Dave's nipple- a purple nurple had been administered."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nurples","sw":"nurples","definition":["Forceful pressure applied to one's nipple by another living thing.  Varieties of nurples are defined by the color of the skin surrounding the areola post-nurple, the ideal post-nurple coloration being violet; hence, 'purple nurple.'","> Popping out of the shadows, he deftly clamped his thumb and forefinger down upon Dave's nipple- a purple nurple had been administered."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nurpur","sw":"nurpur","definition":[],"translation":["[地名] 努尔布尔 ( 巴基、孟、印 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nurr","sw":"nurr","definition":[],"translation":["[网络] 护士"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nurri","sw":"nurri","definition":[],"translation":["[地名] 努里 ( 意 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1183,7 +1183,7 @@
 {"word":"nursies","sw":"nursies","definition":[],"translation":["[网络] 护理"],"pos":[],"exchange":["0:nursie","1:s"],"examples":[],"phonetic":""}
 {"word":"nursimycin","sw":"nursimycin","definition":[],"translation":["[化] 诺尔斯霉素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nursing","sw":"nursing","definition":["n. the work of caring for the sick or injured or infirm","n. the profession of a nurse","n. nourishing at the breast"],"translation":["n. 看护, 养育","[医] 护理[法], 喂乳[法]"],"pos":["j:48","n:52"],"exchange":["0:nurse","1:i","s:nursings"],"examples":["Nursing mothers are advised to eat plenty of leafy green vegetables.","She studied nursing at Garfield Hospital.","Nursing is preferable to bottle-feeding in most cases.","She studied nursing at Northwestern University."],"phonetic":"ˈnɜːsɪŋ|ˈnɜːrsɪŋ"}
-{"word":"nursing a semi","sw":"nursingasemi","definition":["when a man gets half exciited. not a full boner, but he is nearly there.","> Man, i was nursing a semi when that chic got out of the pool",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nursing a semi","sw":"nursingasemi","definition":["when a man gets half exciited. not a full boner, but he is nearly there.","> Man, i was nursing a semi when that chic got out of the pool"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nursing aesthetics","sw":"nursingaesthetics","definition":[],"translation":["护理美学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nursing aid","sw":"nursingaid","definition":[],"translation":["[网络] 护士助理；护工；助产女护士助理"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nursing aide","sw":"nursingaide","definition":[],"translation":["[网络] 看护助手；护士助理；护理"],"pos":[],"exchange":["s:nursing aides"],"examples":[],"phonetic":""}
@@ -1306,7 +1306,7 @@
 {"word":"nusa tenggaras","sw":"nusatenggaras","definition":[],"translation":["Nusa Tenggara","['nu:sɑ:teŋ'ɡɑ:rə]","努沙登加拉群岛(即小巽他群岛，位于东南亚)"],"pos":[],"exchange":["0:nusa tenggara","1:s"],"examples":[],"phonetic":"'nu:sɑ:teŋ'ɡɑ:rə"}
 {"word":"nusance","sw":"nusance","definition":[],"translation":["[网络] 坏事"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nusantara","sw":"nusantara","definition":[],"translation":["[网络] 马来世界；马来群岛；努山塔拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nusas","sw":"nusas","definition":["An exotic yet intimidating woman of Croatian origin, who has a severe (almost obsessive-compulsive) fondness of horses. In fact, it is generally accepted that this 'fondness' is actually a fetish.","","However, Nuša - being Croatian - is exotic. She possesses an athletic, curvey body that drives men and women alike absolutely crazy. You'd just love for her to pull you into bed, trust me.","> Guy 1: Im dating a Nuša","> Guy 2: Lucky m*therfucker! I'd love to date one too, minus the horse fetish.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nusas","sw":"nusas","definition":["An exotic yet intimidating woman of Croatian origin, who has a severe (almost obsessive-compulsive) fondness of horses. In fact, it is generally accepted that this 'fondness' is actually a fetish.","","However, Nuša - being Croatian - is exotic. She possesses an athletic, curvey body that drives men and women alike absolutely crazy. You'd just love for her to pull you into bed, trust me.","> Guy 1: Im dating a Nuša","> Guy 2: Lucky m*therfucker! I'd love to date one too, minus the horse fetish."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nusaybin","sw":"nusaybin","definition":[],"translation":["n.努赛宾(在土耳其；东经 41º11' 北纬 37º05')"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nusayri","sw":"nusayri","definition":[],"translation":["[网络] 当纳地区的鲁沙瑞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nusayris","sw":"nusayris","definition":[],"translation":["[网络] 奴赛瑞；努萨里派"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1336,7 +1336,7 @@
 {"word":"nuskus","sw":"nuskus","definition":[],"translation":["[网络] 努斯库；努斯库神；古神","(nusku 的复数)"],"pos":[],"exchange":["0:nusku","1:s"],"examples":[],"phonetic":""}
 {"word":"NUSL","sw":"nusl","definition":[],"translation":["Navy Underwater Sound Laboratory 海军水下声音实验室"],"pos":[],"exchange":[],"examples":[],"phonetic":"3"}
 {"word":"nusle","sw":"nusle","definition":[],"translation":["[网络] 麻烦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nusmir","sw":"nusmir","definition":["Nusmir","A male given name",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nusmir","sw":"nusmir","definition":["Nusmir","A male given name"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nusplingen","sw":"nusplingen","definition":[],"translation":["[地名] 努斯普林根 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nusrat","sw":"nusrat","definition":[],"translation":["[网络] 恩斯拉特"],"pos":[],"exchange":["s:nusrats"],"examples":[],"phonetic":""}
 {"word":"Nusratiye","sw":"nusratiye","definition":[],"translation":["[地名] 努斯拉蒂耶 ( 土 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1443,9 +1443,9 @@
 {"word":"nut hatch","sw":"nuthatch","definition":[],"translation":["n. 五子雀"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌthætʃ"}
 {"word":"nut house","sw":"nuthouse","definition":[],"translation":["[俚语]精神病院，疯人院[亦作 nuthouse]"],"pos":[],"exchange":["s:nut houses"],"examples":[],"phonetic":"nʌt haus"}
 {"word":"nut houses","sw":"nuthouses","definition":[],"translation":["[俚语]精神病院，疯人院[亦作 nuthouse]"],"pos":[],"exchange":["0:nut house","1:s"],"examples":[],"phonetic":""}
-{"word":"nut huggers","sw":"nuthuggers","definition":["an individual who worships another individual; mark, fanboy/fangirl.","> tito nuthuggers, you know the boy is bitch.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut hut","sw":"nuthut","definition":["Slang for mental hospital.","> Tommy threatened to kill himself, so they put him in the nut hut for two weeks.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut huts","sw":"nuthuts","definition":["Slang for mental hospital.","> Tommy threatened to kill himself, so they put him in the nut hut for two weeks.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut huggers","sw":"nuthuggers","definition":["an individual who worships another individual; mark, fanboy/fangirl.","> tito nuthuggers, you know the boy is bitch."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut hut","sw":"nuthut","definition":["Slang for mental hospital.","> Tommy threatened to kill himself, so they put him in the nut hut for two weeks."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut huts","sw":"nuthuts","definition":["Slang for mental hospital.","> Tommy threatened to kill himself, so they put him in the nut hut for two weeks."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut ice cream","sw":"nuticecream","definition":[],"translation":["un. 坚果仁冰淇淋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut job","sw":"nutjob","definition":[],"translation":["[网络] 唠叨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut jobs","sw":"nutjobs","definition":[],"translation":["[网络] 蠢货"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1473,7 +1473,7 @@
 {"word":"nut palm","sw":"nutpalm","definition":[],"translation":["【植物】澳洲苏铁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut parting","sw":"nutparting","definition":[],"translation":["果壳分型粉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut paste","sw":"nutpaste","definition":[],"translation":["坚果仁糊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut pastes","sw":"nutpastes","definition":["the thick clear( sometimes white) pastie substance that forms on your balls when you dont wash them for days...","gets especially thicker if you dont wash after sex","> \" o man i need to take a shower so bad, i have nut paste starting to form..\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut pastes","sw":"nutpastes","definition":["the thick clear( sometimes white) pastie substance that forms on your balls when you dont wash them for days...","gets especially thicker if you dont wash after sex","> \" o man i need to take a shower so bad, i have nut paste starting to form..\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut piercing","sw":"nutpiercing","definition":[],"translation":["螺母冲孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut pine","sw":"nutpine","definition":[],"translation":["瑞士五针松"],"pos":[],"exchange":["s:nut pines"],"examples":[],"phonetic":"nʌt pain"}
 {"word":"nut pines","sw":"nutpines","definition":[],"translation":["nut pine","【植物】","北美单针松 (Pinus monophylla)","食松 (Pinus edulis)"],"pos":[],"exchange":["0:nut pine","1:s"],"examples":[],"phonetic":""}
@@ -1490,7 +1490,7 @@
 {"word":"nut rolls","sw":"nutrolls","definition":[],"translation":["[网络] 坚果卷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut runner","sw":"nutrunner","definition":[],"translation":["螺帽扳手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut sack","sw":"nutsack","definition":[],"translation":["[网络] 紧身裤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut sacks","sw":"nutsacks","definition":["1. important piece of male genitals that holds and protects the inner testes","2. a stupid fucker who does or says dumb shit and will not stop","> 1. Mother, once you are through with dinner, will you please wash my nutsack?","> 2. Mother, that kid Timmy is a frickin' nutsack.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut sacks","sw":"nutsacks","definition":["1. important piece of male genitals that holds and protects the inner testes","2. a stupid fucker who does or says dumb shit and will not stop","> 1. Mother, once you are through with dinner, will you please wash my nutsack?","> 2. Mother, that kid Timmy is a frickin' nutsack."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut screw","sw":"nutscrew","definition":[],"translation":["螺母"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut seat","sw":"nutseat","definition":[],"translation":["螺母支承面"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut sedge","sw":"nutsedge","definition":[],"translation":["[网络] 坚果薹"],"pos":[],"exchange":["s:nut sedges"],"examples":[],"phonetic":""}
@@ -1533,10 +1533,10 @@
 {"word":"nut-houses","sw":"nuthouses","definition":[],"translation":["n. 精神病院"],"pos":[],"exchange":["0:nut-house","1:s"],"examples":[],"phonetic":"'nʌthaʊs"}
 {"word":"nut-job","sw":"nutjob","definition":[],"translation":["[网络] 唠叨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut-oil","sw":"nutoil","definition":[],"translation":["na. 坚果油；核桃油；桐油","[网络] 胡桃油；核果油；冷压澳洲坚"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut-pick","sw":"nutpick","definition":["Similar to nitpicking, except the person doing so is completely insane. This is often done by various conspiracy theorists, such as [Teahadist]s, [Westboro Baptist Church], and those who watch [Ancient Aliens] without irony. Nutpickers are occasionally a source of lulz, but they're mostly just the Internet's answer to a [sewage fart].","> That tattooed asshole is nutpicking the Bible again. Someone take it away from him before he hurts himself.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut-pick","sw":"nutpick","definition":["Similar to nitpicking, except the person doing so is completely insane. This is often done by various conspiracy theorists, such as [Teahadist]s, [Westboro Baptist Church], and those who watch [Ancient Aliens] without irony. Nutpickers are occasionally a source of lulz, but they're mostly just the Internet's answer to a [sewage fart].","> That tattooed asshole is nutpicking the Bible again. Someone take it away from him before he hurts himself."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut-piercing","sw":"nutpiercing","definition":[],"translation":["un. 螺母冲孔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut-roll","sw":"nutroll","definition":["Something poorly executed or designed.","> We went to the show, but it was just a nutroll - nobody knew where to go, what was going on, or who was running it.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nut-rolls","sw":"nutrolls","definition":["Something poorly executed or designed.","> We went to the show, but it was just a nutroll - nobody knew where to go, what was going on, or who was running it.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut-roll","sw":"nutroll","definition":["Something poorly executed or designed.","> We went to the show, but it was just a nutroll - nobody knew where to go, what was going on, or who was running it."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nut-rolls","sw":"nutrolls","definition":["Something poorly executed or designed.","> We went to the show, but it was just a nutroll - nobody knew where to go, what was going on, or who was running it."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut-runner","sw":"nutrunner","definition":[],"translation":["上螺母器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nut-Sack","sw":"nutsack","definition":[],"translation":["[网络] 紧身裤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nut-shell","sw":"nutshell","definition":[],"translation":["[网络] 坚果壳；山核桃壳；水果皮帽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1632,7 +1632,7 @@
 {"word":"nutella","sw":"nutella","definition":[],"translation":["n. 能多益（巧克力酱品牌）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutelness","sw":"nutelness","definition":[],"translation":["[网络] 坚果"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutes","sw":"nutes","definition":[],"translation":["n. 纽特（男子名）"],"pos":[],"exchange":["0:nute","1:s"],"examples":[],"phonetic":""}
-{"word":"nutfarm","sw":"nutfarm","definition":["nutfarm (plural nutfarms)","(informal) An insane asylum.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nutfarm","sw":"nutfarm","definition":["nutfarm (plural nutfarms)","(informal) An insane asylum."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutfield","sw":"nutfield","definition":[],"translation":["[网络] 德希尔"],"pos":[],"exchange":["s:nutfields"],"examples":[],"phonetic":""}
 {"word":"nutfields","sw":"nutfields","definition":[],"translation":["[网络] 瑙菲"],"pos":[],"exchange":["0:nutfield","1:s"],"examples":[],"phonetic":""}
 {"word":"nutgall","sw":"nutgall","definition":["n. A more or less round gall resembling a nut, esp. one of","those produced on the oak and used in the arts. See Gall, Gallnut."],"translation":["n. 核果瘤","[化] ┢子; 五倍子"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌtgɒ:l"}
@@ -1643,7 +1643,7 @@
 {"word":"nutgrass","sw":"nutgrass","definition":[],"translation":["un. 香附子","[网络] 莎草"],"pos":[],"exchange":["s:nutgrasses"],"examples":[],"phonetic":""}
 {"word":"nutgrasses","sw":"nutgrasses","definition":[],"translation":["[网络] 丁香草"],"pos":[],"exchange":["0:nutgrass","1:s"],"examples":[],"phonetic":""}
 {"word":"nuth","sw":"nuth","definition":[],"translation":["[地名] [荷兰] 尼特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nuthacker","sw":"nuthacker","definition":["nuthacker (plural nuthackers)","(zoology) The nuthatch.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nuthacker","sw":"nuthacker","definition":["nuthacker (plural nuthackers)","(zoology) The nuthatch."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuthacks","sw":"nuthacks","definition":[],"translation":["[网络] 口口味"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuthall","sw":"nuthall","definition":[],"translation":["[人名] [英格兰人姓氏] 纳托尔 Nuttall的变体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuthatch","sw":"nuthatch","definition":["n. any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects"],"translation":["n. [鸟]五子雀"],"pos":["n:100"],"exchange":["s:nuthatches"],"examples":[],"phonetic":"'nʌthætʃ"}
@@ -1757,7 +1757,7 @@
 {"word":"nutria rat","sw":"nutriarat","definition":[],"translation":["[网络] 海狸鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutria rats","sw":"nutriarats","definition":[],"translation":["[网络] 坚果大鼠"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutrias","sw":"nutrias","definition":[],"translation":["n. (南美)海狸鼠；海狸鼠毛皮","[网络] 努特里亚斯；努特里亚斯港"],"pos":[],"exchange":["0:nutria","1:s"],"examples":[],"phonetic":""}
-{"word":"nutriate","sw":"nutriate","definition":["nutriate (third-person singular simple present nutriates, present participle nutriating, simple past and past participle nutriated)","(transitive, rare) To supply with nutrients.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nutriate","sw":"nutriate","definition":["nutriate (third-person singular simple present nutriates, present participle nutriating, simple past and past participle nutriated)","(transitive, rare) To supply with nutrients."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutribility","sw":"nutribility","definition":[],"translation":["[网络] 营养不良"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutrible","sw":"nutrible","definition":[],"translation":["[网络] 坚果"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutrication","sw":"nutrication","definition":[],"translation":["[网络] 营养"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2185,8 +2185,8 @@
 {"word":"nutsy","sw":"nutsy","definition":[],"translation":["a. <口>痴狂的,发疯的,发狂的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌtsi"}
 {"word":"nutt","sw":"nutt","definition":[],"translation":["[人名] [英格兰人姓氏] 纳特职业名称，采集并销售坚果者，或绰号，来源于中世纪英语，含义是“坚果”(nut); [地名] [美国] 纳特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutta","sw":"nutta","definition":[],"translation":["[网络] 娜塔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nuttah","sw":"nuttah","definition":["It wasnt me","> well Bloke deffo Nuttah",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nuttahs","sw":"nuttahs","definition":["It wasnt me","> well Bloke deffo Nuttah",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nuttah","sw":"nuttah","definition":["It wasnt me","> well Bloke deffo Nuttah"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nuttahs","sw":"nuttahs","definition":["It wasnt me","> well Bloke deffo Nuttah"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuttal","sw":"nuttal","definition":[],"translation":["[地名] 努德尔 ( 巴基 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuttal test","sw":"nuttaltest","definition":[],"translation":["托尔试验(绝缘油试验)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuttall","sw":"nuttall","definition":[],"translation":["n. (Nuttall)人名；(英)纳托尔","纳托尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2204,7 +2204,7 @@
 {"word":"nutte","sw":"nutte","definition":[],"translation":["[网络] 骂某女为婊子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutted","sw":"nutted","definition":["v gather nuts"],"translation":["a. 用螺帽固定的"],"pos":[],"exchange":["1:pd","0:nut"],"examples":[],"phonetic":"'nʌtid"}
 {"word":"nutted rod","sw":"nuttedrod","definition":[],"translation":["拉杆,张紧杆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nutted up","sw":"nuttedup","definition":["Freaked out. Stressed. Going a little crazy","> I am sooo nutted up about this interview.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nutted up","sw":"nuttedup","definition":["Freaked out. Stressed. Going a little crazy","> I am sooo nutted up about this interview."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutten","sw":"nutten","definition":[],"translation":["[网络] 营养"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutter","sw":"nutter","definition":["n. a person who is regarded as eccentric or mad"],"translation":["n. 疯子；拾坚果的人"],"pos":["n:100"],"exchange":["s:nutters"],"examples":[],"phonetic":"'nʌtә"}
 {"word":"Nutter float valve","sw":"nutterfloatvalve","definition":[],"translation":["条状浮阀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2222,13 +2222,13 @@
 {"word":"Nutting","sw":"nutting","definition":["v gather nuts"],"translation":["采拾坚果"],"pos":[],"exchange":["0:nut","1:i","s:nuttings"],"examples":[],"phonetic":"'nʌtiŋ"}
 {"word":"nutting truck","sw":"nuttingtruck","definition":[],"translation":["[网络] 螺母车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutting trucks","sw":"nuttingtrucks","definition":[],"translation":["[网络] 螺母卡车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nutting up","sw":"nuttingup","definition":["Losing one's ability to control excitement.","> My dog is nutting up because I just got home.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nutting up","sw":"nuttingup","definition":["Losing one's ability to control excitement.","> My dog is nutting up because I just got home."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuttings","sw":"nuttings","definition":[],"translation":["n. 采拾坚果；上螺母","v. 采坚果（nut的ing形式）"],"pos":[],"exchange":["0:nutting","1:s"],"examples":[],"phonetic":"'nʌtɪŋ"}
 {"word":"nuttish","sw":"nuttish","definition":[],"translation":["[网络] 肉馅饼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuttle","sw":"nuttle","definition":[],"translation":["[人名] 纳特尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuttree","sw":"nuttree","definition":[],"translation":["坚果树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutts","sw":"nutts","definition":[],"translation":["[网络] 拖曳水池会议"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nuttso","sw":"nuttso","definition":["Something so crazy, it makes you just want to say \"fuck this! I'm out of here!\"","> This English homework is fuckin' Nuttso! lets just fuck it and go get high.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nuttso","sw":"nuttso","definition":["Something so crazy, it makes you just want to say \"fuck this! I'm out of here!\"","> This English homework is fuckin' Nuttso! lets just fuck it and go get high."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutty","sw":"nutty","definition":["s. having the flavor of nuts"],"translation":["a. 产坚果的"],"pos":["j:100"],"exchange":["s:nutties"],"examples":[],"phonetic":"'nʌti"}
 {"word":"nutty as a fruit cake","sw":"nuttyasafruitcake","definition":[],"translation":["[网络] 有点疯狂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nutty as a fruitcake","sw":"nuttyasafruitcake","definition":[],"translation":["[网络] 有点疯狂；有坚果的水果蛋糕；神经兮兮的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2336,7 +2336,7 @@
 {"word":"nuz","sw":"nuz","definition":[],"translation":["[网络] 镐掓棌；镓浆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuzhenide","sw":"nuzhenide","definition":[],"translation":["女贞子甙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuzi","sw":"nuzi","definition":[],"translation":["n. (Nuzi)人名；(意)努齐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nuzian","sw":"nuzian","definition":["Nuzian (comparative more Nuzian, superlative most Nuzian)","Of or relating to the ancient Mesopotamian city of Nuzi.","","","Nuzian (plural Nuzians)","A native or inhabitant of Nuzi.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nuzian","sw":"nuzian","definition":["Nuzian (comparative more Nuzian, superlative most Nuzian)","Of or relating to the ancient Mesopotamian city of Nuzi.","","","Nuzian (plural Nuzians)","A native or inhabitant of Nuzi."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuzu","sw":"nuzu","definition":[],"translation":["[网络] 胡里安人的古城奴朱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nuzum","sw":"nuzum","definition":[],"translation":["[人名] 纽祖姆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nuzzer","sw":"nuzzer","definition":[],"translation":["<兴都斯坦语> n.(尤指进见时的)礼物, 贡品"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nʌzә(r)"}
@@ -2509,7 +2509,7 @@
 {"word":"ny-g","sw":"nyg","definition":[],"translation":["[网络] 钢绞线用耐张线夹压缩型"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nya","sw":"nya","definition":[],"translation":["abbr. not yet answer 尚未回答，尚未答复"],"pos":[],"exchange":["s:nyas"],"examples":[],"phonetic":""}
 {"word":"Nyabing","sw":"nyabing","definition":[],"translation":["[地名] 奈厄宾 ( 澳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nyabingi","sw":"nyabingi","definition":["death to the oppressors, be they black or white.","(from jamaica)","> See you in hell nyabingi!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nyabingi","sw":"nyabingi","definition":["death to the oppressors, be they black or white.","(from jamaica)","> See you in hell nyabingi!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyabirongo","sw":"nyabirongo","definition":[],"translation":["[地名] 尼亚比龙戈 ( 乌干 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyabisindu","sw":"nyabisindu","definition":[],"translation":["[地名] 尼亚比辛杜 ( 卢旺 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyabogati","sw":"nyabogati","definition":[],"translation":["[地名] 尼亚博加蒂 ( 坦桑 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2527,7 +2527,7 @@
 {"word":"nyagua","sw":"nyagua","definition":[],"translation":["[网络] 尼亚瓜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyah","sw":"nyah","definition":[],"translation":["[网络] 纳娅；自由；尼雅"],"pos":[],"exchange":["s:nyahs"],"examples":[],"phonetic":""}
 {"word":"Nyah West","sw":"nyahwest","definition":[],"translation":["[地名] 西奈厄 ( 澳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nyah-nyah","sw":"nyahnyah","definition":["Usually shouted when angry. Great for sarcasm","> Nyah nyah! That freakin [chachi] stole my wallet!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nyah-nyah","sw":"nyahnyah","definition":["Usually shouted when angry. Great for sarcasm","> Nyah nyah! That freakin [chachi] stole my wallet!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyahanga","sw":"nyahanga","definition":[],"translation":["[地名] 尼亚汉加 ( 坦桑 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyahs","sw":"nyahs","definition":[],"translation":["[网络] 纳娅；自由；尼雅","(nyah 的复数)"],"pos":[],"exchange":["0:nyah","1:s"],"examples":[],"phonetic":""}
 {"word":"Nyahua","sw":"nyahua","definition":[],"translation":["[地名] 尼亚胡阿 ( 坦桑 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3123,7 +3123,7 @@
 {"word":"nymphet","sw":"nymphet","definition":["n. a sexually attractive young woman"],"translation":["n. 早熟的少女；放荡的少妇；仙女般的少女"],"pos":["n:100"],"exchange":["s:nymphets"],"examples":[],"phonetic":"'nimfit. nim'fet"}
 {"word":"nymphetic","sw":"nymphetic","definition":[],"translation":["adj. 进入青春期的"],"pos":[],"exchange":[],"examples":[],"phonetic":"nɪm'fetɪk"}
 {"word":"nymphets","sw":"nymphets","definition":["plural of nymphet","n. a sexually attractive young woman"],"translation":["(nymphet 的复数) n. 早熟的少女；放荡的少妇；仙女般的少女"],"pos":[],"exchange":["0:nymphet","1:s3"],"examples":[],"phonetic":""}
-{"word":"nymphette","sw":"nymphette","definition":["A sexy young (usually underage) girl.  Typically dirty old men like the young ones.","> -\"Miley is hot!  She really is a nymphette and you know how I roll; if there is grass on the field, play ball!\"","> -\"I am going to have to register as a sex offender because I have a problem with these nymphettes.\"","> -\"I can't search for nymphette at work anymore because they caught me last week and I already have 2 warnings.\"",""],"translation":[],"pos":[],"exchange":["s:nymphettes"],"examples":[],"phonetic":""}
+{"word":"nymphette","sw":"nymphette","definition":["A sexy young (usually underage) girl.  Typically dirty old men like the young ones.","> -\"Miley is hot!  She really is a nymphette and you know how I roll; if there is grass on the field, play ball!\"","> -\"I am going to have to register as a sex offender because I have a problem with these nymphettes.\"","> -\"I can't search for nymphette at work anymore because they caught me last week and I already have 2 warnings.\""],"translation":[],"pos":[],"exchange":["s:nymphettes"],"examples":[],"phonetic":""}
 {"word":"nymphettes","sw":"nymphettes","definition":[],"translation":["A sexy young (usually underage) girl.  Typically dirty old men like the young ones.","> -\"Miley is hot!  She really is a nymphette and you know how I roll; if there is grass on the field, play ball!\"","> -\"I am going to have to register as a sex offender because I have a problem with these nymphettes.\"","> -\"I can't search for nymphette at work anymore because they caught me last week and I already have 2 warnings.\"","","(nymphette 的复数)"],"pos":[],"exchange":["0:nymphette","1:s"],"examples":[],"phonetic":""}
 {"word":"nymphic","sw":"nymphic","definition":[],"translation":["[网络] 若虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nymphical","sw":"nymphical","definition":[],"translation":["[网络] ical"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3197,8 +3197,8 @@
 {"word":"Nymphulinae","sw":"nymphulinae","definition":[],"translation":["水螟亚科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nymplex","sw":"nymplex","definition":[],"translation":["[荷]尼姆普莱克斯(聚乙烯纤维)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'nimpleks"}
 {"word":"nyms","sw":"nyms","definition":[],"translation":["[网络] 名字；发展你的心智(Nurture Your Mind)；尼姆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nymshift","sw":"nymshift","definition":["nymshift (third-person singular simple present nymshifts, present participle nymshifting, simple past and past participle nymshifted)","(Internet, often derogatory) To change one's pseudonym so as to appear to be posting messages as an unrelated user.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nymshifter","sw":"nymshifter","definition":["nymshifter (plural nymshifters)","(Internet, often derogatory) One who deceptively posts messages under several different pseudonyms.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nymshift","sw":"nymshift","definition":["nymshift (third-person singular simple present nymshifts, present participle nymshifting, simple past and past participle nymshifted)","(Internet, often derogatory) To change one's pseudonym so as to appear to be posting messages as an unrelated user."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nymshifter","sw":"nymshifter","definition":["nymshifter (plural nymshifters)","(Internet, often derogatory) One who deceptively posts messages under several different pseudonyms."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nymwars","sw":"nymwars","definition":[],"translation":["[网络] 骗子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nymwegen","sw":"nymwegen","definition":[],"translation":["[网络] 纳梅亨；威根"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nymyl","sw":"nymyl","definition":[],"translation":["[网络] 女yl"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3236,7 +3236,7 @@
 {"word":"nyos-lake","sw":"nyoslake","definition":[],"translation":["[网络] 尼奥斯湖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyotaimori","sw":"nyotaimori","definition":[],"translation":["[网络] 女体盛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyotran","sw":"nyotran","definition":[],"translation":["制霉菌素脂质体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"nyoung","sw":"nyoung","definition":["Having \"feelings\" for your sister's friend's mom. Nearly against the law- BUT NOT ENTIRELY!","> My brother is going nyoung on your mom!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"nyoung","sw":"nyoung","definition":["Having \"feelings\" for your sister's friend's mom. Nearly against the law- BUT NOT ENTIRELY!","> My brother is going nyoung on your mom!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"NYP","sw":"nyp","definition":[],"translation":["abbr. not yet published 尚未出版"],"pos":[],"exchange":["s:nyps"],"examples":[],"phonetic":""}
 {"word":"Nypa","sw":"nypa","definition":[],"translation":["[网络] 纽约电力局(New York Power Authority)；水椰属；纽约电力管理局"],"pos":[],"exchange":["s:nypas"],"examples":[],"phonetic":""}
 {"word":"Nypa fruticans","sw":"nypafruticans","definition":[],"translation":["[网络] 水椰；尼帕棕榈；水椰子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3422,7 +3422,7 @@
 {"word":"Nyula","sw":"nyula","definition":[],"translation":["[网络] 狃拉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyum Nyum","sw":"nyumnyum","definition":[],"translation":["[地名] 纽姆纽姆 ( 苏丹 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyumbani","sw":"nyumbani","definition":[],"translation":["[网络] 纽姆巴尼；奈姆巴尼；纽巴尼儿童之家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Nyunga","sw":"nyunga","definition":["Nyunga","An indigenous people of southwestern Australia","The common language of an indigenous people of southwestern Australia","","","Nyunga (comparative more Nyunga, superlative most Nyunga)","Pertaining to and/or describing either the language, persons or culture of the Nyunga people",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Nyunga","sw":"nyunga","definition":["Nyunga","An indigenous people of southwestern Australia","The common language of an indigenous people of southwestern Australia","","","Nyunga (comparative more Nyunga, superlative most Nyunga)","Pertaining to and/or describing either the language, persons or culture of the Nyunga people"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Nyungar","sw":"nyungar","definition":[],"translation":["[网络] 澳洲尼云格；农牙族"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyungwe","sw":"nyungwe","definition":[],"translation":["[网络] 纽恩威；尼温圭；纽格威国家公园"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"nyunt","sw":"nyunt","definition":[],"translation":["纽"],"pos":[],"exchange":["s:nyunts"],"examples":[],"phonetic":""}
@@ -3530,7 +3530,7 @@
 {"word":"O Castro","sw":"ocastro","definition":[],"translation":["[地名] 奥卡斯特罗 ( 西 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"o caudata","sw":"ocaudata","definition":[],"translation":["[网络] 有尾目"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O Chamna","sw":"ochamna","definition":[],"translation":["[地名] 奥仲纳 ( 柬 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"O chem","sw":"ochem","definition":["The second worst course in chemistry only to biochem. Full of lots of useless chemical reactions focusing on carbon containing compounds and making new carbon carbon bonds! Beware of gay professors that try to make retarded jokes to ease your pain!","> Matt: That ochem exam was brutal","> Tim: I know the class average was 67%",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"O chem","sw":"ochem","definition":["The second worst course in chemistry only to biochem. Full of lots of useless chemical reactions focusing on carbon containing compounds and making new carbon carbon bonds! Beware of gay professors that try to make retarded jokes to ease your pain!","> Matt: That ochem exam was brutal","> Tim: I know the class average was 67%"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O Chreou","sw":"ochreou","definition":[],"translation":["[地名] 奥芝劳 ( 柬 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O clip","sw":"oclip","definition":[],"translation":["[网络] O剪辑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O colony","sw":"ocolony","definition":[],"translation":["[医] O菌落(不动型菌落)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3539,7 +3539,7 @@
 {"word":"O display","sw":"odisplay","definition":[],"translation":["【电子学】 O 型显示"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O Du","sw":"odu","definition":[],"translation":["abbr. Old Dutch"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O electron","sw":"oelectron","definition":[],"translation":["【原子物理学】 O 电子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"o face","sw":"oface","definition":["The face made while banging the chick from logistics.","> I taking this chick from logistics. If things go well tonight she will be seeing my o-face. o-o-o-o-o-o-o.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"o face","sw":"oface","definition":["The face made while banging the chick from logistics.","> I taking this chick from logistics. If things go well tonight she will be seeing my o-face. o-o-o-o-o-o-o."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O for","sw":"ofor","definition":[],"translation":["O for","唉，有…该多好呀!"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O gauge","sw":"ogauge","definition":[],"translation":["32毫米模型铁道轨距；30毫米模型铁道轨距 [亦称作 Q gauge]"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O grade","sw":"ograde","definition":[],"translation":["n. 普通等级考试（苏格兰旧时的单科考试，低于高级考试，通常在 16 岁时参加。1988 年由标准等级考试取代）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3660,7 +3660,7 @@
 {"word":"o-d","sw":"od","definition":[],"translation":["[=original-derived]最初衍生的,原始衍生的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"o-daiko","sw":"odaiko","definition":[],"translation":["[网络] 大鼓；鬼太鼓"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O-DAP","sw":"odap","definition":[],"translation":["[=Oncovin(vincristine),Dianhydrogalactitol,Adriamycin(doxorubicin),and Platinol]长春新碱、二去水卫矛醇、阿毒素和顺铂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"o-dark-thirties","sw":"odarkthirties","definition":["Military time designating an unspecified time after midnight but before sunrise. Normally used in reference to either the time one goes to sleep, wakes up, or has to be on-the-job. Usually quite a while before sunrise, i.e.: well before 0500 hours ( 5AM for you civilians )","","The name is a play on the way 24-hour time is handled in the Military.  Times are pronounced as numbers and written without colons, i.e.: 4:30PM is 1630H or \"sixteen-thirty hours\".  Times between midnight and noon such as 4:00AM are written as 0400 and have the leading zero called out as \"zero\" or the letter \"O\", as in \"o-four-hundred\".","> Example: We had to get up at o-dark-thirty to get the job done this morning.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"o-dark-thirties","sw":"odarkthirties","definition":["Military time designating an unspecified time after midnight but before sunrise. Normally used in reference to either the time one goes to sleep, wakes up, or has to be on-the-job. Usually quite a while before sunrise, i.e.: well before 0500 hours ( 5AM for you civilians )","","The name is a play on the way 24-hour time is handled in the Military.  Times are pronounced as numbers and written without colons, i.e.: 4:30PM is 1630H or \"sixteen-thirty hours\".  Times between midnight and noon such as 4:00AM are written as 0400 and have the leading zero called out as \"zero\" or the letter \"O\", as in \"o-four-hundred\".","> Example: We had to get up at o-dark-thirty to get the job done this morning."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"o-dark-thirty","sw":"odarkthirty","definition":[],"translation":["[网络] 哥德风"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O-Day","sw":"oday","definition":[],"translation":["[网络] 迎新日；独中"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"O-Demethylases","sw":"odemethylases","definition":[],"translation":["O-去甲基酶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4080,7 +4080,7 @@
 {"word":"oakseys","sw":"oakseys","definition":[],"translation":["[人名] 奥克西","(oaksey 的复数)"],"pos":[],"exchange":["0:oaksey","1:s"],"examples":[],"phonetic":""}
 {"word":"Oakshade","sw":"oakshade","definition":[],"translation":["[地名] 奥克谢德 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Oaksterdam","sw":"oaksterdam","definition":[],"translation":["[网络] 奥克斯特丹姆；奥克斯丹；奥克斯特丹大学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Oaksterdams","sw":"oaksterdams","definition":["noun; geographical location; Area between lake merrit and downtown oakland; medical use marijuana sales district from 1996-2004; adult use cannabis sales zone after passage of Oakland Cannabis Regulation and Revenue Ordinance nov. 2004","> The cannabis cafes of OAKSTERDAM have  revitalized a bleak area of urban decay in Oakland.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Oaksterdams","sw":"oaksterdams","definition":["noun; geographical location; Area between lake merrit and downtown oakland; medical use marijuana sales district from 1996-2004; adult use cannabis sales zone after passage of Oakland Cannabis Regulation and Revenue Ordinance nov. 2004","> The cannabis cafes of OAKSTERDAM have  revitalized a bleak area of urban decay in Oakland."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oaktag","sw":"oaktag","definition":[],"translation":["[网络] 两棵树贴在一张厚纸上"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oaktags","sw":"oaktags","definition":[],"translation":["[网络] 橡皮书"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oakton","sw":"oakton","definition":[],"translation":["[地名] [美国] 奥克顿"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4366,7 +4366,7 @@
 {"word":"oaxaca","sw":"oaxaca","definition":[],"translation":["[地名] [墨西哥] 瓦哈卡"],"pos":[],"exchange":["s:oaxacas"],"examples":[],"phonetic":""}
 {"word":"Oaxaca de Juarez","sw":"oaxacadejuarez","definition":[],"translation":["[网络] 瓦哈卡"],"pos":[],"exchange":["s:oaxaca de juarezs"],"examples":[],"phonetic":""}
 {"word":"oaxaca de juarezs","sw":"oaxacadejuarezs","definition":[],"translation":["[网络] 瓦哈卡","(oaxaca de juarez 的复数)"],"pos":[],"exchange":["0:oaxaca de juarez","1:s"],"examples":[],"phonetic":""}
-{"word":"Oaxacan","sw":"oaxacan","definition":["A slang term used to describe short, ugly, dark skinned mexican illegal immigrants.","> I went to the grocery store and all those damm oaxacan's had food stamps!!!",""],"translation":[],"pos":["j:100"],"exchange":["s:oaxacans"],"examples":[],"phonetic":""}
+{"word":"Oaxacan","sw":"oaxacan","definition":["A slang term used to describe short, ugly, dark skinned mexican illegal immigrants.","> I went to the grocery store and all those damm oaxacan's had food stamps!!!"],"translation":[],"pos":["j:100"],"exchange":["s:oaxacans"],"examples":[],"phonetic":""}
 {"word":"oaxacana","sw":"oaxacana","definition":[],"translation":["[网络] 奥沙卡那"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oaxacans","sw":"oaxacans","definition":[],"translation":["[网络] 瓦哈卡人"],"pos":[],"exchange":["0:oaxacan","1:s"],"examples":[],"phonetic":""}
 {"word":"oaxacas","sw":"oaxacas","definition":[],"translation":["[地名] [墨西哥] 瓦哈卡","(oaxaca 的复数)"],"pos":[],"exchange":["0:oaxaca","1:s"],"examples":[],"phonetic":""}
@@ -4389,7 +4389,7 @@
 {"word":"ob-gyns","sw":"obgyns","definition":[],"translation":["n. 〈口〉妇产科医师","[网络] 全美妇产科医生"],"pos":[],"exchange":["0:ob-gyn","1:s"],"examples":[],"phonetic":""}
 {"word":"OB-RL","sw":"obrl","definition":[],"translation":["长减肥蛋白受体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"OB-Rs","sw":"obrs","definition":[],"translation":["短减肥蛋白受体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Ob-Ugric","sw":"obugric","definition":["Ob-Ugric","(linguistics) A subgroup of languages in the Uralic language family.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Ob-Ugric","sw":"obugric","definition":["Ob-Ugric","(linguistics) A subgroup of languages in the Uralic language family."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oba","sw":"oba","definition":[],"translation":["n. 奥巴(西非约鲁巴人的首领)"],"pos":[],"exchange":["s:obas"],"examples":[],"phonetic":"'ɔ:bɑ:,-bә"}
 {"word":"oba oil","sw":"obaoil","definition":[],"translation":["喔巴油;加蓬依苦木油"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"oba-suluk","sw":"obasuluk","definition":[],"translation":["[林] 加里曼丹红柳桉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4423,10 +4423,10 @@
 {"word":"Obalang","sw":"obalang","definition":[],"translation":["[地名] 奥巴朗 ( 乌干 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obama","sw":"obama","definition":[],"translation":["n. 奥巴马(姓)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obama administration","sw":"obamaadministration","definition":[],"translation":["[网络] 奥巴马政府；欧巴马政府；美国奥巴马政府"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obama Baby","sw":"obamababy","definition":["A child conceived after Obama was proclaimed President by way of celebratory sex, or any baby born under Barack Obama's term(s).","> I was born July 2009. I'm an Obama baby!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obama Bashers","sw":"obamabashers","definition":["a [fuckwit] [Republitard] who opposes a progressive Democratic agenda in which all Americans have a chance to succeed and prosper","> Since it is very difficult to make any sort of attack on Obama's moral character (no [Monica Lewinsky]), (no White Water), the typical Obama basher will resort to outright lies. Some have made the ridiculous claim that he is not really a U.S. citizen (see [birther]). Some have claimed he is a Muslim, not only is this completely false, even if it were true it would be irrellevent, since our Constitution explicitly prohibits any religious test for holding elected office. There is no reason a Muslim could not be a good president. Some Obama bashers are racists, but not all of them. Most Obama bashers are part of the same [Republican attack machine] that went after Bill Clinton.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obama Baby","sw":"obamababy","definition":["A child conceived after Obama was proclaimed President by way of celebratory sex, or any baby born under Barack Obama's term(s).","> I was born July 2009. I'm an Obama baby!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obama Bashers","sw":"obamabashers","definition":["a [fuckwit] [Republitard] who opposes a progressive Democratic agenda in which all Americans have a chance to succeed and prosper","> Since it is very difficult to make any sort of attack on Obama's moral character (no [Monica Lewinsky]), (no White Water), the typical Obama basher will resort to outright lies. Some have made the ridiculous claim that he is not really a U.S. citizen (see [birther]). Some have claimed he is a Muslim, not only is this completely false, even if it were true it would be irrellevent, since our Constitution explicitly prohibits any religious test for holding elected office. There is no reason a Muslim could not be a good president. Some Obama bashers are racists, but not all of them. Most Obama bashers are part of the same [Republican attack machine] that went after Bill Clinton."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama Care","sw":"obamacare","definition":[],"translation":["[网络] 奥巴马医保；奥巴马医改计划；奥巴马医改"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obama Depression","sw":"obamadepression","definition":["a term some [fuckwit] [bushnesiac] [republitard]s use to discribe the [Bush Depression]","> The [Bush Administration] slashed taxes for the wealthy while spending massive amounts of money on the [bush war] in Iraq, which created huge budget deficits. This along with deregulation of business caused a collapse of the financial sector and the worst economy since the Great Depression. Since Obama will be the one that has to clean up this mess [Bushie]s call it the Obama Depression.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obama Depression","sw":"obamadepression","definition":["a term some [fuckwit] [bushnesiac] [republitard]s use to discribe the [Bush Depression]","> The [Bush Administration] slashed taxes for the wealthy while spending massive amounts of money on the [bush war] in Iraq, which created huge budget deficits. This along with deregulation of business caused a collapse of the financial sector and the worst economy since the Great Depression. Since Obama will be the one that has to clean up this mess [Bushie]s call it the Obama Depression."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama mania","sw":"obamamania","definition":[],"translation":["[网络] 奥巴马狂热；奥巴马热"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama phone","sw":"obamaphone","definition":[],"translation":["[网络] 奥巴马手机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama Phones","sw":"obamaphones","definition":[],"translation":["[网络] 奥巴马手机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4436,26 +4436,26 @@
 {"word":"Obama-con","sw":"obamacon","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama-cons","sw":"obamacons","definition":[],"translation":["[网络] 奥巴马缺点"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obama-mania","sw":"obamamania","definition":[],"translation":["[网络] 奥巴马狂热；奥巴马狂热症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obamabot","sw":"obamabot","definition":["A person who supports Obama and is willing to vote for him but doesn't know a thing about him.","> It's just  a label for someone who doesn't know anything about Obama. You call them a Obamabot because they just spew out their support but have nothing else to show.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obamabot","sw":"obamabot","definition":["A person who supports Obama and is willing to vote for him but doesn't know a thing about him.","> It's just  a label for someone who doesn't know anything about Obama. You call them a Obamabot because they just spew out their support but have nothing else to show."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamabots","sw":"obamabots","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamacan","sw":"obamacan","definition":[],"translation":["[网络] 奥巴马康"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamacans","sw":"obamacans","definition":[],"translation":["[网络] 共和党的欧巴马迷；欧巴马迷共和党员；党人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obamacare","sw":"obamacare","definition":[],"translation":["奥巴马医改计划"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obamacheck","sw":"obamacheck","definition":["A check received from the government for do nothing.  In fact, the less you do, the more the check.  It is President Obama's way of ruining the American dream and instead turning us into a socialist state, or \"redistributing the wealth\" as he put it.","> I done got my Obamacheck in the mail, now I can go buy me some cigarettes and beer.","> I never have to worry about rent, electricity, food or anything now that I am going to get my Obamacheck.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obamacheck","sw":"obamacheck","definition":["A check received from the government for do nothing.  In fact, the less you do, the more the check.  It is President Obama's way of ruining the American dream and instead turning us into a socialist state, or \"redistributing the wealth\" as he put it.","> I done got my Obamacheck in the mail, now I can go buy me some cigarettes and beer.","> I never have to worry about rent, electricity, food or anything now that I am going to get my Obamacheck."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamacon","sw":"obamacon","definition":[],"translation":["[网络] 保守派"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamacons","sw":"obamacons","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamacrat","sw":"obamacrat","definition":[],"translation":["[网络] 奥巴马克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obamafication","sw":"obamafication","definition":["The process a country goes through when a man is elected leader of that country and destroys it from the inside out.","> When the process of Obamafication was finished, the United States was left in ruins.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obamafication","sw":"obamafication","definition":["The process a country goes through when a man is elected leader of that country and destroys it from the inside out.","> When the process of Obamafication was finished, the United States was left in ruins."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamageddon","sw":"obamageddon","definition":[],"translation":["[网络] 恶魔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obamamania","sw":"obamamania","definition":[],"translation":["[网络] 奥巴马热；欧巴马狂热；奥巴马狂热"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obaman","sw":"obaman","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obamanation","sw":"obamanation","definition":["1. The horrible state of affairs that results after a Barack Obama win as president; OR 2. the fanatical obsession that has swept the United States in support of Barack Obama.","> Def. 1 - \"This economic policy is an Obamanation\".","> Def. 2 - \"He has done so well that it is clearly an Obamanation.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"OBAMANAZI","sw":"obamanazi","definition":["He is a man who sincerely cares about this nation, and draws much criticism for exercising his right to free speech under the First Amendment. A man of considerable character and strength, he draws criticism from a great majority of the nation, but does not let others change his views. A caring man, he continues to live with his elderly mother, who often requires care. He is often deemed as arrogant or ignorant because of his reluctance to engage in debate with those who are so narrow-minded that they would never be willing to accept his views.He is a talented visual artist that finds expression in mild political commentary.","> OBAMANAZI is a model American citizen.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obamanation","sw":"obamanation","definition":["1. The horrible state of affairs that results after a Barack Obama win as president; OR 2. the fanatical obsession that has swept the United States in support of Barack Obama.","> Def. 1 - \"This economic policy is an Obamanation\".","> Def. 2 - \"He has done so well that it is clearly an Obamanation.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"OBAMANAZI","sw":"obamanazi","definition":["He is a man who sincerely cares about this nation, and draws much criticism for exercising his right to free speech under the First Amendment. A man of considerable character and strength, he draws criticism from a great majority of the nation, but does not let others change his views. A caring man, he continues to live with his elderly mother, who often requires care. He is often deemed as arrogant or ignorant because of his reluctance to engage in debate with those who are so narrow-minded that they would never be willing to accept his views.He is a talented visual artist that finds expression in mild political commentary.","> OBAMANAZI is a model American citizen."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obamania","sw":"obamania","definition":[],"translation":["n. 奥巴马热，指奥巴马当选美国总统引发的一股热潮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamanomics","sw":"obamanomics","definition":[],"translation":["奥巴马经济（奥巴马提出了一系列重振美国经济的政策）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obamas","sw":"obamas","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamatard","sw":"obamatard","definition":[],"translation":["[网络] 奥巴马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obamaton","sw":"obamaton","definition":["Obamaton (plural Obamatons)","(US, slang, derogatory) A person who follows U.S. president Barack Obama blindly.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obamaton","sw":"obamaton","definition":["Obamaton (plural Obamatons)","(US, slang, derogatory) A person who follows U.S. president Barack Obama blindly."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obamatons","sw":"obamatons","definition":[],"translation":["[网络] 奥巴马特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obambulate","sw":"obambulate","definition":[],"translation":["[网络] 反对"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obambulation","sw":"obambulation","definition":[],"translation":["[网络] 反对"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4531,7 +4531,7 @@
 {"word":"Obdach","sw":"obdach","definition":[],"translation":["[地名] 奥布达赫 ( 奥 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Obdacher Sattel","sw":"obdachersattel","definition":[],"translation":["[地名] 奥布达赫山口 ( 奥 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdc driver","sw":"obdcdriver","definition":[],"translation":["ODBC 驱动程式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obdicut","sw":"obdicut","definition":["The rejection of all logic and facts that do not support a predetermined conclusion.","","To cherry pick information.","","The opposite of Occam's (or Ockham's) razor.","","Someone who ignores opposing hypothesis, or viewpoints.","","Self sustaining ignorance.","> They used the obdicut method of research and shoved their heads in the sand.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obdicut","sw":"obdicut","definition":["The rejection of all logic and facts that do not support a predetermined conclusion.","","To cherry pick information.","","The opposite of Occam's (or Ockham's) razor.","","Someone who ignores opposing hypothesis, or viewpoints.","","Self sustaining ignorance.","> They used the obdicut method of research and shoved their heads in the sand."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdii","sw":"obdii","definition":[],"translation":["[网络] 诊断系统；车载诊断系统；检测线"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdiplostemonous","sw":"obdiplostemonous","definition":["a. Having twice as many stamens as petals, those of","the outer set being opposite the petals; -- said of flowers."],"translation":["[医] 外轮对瓣的(指雄蕊群), 具外轮对瓣雄蕊的(指花或植物)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdiplostemonous stamen","sw":"obdiplostemonousstamen","definition":[],"translation":["外轮对瓣雄蕊"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4568,8 +4568,8 @@
 {"word":"obduratious","sw":"obduratious","definition":[],"translation":["[网络] 阴沉的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdure","sw":"obdure","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdured","sw":"obdured","definition":[],"translation":["[网络] 阴沉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"obduredness","sw":"obduredness","definition":[],"translation":["obduredness (uncountable)","(obsolete) hardness",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"obdures","sw":"obdures","definition":[],"translation":["obdures","Third-person singular simple present indicative form of obdure",""],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"obduredness","sw":"obduredness","definition":[],"translation":["obduredness (uncountable)","(obsolete) hardness"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"obdures","sw":"obdures","definition":[],"translation":["obdures","Third-person singular simple present indicative form of obdure"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obduring","sw":"obduring","definition":[],"translation":["[网络] 冒泡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obdurity","sw":"obdurity","definition":[],"translation":["[网络] 不健康"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"OBE","sw":"obe","definition":[],"translation":["abbr. 荣获英帝国勋章的军官（Officer of the Order of the British Empire）"],"pos":[],"exchange":["s:obes"],"examples":[],"phonetic":",əu bi: 'i:"}
@@ -4589,8 +4589,8 @@
 {"word":"obeast","sw":"obeast","definition":[],"translation":["[网络] 彬彬有礼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeasts","sw":"obeasts","definition":[],"translation":["[网络] 痴迷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obebioside","sw":"obebioside","definition":[],"translation":["[网络] 巴比妥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obecalp","sw":"obecalp","definition":["An actual medical prescription written by doctors for psychosomatic symptoms.  The pill is merely a sugar or salt tablet and is intended to spark a placebo-effect.  In fact, the word is \"placebo\" spelled backwards.","> Since medical tests found nothing wrong with the patient, the doctor resorted to prescribing a high dosage of obecalp and hoped that a placebo effect would relieve the pain.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Obecalps","sw":"obecalps","definition":["An actual medical prescription written by doctors for psychosomatic symptoms.  The pill is merely a sugar or salt tablet and is intended to spark a placebo-effect.  In fact, the word is \"placebo\" spelled backwards.","> Since medical tests found nothing wrong with the patient, the doctor resorted to prescribing a high dosage of obecalp and hoped that a placebo effect would relieve the pain.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obecalp","sw":"obecalp","definition":["An actual medical prescription written by doctors for psychosomatic symptoms.  The pill is merely a sugar or salt tablet and is intended to spark a placebo-effect.  In fact, the word is \"placebo\" spelled backwards.","> Since medical tests found nothing wrong with the patient, the doctor resorted to prescribing a high dosage of obecalp and hoped that a placebo effect would relieve the pain."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Obecalps","sw":"obecalps","definition":["An actual medical prescription written by doctors for psychosomatic symptoms.  The pill is merely a sugar or salt tablet and is intended to spark a placebo-effect.  In fact, the word is \"placebo\" spelled backwards.","> Since medical tests found nothing wrong with the patient, the doctor resorted to prescribing a high dosage of obecalp and hoped that a placebo effect would relieve the pain."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeche","sw":"obeche","definition":["n. the wood of an African obeche tree; used especially for veneering","n. large west African tree having large palmately lobed leaves and axillary cymose panicles of small white flowers and one-winged seeds; yields soft white to pale yellow wood"],"translation":["非洲轻木"],"pos":[],"exchange":["s:obeches"],"examples":[],"phonetic":""}
 {"word":"obeches","sw":"obeches","definition":[],"translation":["n. 非洲轻木；欧斐切木"],"pos":[],"exchange":["0:obeche","1:s"],"examples":[],"phonetic":"əu'bi:tʃi"}
 {"word":"obechi","sw":"obechi","definition":[],"translation":["[网络] 贝奇树"],"pos":[],"exchange":["s:obechis"],"examples":[],"phonetic":""}
@@ -4633,7 +4633,7 @@
 {"word":"obeisancy","sw":"obeisancy","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeisant","sw":"obeisant","definition":["a. Ready to obey; reverent; differential; also, servilely","submissive."],"translation":["a. obeisance的形容词形式"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeisantly","sw":"obeisantly","definition":[],"translation":["adv. obeisance的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"obeisaunce","sw":"obeisaunce","definition":["obeisaunce (plural obeisaunces)","Obsolete form of obeisance.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"obeisaunce","sw":"obeisaunce","definition":["obeisaunce (plural obeisaunces)","Obsolete form of obeisance."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeisaunces","sw":"obeisaunces","definition":[],"translation":["[网络] 恋爱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeisaunt","sw":"obeisaunt","definition":[],"translation":["[网络] 痴迷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeish","sw":"obeish","definition":[],"translation":["[网络] 乖乖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4655,7 +4655,7 @@
 {"word":"obelin","sw":"obelin","definition":[],"translation":["[网络] 奥贝林"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obelion","sw":"obelion","definition":["n the craniometric point on the sagittal suture near the lamboid suture"],"translation":["[医] 顶孔间点"],"pos":[],"exchange":["s:obelions"],"examples":[],"phonetic":""}
 {"word":"obelions","sw":"obelions","definition":[],"translation":["[网络] 先知"],"pos":[],"exchange":["0:obelion","1:s"],"examples":[],"phonetic":""}
-{"word":"obelisc","sw":"obelisc","definition":["obelisc (plural obeliscs)","Archaic form of obelisk.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"obelisc","sw":"obelisc","definition":["obelisc (plural obeliscs)","Archaic form of obelisk."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeliscal","sw":"obeliscal","definition":["a. Formed like an obelisk."],"translation":["a. obelisk的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeliscar","sw":"obeliscar","definition":[],"translation":["[网络] obelisco"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"obeliscoid","sw":"obeliscoid","definition":[],"translation":["[网络] obelisco"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

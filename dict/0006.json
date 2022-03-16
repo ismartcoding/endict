@@ -722,7 +722,7 @@
 {"word":"Aciculoconidium","sw":"aciculoconidium","definition":[],"translation":["芽孢酵母属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aciculosporium take","sw":"aciculosporiumtake","definition":[],"translation":["竹丛枝病菌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aciculum","sw":"aciculum","definition":[],"translation":["足刺(多毛类)"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'sikjulәm"}
-{"word":"acid","sw":"acid","definition":["n. any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt","n. street name for lysergic acid diethylamide","s. having the characteristics of an acid"],"translation":["n. 酸, 酸类物质, 尖刻, 迷幻药","a. 酸的, 酸性的, 尖刻的, 敏锐的","[计] 自动文档互参与索引生成程序"],"pos":["j:1","n:99"],"exchange":["s:acids"],"examples":["The acid burned a hole in her coat.","Stomach acids can break down the poison.","You will need a special chemical to neutralize the acid.","They smoke joints and drop acid.","He described the music as ‘Brahms on acid’.","Vinegar is an acid.","When she spoke her tone was acid.","The salad dressing has an acid taste."],"phonetic":"ˈæsɪd|ˈæsɪd"}
+{"word":"acid","sw":"acid","definition":["n. any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt","n. street name for lysergic acid diethylamide","s. having the characteristics of an acid"],"translation":["n. 酸, 酸类物质, 尖刻, 迷幻药","a. 酸的, 酸性的, 尖刻的, 敏锐的","[计] 自动文档互参与索引生成程序"],"pos":["j:1","n:99"],"exchange":["s:acids"],"examples":["The acid burned a hole in her coat.","Stomach acids can break down the poison.","You will need a special chemical to neutralize the acid.","They smoke joints and drop acid.","He described the music as \"Brahms on acid\".","Vinegar is an acid.","When she spoke her tone was acid.","The salad dressing has an acid taste."],"phonetic":"ˈæsɪd|ˈæsɪd"}
 {"word":"acid absorbent","sw":"acidabsorbent","definition":[],"translation":["[助剂] 酸吸收剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acid absorber","sw":"acidabsorber","definition":[],"translation":["[机] 吸收体, 吸收器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acid absorbing","sw":"acidabsorbing","definition":[],"translation":["un. 吸酸的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2130,14 +2130,14 @@
 {"word":"acinesia algera","sw":"acinesiaalgera","definition":[],"translation":["[医] 疼性运动不能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinesia amnestion","sw":"acinesiaamnestion","definition":[],"translation":["[医] 遗忘性运动不能, 废用性运动不能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinesia cruciata","sw":"acinesiacruciata","definition":[],"translation":["[医] 交叉性运动不能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acinesic","sw":"acinesic","definition":["acinesic (comparative more acinesic, superlative most acinesic)","(archaic) Alternative form of akinesic: akinetic.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acinesic","sw":"acinesic","definition":["acinesic (comparative more acinesic, superlative most acinesic)","(archaic) Alternative form of akinesic: akinetic."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinesis","sw":"acinesis","definition":[],"translation":["[医] 运动不能, 失运动能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acineta","sw":"acineta","definition":[],"translation":["[网络] 壳吸管虫；有壳吸管虫；壳吸管虫属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetasis","sw":"acinetasis","definition":[],"translation":["壳吸管虫病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetatropbia","sw":"acinetatropbia","definition":[],"translation":["[医] 失用性萎缩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetatrophia","sw":"acinetatrophia","definition":[],"translation":["失用性萎缩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetic","sw":"acinetic","definition":[],"translation":["[医] 运动不能的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acinetiform","sw":"acinetiform","definition":["acinetiform","(zoology) Resembling the Acinetae.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acinetiform","sw":"acinetiform","definition":["acinetiform","(zoology) Resembling the Acinetae."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acinetobacter","sw":"acinetobacter","definition":[],"translation":["不动细菌属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetobacter baumannii","sw":"acinetobacterbaumannii","definition":[],"translation":["鲍氏静止桿菌；鲍氏不动桿菌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acinetobacter calocoaceticus","sw":"acinetobactercalocoaceticus","definition":[],"translation":["乙酸钙不动桿菌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2260,7 +2260,7 @@
 {"word":"ack-acks","sw":"ackacks","definition":[],"translation":["adj. 高射炮的","n. 高射炮","[网络] 高射机关炮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ack-emma","sw":"ackemma","definition":[],"translation":["na. 〈英口〉午前；〈英俚〉【军】飞机修理工人","[网络] 上午"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ackack","sw":"ackack","definition":[],"translation":["高射砲"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˊækæk"}
-{"word":"ackamarackus","sw":"ackamarackus","definition":["ackamarackus (uncountable)","Meaningless activity engaged in just for show; deceptive nonsense.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ackamarackus","sw":"ackamarackus","definition":["ackamarackus (uncountable)","Meaningless activity engaged in just for show; deceptive nonsense."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ackamoor","sw":"ackamoor","definition":[],"translation":["[网络] 阿卡莫尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ackard","sw":"ackard","definition":[],"translation":["[网络] 阿卡德"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ackbar","sw":"ackbar","definition":[],"translation":["[网络] 亚克博；阿克巴；阿卡巴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2301,7 +2301,7 @@
 {"word":"Acket","sw":"acket","definition":[],"translation":["水杨酰胺,邻羟基苯甲酰胺,氨基水杨酰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Ackey","sw":"ackey","definition":[],"translation":["硝(酸)硫(酸)混合酸浸渍液"],"pos":[],"exchange":[],"examples":[],"phonetic":"'æki"}
 {"word":"ACKI","sw":"acki","definition":[],"translation":["[计] 确认输入"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Ackinchesacky","sw":"ackinchesacky","definition":["Ackinchesacky","A Native American tribe from Delaware",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Ackinchesacky","sw":"ackinchesacky","definition":["Ackinchesacky","A Native American tribe from Delaware"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acklam","sw":"acklam","definition":[],"translation":["[地名] 阿克勒姆 ( 英 )"],"pos":[],"exchange":["s:acklams"],"examples":[],"phonetic":""}
 {"word":"acklams","sw":"acklams","definition":[],"translation":["[地名] 阿克勒姆 ( 英 )","(acklam 的复数)"],"pos":[],"exchange":["0:acklam","1:s"],"examples":[],"phonetic":""}
 {"word":"Ackland","sw":"ackland","definition":[],"translation":["n. (Ackland)人名；(英、瑞典)阿克兰"],"pos":[],"exchange":["s:acklands"],"examples":[],"phonetic":""}
@@ -2808,7 +2808,7 @@
 {"word":"acollinearity","sw":"acollinearity","definition":[],"translation":["[网络] 非线性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acology","sw":"acology","definition":["n. Materia medica; the science of remedies."],"translation":["[医] 治疗学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acolous","sw":"acolous","definition":[],"translation":["[医] 无肢的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acoloutha","sw":"acoloutha","definition":["acoloutha","(rhetoric) A fully reciprocal synonym.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acoloutha","sw":"acoloutha","definition":["acoloutha","(rhetoric) A fully reciprocal synonym."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acolpate","sw":"acolpate","definition":[],"translation":["无沟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acols","sw":"acols","definition":[],"translation":["n. 埃珂叫牌法（英国桥牌比赛中的叫牌法）"],"pos":[],"exchange":["0:acol","1:s"],"examples":[],"phonetic":"'ækəl"}
 {"word":"acoluteship","sw":"acoluteship","definition":[],"translation":["[网络] 灵感"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2868,7 +2868,7 @@
 {"word":"aconidial","sw":"aconidial","definition":[],"translation":["[医]无孢子型"],"pos":[],"exchange":[],"examples":[],"phonetic":"əkɒ'nɪdɪəl"}
 {"word":"aconifine","sw":"aconifine","definition":[],"translation":["乌头芬碱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aconine","sw":"aconine","definition":[],"translation":["[化] 乌头胺","[医] 乌头原硷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aconital","sw":"aconital","definition":["aconital (comparative more aconital, superlative most aconital)","Of, or derived from aconite.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aconital","sw":"aconital","definition":["aconital (comparative more aconital, superlative most aconital)","Of, or derived from aconite."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aconitane","sw":"aconitane","definition":[],"translation":["乌头多糖,乌头烷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aconitase","sw":"aconitase","definition":[],"translation":["n. [生化]顺乌头酸酶"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'kɔniteis"}
 {"word":"aconitases","sw":"aconitases","definition":[],"translation":["n. 顺乌头酸酶"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'kɔniteis"}
@@ -3195,7 +3195,7 @@
 {"word":"acorse","sw":"acorse","definition":[],"translation":["[网络] 手铐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acortan","sw":"acortan","definition":[],"translation":["促皮质素,促肾上腺皮质激素,促肾上腺皮质素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acorto","sw":"acorto","definition":[],"translation":["促皮质素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acorum","sw":"acorum","definition":["acorum (uncountable)","(obsolete) The plant Acorus calamus.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acorum","sw":"acorum","definition":["acorum (uncountable)","(obsolete) The plant Acorus calamus."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acorus","sw":"acorus","definition":["n sweet flags; sometimes placed in subfamily Acoraceae"],"translation":["[医] 菖蒲属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acorus aclamus","sw":"acorusaclamus","definition":[],"translation":["菖蒲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acorus calamus","sw":"acoruscalamus","definition":[],"translation":["[机] 白菖"],"pos":[],"exchange":["s:acorus calamuss"],"examples":[],"phonetic":""}
@@ -3328,7 +3328,7 @@
 {"word":"acoustic barrier","sw":"acousticbarrier","definition":[],"translation":["隔音墙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acoustic basement","sw":"acousticbasement","definition":[],"translation":["声波基盘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acoustic bass","sw":"acousticbass","definition":[],"translation":["[网络] 原声贝司；大贝司；低音大提琴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acoustic bass guitar","sw":"acousticbassguitar","definition":["acoustic bass guitar (plural acoustic bass guitars)","(music) A bass guitar meant to be played without electric amplification and as an accompaniment to the acoustic guitar.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acoustic bass guitar","sw":"acousticbassguitar","definition":["acoustic bass guitar (plural acoustic bass guitars)","(music) A bass guitar meant to be played without electric amplification and as an accompaniment to the acoustic guitar."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acoustic bassist","sw":"acousticbassist","definition":[],"translation":["[网络] 声贝斯手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acoustic bassists","sw":"acousticbassists","definition":[],"translation":["[网络] 声贝斯手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acoustic beacon","sw":"acousticbeacon","definition":[],"translation":["声呐浮标"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4397,7 +4397,7 @@
 {"word":"acquaint with the market conditions","sw":"acquaintwiththemarketconditions","definition":[],"translation":["熟悉市场环境"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acquaint yourself with","sw":"acquaintyourselfwith","definition":[],"translation":["[网络] 使自己认识"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acquaintable","sw":"acquaintable","definition":[],"translation":["[网络] 熟人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acquaintance","sw":"acquaintance","definition":["n. personal knowledge or information about someone or something","n. a relationship less intimate than friendship","n. a person with whom you are acquainted"],"translation":["n. 认识, 相识者"],"pos":["n:100"],"exchange":["s:acquaintances"],"examples":["Claire has a wide circle of friends and acquaintances.","He's just a business acquaintance.","I bumped into an old acquaintance on the train.","He hoped their acquaintance would develop further.","I first met Simon in 2008 and struck up an acquaintance with him.","I had little acquaintance with modern poetry.","I am delighted to make your acquaintance, Mrs Baker.","I made the acquaintance of several musicians around that time.","I first made his acquaintance in 1992.","No one else of my acquaintance was as rich or successful.","He introduced me to a lady of his acquaintance.","Even on first acquaintance it was clear that he was not ‘the right type’.","On first acquaintance she seemed a little odd.","It was at the Taylors' party that I first made his acquaintance (= first met him).","I wasn't sure about Darryl when I first met her, but on further acquaintance (= knowing her a little more) I rather like her.","Sadly, my acquaintance with Spanish literature is rather limited.","The young have little acquaintance with real-life tragedy."],"phonetic":"əˈkweɪntəns|əˈkweɪntəns"}
+{"word":"acquaintance","sw":"acquaintance","definition":["n. personal knowledge or information about someone or something","n. a relationship less intimate than friendship","n. a person with whom you are acquainted"],"translation":["n. 认识, 相识者"],"pos":["n:100"],"exchange":["s:acquaintances"],"examples":["Claire has a wide circle of friends and acquaintances.","He's just a business acquaintance.","I bumped into an old acquaintance on the train.","He hoped their acquaintance would develop further.","I first met Simon in 2008 and struck up an acquaintance with him.","I had little acquaintance with modern poetry.","I am delighted to make your acquaintance, Mrs Baker.","I made the acquaintance of several musicians around that time.","I first made his acquaintance in 1992.","No one else of my acquaintance was as rich or successful.","He introduced me to a lady of his acquaintance.","Even on first acquaintance it was clear that he was not \"the right type\".","On first acquaintance she seemed a little odd.","It was at the Taylors' party that I first made his acquaintance (= first met him).","I wasn't sure about Darryl when I first met her, but on further acquaintance (= knowing her a little more) I rather like her.","Sadly, my acquaintance with Spanish literature is rather limited.","The young have little acquaintance with real-life tragedy."],"phonetic":"əˈkweɪntəns|əˈkweɪntəns"}
 {"word":"acquaintance principle","sw":"acquaintanceprinciple","definition":[],"translation":["相识原则；熟悉原则"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acquaintance rape","sw":"acquaintancerape","definition":[],"translation":["熟人强奸（罪）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acquaintance rapes","sw":"acquaintancerapes","definition":[],"translation":["[网络] 相识型强奸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4840,7 +4840,7 @@
 {"word":"Acrachne racemosa","sw":"acrachneracemosa","definition":[],"translation":["n. 尖稃草"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acracholia","sw":"acracholia","definition":[],"translation":["[希]感情冲动, 多情"],"pos":[],"exchange":[],"examples":[],"phonetic":",ækrә'kәuliә"}
 {"word":"acraconitine","sw":"acraconitine","definition":[],"translation":["阿克拉乌头碱,假乌头碱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acracy","sw":"acracy","definition":["acracy (plural acracies)","(politics, philosophy) In political philosophy, the negation of rule or \"government.\" A society with the absence of coercion; one of voluntary order.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acracy","sw":"acracy","definition":["acracy (plural acracies)","(politics, philosophy) In political philosophy, the negation of rule or \"government.\" A society with the absence of coercion; one of voluntary order."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acradenia","sw":"acradenia","definition":[],"translation":["[网络] 塔斯马尼亚芸木属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acraea issoria formosana","sw":"acraeaissoriaformosana","definition":[],"translation":["苎麻珍蝶；细蝶；苎麻蝶；苎麻斑蛱蝶；细蛱蝶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acraein","sw":"acraein","definition":[],"translation":["斑蛱蝶素"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ'kri:in"}
@@ -4910,7 +4910,7 @@
 {"word":"Acrawax","sw":"acrawax","definition":[],"translation":["合成脂肪酸酯; 阿克蜡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acrawl","sw":"acrawl","definition":[],"translation":["[网络] 爬行的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acraze","sw":"acraze","definition":[],"translation":["[网络] 热捧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acrazes","sw":"acrazes","definition":["Verb. A play on the word Amaze. Something that amazes you, but makes you think that its insane.","> Bobby was acrazed at George when he devoured a fish, whole.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acrazes","sw":"acrazes","definition":["Verb. A play on the word Amaze. Something that amazes you, but makes you think that its insane.","> Bobby was acrazed at George when he devoured a fish, whole."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acrazing","sw":"acrazing","definition":[],"translation":["[网络] 放牧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acrbonic abhydrase","sw":"acrbonicabhydrase","definition":[],"translation":["[机] 碳酸酐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acrbonic acid derivative","sw":"acrbonicacidderivative","definition":[],"translation":["[建] 碳酸衍生物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4922,7 +4922,7 @@
 {"word":"ACRC","sw":"acrc","definition":[],"translation":["[计] 辅助循环冗余码校验"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acrchinum","sw":"acrchinum","definition":[],"translation":["阿的平"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acre","sw":"acre","definition":["n. a unit of area (4840 square yards) used in English-speaking countries","n. a territory of western Brazil bordering on Bolivia and Peru","n. a town and port in northwestern Israel in the eastern Mediterranean"],"translation":["n. 英亩"],"pos":[],"exchange":["s:acres"],"examples":["Each house has acres of space around it (= a lot of space).","He has 400 acres of land in Russia.","They bought half an acre of land to build their house on.","Forest covers half the acreage.","The companies all have more than 1,000 acres designated for heavy industry."],"phonetic":"ˈeɪkə(r)|ˈeɪkər"}
-{"word":"Acre antshrike","sw":"acreantshrike","definition":["Acre antshrike (plural Acre antshrikes)","A passerine bird of the antbird family, Thamnophilus divisorius.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Acre antshrike","sw":"acreantshrike","definition":["Acre antshrike (plural Acre antshrikes)","A passerine bird of the antbird family, Thamnophilus divisorius."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acre breadth","sw":"acrebreadth","definition":[],"translation":["[网络] 英亩广度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acre breadths","sw":"acrebreadths","definition":[],"translation":["[网络] 英亩广度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acre feet","sw":"acrefeet","definition":[],"translation":["un. 英亩英尺","[网络] 英亩尺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

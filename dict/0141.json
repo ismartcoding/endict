@@ -734,7 +734,7 @@
 {"word":"deltic method","sw":"delticmethod","definition":[],"translation":["[电] 自相关比较波形法"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"deltics","sw":"deltics","definition":["plural of deltic","a. Deltaic."],"translation":["(deltic 的复数) abbr. delay line time compression 延迟线路时间压缩（装置）"],"pos":[],"exchange":["0:deltic","1:s","s:delticss"],"examples":[],"phonetic":""}
 {"word":"delticss","sw":"delticss","definition":[],"translation":["(deltic 的复数) abbr. delay line time compression 延迟线路时间压缩（装置）","(deltics 的复数)"],"pos":[],"exchange":["0:deltics","1:s"],"examples":[],"phonetic":""}
-{"word":"deltidia","sw":"deltidia","definition":["deltidia","plural of deltidium",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"deltidia","sw":"deltidia","definition":["deltidia","plural of deltidium"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"deltidial plate","sw":"deltidialplate","definition":[],"translation":["三角双板"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"deltidium","sw":"deltidium","definition":["n. The triangular space under the beak of many brachiopod","shells."],"translation":["柄孔盖"],"pos":[],"exchange":[],"examples":[],"phonetic":"del'tɪdjəm"}
 {"word":"deltigera","sw":"deltigera","definition":[],"translation":["[网络] 长梗婆婆纳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -906,7 +906,7 @@
 {"word":"delusionary","sw":"delusionary","definition":[],"translation":["a. 虚妄的；欺骗的"],"pos":[],"exchange":[],"examples":[],"phonetic":"dɪ'luːʒənərɪ"}
 {"word":"delusionist","sw":"delusionist","definition":[],"translation":["[网络] 妄想者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"delusions","sw":"delusions","definition":["n. (psychology) an erroneous belief that is held in the face of evidence to the contrary","n. a mistaken or unfounded opinion or idea","n. the act of deluding; deception by creating illusory ideas"],"translation":["n. 欺骗( delusion的复数形式 ); 谬见; 错觉; 妄想"],"pos":[],"exchange":["0:delusion","1:s"],"examples":[],"phonetic":"diˈlu:ʒənz"}
-{"word":"delusions of adequacy","sw":"delusionsofadequacy","definition":["An insult suggesting that someone is not only sub-standard, but that he is incorrect by thinking that he is even up to par.  A play on [delusions of grandeur].","> Clearly not the sharpest tool in the shed, Carl nonetheless suffered from delusions of adequacy.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"delusions of adequacy","sw":"delusionsofadequacy","definition":["An insult suggesting that someone is not only sub-standard, but that he is incorrect by thinking that he is even up to par.  A play on [delusions of grandeur].","> Clearly not the sharpest tool in the shed, Carl nonetheless suffered from delusions of adequacy."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"delusions of grandeur","sw":"delusionsofgrandeur","definition":[],"translation":["夸大妄想"],"pos":[],"exchange":["s:delusionss of grandeur"],"examples":[],"phonetic":""}
 {"word":"delusions of parasitosis","sw":"delusionsofparasitosis","definition":[],"translation":["寄生虫病妄想症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"delusions of persecution","sw":"delusionsofpersecution","definition":[],"translation":["[网络] 遭难一类"],"pos":[],"exchange":["s:delusionss of persecution"],"examples":[],"phonetic":""}
@@ -1479,7 +1479,7 @@
 {"word":"demanning","sw":"demanning","definition":["-ing form of deman"],"translation":["(deman 的现在分词) n. (Deman)人名；(法)德曼"],"pos":[],"exchange":["0:deman","1:i"],"examples":[],"phonetic":""}
 {"word":"demannosylation","sw":"demannosylation","definition":[],"translation":["[网络] 去甲基化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demanol","sw":"demanol","definition":[],"translation":["二甲氨乙醇"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demans","sw":"demans","definition":["\"De-Mans\", to remove manliness from something.","> Dude, that red collar demans you.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demans","sw":"demans","definition":["\"De-Mans\", to remove manliness from something.","> Dude, that red collar demans you."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demansia","sw":"demansia","definition":[],"translation":["褐眼镜蛇属"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demant","sw":"demant","definition":[],"translation":["[人名] 德曼特"],"pos":[],"exchange":["s:demants"],"examples":[],"phonetic":""}
 {"word":"demantoid","sw":"demantoid","definition":["n a green andradite used as a gemstone"],"translation":["n. [矿]翠榴石,钙铁榴石,乌拉尔翡翠"],"pos":[],"exchange":["s:demantoids"],"examples":[],"phonetic":"di'mæntɔid"}
@@ -1826,7 +1826,7 @@
 {"word":"demeny","sw":"demeny","definition":[],"translation":["[人名] 德梅尼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demeo","sw":"demeo","definition":[],"translation":["[网络] 狄米欧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demeore","sw":"demeore","definition":[],"translation":["[网络] 恶心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demephitize","sw":"demephitize","definition":["demephitize (third-person singular simple present demephitizes, present participle demephitizing, simple past and past participle demephitized)","(transitive, archaic) To purify from mephitis.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demephitize","sw":"demephitize","definition":["demephitize (third-person singular simple present demephitizes, present participle demephitizing, simple past and past participle demephitized)","(transitive, archaic) To purify from mephitis."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demephitizing","sw":"demephitizing","definition":[],"translation":["[网络] 不强调"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demer","sw":"demer","definition":[],"translation":["[地名] 代默尔河 ( 比 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demerara","sw":"demerara","definition":["n. a light brown raw cane sugar from Guyana","n. a river in northern Guyana that flows northward into the Atlantic","n. a former Dutch colony in South America; now a part of Guyana"],"translation":["n. 德麦拉拉蔗糖(红糖的一种)"],"pos":[],"exchange":["s:demeraras"],"examples":[],"phonetic":".demә'rerә"}
@@ -2183,7 +2183,7 @@
 {"word":"demifacet","sw":"demifacet","definition":[],"translation":["半关节面"],"pos":[],"exchange":[],"examples":[],"phonetic":",demi'fæsit"}
 {"word":"Demifacets","sw":"demifacets","definition":[],"translation":["半关节面"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demifine","sw":"demifine","definition":[],"translation":["[法]中等的(法国甜酒的等级)"],"pos":[],"exchange":[],"examples":[],"phonetic":"'demifain"}
-{"word":"demiflat","sw":"demiflat","definition":["demiflat (plural demiflats)","(music) In microtonal music, a note played a quarter tone lower than a natural.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demiflat","sw":"demiflat","definition":["demiflat (plural demiflats)","(music) In microtonal music, a note played a quarter tone lower than a natural."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demigauntiet bandage","sw":"demigauntietbandage","definition":[],"translation":["[医] 半手套式绷带, 包手绷带(手指暴露)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demigauntlet","sw":"demigauntlet","definition":[],"translation":["半手套状绷带"],"pos":[],"exchange":[],"examples":[],"phonetic":",demi'^ɔ:ntlit"}
 {"word":"demigauntlet bandage","sw":"demigauntletbandage","definition":[],"translation":["半手套状绷带"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2209,7 +2209,7 @@
 {"word":"demihull","sw":"demihull","definition":[],"translation":["片体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demihull spacing","sw":"demihullspacing","definition":[],"translation":["片体间距"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demihuman","sw":"demihuman","definition":[],"translation":["[网络] 人形系"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demihumans","sw":"demihumans","definition":["Demi-human is a half human half animal","bunny-human","cat-human","fox-human","e.t.c.","Normally considered worthless (sometimes considered better than humans)","> hey look at that demi-human, worthless.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demihumans","sw":"demihumans","definition":["Demi-human is a half human half animal","bunny-human","cat-human","fox-human","e.t.c.","Normally considered worthless (sometimes considered better than humans)","> hey look at that demi-human, worthless."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demihypercube","sw":"demihypercube","definition":[],"translation":["[网络] 超立方体；半截立方体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demiinflation","sw":"demiinflation","definition":[],"translation":["半膨胀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demijohn","sw":"demijohn","definition":["n. large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork"],"translation":["n. 小口大酒瓶","[化] 坛; 酸坛"],"pos":[],"exchange":["s:demijohns"],"examples":[],"phonetic":"'demidʒɒn"}
@@ -2298,7 +2298,7 @@
 {"word":"deming","sw":"deming","definition":[],"translation":["[人名] 戴明; [地名] [美国] 德明"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Deming circle","sw":"demingcircle","definition":[],"translation":["德明循环"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Deming cycle","sw":"demingcycle","definition":[],"translation":["戴明循环"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"deminiaturize","sw":"deminiaturize","definition":["deminiaturize (third-person singular simple present deminiaturizes, present participle deminiaturizing, simple past and past participle deminiaturized)","(rare, transitive) To increase in size something that has previously been miniaturized.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"deminiaturize","sw":"deminiaturize","definition":["deminiaturize (third-person singular simple present deminiaturizes, present participle deminiaturizing, simple past and past participle deminiaturized)","(rare, transitive) To increase in size something that has previously been miniaturized."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demining","sw":"demining","definition":[],"translation":["n. 清雷"],"pos":[],"exchange":[],"examples":[],"phonetic":"'demənɪŋ"}
 {"word":"deminish","sw":"deminish","definition":[],"translation":["[网络] 减少"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"deminished","sw":"deminished","definition":[],"translation":["[计] 基数减"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2335,8 +2335,8 @@
 {"word":"demirhan","sw":"demirhan","definition":[],"translation":["n. (Demirhan)人名；(土)德米尔汗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demirkent","sw":"demirkent","definition":[],"translation":["德米尔肯特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demirler","sw":"demirler","definition":[],"translation":["德米尔勒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demiromantic","sw":"demiromantic","definition":["demiromantic (comparative more demiromantic, superlative most demiromantic)","(neologism) Romantically attracted to people only after forming deep emotional bonds.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demiromantics","sw":"demiromantics","definition":["A type of grey-romantic who only experiences romantic attraction after developing an emotional connection beforehand. Demiromantics do not experience primary romantic attraction, but they are capable of secondary romantic attraction. The sexual counterpart to demiromantic is demisexual. Demiromantic people may also prefix a gender orientation to the label, as in \"Demi-heteroromantic\".","> He's cute, but I'm demiromantic so I need to get to know him really well to know if I want a romantic relationship with him.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demiromantic","sw":"demiromantic","definition":["demiromantic (comparative more demiromantic, superlative most demiromantic)","(neologism) Romantically attracted to people only after forming deep emotional bonds."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demiromantics","sw":"demiromantics","definition":["A type of grey-romantic who only experiences romantic attraction after developing an emotional connection beforehand. Demiromantics do not experience primary romantic attraction, but they are capable of secondary romantic attraction. The sexual counterpart to demiromantic is demisexual. Demiromantic people may also prefix a gender orientation to the label, as in \"Demi-heteroromantic\".","> He's cute, but I'm demiromantic so I need to get to know him really well to know if I want a romantic relationship with him."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demirs","sw":"demirs","definition":[],"translation":["[网络] 德米尔；德米尔港口；穆罕默德·德米尔","(demir 的复数)"],"pos":[],"exchange":["0:demir","1:s"],"examples":[],"phonetic":""}
 {"word":"Demirtas","sw":"demirtas","definition":[],"translation":["德米尔塔什"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demis","sw":"demis","definition":[],"translation":["[网络] 杰米斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2369,7 +2369,7 @@
 {"word":"demisexualities","sw":"demisexualities","definition":[],"translation":["[网络] 神经性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demisexuality","sw":"demisexuality","definition":[],"translation":["[网络] 神性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demisexuals","sw":"demisexuals","definition":[],"translation":["[网络] 神经性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demisharp","sw":"demisharp","definition":["demisharp (plural demisharps)","(music) In microtonal music, a note played a quarter tone higher than a natural.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demisharp","sw":"demisharp","definition":["demisharp (plural demisharps)","(music) In microtonal music, a note played a quarter tone higher than a natural."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demisheath","sw":"demisheath","definition":[],"translation":["[动]半鞘"],"pos":[],"exchange":[],"examples":[],"phonetic":"'demiʃi:θ"}
 {"word":"demising","sw":"demising","definition":["p. pr. & vb. n. of Demise"],"translation":["v. 遗赠（demise的现在分词形式）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demisler","sw":"demisler","definition":[],"translation":["n. 防霜装置"],"pos":[],"exchange":[],"examples":[],"phonetic":"'demɪlər"}
@@ -2824,8 +2824,8 @@
 {"word":"demographists","sw":"demographists","definition":[],"translation":["n. =demographer"],"pos":[],"exchange":["0:demographist","1:s"],"examples":[],"phonetic":"di'mɔɡrəfist"}
 {"word":"demography","sw":"demography","definition":["n. the branch of sociology that studies the characteristics of human populations"],"translation":["n. 人口统计学","[医] 人口学, 人口统计学"],"pos":["n:100"],"exchange":["s:demographies"],"examples":[],"phonetic":"di:'mɒgrәfi"}
 {"word":"demography of economy","sw":"demographyofeconomy","definition":[],"translation":["[社科] 经济人口学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demogroup","sw":"demogroup","definition":["demogroup (plural demogroups)","(demoscene) A named, affiliated group of people involved in the demoscene.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demoi","sw":"demoi","definition":["demoi","(political science) plural of demos The common populaces of several states.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demogroup","sw":"demogroup","definition":["demogroup (plural demogroups)","(demoscene) A named, affiliated group of people involved in the demoscene."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demoi","sw":"demoi","definition":["demoi","(political science) plural of demos The common populaces of several states."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demoid","sw":"demoid","definition":[],"translation":["a. 某地质层组特有的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'di:mɔid"}
 {"word":"Demoing","sw":"demoing","definition":["-ing form of Demo","n a visual presentation showing how something works","v give an exhibition of to an interested audience"],"translation":["(Demo 的现在分词) n. 演示, 样本唱片","[计] 演示"],"pos":[],"exchange":["0:demo","1:i"],"examples":[],"phonetic":""}
 {"word":"demoiseel","sw":"demoiseel","definition":[],"translation":["n. 光鳃鱼属；斑鳍光鳃鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2909,8 +2909,8 @@
 {"word":"demoll","sw":"demoll","definition":[],"translation":["德莫尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demology","sw":"demology","definition":[],"translation":["n. 人口学,人口统计"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demolox","sw":"demolox","definition":[],"translation":["氯氧平"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demomaker","sw":"demomaker","definition":["","","","","Wikipedia has an article on:","demomaker","","Wikipedia","(demoscene) A person who creates demos.","(demoscene) A multimedia authoring program used to create demos.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demomaking","sw":"demomaking","definition":["demomaking (uncountable)","(demoscene) The creation of demos.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demomaker","sw":"demomaker","definition":["","","","","Wikipedia has an article on:","demomaker","","Wikipedia","(demoscene) A person who creates demos.","(demoscene) A multimedia authoring program used to create demos."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demomaking","sw":"demomaking","definition":["demomaking (uncountable)","(demoscene) The creation of demos."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demometrics","sw":"demometrics","definition":[],"translation":["正式的人口统计学"],"pos":[],"exchange":[],"examples":[],"phonetic":"di:mә'metriks"}
 {"word":"Demominator depth","sw":"demominatordepth","definition":[],"translation":["分母高度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demon","sw":"demon","definition":["n. someone extremely diligent or skillful"],"translation":["n. 魔鬼"],"pos":["n:100"],"exchange":["s:demons"],"examples":[],"phonetic":"'di:mәn"}
@@ -3145,7 +3145,7 @@
 {"word":"demonstrationist","sw":"demonstrationist","definition":[],"translation":["n. 示威者"],"pos":[],"exchange":[],"examples":[],"phonetic":"demәnsˊtreiʃәnist"}
 {"word":"demonstrationize","sw":"demonstrationize","definition":[],"translation":["[网络] 示威"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demonstrations","sw":"demonstrations","definition":["n. a show or display; the act of presenting something to sight or view","n. a show of military force or preparedness","n. a public display of group feelings (usually of a political nature)"],"translation":["n. 证明( demonstration的复数形式 ); 表明; 表达; <非正>游行示威"],"pos":[],"exchange":["0:demonstration","1:s"],"examples":[],"phonetic":"demənst'reɪʃnz"}
-{"word":"demonstrative","sw":"demonstrative","definition":["a. given to or marked by the open expression of emotion","s. serving to demonstrate"],"translation":["a. 说明的, 指示的"],"pos":["j:100"],"exchange":["s:demonstratives"],"examples":["Some people are more demonstrative than others.","‘This’ and ‘that’ are demonstrative pronouns.","We're a very demonstrative family.","In the sentence \"This is my brother,\" \"this\" is a demonstrative pronoun.","The findings of this survey are demonstrative of the need for further research.","In “This is my brother,” “this” is a demonstrative pronoun.","She was always a demonstrative child."],"phonetic":"dɪˈmɒnstrətɪv|dɪˈmɑːnstrətɪv"}
+{"word":"demonstrative","sw":"demonstrative","definition":["a. given to or marked by the open expression of emotion","s. serving to demonstrate"],"translation":["a. 说明的, 指示的"],"pos":["j:100"],"exchange":["s:demonstratives"],"examples":["Some people are more demonstrative than others.","\"This\" and \"that\" are demonstrative pronouns.","We're a very demonstrative family.","In the sentence \"This is my brother,\" \"this\" is a demonstrative pronoun.","The findings of this survey are demonstrative of the need for further research.","In “This is my brother,” “this” is a demonstrative pronoun.","She was always a demonstrative child."],"phonetic":"dɪˈmɒnstrətɪv|dɪˈmɑːnstrətɪv"}
 {"word":"demonstrative adjective","sw":"demonstrativeadjective","definition":[],"translation":["[网络] 指示形容词"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demonstrative adjectives","sw":"demonstrativeadjectives","definition":[],"translation":["[网络] 指示形容词；指示代名词；示范形容词"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demonstrative democracy","sw":"demonstrativedemocracy","definition":[],"translation":["示威民主"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3248,8 +3248,8 @@
 {"word":"demosaics","sw":"demosaics","definition":[],"translation":["[网络] 去马赛克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Demosan","sw":"demosan","definition":[],"translation":["地茂散"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demoscene","sw":"demoscene","definition":[],"translation":["[网络] 演景"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demoscener","sw":"demoscener","definition":["demoscener (plural demosceners)","A participant in the demoscene.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"demoscenes","sw":"demoscenes","definition":["The Demoscene orignates from the computersoftware pirate-scene in northern europe/scandinavia in the late 80s. Nowdays the \"sceners\" make multimeda demonstrations to show what your \"demogroup\" can do on the computer.","A demogroup consists of coders graphichsians and musicsians.","","> I just joined the demoscene, hurray. \\o/",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demoscener","sw":"demoscener","definition":["demoscener (plural demosceners)","A participant in the demoscene."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"demoscenes","sw":"demoscenes","definition":["The Demoscene orignates from the computersoftware pirate-scene in northern europe/scandinavia in the late 80s. Nowdays the \"sceners\" make multimeda demonstrations to show what your \"demogroup\" can do on the computer.","A demogroup consists of coders graphichsians and musicsians.","","> I just joined the demoscene, hurray. \\o/"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demoscopy","sw":"demoscopy","definition":[],"translation":["民意测验"],"pos":[],"exchange":[],"examples":[],"phonetic":"di'mɔs,kәpi"}
 {"word":"demosponge","sw":"demosponge","definition":[],"translation":["[网络] 寻常海绵纲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"demosponges","sw":"demosponges","definition":[],"translation":["[网络] 寻常海绵纲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3654,7 +3654,7 @@
 {"word":"denasalized","sw":"denasalized","definition":[],"translation":["vt. denasalize的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denasalizes","sw":"denasalizes","definition":[],"translation":["vt. 【语音学】使鼻音弱化；使非鼻音化；去除(声音)的鼻音特性"],"pos":[],"exchange":[],"examples":[],"phonetic":"di:'neizə,laiz"}
 {"word":"denasalizing","sw":"denasalizing","definition":[],"translation":["vt. denasalize的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"denaskulo","sw":"denaskulo","definition":["denaskulo (plural denaskuloj)","a native speaker of Esperanto",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"denaskulo","sw":"denaskulo","definition":["denaskulo (plural denaskuloj)","a native speaker of Esperanto"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denasserization","sw":"denasserization","definition":[],"translation":["n. 非(埃及总统)纳赛尔化(否定与变更纳赛尔政策)"],"pos":[],"exchange":[],"examples":[],"phonetic":"di:,næserai'zeiʃən; -ri'z-"}
 {"word":"denastify","sw":"denastify","definition":[],"translation":["v. denastification, de-nastification的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denastifying","sw":"denastifying","definition":[],"translation":["adj. denastification, de-nastification的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4378,7 +4378,7 @@
 {"word":"DENED","sw":"dened","definition":[],"translation":["[=dental equipment depot]牙科设备仓库"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"deneen","sw":"deneen","definition":[],"translation":["n. 【女名】女子名","[网络] 迪妮；内恩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denegas","sw":"denegas","definition":[],"translation":["德内加斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"denegate","sw":"denegate","definition":["denegate (third-person singular simple present denegates, present participle denegating, simple past and past participle denegated)","(obsolete, transitive) To deny.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"denegate","sw":"denegate","definition":["denegate (third-person singular simple present denegates, present participle denegating, simple past and past participle denegated)","(obsolete, transitive) To deny."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denegated","sw":"denegated","definition":[],"translation":["[网络] 已取消"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denegating","sw":"denegating","definition":[],"translation":["[网络] 退伍"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denegation","sw":"denegation","definition":["n. Denial."],"translation":["n. 否认, 否定"],"pos":[],"exchange":[],"examples":[],"phonetic":",denә'^eiʃәn"}
@@ -4396,7 +4396,7 @@
 {"word":"denematize","sw":"denematize","definition":[],"translation":["[医] 去线虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denenberg","sw":"denenberg","definition":[],"translation":["[人名] 德嫩伯格"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"dener","sw":"dener","definition":[],"translation":["[网络] 德纳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"denerdify","sw":"denerdify","definition":["The act of striping a [nerd] (social or otherwise) of their status as a nerd, in respects such as appearance, behavior, and in really successful cases, of their nerdish beliefs.","","> Ger.:denerdification","> Ex: \"Yeah, we're taking Susie to the market to get some normal clothes. We're attempting to denerdify her.\"","> Ex: \"Albert's denerdification process is failing miserably.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"denerdify","sw":"denerdify","definition":["The act of striping a [nerd] (social or otherwise) of their status as a nerd, in respects such as appearance, behavior, and in really successful cases, of their nerdish beliefs.","","> Ger.:denerdification","> Ex: \"Yeah, we're taking Susie to the market to get some normal clothes. We're attempting to denerdify her.\"","> Ex: \"Albert's denerdification process is failing miserably.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denerel","sw":"denerel","definition":[],"translation":["[网络] 断喘能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Denerfen","sw":"denerfen","definition":[],"translation":["吡硫醇,脑复新"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denergize","sw":"denergize","definition":[],"translation":["[电] 去能"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4507,7 +4507,7 @@
 {"word":"deniably","sw":"deniably","definition":[],"translation":["[网络] 可反对地；可拒绝地；可否认地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denial","sw":"denial","definition":["n. the act of refusing to comply (as with a request)","n. the act of asserting that something alleged is not true","n. (psychiatry) a defense mechanism that denies painful thoughts"],"translation":["n. 否认","[法] 否定, 否认, 拒绝接受"],"pos":["n:100"],"exchange":["s:denials"],"examples":["The terrorists issued a denial of responsibility for the attack.","There was an official denial that there would be an election before the end of the year.","She shook her head in denial.","Pressure groups have drawn attention to the denial of human rights in some areas.","The advertising ban is a denial of freedom of speech.","The patient is still in denial.","Some people are in denial about the situation.","The CEO issued a denial of the report that she is about to resign.","Officials did not believe the runner's denial that he had taken drugs.","His denial of responsibility for the accident was unconvincing.","He's still in denial about the break-up of his relationship.","If I did what you ask, it would be a denial of everything I stand for (= believe in).","His statement is not a denial.","Planning staff recommended denial of the project.","He claims he's not sick, but I think he's just in denial."],"phonetic":"dɪˈnaɪəl|dɪˈnaɪəl"}
 {"word":"Denial Bay","sw":"denialbay","definition":[],"translation":["[地名] 迪奈厄尔贝 ( 澳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"denial is not a river in Egypt","sw":"denialisnotariverinegypt","definition":["denial is not a river in Egypt","(humorous) Used to point out that somebody is in a state of psychological denial.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"denial is not a river in Egypt","sw":"denialisnotariverinegypt","definition":["denial is not a river in Egypt","(humorous) Used to point out that somebody is in a state of psychological denial."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denial measure","sw":"denialmeasure","definition":[],"translation":["禁止措施"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denial measures","sw":"denialmeasures","definition":[],"translation":["抵制措施"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denial of facts","sw":"denialoffacts","definition":[],"translation":["[法] 否认事实, 抵赖"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4529,7 +4529,7 @@
 {"word":"denias","sw":"denias","definition":[],"translation":["[地名] [西班牙] 德尼亚","(denia 的复数)"],"pos":[],"exchange":["0:denia","1:s"],"examples":[],"phonetic":""}
 {"word":"deniau","sw":"deniau","definition":[],"translation":["[网络] 和德纽"],"pos":[],"exchange":["s:deniaus"],"examples":[],"phonetic":""}
 {"word":"deniaus","sw":"deniaus","definition":[],"translation":["[网络] 和德纽","(deniau 的复数)"],"pos":[],"exchange":["0:deniau","1:s"],"examples":[],"phonetic":""}
-{"word":"denib","sw":"denib","definition":["denib (third-person singular simple present denibs, present participle denibbing, simple past and past participle denibbed)","To remove nibs trapped in a layer of paint or other finish.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"denib","sw":"denib","definition":["denib (third-person singular simple present denibs, present participle denibbing, simple past and past participle denibbed)","To remove nibs trapped in a layer of paint or other finish."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denibbing","sw":"denibbing","definition":[],"translation":["[网络] 拒绝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denibbings","sw":"denibbings","definition":[],"translation":["[网络] 拒绝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denibulin","sw":"denibulin","definition":[],"translation":["[网络] 抗生素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4929,7 +4929,7 @@
 {"word":"denotators","sw":"denotators","definition":[],"translation":["[网络] 指名者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denotatum","sw":"denotatum","definition":["n an actual object referred to by a linguistic expression"],"translation":["n. [哲]所指对象"],"pos":[],"exchange":["s:denotatums"],"examples":[],"phonetic":",di:nәj'teitәm"}
 {"word":"denotatums","sw":"denotatums","definition":[],"translation":["n. 所指对象"],"pos":[],"exchange":["0:denotatum","1:s"],"examples":[],"phonetic":",di:nəu'teitəm"}
-{"word":"denote","sw":"denote","definition":["v. be a sign or indication of","v. have as a meaning"],"translation":["vt. 指示, 表示"],"pos":["v:100"],"exchange":["3:denotes","d:denoted","i:denoting","p:denoted"],"examples":["A very high temperature often denotes a serious illness.","In this example ‘X’ denotes the time taken and ‘Y’ denotes the distance covered.","The red triangle denotes danger.","Here ‘family’ denotes mother, father and children.","The Hebrew term used here simply denotes a young girl.","The color red is used to denote passion or danger.","His angry tone denoted extreme displeasure."],"phonetic":"dɪˈnəʊt|dɪˈnəʊt"}
+{"word":"denote","sw":"denote","definition":["v. be a sign or indication of","v. have as a meaning"],"translation":["vt. 指示, 表示"],"pos":["v:100"],"exchange":["3:denotes","d:denoted","i:denoting","p:denoted"],"examples":["A very high temperature often denotes a serious illness.","In this example \"X\" denotes the time taken and \"Y\" denotes the distance covered.","The red triangle denotes danger.","Here \"family\" denotes mother, father and children.","The Hebrew term used here simply denotes a young girl.","The color red is used to denote passion or danger.","His angry tone denoted extreme displeasure."],"phonetic":"dɪˈnəʊt|dɪˈnəʊt"}
 {"word":"denoted","sw":"denoted","definition":["imp. & p. p. of Denote"],"translation":["v. 为…的符号( denote的过去式和过去分词 ); 为…的名称; 指示; 指出"],"pos":[],"exchange":["0:denote","1:dp"],"examples":[],"phonetic":"diˈnəutid"}
 {"word":"denotee","sw":"denotee","definition":[],"translation":["[网络] 表示"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"denotees","sw":"denotees","definition":[],"translation":["[网络] 表示"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

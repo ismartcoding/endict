@@ -112,7 +112,7 @@
 {"word":"simili binding","sw":"similibinding","definition":[],"translation":["3/1破斜纹丝光滚边"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simili mercerising","sw":"similimercerising","definition":[],"translation":["赛丝光法"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simili paper","sw":"similipaper","definition":[],"translation":["冲沙纸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"similia","sw":"similia","definition":["similia pl","plural of simile",""],"translation":[],"pos":[],"exchange":["s:similias"],"examples":[],"phonetic":""}
+{"word":"similia","sw":"similia","definition":["similia pl","plural of simile"],"translation":[],"pos":[],"exchange":["s:similias"],"examples":[],"phonetic":""}
 {"word":"similia similibus carantur","sw":"similiasimilibuscarantur","definition":[],"translation":["(顺势疗法派的一个原则)类似病用类似药治疗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"similia similibus curantur","sw":"similiasimilibuscurantur","definition":[],"translation":["[拉丁语]以毒攻毒( = like cures like)"],"pos":[],"exchange":[],"examples":[],"phonetic":"si'miliəsi-'milibʌskju'ræntə"}
 {"word":"similiancy","sw":"similiancy","definition":[],"translation":["[网络] 相似的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -215,7 +215,7 @@
 {"word":"simmah","sw":"simmah","definition":[],"translation":["[网络] 希玛"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Simme","sw":"simme","definition":[],"translation":["[地名] 锡默河 ( 瑞士 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Simmel","sw":"simmel","definition":[],"translation":["齐美尔（人名）"],"pos":[],"exchange":["s:simmels"],"examples":[],"phonetic":""}
-{"word":"Simmelian","sw":"simmelian","definition":["Simmelian (comparative more Simmelian, superlative most Simmelian)","Of or relating to Georg Simmel (1858–1918), German sociologist, philosopher, and critic.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Simmelian","sw":"simmelian","definition":["Simmelian (comparative more Simmelian, superlative most Simmelian)","Of or relating to Georg Simmel (1858–1918), German sociologist, philosopher, and critic."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simmels","sw":"simmels","definition":[],"translation":["齐美尔（人名）","(simmel 的复数)"],"pos":[],"exchange":["0:simmel","1:s"],"examples":[],"phonetic":""}
 {"word":"Simmelsdorf","sw":"simmelsdorf","definition":[],"translation":["[地名] 锡默尔斯多夫 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simmen","sw":"simmen","definition":[],"translation":["[人名] [英格兰人姓氏] 西门 Simon的变体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -270,7 +270,7 @@
 {"word":"simmondsia california","sw":"simmondsiacalifornia","definition":[],"translation":["西蒙德木"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Simmons","sw":"simmons","definition":[],"translation":["西蒙斯（人名）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simmonses","sw":"simmonses","definition":[],"translation":["[网络] 西蒙"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"simmonsite","sw":"simmonsite","definition":["simmonsite","(mineralogy) A monoclinic-prismatic pale buff cream mineral containing aluminum, fluorine, lithium, and sodium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"simmonsite","sw":"simmonsite","definition":["simmonsite","(mineralogy) A monoclinic-prismatic pale buff cream mineral containing aluminum, fluorine, lithium, and sodium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Simmozheim","sw":"simmozheim","definition":[],"translation":["[地名] 锡莫茨海姆 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simmpleness","sw":"simmpleness","definition":[],"translation":["[网络] 简单"],"pos":[],"exchange":["s:simmplenesses"],"examples":[],"phonetic":""}
 {"word":"simmplenesses","sw":"simmplenesses","definition":[],"translation":["[网络] 简单","(simmpleness 的复数)"],"pos":[],"exchange":["0:simmpleness","1:s"],"examples":[],"phonetic":""}
@@ -1857,7 +1857,7 @@
 {"word":"simplifier","sw":"simplifier","definition":[],"translation":["n. 简化物"],"pos":[],"exchange":["s:simplifiers"],"examples":[],"phonetic":""}
 {"word":"simplifiers","sw":"simplifiers","definition":[],"translation":["[网络] 简易者；简单者"],"pos":[],"exchange":["0:simplifier","1:s"],"examples":[],"phonetic":""}
 {"word":"simplifies","sw":"simplifies","definition":["v make simpler or easier or reduce in complexity or extent"],"translation":["v. 使（某事物）简单[简明], 简化( simplify的第三人称单数 )"],"pos":[],"exchange":["0:simplify","1:3"],"examples":[],"phonetic":"ˈsimplifaiz"}
-{"word":"simplify","sw":"simplify","definition":["v. make simpler or easier or reduce in complexity or extent"],"translation":["vt. 单一化, 简单化"],"pos":["v:100"],"exchange":["d:simplified","3:simplifies","i:simplifying","p:simplified"],"examples":["The application forms have now been simplified.","I hope his appointment will simplify matters.","He tried to simplify the story for the younger audience.","We’re looking for ways to simplify the process of applying for US citizenship."],"phonetic":"ˈsɪmplɪfaɪ|ˈsɪmplɪfaɪ"}
+{"word":"simplify","sw":"simplify","definition":["v. make simpler or easier or reduce in complexity or extent"],"translation":["vt. 单一化, 简单化"],"pos":["v:100"],"exchange":["d:simplified","3:simplifies","i:simplifying","p:simplified"],"examples":["The application forms have now been simplified.","I hope his appointment will simplify matters.","He tried to simplify the story for the younger audience.","We're looking for ways to simplify the process of applying for US citizenship."],"phonetic":"ˈsɪmplɪfaɪ|ˈsɪmplɪfaɪ"}
 {"word":"simplify the administrative structure","sw":"simplifytheadministrativestructure","definition":[],"translation":["精简机构"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simplify working process","sw":"simplifyworkingprocess","definition":[],"translation":["简化工序"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simplifying","sw":"simplifying","definition":["v make simpler or easier or reduce in complexity or extent"],"translation":["v. 使（某事物）简单[简明], 简化( simplify的现在分词 ); 单纯化"],"pos":["j:100"],"exchange":["0:simplify","1:i"],"examples":[],"phonetic":"ˈsimplifaiŋ"}
@@ -2808,7 +2808,7 @@
 {"word":"simvastatin","sw":"simvastatin","definition":["n. an oral lipid-lowering medicine (trade name Zocor) administered to reduce blood cholesterol levels; recommended after heart attacks"],"translation":["[医]系HMG辅酶A还原酶抑制剂, 能降低男性血浆胆固醇和减少胆固醇在动脉沉积"],"pos":["n:100"],"exchange":["s:simvastatins"],"examples":[],"phonetic":"sɪm'vɑ:steɪtɪn"}
 {"word":"simvastatins","sw":"simvastatins","definition":[],"translation":["辛伐他汀（心血管系统用药）"],"pos":[],"exchange":["0:simvastatin","1:s"],"examples":[],"phonetic":""}
 {"word":"simvs","sw":"simvs","definition":[],"translation":["同步间歇指令通气","(simv 的复数)"],"pos":[],"exchange":["0:simv","1:s"],"examples":[],"phonetic":""}
-{"word":"SIMware","sw":"simware","definition":["SIMware (uncountable)","(computing) software held on, or running on, a SIM card",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"SIMware","sw":"simware","definition":["SIMware (uncountable)","(computing) software held on, or running on, a SIM card"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"simy","sw":"simy","definition":[],"translation":["[网络] 黄英鹏；死蚂蚁；红军鞋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sin","sw":"sin","definition":["n. estrangement from god","n. an act that is regarded by theologians as a transgression of God's will","n. (Akkadian) god of the Moon; counterpart of Sumerian Nanna","n. the 21st letter of the Hebrew alphabet"],"translation":["n. 罪, 犯罪, 过失, 失礼","v. 犯"],"pos":["v:8","n:92"],"exchange":["s:sins","d:sinned","i:sinning","p:sinned","3:sins"],"examples":["Confess your sins to God and he will forgive you.","God forgives our sins.","The Bible says that stealing is a sin.","Believers are called on to turn away from sin and embrace a life of prayer.","It's a sin to waste taxpayers' money like that.","She was dressed in loose comfortable clothes that hid a multitude of sins.","He thinks a lot about sin.","I think it's a sin (= is morally wrong) to waste food, when so many people in the world are hungry.","For my sins (= as if it were a punishment), I'm organizing the office party this year.","Forgive me, Father, for I have sinned.","In most religions, stealing is regarded as a sin.","It is not a sin to drop your kid off at soccer practice and stay in the car to read a book.","I don't think there's a good way to say I have sinned."],"phonetic":"sɪn|sɪn"}
 {"word":"sin against","sw":"sinagainst","definition":[],"translation":["v. 违犯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3424,7 +3424,7 @@
 {"word":"sing by ear","sw":"singbyear","definition":[],"translation":["不看乐谱(凭听觉记忆)弹奏(乐曲或乐器) (或演唱)；没有指导(或充分准备)地处理某事"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sing for your supper","sw":"singforyoursupper","definition":[],"translation":["[网络] 靠两双手吃饭；高兴的歌唱；用歌声换晚餐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sing from the same hymn sheet","sw":"singfromthesamehymnsheet","definition":[],"translation":["[网络] 一唱一和"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sing from the same hymnbook","sw":"singfromthesamehymnbook","definition":["sing from the same hymnbook","(idiomatic, of two or more people) To make the same or similar statements, especially to express the same opinions in public as a result of a prior agreement.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sing from the same hymnbook","sw":"singfromthesamehymnbook","definition":["sing from the same hymnbook","(idiomatic, of two or more people) To make the same or similar statements, especially to express the same opinions in public as a result of a prior agreement."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sing high praise for","sw":"singhighpraisefor","definition":[],"translation":["为…高唱赞歌,歌颂,赞颂…"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sing in adoration of","sw":"singinadorationof","definition":[],"translation":["歌颂…"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sing like a bird","sw":"singlikeabird","definition":[],"translation":["唱得轻快嘹亮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

@@ -1154,9 +1154,9 @@
 {"word":"binge eater","sw":"bingeeater","definition":[],"translation":["[网络] 暴食者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge eating","sw":"bingeeating","definition":[],"translation":["[网络] 暴食；暴饮暴食；暴食症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge eating disorder","sw":"bingeeatingdisorder","definition":[],"translation":["[网络] 暴食症；过胖暴食症；暴食障碍"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binge learning","sw":"bingelearning","definition":["A tendency to partake in bouts of knowledge-seeking; An almost obsessive \"indulge(nce) (of) an interest\"(Eli Dourado, \"‘Binge Learning’ is Online Education's Killer App\"). This is often within a field in which one already had a strong interest, but may also include seemingly random facts or topics. Can take the form of watching a collection of videos, tutorials, seminars, listening to podcasts, or just browsing Wikipedia or Google Dictionary (now the 'define' keyword). Has some similarities to [binge watching].","> \"I'm so tired. I was up [binge learning] until 2.\"","> \"Haha nice. Did you finish that project tho?\"","> \"No but I could tell you all about alligator bone structures..\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binge listen","sw":"bingelisten","definition":["Consuming an entire podcast series at once (or several episodes at a time until every installment has been heard).","","(similar to [binge watching], but with podcasts)","> I just binge listened to every episode of the Artie Quitter Podcast, so I'm completely caught up with everyone who's been listening to the series, from the beginning.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binge thinking","sw":"bingethinking","definition":["Binge Thinking:","A massive burst of brain activity, mostly useless, in one sitting. This usually leads to temporary memory loss, information poisoning and the lack of sex.","-An adaptation of Binge Drinking by Rob Wasielewski","> That geeky guy got his brain pumped due to binge thinking!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binge learning","sw":"bingelearning","definition":["A tendency to partake in bouts of knowledge-seeking; An almost obsessive \"indulge(nce) (of) an interest\"(Eli Dourado, \"'Binge Learning' is Online Education's Killer App\"). This is often within a field in which one already had a strong interest, but may also include seemingly random facts or topics. Can take the form of watching a collection of videos, tutorials, seminars, listening to podcasts, or just browsing Wikipedia or Google Dictionary (now the 'define' keyword). Has some similarities to [binge watching].","> \"I'm so tired. I was up [binge learning] until 2.\"","> \"Haha nice. Did you finish that project tho?\"","> \"No but I could tell you all about alligator bone structures..\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binge listen","sw":"bingelisten","definition":["Consuming an entire podcast series at once (or several episodes at a time until every installment has been heard).","","(similar to [binge watching], but with podcasts)","> I just binge listened to every episode of the Artie Quitter Podcast, so I'm completely caught up with everyone who's been listening to the series, from the beginning."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binge thinking","sw":"bingethinking","definition":["Binge Thinking:","A massive burst of brain activity, mostly useless, in one sitting. This usually leads to temporary memory loss, information poisoning and the lack of sex.","-An adaptation of Binge Drinking by Rob Wasielewski","> That geeky guy got his brain pumped due to binge thinking!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge viewing","sw":"bingeviewing","definition":[],"translation":["[网络] 狂看片；煲剧族"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge watching","sw":"bingewatching","definition":[],"translation":["刷剧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge-and-purge","sw":"bingeandpurge","definition":[],"translation":["[网络] 暴躁和清除"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1165,7 +1165,7 @@
 {"word":"binge-eating","sw":"bingeeating","definition":[],"translation":["暴食"],"pos":[],"exchange":["s:binge-eatings"],"examples":[],"phonetic":""}
 {"word":"binge-eatings","sw":"bingeeatings","definition":[],"translation":["暴食","(binge-eating 的复数)"],"pos":[],"exchange":["0:binge-eating","1:s"],"examples":[],"phonetic":""}
 {"word":"binge-purge","sw":"bingepurge","definition":[],"translation":["[网络] 吹扫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binge-read","sw":"bingeread","definition":["to read a book (most times for school) in the course of a day. Most times when you were given a long period of time to read the book in the first place.","> I procrastinated on reading \"The Homecoming\" so I had to binge read it.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binge-read","sw":"bingeread","definition":["to read a book (most times for school) in the course of a day. Most times when you were given a long period of time to read the book in the first place.","> I procrastinated on reading \"The Homecoming\" so I had to binge read it."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge-watch","sw":"bingewatch","definition":[],"translation":["vt. 煲剧，刷剧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge-watchable","sw":"bingewatchable","definition":[],"translation":["[网络] 狂欢的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binge-watched","sw":"bingewatched","definition":[],"translation":["[网络] 暴躁的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1336,7 +1336,7 @@
 {"word":"binkying","sw":"binkying","definition":[],"translation":["[网络] 叮咬"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binladin","sw":"binladin","definition":[],"translation":["[网络] 本拉丁；本拉登"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Binley","sw":"binley","definition":[],"translation":["[地名] 宾利 ( 英 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binlike","sw":"binlike","definition":["binlike (comparative more binlike, superlative most binlike)","Resembling or characteristic of a bin.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binlike","sw":"binlike","definition":["binlike (comparative more binlike, superlative most binlike)","Resembling or characteristic of a bin."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binliner","sw":"binliner","definition":[],"translation":["n. 垃圾箱衬袋；垃圾袋","[网络] 垃圾桶袋"],"pos":[],"exchange":["s:binliners"],"examples":[],"phonetic":""}
 {"word":"binliners","sw":"binliners","definition":[],"translation":["[网络] 垃圾袋"],"pos":[],"exchange":["0:binliner","1:s"],"examples":[],"phonetic":""}
 {"word":"Binlong","sw":"binlong","definition":[],"translation":["[地名] 宾隆 ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1362,7 +1362,7 @@
 {"word":"Binnaway","sw":"binnaway","definition":[],"translation":["[地名] 宾纳韦 ( 澳 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binne","sw":"binne","definition":[],"translation":["[网络] 宾莱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binned","sw":"binned","definition":["imp. & p. p. of Bin"],"translation":["v. 扔掉, 丢弃( bin的过去式和过去分词 )"],"pos":[],"exchange":["0:bin","1:pd"],"examples":[],"phonetic":"bind"}
-{"word":"binned it","sw":"binnedit","definition":["To consume a copious amount of alcohol or other substance, and feel extremely ill as a consequence.","> -Where's Des gone?","> -He's binned it.  What a binner.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binned it","sw":"binnedit","definition":["To consume a copious amount of alcohol or other substance, and feel extremely ill as a consequence.","> -Where's Des gone?","> -He's binned it.  What a binner."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binnein mor","sw":"binneinmor","definition":[],"translation":["大宾内恩山"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Binnell","sw":"binnell","definition":[],"translation":["氟草胺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binnema","sw":"binnema","definition":[],"translation":["[网络] 宾纳马"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1657,7 +1657,7 @@
 {"word":"bintons","sw":"bintons","definition":[],"translation":["[网络] 宾腾；彬腾","(binton 的复数)"],"pos":[],"exchange":["0:binton","1:s"],"examples":[],"phonetic":""}
 {"word":"bintree","sw":"bintree","definition":[],"translation":["[计] 二叉查找树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bints","sw":"bints","definition":["plural of bint"],"translation":["(bint 的复数) n. <英><俚><贬>女孩, 女人"],"pos":[],"exchange":["0:bint","1:s"],"examples":[],"phonetic":""}
-{"word":"bintsuke","sw":"bintsuke","definition":["bintsuke (uncountable)","(sumo) a wax, derived from soy, used in cosmetics, and to groom the topknot of a sekitori",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bintsuke","sw":"bintsuke","definition":["bintsuke (uncountable)","(sumo) a wax, derived from soy, used in cosmetics, and to groom the topknot of a sekitori"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bintu","sw":"bintu","definition":[],"translation":["n. = been-to"],"pos":[],"exchange":[],"examples":[],"phonetic":"'bintu"}
 {"word":"Bintuan","sw":"bintuan","definition":[],"translation":["[地名] 宾图安 ( 菲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Bintuhan","sw":"bintuhan","definition":[],"translation":["[地名] 宾图汉 ( 印尼 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1706,14 +1706,14 @@
 {"word":"binzen","sw":"binzen","definition":[],"translation":["[人名] 宾曾; [地名] [德国] 宾岑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"binzer","sw":"binzer","definition":[],"translation":["[网络] 滤材选用美国"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Binzhou","sw":"binzhou","definition":[],"translation":["滨州（中国地名）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"binzuke","sw":"binzuke","definition":["binzuke (uncountable)","Alternative spelling of bintsuke",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"binzuke","sw":"binzuke","definition":["binzuke (uncountable)","Alternative spelling of bintsuke"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Binzwangen","sw":"binzwangen","definition":[],"translation":["[地名] 宾茨旺根 ( 德 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio","sw":"bio","definition":[],"translation":["n. 个人简历, 小传"],"pos":["n:100"],"exchange":["s:bios"],"examples":[],"phonetic":"'baiәu"}
 {"word":"bio battery","sw":"biobattery","definition":[],"translation":["生物电池"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio box","sw":"biobox","definition":[],"translation":["[网络] 名片盒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio boxes","sw":"bioboxes","definition":[],"translation":["[网络] 生物盒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio break","sw":"biobreak","definition":[],"translation":["[网络] 会间小憩；上个厕所"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bio breaks","sw":"biobreaks","definition":["n. Neo-geek terminology for visiting the bathroom, especially when interrupting a meeting/gathering/workflow.","v. performing bodily functions","> Where's Jones? I need him in here now!","> Oh, he's on bio break, but I'll send him right in.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bio breaks","sw":"biobreaks","definition":["n. Neo-geek terminology for visiting the bathroom, especially when interrupting a meeting/gathering/workflow.","v. performing bodily functions","> Where's Jones? I need him in here now!","> Oh, he's on bio break, but I'll send him right in."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio computer","sw":"biocomputer","definition":[],"translation":["生物电脑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio electrical impedance","sw":"bioelectricalimpedance","definition":[],"translation":["生物电阻抗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio feedback","sw":"biofeedback","definition":[],"translation":["生物回馈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1778,7 +1778,7 @@
 {"word":"bio-engineered","sw":"bioengineered","definition":[],"translation":["a. 通过生物工程加工的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-engineering","sw":"bioengineering","definition":[],"translation":["生物工程","生物工程学"],"pos":[],"exchange":["s:bio-engineerings"],"examples":[],"phonetic":""}
 {"word":"bio-engineerings","sw":"bioengineerings","definition":[],"translation":["n. 生物工程；[生物物理] 生物工程学"],"pos":[],"exchange":["0:bio-engineering","1:s"],"examples":[],"phonetic":",baɪəʊendʒɪ'nɪərɪŋ"}
-{"word":"bio-fam","sw":"biofam","definition":["Biological family. This is the family your stuck with because you're related. This sets them apart from our ideal family which may contain friends not related to us. Many people have close friends who are like a father, brother, sister, etc. to them and are thus thought of like a family.","> I have to spend Thanksgiving with my biofam but I'll be back to see my real family soon.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bio-fam","sw":"biofam","definition":["Biological family. This is the family your stuck with because you're related. This sets them apart from our ideal family which may contain friends not related to us. Many people have close friends who are like a father, brother, sister, etc. to them and are thus thought of like a family.","> I have to spend Thanksgiving with my biofam but I'll be back to see my real family soon."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-feedback","sw":"biofeedback","definition":[],"translation":["生物反馈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-fertilizer","sw":"biofertilizer","definition":[],"translation":["生物肥料"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-filter","sw":"biofilter","definition":[],"translation":["[医]生物过滤器, 生物滤池"],"pos":[],"exchange":["s:bio-filters"],"examples":[],"phonetic":"'bi:əʊf'ɪltər"}
@@ -1817,7 +1817,7 @@
 {"word":"bio-medicals","sw":"biomedicals","definition":[],"translation":["adj. 生物医学的","(bio-medical 的复数)"],"pos":[],"exchange":["0:bio-medical","1:s"],"examples":[],"phonetic":""}
 {"word":"bio-methane","sw":"biomethane","definition":[],"translation":["生质物气体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-microprocessor","sw":"biomicroprocessor","definition":[],"translation":["生物芯片"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bio-mom","sw":"biomom","definition":["Biological parent; woman who gave birth to child","> [bio mom]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bio-mom","sw":"biomom","definition":["Biological parent; woman who gave birth to child","> [bio mom]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-occlusion","sw":"bioocclusion","definition":[],"translation":["[医] 生理Ж, 正常Ж"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-oil","sw":"biooil","definition":[],"translation":["[网络] 生物油；万能生物油；万能油"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bio-oils","sw":"biooils","definition":[],"translation":["[网络] 生物油"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2008,7 +2008,7 @@
 {"word":"bioassessment","sw":"bioassessment","definition":[],"translation":["[网络] 生物评价"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioassessments","sw":"bioassessments","definition":[],"translation":["[网络] 生物评估"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioassimilability","sw":"bioassimilability","definition":[],"translation":["[网络] 生物可触觉性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bioassimilable","sw":"bioassimilable","definition":["bioassimilable (comparative more bioassimilable, superlative most bioassimilable)","That can be assimilated by a biological system",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bioassimilable","sw":"bioassimilable","definition":["bioassimilable (comparative more bioassimilable, superlative most bioassimilable)","That can be assimilated by a biological system"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioastronautic","sw":"bioastronautic","definition":[],"translation":["a. 生物航天学的"],"pos":[],"exchange":[],"examples":[],"phonetic":",baiәu,æstrә'nɔ:tik"}
 {"word":"bioastronautical","sw":"bioastronautical","definition":[],"translation":["生物航天学的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioastronautics","sw":"bioastronautics","definition":[],"translation":["n. 太空医学"],"pos":[],"exchange":[],"examples":[],"phonetic":",baiәu,æstrә'nɔ:tiks"}
@@ -2906,7 +2906,7 @@
 {"word":"biogel","sw":"biogel","definition":[],"translation":["[化] 生物凝胶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biogelatin","sw":"biogelatin","definition":[],"translation":["生物明胶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biogen","sw":"biogen","definition":["n. Bioplasm."],"translation":["[医] 生原体, 初浆体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"biogender","sw":"biogender","definition":["biogender (plural biogenders)","biological gender",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"biogender","sw":"biogender","definition":["biogender (plural biogenders)","biological gender"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biogene","sw":"biogene","definition":[],"translation":["生源体,生命素,初浆体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biogeneous sediment","sw":"biogeneoussediment","definition":[],"translation":["[海洋 地质] 生物源沉积物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biogeneric","sw":"biogeneric","definition":[],"translation":["[网络] 学名药；基因工程学名药；生物通用名药"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3076,7 +3076,7 @@
 {"word":"biographees","sw":"biographees","definition":["plural of biographee"],"translation":["(biographee 的复数) n. 传记中的主人公"],"pos":[],"exchange":["0:biographee","1:s"],"examples":[],"phonetic":""}
 {"word":"biographer","sw":"biographer","definition":["n. someone who writes an account of a person's life"],"translation":["n. 传记作者"],"pos":["n:100"],"exchange":["s:biographers"],"examples":["As Dr Johnson's biographer, Boswell became quite famous in his own right.","She is a very interested, interesting and sympathetic biographer.","Boswell was Dr. Johnson's biographer."],"phonetic":"baɪˈɒɡrəfə(r)|baɪˈɑːɡrəfər"}
 {"word":"biographers","sw":"biographers","definition":["n. someone who writes an account of a person's life"],"translation":["n. 传记作者( biographer的复数形式 )"],"pos":[],"exchange":["0:biographer","1:s"],"examples":[],"phonetic":"baiˈɔɡrəfəz"}
-{"word":"biographette","sw":"biographette","definition":["biographette (plural biographettes)","A short biography.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"biographette","sw":"biographette","definition":["biographette (plural biographettes)","A short biography."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biographettes","sw":"biographettes","definition":[],"translation":["[网络] 生物影像"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biographia","sw":"biographia","definition":[],"translation":["[网络] 传记；文学自传"],"pos":[],"exchange":["s:biographias"],"examples":[],"phonetic":""}
 {"word":"biographias","sw":"biographias","definition":[],"translation":["[网络] 传记；文学自传","(biographia 的复数)"],"pos":[],"exchange":["0:biographia","1:s"],"examples":[],"phonetic":""}
@@ -3553,7 +3553,7 @@
 {"word":"biological flotation","sw":"biologicalflotation","definition":[],"translation":["生物浮选"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biological fluid mechanics","sw":"biologicalfluidmechanics","definition":[],"translation":["[化] 生物流体力学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biological fluidized bed","sw":"biologicalfluidizedbed","definition":[],"translation":["物流化床"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"biological footprint","sw":"biologicalfootprint","definition":["The amount of offspring you bring into this world.","> Dude, keep it wrapped, your biological footprint is already too big.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"biological footprint","sw":"biologicalfootprint","definition":["The amount of offspring you bring into this world.","> Dude, keep it wrapped, your biological footprint is already too big."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biological form","sw":"biologicalform","definition":[],"translation":["生物学类型"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biological formation of soil","sw":"biologicalformationofsoil","definition":[],"translation":["[土壤] 生物成土作用"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biological fouling","sw":"biologicalfouling","definition":[],"translation":["物污染"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4659,7 +4659,7 @@
 {"word":"biopreparations","sw":"biopreparations","definition":[],"translation":["[网络] 生物制剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biopreservation","sw":"biopreservation","definition":[],"translation":["[网络] 化学防腐剂之生物性保存法；生物保鲜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biopriming","sw":"biopriming","definition":[],"translation":["[网络] 生物引发"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bioprint","sw":"bioprint","definition":["bioprint (third-person singular simple present bioprints, present participle bioprinting, simple past and past participle bioprinted)","(transitive) To 3D print a biological structure (a tissue, an organ, etc.) using a bioprinter.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bioprint","sw":"bioprint","definition":["bioprint (third-person singular simple present bioprints, present participle bioprinting, simple past and past participle bioprinted)","(transitive) To 3D print a biological structure (a tissue, an organ, etc.) using a bioprinter."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioprintable","sw":"bioprintable","definition":[],"translation":["[网络] 生物打印"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioprinter","sw":"bioprinter","definition":[],"translation":["[网络] 生物打印机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioprinters","sw":"bioprinters","definition":[],"translation":["[网络] 生物打印机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4761,8 +4761,8 @@
 {"word":"biopticon","sw":"biopticon","definition":[],"translation":["[网络] 生物图谱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"biopticons","sw":"biopticons","definition":[],"translation":["[网络] 生物资源"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioptics","sw":"bioptics","definition":[],"translation":["adj. 【外科学】活组织检查的"],"pos":[],"exchange":[],"examples":[],"phonetic":"bai'ɔptik"}
-{"word":"bioptikon","sw":"bioptikon","definition":["A cyberpunk term for \"spectacles\" (glasses). The term originated in the New York cyberpoetic scene in the early to mid-1990s. Its advantage over spectacles was that it could be used as a singular.","> The boy put on his bioptikon so that he could read the book.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bioptikons","sw":"bioptikons","definition":["A cyberpunk term for \"spectacles\" (glasses). The term originated in the New York cyberpoetic scene in the early to mid-1990s. Its advantage over spectacles was that it could be used as a singular.","> The boy put on his bioptikon so that he could read the book.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bioptikon","sw":"bioptikon","definition":["A cyberpunk term for \"spectacles\" (glasses). The term originated in the New York cyberpoetic scene in the early to mid-1990s. Its advantage over spectacles was that it could be used as a singular.","> The boy put on his bioptikon so that he could read the book."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bioptikons","sw":"bioptikons","definition":["A cyberpunk term for \"spectacles\" (glasses). The term originated in the New York cyberpoetic scene in the early to mid-1990s. Its advantage over spectacles was that it could be used as a singular.","> The boy put on his bioptikon so that he could read the book."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioptix","sw":"bioptix","definition":[],"translation":["电流式色温[度]计"],"pos":[],"exchange":[],"examples":[],"phonetic":"bai'ɔptiks"}
 {"word":"bioptix pyrometer","sw":"bioptixpyrometer","definition":[],"translation":["比色光学高温计"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bioptome","sw":"bioptome","definition":[],"translation":["[网络] 活检力；心肌活检钳；心肌切片钳"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

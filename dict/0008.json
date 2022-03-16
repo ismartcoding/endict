@@ -782,7 +782,7 @@
 {"word":"actus","sw":"actus","definition":[],"translation":["[法] 诉讼, 行为, 法案"],"pos":[],"exchange":["s:actuss"],"examples":[],"phonetic":""}
 {"word":"actus legitimus","sw":"actuslegitimus","definition":[],"translation":["[法] 合法行为"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"actus purus","sw":"actuspurus","definition":[],"translation":["[网络] 纯粹现实；纯现实；纯粹行动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"actus rei","sw":"actusrei","definition":["actus rei pl","plural of actus reus",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"actus rei","sw":"actusrei","definition":["actus rei pl","plural of actus reus"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"actus reus","sw":"actusreus","definition":[],"translation":["[法] 被告的行为, 犯罪行为, 犯罪意图"],"pos":[],"exchange":["s:actus reuss"],"examples":[],"phonetic":""}
 {"word":"actus reuss","sw":"actusreuss","definition":[],"translation":["[法] 被告的行为, 犯罪行为, 犯罪意图","(actus reus 的复数)"],"pos":[],"exchange":["0:actus reus","1:s"],"examples":[],"phonetic":""}
 {"word":"actuss","sw":"actuss","definition":[],"translation":["福可定,福尔可定"],"pos":[],"exchange":["0:actus","1:s"],"examples":[],"phonetic":""}
@@ -1830,7 +1830,7 @@
 {"word":"acyanoblepsy","sw":"acyanoblepsy","definition":[],"translation":["蓝色盲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyanoblupsia","sw":"acyanoblupsia","definition":[],"translation":["(=acyanopsia)蓝色盲"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә,saiәnә'blepsiә"}
 {"word":"acyanogenic","sw":"acyanogenic","definition":[],"translation":["[网络] 致癌"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acyanophilous","sw":"acyanophilous","definition":["acyanophilous (comparative more acyanophilous, superlative most acyanophilous)","(mycology) Having cell walls that do not readily absorb cotton blue stain.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acyanophilous","sw":"acyanophilous","definition":["acyanophilous (comparative more acyanophilous, superlative most acyanophilous)","(mycology) Having cell walls that do not readily absorb cotton blue stain."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyanopsia","sw":"acyanopsia","definition":[],"translation":["[医] 蓝色盲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyanotic","sw":"acyanotic","definition":[],"translation":["不发绀的"],"pos":[],"exchange":[],"examples":[],"phonetic":"ei,saiә'nɔtik"}
 {"word":"acyanotic chronic bronchitis","sw":"acyanoticchronicbronchitis","definition":[],"translation":["非紫绀型慢性支气管炎"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2050,11 +2050,11 @@
 {"word":"acyoblepsia","sw":"acyoblepsia","definition":[],"translation":["[医] 蓝色盲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyolic compound","sw":"acyoliccompound","definition":[],"translation":["脂族化合物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyolic compounds","sw":"acyoliccompounds","definition":[],"translation":["[机] 肪脂族化合物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acyrologia","sw":"acyrologia","definition":["acyrologia (uncountable)","(rhetoric) inexact, inappropriate or improper use of a word","malapropism",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acyrologia","sw":"acyrologia","definition":["acyrologia (uncountable)","(rhetoric) inexact, inappropriate or improper use of a word","malapropism"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyrological","sw":"acyrological","definition":[],"translation":["[网络] 病理学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyrologically","sw":"acyrologically","definition":[],"translation":["[网络] 占星术"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyrology","sw":"acyrology","definition":[],"translation":["[网络] 病理学"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"acyron","sw":"acyron","definition":["acyron (uncountable)","The use of words incompatible with or contrary to the speaker's meaning.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"acyron","sw":"acyron","definition":["acyron (uncountable)","The use of words incompatible with or contrary to the speaker's meaning."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyrthosiphon evodia","sw":"acyrthosiphonevodia","definition":[],"translation":["山刈蚜虫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"acyrthosiphon pisum","sw":"acyrthosiphonpisum","definition":[],"translation":["碗豆蚜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Acyrtops","sw":"acyrtops","definition":[],"translation":["翡翠喉盘鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2275,7 +2275,7 @@
 {"word":"ad melius inquirendum","sw":"admeliusinquirendum","definition":[],"translation":["[法] 复验尸体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ad misericordiam","sw":"admisericordiam","definition":[],"translation":["[网络] 感性论证；文不对题；掺加同情"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ad modum","sw":"admodum","definition":[],"translation":["[拉丁语]以…方式，按照…方式，模仿；类似，像"],"pos":[],"exchange":[],"examples":[],"phonetic":"æd 'məudəm"}
-{"word":"ad modum Donders","sw":"admodumdonders","definition":["ad modum Donders (not comparable)","(neurology) Of vision, by the Donders standards.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"ad modum Donders","sw":"admodumdonders","definition":["ad modum Donders (not comparable)","(neurology) Of vision, by the Donders standards."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ad nauseam","sw":"adnauseam","definition":[],"translation":["令人作呕地","[医] 至恶心为度"],"pos":[],"exchange":[],"examples":[],"phonetic":"æd 'nɔ:ziæm"}
 {"word":"ad nauseum","sw":"adnauseum","definition":[],"translation":["[网络] 令人作呕"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ad network","sw":"adnetwork","definition":[],"translation":["广告平台，广告网络"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2614,7 +2614,7 @@
 {"word":"adamantoblast","sw":"adamantoblast","definition":[],"translation":["成釉细胞"],"pos":[],"exchange":[],"examples":[],"phonetic":",ædә'mæntɔblɑ:st"}
 {"word":"adamantoblastoma","sw":"adamantoblastoma","definition":[],"translation":["成釉细胞瘤"],"pos":[],"exchange":[],"examples":[],"phonetic":",ædә'mæntәblæs'tәumә"}
 {"word":"adamantoblasts","sw":"adamantoblasts","definition":[],"translation":["成釉细胞"],"pos":[],"exchange":[],"examples":[],"phonetic":",ædə'mæntɔblɑ:st, -blæst"}
-{"word":"adamantoid","sw":"adamantoid","definition":["adamantoid (plural adamantoids)","A crystal characterized by being bound by 48 equal triangles; a hexoctahedron.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"adamantoid","sw":"adamantoid","definition":["adamantoid (plural adamantoids)","A crystal characterized by being bound by 48 equal triangles; a hexoctahedron."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamantoids","sw":"adamantoids","definition":[],"translation":["[网络] adamantoise"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamantoma","sw":"adamantoma","definition":[],"translation":["[医] 釉质[上皮]瘤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamants","sw":"adamants","definition":[],"translation":["adj. 坚决的；坚硬的","n. 坚硬无比的东西；【地】硬石(指金刚石等)","[网络] 固执的；坚定的；坚定不移的"],"pos":[],"exchange":["0:adamant","1:s"],"examples":[],"phonetic":"'ædəmənt"}
@@ -2630,7 +2630,7 @@
 {"word":"adamas dentis","sw":"adamasdentis","definition":[],"translation":["[医] 牙釉质"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamastor","sw":"adamastor","definition":[],"translation":["[网络] 阿达马斯托尔；达马斯多"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamate","sw":"adamate","definition":[],"translation":["[网络] 坚持"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Adamatic","sw":"adamatic","definition":["to be beast, and or awesome. replaces automatic when used or talked about with the name adam","> dude he (adam) changed his clip adamaticly.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Adamatic","sw":"adamatic","definition":["to be beast, and or awesome. replaces automatic when used or talked about with the name adam","> dude he (adam) changed his clip adamaticly."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamatinoma","sw":"adamatinoma","definition":[],"translation":["成釉细胞瘤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adamawa","sw":"adamawa","definition":[],"translation":["n. (西非)阿达马瓦语(属尼日尔—科尔多凡语系尼日尔—刚果语族)"],"pos":[],"exchange":["s:adamawas"],"examples":[],"phonetic":",ædə'mɑ:wɔ"}
 {"word":"Adamawa Massif","sw":"adamawamassif","definition":[],"translation":["n. 阿达马瓦高原(非洲中西部的广阔高原, 位于喀麦隆中北部及尼日利亚东部)"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˌædəˈmɑ:wə"}
@@ -3465,7 +3465,7 @@
 {"word":"Adazine","sw":"adazine","definition":[],"translation":["三氟丙嗪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"adazzle","sw":"adazzle","definition":[],"translation":["[网络] 令人眼花缭乱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ADB","sw":"adb","definition":[],"translation":["亚洲开发银行"],"pos":[],"exchange":["s:adbs"],"examples":[],"phonetic":""}
-{"word":"adbasal","sw":"adbasal","definition":["adbasal (not comparable)","towards a base",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"adbasal","sw":"adbasal","definition":["adbasal (not comparable)","towards a base"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ADBB","sw":"adbb","definition":[],"translation":["[网络] 傝"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"ADBC","sw":"adbc","definition":[],"translation":["[=Adriamycin,DTIC,bleomycin,CCNU]阿霉素、氮烯唑胺、博莱霉素、环基亚硝脲"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Adbeel","sw":"adbeel","definition":[],"translation":["[网络] 亚德别"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3924,7 +3924,7 @@
 {"word":"addice","sw":"addice","definition":[],"translation":["[网络] 加点冰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addicent","sw":"addicent","definition":[],"translation":["[网络] 加味剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addices","sw":"addices","definition":[],"translation":["[网络] 加法器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Addick","sw":"addick","definition":["An addict with an addiction for dicks.","> This slut is so horny she'd do anything for some dick. Fucking addick whore quit being so easy. You're hornier than me.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Addick","sw":"addick","definition":["An addict with an addiction for dicks.","> This slut is so horny she'd do anything for some dick. Fucking addick whore quit being so easy. You're hornier than me."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addicks","sw":"addicks","definition":[],"translation":["[人名] 阿迪克斯; [地名] [美国] 阿迪克斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addicott","sw":"addicott","definition":[],"translation":["[人名] 阿迪科特"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addict","sw":"addict","definition":["n. someone who is so ardently devoted to something that it resembles an addiction","n. someone who is physiologically dependent on a substance; abrupt deprivation of the substance produces withdrawal symptoms","v. to cause (someone or oneself) to become dependent (on something, especially a narcotic drug)"],"translation":["vt. 使沉溺, 使上瘾","n. 入迷的人, 上瘾者"],"pos":["v:37","n:63"],"exchange":["d:addicted","s:addicts","i:addicting","p:addicted","3:addicts"],"examples":["Many young boys become computer addicts.","I used to be a video game addict—I literally spent all my free time playing games.","I'm a chocolate/shopping addict."],"phonetic":"ˈædɪkt|ˈædɪkt"}
@@ -4646,7 +4646,7 @@
 {"word":"addititious","sw":"addititious","definition":[],"translation":["[网络] 补充的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"additivate","sw":"additivate","definition":[],"translation":["v.给"],"pos":[],"exchange":[],"examples":[],"phonetic":"ædɪtɪ'veɪt"}
 {"word":"additivated","sw":"additivated","definition":[],"translation":["加添加剂的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"additive","sw":"additive","definition":["n. something added to enhance food or gasoline or paint or medicine","a. characterized or produced by addition"],"translation":["a. 添加的, 附加的, 加法的, 累积的","n. 添加物"],"pos":["j:50","n:50"],"exchange":["s:additives"],"examples":["The classification of additives by ‘E’ number is made under an EU directive.","Let Z be the additive group of integers.","The strategy is applicable to single-winner voting systems that are additive point systems.","Creating colors on a screen is an additive process, in which the primary colors are red, green, and blue.","Jenkins predicted a powerful additive effect might occur when these cholesterol-lowering foods are combined.","RA is an additive polyarthritis. This means that it affects more joints as time passes.","Additives keep certain foods fresh.","This paint has an additive that keeps mold from growing on it."],"phonetic":"ˈædətɪv|ˈædətɪv"}
+{"word":"additive","sw":"additive","definition":["n. something added to enhance food or gasoline or paint or medicine","a. characterized or produced by addition"],"translation":["a. 添加的, 附加的, 加法的, 累积的","n. 添加物"],"pos":["j:50","n:50"],"exchange":["s:additives"],"examples":["The classification of additives by \"E\" number is made under an EU directive.","Let Z be the additive group of integers.","The strategy is applicable to single-winner voting systems that are additive point systems.","Creating colors on a screen is an additive process, in which the primary colors are red, green, and blue.","Jenkins predicted a powerful additive effect might occur when these cholesterol-lowering foods are combined.","RA is an additive polyarthritis. This means that it affects more joints as time passes.","Additives keep certain foods fresh.","This paint has an additive that keeps mold from growing on it."],"phonetic":"ˈædətɪv|ˈædətɪv"}
 {"word":"additive action","sw":"additiveaction","definition":[],"translation":["相加作用"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"additive action of genes","sw":"additiveactionofgenes","definition":[],"translation":["基因加性作用"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"additive agent","sw":"additiveagent","definition":[],"translation":["添加剂"],"pos":[],"exchange":[],"examples":[],"phonetic":"ˈæditiv ˈeidʒənt"}
@@ -4925,12 +4925,12 @@
 {"word":"addo","sw":"addo","definition":[],"translation":["[地名] [南非共和国] 阿多"],"pos":[],"exchange":["s:addoes"],"examples":[],"phonetic":""}
 {"word":"Addo Elephant National Park","sw":"addoelephantnationalpark","definition":[],"translation":["[网络] 阿多国家大象公园；阿多大象国家公园；阿多大象园"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addoes","sw":"addoes","definition":[],"translation":["[地名] [南非共和国] 阿多","(addo 的复数)"],"pos":[],"exchange":["0:addo","1:s"],"examples":[],"phonetic":""}
-{"word":"addolorato","sw":"addolorato","definition":["addolorato (plural addoloratos)","(music) A tempo mark directing that a passage is to be played sorrowfully.","(music) A passage having this mark.","","","addolorato (not comparable)","(music) Played in this style.","","","addolorato (not comparable)","(music) Describing a passage having this mark.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"addolorato","sw":"addolorato","definition":["addolorato (plural addoloratos)","(music) A tempo mark directing that a passage is to be played sorrowfully.","(music) A passage having this mark.","","","addolorato (not comparable)","(music) Played in this style.","","","addolorato (not comparable)","(music) Describing a passage having this mark."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addometer","sw":"addometer","definition":[],"translation":["加算器"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'dɔmitә"}
 {"word":"addon","sw":"addon","definition":[],"translation":["n. 插件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addonizio","sw":"addonizio","definition":[],"translation":["[人名] 阿多尼西奥"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addons","sw":"addons","definition":[],"translation":["[网络] 插件；插件存放文件夹；魔兽世界插件"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"addoom","sw":"addoom","definition":["addoom (third-person singular simple present addooms, present participle addooming, simple past and past participle addoomed)","(obsolete) To adjudge.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"addoom","sw":"addoom","definition":["addoom (third-person singular simple present addooms, present participle addooming, simple past and past participle addoomed)","(obsolete) To adjudge."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addoomed","sw":"addoomed","definition":[],"translation":["[网络] 加了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addooming","sw":"addooming","definition":[],"translation":["[网络] 添加"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"addorsal","sw":"addorsal","definition":[],"translation":["向背的"],"pos":[],"exchange":[],"examples":[],"phonetic":"æ'dɔ:sәl"}

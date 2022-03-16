@@ -275,9 +275,9 @@
 {"word":"moneyfied","sw":"moneyfied","definition":[],"translation":["[网络] 赚钱"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"moneyful","sw":"moneyful","definition":[],"translation":["[网络] 有钱的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Moneygall","sw":"moneygall","definition":[],"translation":["[地名] 莫尼高尔 ( 爱 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Moneygeddon","sw":"moneygeddon","definition":["Moneygeddon","(often humorous, neologism) The late-2000s world economic recession.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"mə'nēgĕʹdŭn, IPA: /ˌməniːˈɡɛdʌn/"}
+{"word":"Moneygeddon","sw":"moneygeddon","definition":["Moneygeddon","(often humorous, neologism) The late-2000s world economic recession."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"mə'nēgĕʹdŭn, IPA: /ˌməniːˈɡɛdʌn/"}
 {"word":"moneygrabbers","sw":"moneygrabbers","definition":[],"translation":["[网络] 金钱掠夺者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"moneygrabbing","sw":"moneygrabbing","definition":[],"translation":["adj. 敛财",""],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌniːɡ'ræbɪŋ"}
+{"word":"moneygrabbing","sw":"moneygrabbing","definition":[],"translation":["adj. 敛财"],"pos":[],"exchange":[],"examples":[],"phonetic":"mʌniːɡ'ræbɪŋ"}
 {"word":"moneygram","sw":"moneygram","definition":[],"translation":["[网络] 速汇金；速汇金业务；速汇金国际有限公司"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"moneygrubber","sw":"moneygrubber","definition":["n. someone whose main interest in life is moneymaking"],"translation":["n. 守财奴"],"pos":[],"exchange":["s:moneygrubbers"],"examples":[],"phonetic":"'mʌni.grʌbә"}
 {"word":"moneygrubbers","sw":"moneygrubbers","definition":[],"translation":["na. 贪财谋利的人","[网络] 财迷；守财奴；英文相关词典"],"pos":[],"exchange":["0:moneygrubber","1:s"],"examples":[],"phonetic":""}
@@ -411,7 +411,7 @@
 {"word":"Mongo Nyanga","sw":"mongonyanga","definition":[],"translation":["[地名] 蒙戈尼扬加 ( 加蓬 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Mongocheyakha","sw":"mongocheyakha","definition":[],"translation":["[地名] 蒙戈切亚哈河 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MongoDB","sw":"mongodb","definition":[],"translation":["[网络] 数据库；文档数据库；常用命令"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mongoed","sw":"mongoed","definition":["To be intoxicated, usually involving large amounts of cannabis and/or smacky pills.","> Sorry I'm not much chat here but I'm fuckin mongoed man",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mongoed","sw":"mongoed","definition":["To be intoxicated, usually involving large amounts of cannabis and/or smacky pills.","> Sorry I'm not much chat here but I'm fuckin mongoed man"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mongoes","sw":"mongoes","definition":[],"translation":["[网络] 芒果"],"pos":[],"exchange":["0:mongo","1:s"],"examples":[],"phonetic":""}
 {"word":"mongoing","sw":"mongoing","definition":[],"translation":["n. 蒙戈(蒙古人民共和国货币单位)；蒙戈硬币"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mɒŋgəʊ"}
 {"word":"mongol","sw":"mongol","definition":["n. a member of the nomadic peoples of Mongolia","a. of or relating to the region of Mongolia or its people or their languages or cultures"],"translation":["n. 先天愚型病患者"],"pos":["j:42","n:58"],"exchange":["s:mongols"],"examples":[],"phonetic":"'mɔŋ^ɔl"}
@@ -1110,8 +1110,8 @@
 {"word":"monja","sw":"monja","definition":[],"translation":["[网络] 文字烧(monja-yaki)；艋呷台客；猛呷"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Monjamba","sw":"monjamba","definition":[],"translation":["蒙然巴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Monjas","sw":"monjas","definition":[],"translation":["[地名] 蒙哈斯 ( 墨、危 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monjita","sw":"monjita","definition":["monjita (plural monjitas)","Any of several birds in the genus Xolmis in the tyrant flycatcher family.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monjitas","sw":"monjitas","definition":["monjitas","plural of monjita",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monjita","sw":"monjita","definition":["monjita (plural monjitas)","Any of several birds in the genus Xolmis in the tyrant flycatcher family."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monjitas","sw":"monjitas","definition":["monjitas","plural of monjita"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Monjolos","sw":"monjolos","definition":[],"translation":["[地名] 蒙若卢斯 ( 巴西 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monju","sw":"monju","definition":[],"translation":["[网络] 文殊；文殊堆；文珠"],"pos":[],"exchange":["s:monjus"],"examples":[],"phonetic":""}
 {"word":"Monjurosuchus","sw":"monjurosuchus","definition":[],"translation":["满洲鳄, 文珠鳄；满州鳄"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1172,7 +1172,7 @@
 {"word":"monkey cooler","sw":"monkeycooler","definition":[],"translation":["渣口冷却器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey cup","sw":"monkeycup","definition":[],"translation":["n. 猪笼草,瓶子草"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey cups","sw":"monkeycups","definition":[],"translation":["[网络] 猴子杯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey dance","sw":"monkeydance","definition":["The act of sex or making love.","> Hey, do you want to monkey dance?",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey dance","sw":"monkeydance","definition":["The act of sex or making love.","> Hey, do you want to monkey dance?"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey disease","sw":"monkeydisease","definition":[],"translation":["[兽医] 猴病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey dog","sw":"monkeydog","definition":[],"translation":["[网络] 猴子狗"],"pos":[],"exchange":["s:monkey dogs"],"examples":[],"phonetic":""}
 {"word":"monkey dogs","sw":"monkeydogs","definition":[],"translation":["[网络] 猴子狗","(monkey dog 的复数)"],"pos":[],"exchange":["0:monkey dog","1:s"],"examples":[],"phonetic":""}
@@ -1192,10 +1192,10 @@
 {"word":"monkey forecastle vessel","sw":"monkeyforecastlevessel","definition":[],"translation":["[网络] 低首楼甲板船；短艏楼型船"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey foresail","sw":"monkeyforesail","definition":[],"translation":["前桅方帆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey frame","sw":"monkeyframe","definition":[],"translation":["上导轮平台"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey fuck","sw":"monkeyfuck","definition":["v. to light a cigarette with one that is already burning. (I take issue with the other definition because it does not use the phrase verbally)","> Sheila monkey fucked my cigarette.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey fucked","sw":"monkeyfucked","definition":["When you have a thought, then something totally ridiculous happens, and you COMPLETELY loose that thought. You were just monkey fucked.","> You are sitting at a bar talking about some stupid bullshit, and then a car out side EXPLODES:","> Person 1: Yeah man, so I was on my way to...","> Car: BOOOOOOM!!","> Person 2: Holy shit! ...What were you saying?","> Person 1:... I have no idea.","> Person 2: You been monkey fucked, fool.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey fucking","sw":"monkeyfucking","definition":["Adjective used to refer to a person usually male who will have sex with any woman. Someone who is so indiscriminate that they would fuck a female monkey. Eventually its use was broadened so that it became used to describe anyone whose habits are unpleasant, unsavoury or just plain weird.","> \"Malcolm, you are, without doubt, the most useless cunt eyed, shit-licking, monkey fucking, piss-brained, ass kissing, fuck witted WOSP in the world!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey fucks","sw":"monkeyfucks","definition":["v. to light a cigarette with one that is already burning. (I take issue with the other definition because it does not use the phrase verbally)","> Sheila monkey fucked my cigarette.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey fuck","sw":"monkeyfuck","definition":["v. to light a cigarette with one that is already burning. (I take issue with the other definition because it does not use the phrase verbally)","> Sheila monkey fucked my cigarette."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey fucked","sw":"monkeyfucked","definition":["When you have a thought, then something totally ridiculous happens, and you COMPLETELY loose that thought. You were just monkey fucked.","> You are sitting at a bar talking about some stupid bullshit, and then a car out side EXPLODES:","> Person 1: Yeah man, so I was on my way to...","> Car: BOOOOOOM!!","> Person 2: Holy shit! ...What were you saying?","> Person 1:... I have no idea.","> Person 2: You been monkey fucked, fool."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey fucking","sw":"monkeyfucking","definition":["Adjective used to refer to a person usually male who will have sex with any woman. Someone who is so indiscriminate that they would fuck a female monkey. Eventually its use was broadened so that it became used to describe anyone whose habits are unpleasant, unsavoury or just plain weird.","> \"Malcolm, you are, without doubt, the most useless cunt eyed, shit-licking, monkey fucking, piss-brained, ass kissing, fuck witted WOSP in the world!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey fucks","sw":"monkeyfucks","definition":["v. to light a cigarette with one that is already burning. (I take issue with the other definition because it does not use the phrase verbally)","> Sheila monkey fucked my cigarette."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey gaff","sw":"monkeygaff","definition":[],"translation":["un. 信号旗斜杆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey gland","sw":"monkeygland","definition":[],"translation":["[网络] 猴腺；猴子腺体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey hammer","sw":"monkeyhammer","definition":[],"translation":["落锤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1206,7 +1206,7 @@
 {"word":"monkey heading","sw":"monkeyheading","definition":[],"translation":["窄小巷道"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey hook","sw":"monkeyhook","definition":[],"translation":["桩头钩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey house","sw":"monkeyhouse","definition":[],"translation":["[网络] 猴子之家酒店；猴山子民宿；猴子屋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey humping a football","sw":"monkeyhumpingafootball","definition":["monkey humping a football","(vulgar) Energetic but useless action, or a person engaged in such action.","(vulgar) A manner of riding a horse, motorcycle or other vehicle, in which the rider crouches forward and may bounce in the saddle.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey humping a football","sw":"monkeyhumpingafootball","definition":["monkey humping a football","(vulgar) Energetic but useless action, or a person engaged in such action.","(vulgar) A manner of riding a horse, motorcycle or other vehicle, in which the rider crouches forward and may bounce in the saddle."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey in the middle","sw":"monkeyinthemiddle","definition":[],"translation":["n. 过顶传球（儿童游戏，由两人抛传球，中间一人争抢）","[网络] 猴子在中间；逗瓜"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey island","sw":"monkeyisland","definition":[],"translation":["罗经平台"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey jack","sw":"monkeyjack","definition":[],"translation":["打椿起重器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1222,7 +1222,7 @@
 {"word":"monkey malaria","sw":"monkeymalaria","definition":[],"translation":["[医] 猴疟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey meat","sw":"monkeymeat","definition":[],"translation":["牛肉罐头,罐装牛肉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey money","sw":"monkeymoney","definition":[],"translation":["[经] 公司的临时股票, 外国货币"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey motion","sw":"monkeymotion","definition":["A lot of needless, senseless, non-value added activity; use of this expression should invoke images of a monkey masturbating on top of a boulder.","> \"You need to quit all that monkey motion and get a goddamn job.\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey motion","sw":"monkeymotion","definition":["A lot of needless, senseless, non-value added activity; use of this expression should invoke images of a monkey masturbating on top of a boulder.","> \"You need to quit all that monkey motion and get a goddamn job.\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey nut","sw":"monkeynut","definition":[],"translation":["n. 落花生"],"pos":[],"exchange":["s:monkey nuts"],"examples":[],"phonetic":"ˈmʌŋki nʌt"}
 {"word":"monkey nuts","sw":"monkeynuts","definition":[],"translation":["落花生,花生"],"pos":[],"exchange":["0:monkey nut","1:s"],"examples":[],"phonetic":""}
 {"word":"monkey of pile driver","sw":"monkeyofpiledriver","definition":[],"translation":["打桩机桩锤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1257,7 +1257,7 @@
 {"word":"monkey shaft","sw":"monkeyshaft","definition":[],"translation":["暗井"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey slug","sw":"monkeyslug","definition":[],"translation":["[网络] 猴子s"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey sort","sw":"monkeysort","definition":[],"translation":["猴子排序"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkey spank","sw":"monkeyspank","definition":["Male masturbation.","> \"I have some extra time...for a monkey spank!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkey spank","sw":"monkeyspank","definition":["Male masturbation.","> \"I have some extra time...for a monkey spank!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey spanner","sw":"monkeyspanner","definition":[],"translation":["[化] 活动扳手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey spar","sw":"monkeyspar","definition":[],"translation":["小桅杆,小横桁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkey spoon","sw":"monkeyspoon","definition":[],"translation":["[网络] 猴子勺子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1342,7 +1342,7 @@
 {"word":"monkeyry","sw":"monkeyry","definition":[],"translation":["[网络] 猴子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkeys","sw":"monkeys","definition":["n any of various long-tailed primates (excluding the prosimians)","n one who is playfully mischievous","v play around with or alter or falsify, usually secretively or dishonestly","v do random, unplanned work or activities or spend time idly"],"translation":["n. 猴子（monkey的复数）"],"pos":[],"exchange":["0:monkey","1:s"],"examples":[],"phonetic":""}
 {"word":"monkeys around","sw":"monkeysaround","definition":[],"translation":["v. 胡闹；戏弄"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monkeys might fly out of my butt","sw":"monkeysmightflyoutofmybutt","definition":["monkeys might fly out of my butt","(idiomatic, vulgar) usually used as a response (often with hint of sarcasm) to a situation that you think there is no chance of ever occurring",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monkeys might fly out of my butt","sw":"monkeysmightflyoutofmybutt","definition":["monkeys might fly out of my butt","(idiomatic, vulgar) usually used as a response (often with hint of sarcasm) to a situation that you think there is no chance of ever occurring"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monkeyshine","sw":"monkeyshine","definition":[],"translation":["n. 胡闹"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌŋkiʃain"}
 {"word":"monkeyshines","sw":"monkeyshines","definition":[],"translation":["<美俚>恶作剧"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mʌŋki:ʃaɪnz"}
 {"word":"monkeyspanner","sw":"monkeyspanner","definition":[],"translation":["un. 活动扳手；活络扳手；活板手","[网络] 活扳手；螺丝扳手；活络管扳手"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1483,8 +1483,8 @@
 {"word":"mono-bed","sw":"monobed","definition":[],"translation":["单床"],"pos":[],"exchange":[],"examples":[],"phonetic":"'mɒnəʊb'ed"}
 {"word":"mono-borate","sw":"monoborate","definition":[],"translation":["单硼酸盐 ; 正硼酸盐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mono-bromo-benzene","sw":"monobromobenzene","definition":[],"translation":["溴苯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mono-brow","sw":"monobrow","definition":["A continuous strip of hair often found below the forehead. Often makes the individual sporting the aformentioned monobrow look particularly sinister or like a poor mans Michael Hestletine. The possession of a monobrow can almost certainly lead to the conclusion that the individual is also in possession of a particularly thatched chuffwig or in male terms a love nest that can only be likened to taking a jolly through the sparce but beautiful and necessary wilderness of Bush Gardens, Tampa Bay, Florida.","> 'Alright Nichols, I see you've trimmed the brow this fine morning, i can almost see you're face today'.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"mono-browed","sw":"monobrowed","definition":["When a web sites is ragingly prejudiced against all browsers but one.","> That site only works in Safari, I hate monobrowed sites!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mono-brow","sw":"monobrow","definition":["A continuous strip of hair often found below the forehead. Often makes the individual sporting the aformentioned monobrow look particularly sinister or like a poor mans Michael Hestletine. The possession of a monobrow can almost certainly lead to the conclusion that the individual is also in possession of a particularly thatched chuffwig or in male terms a love nest that can only be likened to taking a jolly through the sparce but beautiful and necessary wilderness of Bush Gardens, Tampa Bay, Florida.","> 'Alright Nichols, I see you've trimmed the brow this fine morning, i can almost see you're face today'."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"mono-browed","sw":"monobrowed","definition":["When a web sites is ragingly prejudiced against all browsers but one.","> That site only works in Safari, I hate monobrowed sites!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mono-brown","sw":"monobrown","definition":[],"translation":["[网络] 单棕色"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mono-buoy","sw":"monobuoy","definition":[],"translation":["装洩油浮筒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"mono-causal","sw":"monocausal","definition":[],"translation":["单一原因的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1702,7 +1702,7 @@
 {"word":"monoballismus","sw":"monoballismus","definition":[],"translation":["单肢投掷症"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monoband","sw":"monoband","definition":[],"translation":["[网络] 单波段"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monoband coil","sw":"monobandcoil","definition":[],"translation":["单频带线圈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monobander","sw":"monobander","definition":["monobander (plural monobanders)","A radio antenna designed to be used on just one radio frequency band, typically used by radio amateurs.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monobander","sw":"monobander","definition":["monobander (plural monobanders)","A radio antenna designed to be used on just one radio frequency band, typically used by radio amateurs."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monobar conveyer","sw":"monobarconveyer","definition":[],"translation":["单链运输机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monobaric","sw":"monobaric","definition":[],"translation":["[网络] 单条"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monobarium orthophosphate","sw":"monobariumorthophosphate","definition":[],"translation":["[正]磷酸二氢钡"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3076,7 +3076,7 @@
 {"word":"monoglycosylated","sw":"monoglycosylated","definition":[],"translation":["[网络] 单糖基化"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monoglycosylceramide","sw":"monoglycosylceramide","definition":[],"translation":["单糖基神经酰胺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monoglycosyldiacylglycerol","sw":"monoglycosyldiacylglycerol","definition":[],"translation":["单糖基二酰基甘油"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monognathic","sw":"monognathic","definition":["monognathic (not comparable)","Referring to, or affecting only one of a pair of jaws",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monognathic","sw":"monognathic","definition":["monognathic (not comparable)","Referring to, or affecting only one of a pair of jaws"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"MONOGNATHIDAE","sw":"monognathidae","definition":[],"translation":["单颌鳗科"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monognathids","sw":"monognathids","definition":[],"translation":["[网络] monognathid"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monogomous","sw":"monogomous","definition":[],"translation":["[网络] 一夫一妻制"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4582,7 +4582,7 @@
 {"word":"monosemantemic","sw":"monosemantemic","definition":[],"translation":["adj. (词、短语等)单义的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monosemantic","sw":"monosemantic","definition":[],"translation":["[计] 单义的"],"pos":[],"exchange":[],"examples":[],"phonetic":",mɔnәjsi'mæntik"}
 {"word":"monoseme","sw":"monoseme","definition":[],"translation":["[网络] 单义词"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"monosemic","sw":"monosemic","definition":["monosemic (not comparable)","Of or pertaining to monosemy.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"monosemic","sw":"monosemic","definition":["monosemic (not comparable)","Of or pertaining to monosemy."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monosemically","sw":"monosemically","definition":[],"translation":["[网络] 单调地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monosemies","sw":"monosemies","definition":[],"translation":["n. 单义性"],"pos":[],"exchange":["0:monosemy","1:s"],"examples":[],"phonetic":"'mɑnəsimi"}
 {"word":"monosemous","sw":"monosemous","definition":["s having only one meaning"],"translation":["单义的"],"pos":[],"exchange":[],"examples":[],"phonetic":"mə'nəʊsməs"}
@@ -4667,7 +4667,7 @@
 {"word":"monospaced characters","sw":"monospacedcharacters","definition":[],"translation":["[计] 单空格字符"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monospaced font","sw":"monospacedfont","definition":[],"translation":["等宽字体","[计] 等宽字体"],"pos":[],"exchange":["s:monospaced fonts"],"examples":[],"phonetic":""}
 {"word":"monospaced fonts","sw":"monospacedfonts","definition":[],"translation":["等宽字体"],"pos":[],"exchange":["0:monospaced font","1:s"],"examples":[],"phonetic":""}
-{"word":"monospaces","sw":"monospaces","definition":["monospaces","third-person singular simple present indicative form of monospace",""],"translation":[],"pos":[],"exchange":["0:monospace","1:s"],"examples":[],"phonetic":""}
+{"word":"monospaces","sw":"monospaces","definition":["monospaces","third-person singular simple present indicative form of monospace"],"translation":[],"pos":[],"exchange":["0:monospace","1:s"],"examples":[],"phonetic":""}
 {"word":"monospacing","sw":"monospacing","definition":[],"translation":["[网络] 单一字间字体；定宽字"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"monospar","sw":"monospar","definition":[],"translation":["单梁"],"pos":[],"exchange":["s:monospars"],"examples":[],"phonetic":"'mɔnә,spɑ:"}
 {"word":"monospar construction","sw":"monosparconstruction","definition":[],"translation":["单樑结构"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

@@ -23,8 +23,8 @@
 {"word":"prowessful","sw":"prowessful","definition":[],"translation":["[网络] 勇猛的；有威力的；杰出的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prowest","sw":"prowest","definition":[],"translation":["prow1","[prau]","n.","船头；舰首","突出的前端；(飞机)机首；似船首的部分","[文学用语]船","prow2","[prau]","adj.","[古语]英勇的；勇猛的"],"pos":[],"exchange":[],"examples":[],"phonetic":"prau"}
 {"word":"prowfish","sw":"prowfish","definition":[],"translation":["[网络] 流氓鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prowhaling","sw":"prowhaling","definition":["prowhaling (comparative more prowhaling, superlative most prowhaling)","Supporting or in favour of whaling.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prowhite","sw":"prowhite","definition":["prowhite (comparative more prowhite, superlative most prowhite)","Supporting or favouring white people.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"prowhaling","sw":"prowhaling","definition":["prowhaling (comparative more prowhaling, superlative most prowhaling)","Supporting or in favour of whaling."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"prowhite","sw":"prowhite","definition":["prowhite (comparative more prowhite, superlative most prowhite)","Supporting or favouring white people."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prowl","sw":"prowl","definition":["n. the act of prowling (walking about in a stealthy manner)","v. move about in or as if in a predatory manner","v. loiter about, with no apparent aim"],"translation":["n. 潜行, 徘徊, 悄悄踱步","vi. 潜行以觅食, 徘徊","vt. 徘徊"],"pos":["n:21","v:79"],"exchange":["i:prowling","p:prowled","3:prowls","s:prowls","d:prowled"],"examples":[],"phonetic":"praul"}
 {"word":"prowl car","sw":"prowlcar","definition":[],"translation":["[法] 巡逻者"],"pos":[],"exchange":["s:prowl cars"],"examples":[],"phonetic":""}
 {"word":"prowl cars","sw":"prowlcars","definition":[],"translation":["巡逻者；警备车"],"pos":[],"exchange":["0:prowl car","1:s"],"examples":[],"phonetic":""}
@@ -63,14 +63,14 @@
 {"word":"proxemics","sw":"proxemics","definition":["n the study of spatial distances between individuals in different cultures and situations"],"translation":["[复] n.[用作单][社]空间关系学"],"pos":[],"exchange":["s:proxemicss"],"examples":[],"phonetic":"prɔk'si:mi:ks"}
 {"word":"proxemicss","sw":"proxemicss","definition":[],"translation":["proxemics","[prɔk'simiks]","n.","[复数，动词用单数]","【社会学】空间关系学，人类空间环境学","(动物物种、培养群等的成员的)亲近性，接近程度[参较personal space]"],"pos":[],"exchange":["0:proxemics","1:s"],"examples":[],"phonetic":"prɒk'siːmɪks"}
 {"word":"Proxen","sw":"proxen","definition":[],"translation":["萘普生,甲氧萘丙酸,消痛灵"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"proxenet","sw":"proxenet","definition":["proxenet (plural proxenets)","A negotiator; a factor.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"proxenetism","sw":"proxenetism","definition":["proxenetism (plural proxenetisms)","The negotiation of immoral bargains between the sexes; procuring.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"proxenet","sw":"proxenet","definition":["proxenet (plural proxenets)","A negotiator; a factor."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"proxenetism","sw":"proxenetism","definition":["proxenetism (plural proxenetisms)","The negotiation of immoral bargains between the sexes; procuring."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxenets","sw":"proxenets","definition":[],"translation":["[网络] proxeneta"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxeni","sw":"proxeni","definition":[],"translation":["[网络] 外国代表人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxenoi","sw":"proxenoi","definition":[],"translation":["[网络] 保护人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxenos","sw":"proxenos","definition":[],"translation":["[网络] 普洛克西诺斯；普善庐；监护人普罗色诺斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxenus","sw":"proxenus","definition":[],"translation":["[网络] 普罗克森努斯；普鲁先努斯；保护人普罗塞诺斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"proxeny","sw":"proxeny","definition":["proxeny (plural proxenies)","in Ancient Greece, an arrangement whereby a citizen (chosen by the city) hosted foreign ambassadors at his own expense, in return for honorary titles from the state.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"proxeny","sw":"proxeny","definition":["proxeny (plural proxenies)","in Ancient Greece, an arrangement whereby a citizen (chosen by the city) hosted foreign ambassadors at his own expense, in return for honorary titles from the state."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxer lens","sw":"proxerlens","definition":[],"translation":["近摄镜头"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxes","sw":"proxes","definition":[],"translation":["[网络] 代理人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxetil","sw":"proxetil","definition":[],"translation":["普塞"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -85,7 +85,7 @@
 {"word":"proxied","sw":"proxied","definition":["past participle of proxy","n. a person authorized to act for another","n. a power of attorney document given by shareholders of a corporation authorizing a specific vote on their behalf at a corporate meeting"],"translation":["(proxy 的过去分词) n. 代理, 代理人, 委托书","[经] 代理人, 代表权, 授权书"],"pos":[],"exchange":["0:proxy","1:dp"],"examples":[],"phonetic":""}
 {"word":"proxies","sw":"proxies","definition":["pl.  of Proxy"],"translation":["n. 代表权( proxy的名词复数 ); （测算用的）代替物; （对代理人的）委托书; （英国国教教区献给主教等的）巡游费"],"pos":[],"exchange":["0:proxy","1:s"],"examples":[],"phonetic":"ˈprɔksi:z"}
 {"word":"proxifezone","sw":"proxifezone","definition":[],"translation":["[网络] 丙酯非宗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"proxigean","sw":"proxigean","definition":["proxigean (not comparable)","Relating to the proxigee.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"proxigean","sw":"proxigean","definition":["proxigean (not comparable)","Relating to the proxigee."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxigee","sw":"proxigee","definition":[],"translation":["[网络] 考官"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Proxigel","sw":"proxigel","definition":[],"translation":["10%过氧化氢脲无水凝胶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxigermanium","sw":"proxigermanium","definition":[],"translation":["普洛脉宁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -211,7 +211,7 @@
 {"word":"proximates","sw":"proximates","definition":[],"translation":["[网络] 接近值；大慨之份量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proximation","sw":"proximation","definition":[],"translation":["迫近"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proximations","sw":"proximations","definition":[],"translation":["[网络] 近距离"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"proxime","sw":"proxime","definition":["proxime (not comparable)","(obsolete) next; immediately preceding or following",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"proxime","sw":"proxime","definition":["proxime (not comparable)","(obsolete) next; immediately preceding or following"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"proxime accessit","sw":"proximeaccessit","definition":[],"translation":["n. 第二名, 次席"],"pos":[],"exchange":[],"examples":[],"phonetic":"'prɔksimiæk'sesit"}
 {"word":"proximeter","sw":"proximeter","definition":[],"translation":["[航空]着陆高度计"],"pos":[],"exchange":[],"examples":[],"phonetic":"prɔk'simitә"}
 {"word":"proximiority","sw":"proximiority","definition":[],"translation":["[网络] 邻近性"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -403,10 +403,10 @@
 {"word":"Prozor","sw":"prozor","definition":[],"translation":["[地名] 普罗佐尔 ( 波黑 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Prozorovo","sw":"prozorovo","definition":[],"translation":["[地名] 普罗佐罗沃 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prozygosis","sw":"prozygosis","definition":[],"translation":["[医] 并头联胎畸形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prozymite","sw":"prozymite","definition":["prozymite (plural prozymites)","(Christianity, historical, pejorative) One who administers the eucharist with leavened bread; used pejoratively by those of the Latin church referring to the Greek.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"prozymite","sw":"prozymite","definition":["prozymite (plural prozymites)","(Christianity, historical, pejorative) One who administers the eucharist with leavened bread; used pejoratively by those of the Latin church referring to the Greek."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prozymogen","sw":"prozymogen","definition":[],"translation":["前酶原, 原酶原"],"pos":[],"exchange":[],"examples":[],"phonetic":"prәu'zaimәdʒәn"}
 {"word":"prozymogen granule","sw":"prozymogengranule","definition":[],"translation":["原 酶原粒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prozzie","sw":"prozzie","definition":["prozzie (plural prozzies)","(slang) A prostitute.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"prozzie","sw":"prozzie","definition":["prozzie (plural prozzies)","(slang) A prostitute."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prozzies","sw":"prozzies","definition":[],"translation":["[网络] 预言"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prozzy","sw":"prozzy","definition":[],"translation":["[网络] 预感"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prp","sw":"prp","definition":[],"translation":["abbr. pulse recurrence period 脉冲重复周期; pulse repetition period 脉冲重复周期; performance related pay 绩效工资; present participle 现在分词"],"pos":[],"exchange":["s:prps"],"examples":[],"phonetic":""}
@@ -546,7 +546,7 @@
 {"word":"Prudhoe Land","sw":"prudhoeland","definition":[],"translation":["[地名] 普拉德霍地 ( 格陵 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prudhomme","sw":"prudhomme","definition":["n. A trustworthy citizen; a skilled workman. See Citation","under 3d Commune, 1."],"translation":["[人名] 普鲁多姆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prudhommes","sw":"prudhommes","definition":[],"translation":["[网络] 劳工法院"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prudhommie","sw":"prudhommie","definition":["prudhommie (uncountable)","(rare, now historical) Character typical of a prudhomme; trustworthiness, loyalty. [from 15th c.]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"prudhommie","sw":"prudhommie","definition":["prudhommie (uncountable)","(rare, now historical) Character typical of a prudhomme; trustworthiness, loyalty. [from 15th c.]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prudish","sw":"prudish","definition":["s exaggeratedly proper"],"translation":["a. 拘守礼仪的, 过分规矩的, 表面正经的"],"pos":["j:100"],"exchange":[],"examples":[],"phonetic":"'pru:diʃ"}
 {"word":"prudishly","sw":"prudishly","definition":["adv. In a prudish manner."],"translation":["adv. 过分拘谨地"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prudishness","sw":"prudishness","definition":["n excessive or affected modesty"],"translation":["n. prudish的变形"],"pos":["n:100"],"exchange":["s:prudishnesses"],"examples":[],"phonetic":""}
@@ -1071,7 +1071,7 @@
 {"word":"prussit","sw":"prussit","definition":[],"translation":["氰"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prusso complex","sw":"prussocomplex","definition":[],"translation":["铁(II)普鲁士错合物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prusso salt","sw":"prussosalt","definition":[],"translation":["铁(II)普鲁士盐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Prussophile","sw":"prussophile","definition":["Prussophile (plural Prussophiles)","One who loves Prussia, the Prussian people, or Prussian culture.","","","Prussophile (comparative more Prussophile, superlative most Prussophile)","Loving Prussia, the Prussian people, or Prussian culture.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Prussophile","sw":"prussophile","definition":["Prussophile (plural Prussophiles)","One who loves Prussia, the Prussian people, or Prussian culture.","","","Prussophile (comparative more Prussophile, superlative most Prussophile)","Loving Prussia, the Prussian people, or Prussian culture."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prusten","sw":"prusten","definition":[],"translation":["[网络] 喷音"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Pruszcz","sw":"pruszcz","definition":[],"translation":["[地名] 普鲁什奇 ( 波 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Pruszkow","sw":"pruszkow","definition":[],"translation":["普鲁什库夫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1120,7 +1120,7 @@
 {"word":"pry-pole","sw":"prypole","definition":[],"translation":["[网络] 撬杆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Pryamitsyno","sw":"pryamitsyno","definition":[],"translation":["[地名] 普里亚米齐诺 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pryan","sw":"pryan","definition":["n. See Prian."],"translation":["白色软粘土"],"pos":[],"exchange":[],"examples":[],"phonetic":"pra'ɪən"}
-{"word":"pryany","sw":"pryany","definition":["pryany (comparative more pryany, superlative most pryany)","(Cornwall) Of, pertaining to, or containing pryan.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"pryany","sw":"pryany","definition":["pryany (comparative more pryany, superlative most pryany)","(Cornwall) Of, pertaining to, or containing pryan."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Pryazha","sw":"pryazha","definition":[],"translation":["[地名] 普里亚扎 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Pryazhinskiy Rayon","sw":"pryazhinskiyrayon","definition":[],"translation":["[地名] 普里亚扎区 ( 俄 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pryazodine","sw":"pryazodine","definition":[],"translation":["盐酸苯偶氮吡胺"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1133,7 +1133,7 @@
 {"word":"pryddest","sw":"pryddest","definition":[],"translation":["[网络] 威尔士自由音律诗"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pryde","sw":"pryde","definition":[],"translation":["[人名] [英格兰人姓氏] 普赖德绰号，来源于中世纪英语，含义是“傲慢的”(proud); [人名] [威尔士人姓氏] 普赖德绰号，含义是“珍贵的”(precious,dear)"],"pos":[],"exchange":["s:prydes"],"examples":[],"phonetic":""}
 {"word":"pryderi","sw":"pryderi","definition":[],"translation":["[网络] 普雷芮"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"prydes","sw":"prydes","definition":["A Swedish last name, and the last name of one of the most amazing people I've ever met. To be a pryde, is to be unique, amazing, fun, beautiful, and spunky","> \"You're such a pryde!\"",""],"translation":[],"pos":[],"exchange":["0:pryde","1:s"],"examples":[],"phonetic":""}
+{"word":"prydes","sw":"prydes","definition":["A Swedish last name, and the last name of one of the most amazing people I've ever met. To be a pryde, is to be unique, amazing, fun, beautiful, and spunky","> \"You're such a pryde!\""],"translation":[],"pos":[],"exchange":["0:pryde","1:s"],"examples":[],"phonetic":""}
 {"word":"Prydrochloride","sw":"prydrochloride","definition":[],"translation":["妥拉唑啉,妥拉苏林,苄唑林,苯甲唑林"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"prydz","sw":"prydz","definition":[],"translation":["[网络] 普里兹；小峰；小枫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Prydz Bay","sw":"prydzbay","definition":[],"translation":["[地名] 普里兹湾 ( 南极洲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1450,7 +1450,7 @@
 {"word":"Psarades","sw":"psarades","definition":[],"translation":["[地名] 普萨拉泽斯 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Psari","sw":"psari","definition":[],"translation":["[地名] 普萨里 ( 希 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Psarian","sw":"psarian","definition":[],"translation":["[网络] 诗人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Psariot","sw":"psariot","definition":["Psariot (plural Psariots)","Psarian","","","Psariot (not comparable)","Psarian",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Psariot","sw":"psariot","definition":["Psariot (plural Psariots)","Psarian","","","Psariot (not comparable)","Psarian"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Psariots","sw":"psariots","definition":[],"translation":["[网络] 心理学家"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Psaronius","sw":"psaronius","definition":[],"translation":["辉木, 根蕨属(化石)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"psas","sw":"psas","definition":[],"translation":["abbr. Program Support and Advanced System 程序支持和高级系统"],"pos":[],"exchange":["0:psa","1:s"],"examples":[],"phonetic":""}
@@ -2152,7 +2152,7 @@
 {"word":"pseudo-emulsion","sw":"pseudoemulsion","definition":[],"translation":["[化] 假乳状液(极不稳定的乳状液)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pseudo-end-of-file","sw":"pseudoendoffile","definition":[],"translation":["[计] 伪文件结束"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pseudo-energy-tensor","sw":"pseudoenergytensor","definition":[],"translation":["准能张量"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"pseudo-English","sw":"pseudoenglish","definition":["pseudo-English (uncountable)","(linguistics) Lexical borrowings from English that do not correspond directly to English word usage.","(computing) A structured artificial language that uses English words in order to be more user friendly.","Nonsense text or speech that resembles English in some way.","(pejorative) English-language jargon or dialect that does not reflect the way most people speak.","","","pseudo-English (comparative more pseudo-English, superlative most pseudo-English)","In a style or manner that imitates the way things are done in England.","Imitating the English language.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"pseudo-English","sw":"pseudoenglish","definition":["pseudo-English (uncountable)","(linguistics) Lexical borrowings from English that do not correspond directly to English word usage.","(computing) A structured artificial language that uses English words in order to be more user friendly.","Nonsense text or speech that resembles English in some way.","(pejorative) English-language jargon or dialect that does not reflect the way most people speak.","","","pseudo-English (comparative more pseudo-English, superlative most pseudo-English)","In a style or manner that imitates the way things are done in England.","Imitating the English language."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pseudo-entity","sw":"pseudoentity","definition":[],"translation":["虚拟实体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pseudo-environment","sw":"pseudoenvironment","definition":[],"translation":["[网络] 拟态环境；伪环境；假环境"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"pseudo-epiphyte","sw":"pseudoepiphyte","definition":[],"translation":["伪附生植物"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

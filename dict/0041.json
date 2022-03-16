@@ -1046,7 +1046,7 @@
 {"word":"auvergnats","sw":"auvergnats","definition":[],"translation":["n. (Auvergnat)人名；(法)奥韦尼亚","(auvergnat 的复数)"],"pos":[],"exchange":["0:auvergnat","1:s"],"examples":[],"phonetic":""}
 {"word":"Auvergne","sw":"auvergne","definition":["n. a region in central France"],"translation":["n. 奥弗涅（法国中南部一个地区）"],"pos":[],"exchange":["s:auvergnes"],"examples":[],"phonetic":"əu'vεən"}
 {"word":"auvergnes","sw":"auvergnes","definition":[],"translation":["Auvergne","[əu'vεən]","奥弗涅(法国中南部地区和旧省)","奥弗涅山脉(法国中南部山脉)[全称 Auvergne Mountains]"],"pos":[],"exchange":["0:auvergne","1:s"],"examples":[],"phonetic":"əu'vεən"}
-{"word":"Auvergnese","sw":"auvergnese","definition":["Auvergnese","Of, from, or pertaining to the region of Auvergne in France","","","Auvergnese (plural Auvergnese)","A person from the Auvergne region",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Auvergnese","sw":"auvergnese","definition":["Auvergnese","Of, from, or pertaining to the region of Auvergne in France","","","Auvergnese (plural Auvergnese)","A person from the Auvergne region"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"auvers","sw":"auvers","definition":[],"translation":["[网络] 奥维尔；巴黎郊外奥弗；奥文斯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"auvers-sur-oise","sw":"auverssuroise","definition":[],"translation":["[网络] 奥维尔；奥维尔小镇；苏尔瓦兹"],"pos":[],"exchange":["s:auvers-sur-oise"],"examples":[],"phonetic":""}
 {"word":"Auversian","sw":"auversian","definition":[],"translation":["奥维尔斯阶; 列德期"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2064,8 +2064,8 @@
 {"word":"auxis thazard thazard","sw":"auxisthazardthazard","definition":[],"translation":["扁花鲣；扁舵鲣；烟仔鱼；油烟；花烟；平花鲣；憨烟"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"auxisone","sw":"auxisone","definition":[],"translation":["异烟酸地塞米松"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"auxite","sw":"auxite","definition":[],"translation":["澎皂石"],"pos":[],"exchange":[],"examples":[],"phonetic":"'ɔ:^zait"}
-{"word":"auxlang","sw":"auxlang","definition":["auxlang (plural auxlangs)","An auxiliary language.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"auxlanger","sw":"auxlanger","definition":["auxlanger (plural auxlangers)","Someone who creates auxiliary languages (auxlangs).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈɔːksˌlæŋə/"}
+{"word":"auxlang","sw":"auxlang","definition":["auxlang (plural auxlangs)","An auxiliary language."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"auxlanger","sw":"auxlanger","definition":["auxlanger (plural auxlangers)","Someone who creates auxiliary languages (auxlangs)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/ˈɔːksˌlæŋə/"}
 {"word":"auxlangers","sw":"auxlangers","definition":[],"translation":["[网络] 辅助"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"auxlilary ingredient","sw":"auxlilaryingredient","definition":[],"translation":["[化] 辅助配合剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Auxo","sw":"auxo","definition":[],"translation":["[网络] 奥克索；促进；加速"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2160,7 +2160,7 @@
 {"word":"Auzits","sw":"auzits","definition":[],"translation":["[地名] 欧济 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Auzon","sw":"auzon","definition":[],"translation":["[地名] 欧宗 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AV","sw":"av","definition":["n the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August)"],"translation":["[计] 数组/向量, 属性值, 有效, 平均值"],"pos":[],"exchange":["s:avs"],"examples":[],"phonetic":""}
-{"word":"av beit din","sw":"avbeitdin","definition":["av beit din (plural av beit dins)","The vice-president of a Jewish Sanhedrin or rabbinical court (beit din).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"av beit din","sw":"avbeitdin","definition":["av beit din (plural av beit dins)","The vice-president of a Jewish Sanhedrin or rabbinical court (beit din)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"av editing","sw":"avediting","definition":[],"translation":["声视讯号编辑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"av monitor","sw":"avmonitor","definition":[],"translation":["影音监视器"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"av node","sw":"avnode","definition":[],"translation":["房室结 {atrioventricular node}"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2712,7 +2712,7 @@
 {"word":"avant garde","sw":"avantgarde","definition":[],"translation":["n. 前卫; 先锋","adj. 前卫的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avant gardism","sw":"avantgardism","definition":[],"translation":["[网络] 先锋主义；先锋派；先锋派主义"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avant gardist","sw":"avantgardist","definition":[],"translation":["[网络] 先锋派人士；先锋派成员；前卫主义者"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"avant la lettre","sw":"avantlalettre","definition":["avant la lettre","(idiomatic) Before the term was coined; used after a term applied anachronistically.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"avant la lettre","sw":"avantlalettre","definition":["avant la lettre","(idiomatic) Before the term was coined; used after a term applied anachronistically."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avant port","sw":"avantport","definition":[],"translation":["前港"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avant propos","sw":"avantpropos","definition":[],"translation":["[网络] 前言；卷首语；作者前言"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avant-brace","sw":"avantbrace","definition":[],"translation":["[网络] 前卫"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2811,7 +2811,7 @@
 {"word":"avast heaving","sw":"avastheaving","definition":[],"translation":["停绞{停止绞缆口令}"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avastin","sw":"avastin","definition":[],"translation":["n. 阿瓦斯丁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avatar","sw":"avatar","definition":["n. the manifestation of a Hindu deity (especially Vishnu) in human or superhuman or animal form"],"translation":["n. 天神下凡化作人形, 化身"],"pos":["n:100"],"exchange":["s:avatars"],"examples":[],"phonetic":".ævә'tɑ:"}
-{"word":"Avatard","sw":"avatard","definition":["Similar to a [Narutard], an obsessive fan of the [television] show [Avatar: the last airbender]. Characterized by behaviors such as;","","1.Obsessing over non-canon relationships between fictional characters","2.Actually being upset when a character ([Zuko]) shows affection to someone ([Jin]) rather than the character that you want him to end up with ([Katara])","3.Buying the individual dvds rather than the cheaper box set in order to have more avatar things.","4.Composing [Fanfiction] for the show.","5.etc.","","> Megan is a huge avatard. She nearly loses her mind whenever she misses an episode.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Avatard","sw":"avatard","definition":["Similar to a [Narutard], an obsessive fan of the [television] show [Avatar: the last airbender]. Characterized by behaviors such as;","","1.Obsessing over non-canon relationships between fictional characters","2.Actually being upset when a character ([Zuko]) shows affection to someone ([Jin]) rather than the character that you want him to end up with ([Katara])","3.Buying the individual dvds rather than the cheaper box set in order to have more avatar things.","4.Composing [Fanfiction] for the show.","5.etc.","","> Megan is a huge avatard. She nearly loses her mind whenever she misses an episode."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Avatards","sw":"avatards","definition":[],"translation":["[网络] 阿凡控"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avatarhood","sw":"avatarhood","definition":[],"translation":["[网络] 头像"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avatars","sw":"avatars","definition":["n a new personification of a familiar idea","n the manifestation of a Hindu deity (especially Vishnu) in human or superhuman or animal form"],"translation":["n. 替身；神使；形象化符号"],"pos":[],"exchange":["0:avatar","1:s"],"examples":[],"phonetic":""}
@@ -2819,14 +2819,14 @@
 {"word":"Avatiu","sw":"avatiu","definition":[],"translation":["[地名] 阿瓦蒂乌 ( 库克 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Avator","sw":"avator","definition":[],"translation":["[网络] 虚拟形象换装"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Avatrask","sw":"avatrask","definition":[],"translation":["阿瓦垂斯克"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"avaunce","sw":"avaunce","definition":["avaunce (third-person singular simple present avaunces, present participle avaunceing, simple past and past participle avaunceed)","(obsolete) To advance; to profit.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"avaunce","sw":"avaunce","definition":["avaunce (third-person singular simple present avaunces, present participle avaunceing, simple past and past participle avaunceed)","(obsolete) To advance; to profit."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avaunt","sw":"avaunt","definition":["interj. Begone; depart; -- a word of contempt or abhorrence,","equivalent to the phrase \"Get thee gone.\"","v. t. & i. To advance; to move forward; to elevate.","v. t. & i. To depart; to move away.","v. t. & i. To vaunt; to boast.","n. A vaunt; to boast."],"translation":["int. 滚, 走开"],"pos":[],"exchange":[],"examples":[],"phonetic":"ә'vɔ:nt"}
 {"word":"avauntance","sw":"avauntance","definition":[],"translation":["[网络] 厌倦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avaunted","sw":"avaunted","definition":[],"translation":["int. 滚；走开"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'vɔːnt"}
 {"word":"avaunter","sw":"avaunter","definition":[],"translation":["[古语]","interj. 滚!滚开!走开!","n. 斥退"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'vɔːnt"}
 {"word":"avaunting","sw":"avaunting","definition":[],"translation":["int. 滚；走开"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'vɔːnt"}
 {"word":"avauntment","sw":"avauntment","definition":[],"translation":["[网络] 厌恶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"avauntour","sw":"avauntour","definition":["avauntour (plural avauntours)","(obsolete) One who boasts (avaunts).",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"avauntour","sw":"avauntour","definition":["avauntour (plural avauntours)","(obsolete) One who boasts (avaunts)."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avaunts","sw":"avaunts","definition":[],"translation":["int. 〈古〉去","[网络] 滚；走开"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Avaviken","sw":"avaviken","definition":[],"translation":["[地名] 阿瓦维肯 ( 瑞典 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Avawam","sw":"avawam","definition":[],"translation":["[地名] 阿瓦沃姆 ( 美 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4314,7 +4314,7 @@
 {"word":"avertissement","sw":"avertissement","definition":[],"translation":["[网络] 反悔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avertissements","sw":"avertissements","definition":[],"translation":["[网络] 警告；发出警告"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avertive","sw":"avertive","definition":[],"translation":["[网络] 厌恶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"avertress","sw":"avertress","definition":["avertress (plural avertresses)","A woman, girl, goddess, or other female agent who averts.[1]",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/əˈvɜːtɹɪs/"}
+{"word":"avertress","sw":"avertress","definition":["avertress (plural avertresses)","A woman, girl, goddess, or other female agent who averts.[1]"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":"/əˈvɜːtɹɪs/"}
 {"word":"averts","sw":"averts","definition":["v prevent the occurrence of; prevent from happening","v turn away or aside"],"translation":["v. 防止, 避免( avert的第三人称单数 ); 转移"],"pos":[],"exchange":["0:avert","1:3"],"examples":[],"phonetic":"əˈvə:ts"}
 {"word":"averty","sw":"averty","definition":[],"translation":["[人名] 阿弗蒂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"averufin","sw":"averufin","definition":[],"translation":["[化] 奥佛尼红素"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4486,8 +4486,8 @@
 {"word":"aviation barometer","sw":"aviationbarometer","definition":[],"translation":["航空气压表"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviation beacon","sw":"aviationbeacon","definition":[],"translation":["航空灯标"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviation blending fuel","sw":"aviationblendingfuel","definition":[],"translation":["[化] 掺混航空燃料"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aviation blonde","sw":"aviationblonde","definition":["A girl who dyes her hair blonde.","","ie. She's blonde up in the air, but her black box gives away the truth.","> Half of california.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"aviation blondes","sw":"aviationblondes","definition":["A girl who dyes her hair blonde.","","ie. She's blonde up in the air, but her black box gives away the truth.","> Half of california.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aviation blonde","sw":"aviationblonde","definition":["A girl who dyes her hair blonde.","","ie. She's blonde up in the air, but her black box gives away the truth.","> Half of california."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"aviation blondes","sw":"aviationblondes","definition":["A girl who dyes her hair blonde.","","ie. She's blonde up in the air, but her black box gives away the truth.","> Half of california."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviation boots","sw":"aviationboots","definition":[],"translation":["飞行靴"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviation broker","sw":"aviationbroker","definition":[],"translation":["航空经纪人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviation cadet","sw":"aviationcadet","definition":[],"translation":["(美国)空军学员；航空学员"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4850,7 +4850,7 @@
 {"word":"avisn tuberculosis","sw":"avisntuberculosis","definition":[],"translation":["[医] 肺底结核, 肺底痨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"aviso","sw":"aviso","definition":["n. Information; advice.","n. An advice boat, or dispatch boat."],"translation":["n. 通报, 通报舰"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'vaɪzəʊ"}
 {"word":"aviso boat","sw":"avisoboat","definition":[],"translation":["[网络] 通信船"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"avisodomist","sw":"avisodomist","definition":["avisodomist (plural avisodomists)","A person who has sex with birds.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"avisodomist","sw":"avisodomist","definition":["avisodomist (plural avisodomists)","A person who has sex with birds."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avisodomy","sw":"avisodomy","definition":[],"translation":["[网络] 禽流行病"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avisoes","sw":"avisoes","definition":[],"translation":["n. 通报；（传递公文等之）[船] 通报舰"],"pos":[],"exchange":[],"examples":[],"phonetic":"ə'visəu"}
 {"word":"avisoides","sw":"avisoides","definition":[],"translation":["[网络] 鸟状棘豆"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4903,7 +4903,7 @@
 {"word":"AVK","sw":"avk","definition":[],"translation":["[=antivitamin K]抗维生素K"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avl","sw":"avl","definition":[],"translation":["abbr. 批准的售主名单（Approved Vendor List）；自动车辆定位（Automatic Vehicle Location）"],"pos":[],"exchange":["s:avls"],"examples":[],"phonetic":""}
 {"word":"avl tree","sw":"avltree","definition":[],"translation":["AVL树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Avlabari","sw":"avlabari","definition":["Avlabari","A neighborhood of Old Tbilisi on the left bank (east side) of the Kura River",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Avlabari","sw":"avlabari","definition":["Avlabari","A neighborhood of Old Tbilisi on the left bank (east side) of the Kura River"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avlakogene","sw":"avlakogene","definition":[],"translation":["拗拉槽，地台间断陷槽"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"avlation fuel fraction","sw":"avlationfuelfraction","definition":[],"translation":["[机] 航空燃料馏份"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"AVLB","sw":"avlb","definition":[],"translation":["abbr. Armored Vehicle launched Bridge 装甲架桥车"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

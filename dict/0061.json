@@ -470,9 +470,9 @@
 {"word":"blared","sw":"blared","definition":["imp. & p. p. of Blare"],"translation":["v. （喇叭或其他高音器具）刺耳地大声鸣响( blare的过去式和过去分词 ); 嘟嘟地发出; 高声发出; （音乐）声音响亮"],"pos":[],"exchange":["0:blare","1:pd"],"examples":[],"phonetic":"bleəd"}
 {"word":"Blaregnies","sw":"blaregnies","definition":[],"translation":["[地名] 布拉尔尼 ( 比 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blares","sw":"blares","definition":["n a loud harsh or strident noise","v make a strident sound","v make a loud noise"],"translation":["n. 嘟嘟声, 响而刺耳的声音( blare的名词复数 ); （颜色等的）光泽","v. （喇叭或其他高音器具）刺耳地大声鸣响( blare的第三人称单数 ); 嘟嘟地发出; 高声发出; （音乐）声音响亮"],"pos":[],"exchange":["0:blare","1:3s"],"examples":[],"phonetic":"bleəz"}
-{"word":"blarg","sw":"blarg","definition":["Blarg is a unique word, being the only word that not only means anything you want it to, or is used to show disinterest or boredom, but also is the only word that thousands upon thousands of people have claimed to have made up but has been around since man discovered they could use tools. Hobo Dave and Raymond Donn are amongst those who claim to have created the word, as well as some wierd dude called John who worked in the Games Workshop in Falkirk. I have also been known to use the word frequently in the past. I suppose, the true use of this word is to fill a gap in a sentence where appropriate. If a stoned person says \"blarg\", it is usually used to replace a word they cannot think of, or which they have forgotten.","> \"Blarg yer maw!!\"","> \"Blarg tae aw da yids and swankers! (Hobo dave)\"","> \"...Blarg man...\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blarg","sw":"blarg","definition":["Blarg is a unique word, being the only word that not only means anything you want it to, or is used to show disinterest or boredom, but also is the only word that thousands upon thousands of people have claimed to have made up but has been around since man discovered they could use tools. Hobo Dave and Raymond Donn are amongst those who claim to have created the word, as well as some wierd dude called John who worked in the Games Workshop in Falkirk. I have also been known to use the word frequently in the past. I suppose, the true use of this word is to fill a gap in a sentence where appropriate. If a stoned person says \"blarg\", it is usually used to replace a word they cannot think of, or which they have forgotten.","> \"Blarg yer maw!!\"","> \"Blarg tae aw da yids and swankers! (Hobo dave)\"","> \"...Blarg man...\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blargh","sw":"blargh","definition":["an exclamation indicating that one has absorbed or is","emitting a quantum of unhappiness"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blargy","sw":"blargy","definition":["A word that can mean anything. Or it is said when you have nothing better to say.","> I'm feeling Blargish today.","> Whats up? Blargy.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blargy","sw":"blargy","definition":["A word that can mean anything. Or it is said when you have nothing better to say.","> I'm feeling Blargish today.","> Whats up? Blargy."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blaricum","sw":"blaricum","definition":[],"translation":["[地名] 布拉里克姆 ( 荷 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blarina","sw":"blarina","definition":[],"translation":["[网络] 布拉里纳"],"pos":[],"exchange":["s:blarinas"],"examples":[],"phonetic":""}
 {"word":"Blarina brevicauda","sw":"blarinabrevicauda","definition":[],"translation":["[网络] 北短尾鼩鼱"],"pos":[],"exchange":["s:blarina brevicaudas"],"examples":[],"phonetic":""}
@@ -859,7 +859,7 @@
 {"word":"blast tube","sw":"blasttube","definition":[],"translation":["送风管"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blast turbine","sw":"blastturbine","definition":[],"translation":["喷气发动机射流涡轮机"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blast tuyere","sw":"blasttuyere","definition":[],"translation":["风口"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blast us","sw":"blastus","definition":["Aside from being the name of a biblical character, \"blastus\" is another term designating a type of fart.  A very large amount of intestinal gas is expelled at considerable force.  As the flattus is violently expelled through the anus, the high amplitude oscillation of the sphincter results in a great, explosive, low tone of frightful volume.  The term may also be applied as a proper noun as necessary.","> Grotee let loose (with a \"blastus\") and it shook the walls.  That's why they call him Blastus.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blast us","sw":"blastus","definition":["Aside from being the name of a biblical character, \"blastus\" is another term designating a type of fart.  A very large amount of intestinal gas is expelled at considerable force.  As the flattus is violently expelled through the anus, the high amplitude oscillation of the sphincter results in a great, explosive, low tone of frightful volume.  The term may also be applied as a proper noun as necessary.","> Grotee let loose (with a \"blastus\") and it shook the walls.  That's why they call him Blastus."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blast valve","sw":"blastvalve","definition":[],"translation":["沖击阀门"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blast velocity","sw":"blastvelocity","definition":[],"translation":["[动力] 鼓风速度"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blast vibration","sw":"blastvibration","definition":[],"translation":["开炸振动"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -1376,7 +1376,7 @@
 {"word":"Blatno","sw":"blatno","definition":[],"translation":["[地名] 布拉特诺 ( 捷 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blato","sw":"blato","definition":[],"translation":["[地名] 布拉托 ( 克罗 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blaton","sw":"blaton","definition":[],"translation":["[地名] [比利时] 布拉通"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blatonite","sw":"blatonite","definition":["blatonite","(mineralogy) A hexagonal canary yellow mineral containing carbon, hydrogen, oxygen, and uranium.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blatonite","sw":"blatonite","definition":["blatonite","(mineralogy) A hexagonal canary yellow mineral containing carbon, hydrogen, oxygen, and uranium."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blats","sw":"blats","definition":["v cry plaintively"],"translation":["v. （小牛或小羊）叫, 喋喋不休, 不加思索说出（blat的第三人称单数形式）"],"pos":[],"exchange":["1:3","0:blat"],"examples":[],"phonetic":""}
 {"word":"blatt","sw":"blatt","definition":[],"translation":["v. 叫;喋喋不休"],"pos":[],"exchange":["s:blatts"],"examples":[],"phonetic":"blæt"}
 {"word":"Blatta","sw":"blatta","definition":["n type genus of the Blattidae: cockroaches infesting buildings worldwide"],"translation":["[医] [л]蠊属"],"pos":[],"exchange":["s:blattas"],"examples":[],"phonetic":""}
@@ -2228,7 +2228,7 @@
 {"word":"blegen","sw":"blegen","definition":[],"translation":["[人名] 布利根"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blegja","sw":"blegja","definition":[],"translation":["布雷雅山"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blegos","sw":"blegos","definition":[],"translation":["布来哥什山"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blegs","sw":"blegs","definition":["A word with 3 definitions","","1) A word to be used when you have forgotten the word in a sentence. It's like a [variable] for words.","","2) A word to be stated when an [awkward] atmosphere is created (usually by your own doing). Supposedly helps with the awkward feeling","","3) A word bearing significance of [Bleggaman]. Meant to be stated out loud at random","> 1) Person: the towel is very... i forgot the word... The towel is very Bleg... like wet, but not as wet. Like damp but... i'm not sure","> 2) Guy 1: Dude! hey, i saw your mom at Walmart yesterday! She looks like she's lost weight!","> Guy 2: ...","> Guy 1: ... that's not how that sounded in my head","> Guy 2: ...","> Guy 1: ... Bleg","> 3) Anyone: Bleg!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blegs","sw":"blegs","definition":["A word with 3 definitions","","1) A word to be used when you have forgotten the word in a sentence. It's like a [variable] for words.","","2) A word to be stated when an [awkward] atmosphere is created (usually by your own doing). Supposedly helps with the awkward feeling","","3) A word bearing significance of [Bleggaman]. Meant to be stated out loud at random","> 1) Person: the towel is very... i forgot the word... The towel is very Bleg... like wet, but not as wet. Like damp but... i'm not sure","> 2) Guy 1: Dude! hey, i saw your mom at Walmart yesterday! She looks like she's lost weight!","> Guy 2: ...","> Guy 1: ... that's not how that sounded in my head","> Guy 2: ...","> Guy 1: ... Bleg","> 3) Anyone: Bleg!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bleh","sw":"bleh","definition":[],"translation":["[网络] 涓嶅姵钥岃幏；恶心"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bleha","sw":"bleha","definition":[],"translation":["[人名] 布莱哈"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blehand","sw":"blehand","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2836,7 +2836,7 @@
 {"word":"bless us","sw":"blessus","definition":[],"translation":["[网络] 祝福我们吧"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bless with","sw":"blesswith","definition":[],"translation":["施惠〔赐福〕于; 有幸拥有"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bless you","sw":"blessyou","definition":[],"translation":["祝福你"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Bless your heart","sw":"blessyourheart","definition":["The most Southern 'fuck you' there is. Can be put at the end of a phrase to nullify any cruelty.","> That girl is the most fowl mouthed, idiotic, bitch there is, bless her heart.","> Oh you need to actually look this up? Bless your heart.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Bless your heart","sw":"blessyourheart","definition":["The most Southern 'fuck you' there is. Can be put at the end of a phrase to nullify any cruelty.","> That girl is the most fowl mouthed, idiotic, bitch there is, bless her heart.","> Oh you need to actually look this up? Bless your heart."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Bless your pointy little head","sw":"blessyourpointylittlehead","definition":[],"translation":["[网络] 别自做聪明了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blessable","sw":"blessable","definition":[],"translation":["[网络] 有福的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blessbok","sw":"blessbok","definition":[],"translation":["[网络] 祝福"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2942,7 +2942,7 @@
 {"word":"Bletterans","sw":"bletterans","definition":[],"translation":["[地名] 布莱特朗 ( 法 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bletting","sw":"bletting","definition":["n. A form of decay seen in fleshy, overripe fruit."],"translation":["（果实的）软化"],"pos":[],"exchange":[],"examples":[],"phonetic":"b'letɪŋ"}
 {"word":"bleu","sw":"bleu","definition":["n. cheese containing a blue mold"],"translation":["a. 有蓝色霉菌花纹的"],"pos":["n:100"],"exchange":["s:bleus"],"examples":[],"phonetic":"blә:"}
-{"word":"bleu celeste","sw":"bleuceleste","definition":["","","","","Wikipedia has an article on:","bleu celeste","","Wikipedia","(heraldry) A rarely-occurring sky-blue tincture, lighter than azure.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bleu celeste","sw":"bleuceleste","definition":["","","","","Wikipedia has an article on:","bleu celeste","","Wikipedia","(heraldry) A rarely-occurring sky-blue tincture, lighter than azure."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bleu cheese","sw":"bleucheese","definition":[],"translation":["蓝纹干酪(一种用牛乳制成的半松软干酪, 有绿蓝色霉状物, 味道与罗尔福尔干酪相似)"],"pos":[],"exchange":[],"examples":[],"phonetic":"blu:"}
 {"word":"bleu cheese dressing","sw":"bleucheesedressing","definition":[],"translation":["[网络] 布鲁奶酪酱"],"pos":[],"exchange":["s:bleu cheese dressings"],"examples":[],"phonetic":""}
 {"word":"bleu cheese dressings","sw":"bleucheesedressings","definition":[],"translation":["[网络] 布鲁奶酪酱","(bleu cheese dressing 的复数)"],"pos":[],"exchange":["0:bleu cheese dressing","1:s"],"examples":[],"phonetic":""}
@@ -2958,7 +2958,7 @@
 {"word":"bleuler","sw":"bleuler","definition":[],"translation":["n. (Bleuler)人名；(德)布洛伊勒"],"pos":[],"exchange":["s:bleulers"],"examples":[],"phonetic":""}
 {"word":"Bleulerian","sw":"bleulerian","definition":[],"translation":["[网络] 布莱尔人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bleulers","sw":"bleulers","definition":[],"translation":["n. (Bleuler)人名；(德)布洛伊勒","(bleuler 的复数)"],"pos":[],"exchange":["0:bleuler","1:s"],"examples":[],"phonetic":""}
-{"word":"bleurgh","sw":"bleurgh","definition":["bleurgh","Expressing a sick or sickened feeling, or vomiting.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bleurgh","sw":"bleurgh","definition":["bleurgh","Expressing a sick or sickened feeling, or vomiting."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bleus","sw":"bleus","definition":[],"translation":["adj. [法语](奶酪)长有绿色(或蓝色)霉菌花纹的"],"pos":[],"exchange":["0:bleu","1:s"],"examples":[],"phonetic":"blɜː"}
 {"word":"blev","sw":"blev","definition":[],"translation":["[网络] 。"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"BLEVE","sw":"bleve","definition":[],"translation":["n. (Bleve)人名；(意)布莱韦"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2971,9 +2971,9 @@
 {"word":"blew a fuse","sw":"blewafuse","definition":[],"translation":["使保险丝熔断；大怒"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew a gasket","sw":"blewagasket","definition":[],"translation":["大发雷霆（俚语）","勃然大怒（俚语）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew apart","sw":"blewapart","definition":[],"translation":["爆炸"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blew ass","sw":"blewass","definition":["To flatulate - or fart.","> Joe and Seth were driving when Joe smelled something gross and asked Seth if he blew ass in the car.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blew ass","sw":"blewass","definition":["To flatulate - or fart.","> Joe and Seth were driving when Joe smelled something gross and asked Seth if he blew ass in the car."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew away","sw":"blewaway","definition":[],"translation":["v. 吹走","[网络] 晕了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blew chunks","sw":"blewchunks","definition":["Past tense of [blow chunks]. To have vomited. Not to be confused with \"blew chinks\" which is what [azn] men do.","> Yo when I smelled dat [skank]'s [snatch], I blew chunks.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blew chunks","sw":"blewchunks","definition":["Past tense of [blow chunks]. To have vomited. Not to be confused with \"blew chinks\" which is what [azn] men do.","> Yo when I smelled dat [skank]'s [snatch], I blew chunks."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew down","sw":"blewdown","definition":[],"translation":["na. 吹倒；吹落；(锅炉)喷出(蒸汽)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew her brains out","sw":"blewherbrainsout","definition":[],"translation":["v. 击头部自杀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blew her mind","sw":"blewhermind","definition":[],"translation":["v. 失去器官等活动的能力(使不能控制自己的思想)"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3049,7 +3049,7 @@
 {"word":"blgonial","sw":"blgonial","definition":[],"translation":["二颌角点的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blh","sw":"blh","definition":[],"translation":["布尔贺河"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bli","sw":"bli","definition":[],"translation":["abbr. 基础标记指数（basal labelling index）"],"pos":[],"exchange":["s:blis"],"examples":[],"phonetic":""}
-{"word":"bli neder","sw":"blineder","definition":["bli neder (not comparable)","A qualification of an undertaking to do something, such that the commitment does not include the strength of a vow.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bli neder","sw":"blineder","definition":["bli neder (not comparable)","A qualification of an undertaking to do something, such that the commitment does not include the strength of a vow."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"BLIA","sw":"blia","definition":[],"translation":["[=bioluminescent immunoassay]生物发光免疫测定"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bliabergite","sw":"bliabergite","definition":[],"translation":["块云母"],"pos":[],"exchange":[],"examples":[],"phonetic":"'bliә,bә:^ait"}
 {"word":"bliaut","sw":"bliaut","definition":[],"translation":["紧身束腰外衣"],"pos":[],"exchange":[],"examples":[],"phonetic":"'bli:әu"}
@@ -3141,7 +3141,7 @@
 {"word":"blik","sw":"blik","definition":[],"translation":["[荷]镀锡铁皮, [俗]马口铁, 白铁皮"],"pos":[],"exchange":["s:bliks"],"examples":[],"phonetic":"blik"}
 {"word":"blikanasaurids","sw":"blikanasaurids","definition":[],"translation":["[网络] 凤梨"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blike","sw":"blike","definition":[],"translation":["[网络] 大胆的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"bliken","sw":"bliken","definition":["bliken (third-person singular simple present blikens, present participle blikening, simple past and past participle blikened)","(intransitive) to become pale; shine.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bliken","sw":"bliken","definition":["bliken (third-person singular simple present blikens, present participle blikening, simple past and past participle blikened)","(intransitive) to become pale; shine."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Blikfontein","sw":"blikfontein","definition":[],"translation":["[地名] 布勒克方丹 ( 南非 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bliki","sw":"bliki","definition":[],"translation":["[网络] 於维基网志"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blikkeys","sw":"blikkeys","definition":[],"translation":["n. [美国俚语]假冒优质可卡因销售的皂片"],"pos":[],"exchange":[],"examples":[],"phonetic":"'blikiz"}
@@ -3164,7 +3164,7 @@
 {"word":"blimped","sw":"blimped","definition":[],"translation":["n. 顽固的保守分子；软式小型飞船；隔音罩"],"pos":[],"exchange":[],"examples":[],"phonetic":"blɪmp"}
 {"word":"blimped out","sw":"blimpedout","definition":[],"translation":["[网络] 平息了"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blimpie","sw":"blimpie","definition":[],"translation":["[网络] 三明治；飞船三明治；布里姆馅饼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blimpin","sw":"blimpin","definition":["to get high; to smoke pot","> dude we are so blimpin right now muahahahaha",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blimpin","sw":"blimpin","definition":["to get high; to smoke pot","> dude we are so blimpin right now muahahahaha"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blimping","sw":"blimping","definition":[],"translation":["[网络] 隔音"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blimping out","sw":"blimpingout","definition":[],"translation":["[网络] 冲出来"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blimpish","sw":"blimpish","definition":["s pompously ultraconservative and nationalistic"],"translation":["a. 高傲无知又极端保守的；（英国报章漫画人物）毕灵普上校式的"],"pos":[],"exchange":["s:blimpishes"],"examples":[],"phonetic":"'blimpiʃ"}
@@ -3534,7 +3534,7 @@
 {"word":"blind tracery","sw":"blindtracery","definition":[],"translation":["实心窗格"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blind track","sw":"blindtrack","definition":[],"translation":["(杂草丛生)模糊难辨的小路"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blind tract wound","sw":"blindtractwound","definition":[],"translation":["非贯通伤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Blind transfer","sw":"blindtransfer","definition":["When someone calls your office phone and you transfer them to a random number from a department you choose because you either can't find the correct number or you don't feel like looking it up.","> Co-worker:  Who just called?","> You:  I'm not really sure but I totally just blind transferred him to some one in human resources.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Blind transfer","sw":"blindtransfer","definition":["When someone calls your office phone and you transfer them to a random number from a department you choose because you either can't find the correct number or you don't feel like looking it up.","> Co-worker:  Who just called?","> You:  I'm not really sure but I totally just blind transferred him to some one in human resources."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blind transmission","sw":"blindtransmission","definition":[],"translation":["盲目发送"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blind treaty","sw":"blindtreaty","definition":[],"translation":["全权委任合约"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blind tree","sw":"blindtree","definition":[],"translation":["盲树"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3703,7 +3703,7 @@
 {"word":"blined lead","sw":"blinedlead","definition":[],"translation":["死胡同;绝路,绝境"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bling","sw":"bling","definition":["n. flashy, ostentatious jewelry"],"translation":["n. 锦衣珠宝"],"pos":["n:100"],"exchange":["s:blings"],"examples":[],"phonetic":""}
 {"word":"bling bling","sw":"blingbling","definition":[],"translation":["n. 珠宝","adj. 珠光宝气的","vi. 穿着炫目"],"pos":[],"exchange":[],"examples":[],"phonetic":"b'lɪŋ b'lɪŋ"}
-{"word":"bling blings","sw":"blingblings","definition":["n. synonym for expensive, often flashy jewelry sported mostly by African American hip-hop artists and middle class Caucasian adolescents.","","v. to \"bling-bling;\" the act of sporting jewelry of a highly extravagant gaudy nature.","> n. \"Man, I gots tha bling-bling, yo.\"","> v. \"Damn Johnny, you sure be bling-blinging it tonight!\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"bling blings","sw":"blingblings","definition":["n. synonym for expensive, often flashy jewelry sported mostly by African American hip-hop artists and middle class Caucasian adolescents.","","v. to \"bling-bling;\" the act of sporting jewelry of a highly extravagant gaudy nature.","> n. \"Man, I gots tha bling-bling, yo.\"","> v. \"Damn Johnny, you sure be bling-blinging it tonight!\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bling out","sw":"blingout","definition":[],"translation":["[网络] 闪过"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"bling-bling","sw":"blingbling","definition":[],"translation":["珠光宝气的；穿金戴银的"],"pos":["n:100"],"exchange":["s:blings-blings"],"examples":[],"phonetic":""}
 {"word":"bling-less","sw":"blingless","definition":[],"translation":["[网络] 无闪烁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3713,7 +3713,7 @@
 {"word":"blinger","sw":"blinger","definition":[],"translation":["n. [美国俚语](同类中的)特大者；最严重者"],"pos":[],"exchange":[],"examples":[],"phonetic":"'bliŋɡə"}
 {"word":"blingier","sw":"blingier","definition":[],"translation":["[网络] 漂亮的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blingiest","sw":"blingiest","definition":[],"translation":["[网络] 最疯狂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blingin","sw":"blingin","definition":["TWINKLE TWINKLE gOES DA SHINY STUFF","> damn wodee dat ice on jor wrist is blingin",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blingin","sw":"blingin","definition":["TWINKLE TWINKLE gOES DA SHINY STUFF","> damn wodee dat ice on jor wrist is blingin"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinging","sw":"blinging","definition":[],"translation":["[网络] 光彩夺目"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinging out","sw":"blingingout","definition":[],"translation":["[网络] 吹嘘"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blingish","sw":"blingish","definition":[],"translation":["[网络] 微笑"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3760,9 +3760,9 @@
 {"word":"blinkenlight","sw":"blinkenlight","definition":[],"translation":["[网络] 闪烁"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinkenlights","sw":"blinkenlights","definition":[],"translation":["[网络] 闪光灯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinker","sw":"blinker","definition":["n. a light that flashes on and off; used as a signal or to send messages","n. a blinking light on a motor vehicle that indicates the direction in which the vehicle is about to turn","v. put blinders on (a horse)"],"translation":["n. 眨眼睛的人, 闪光交通灯"],"pos":["v:39","n:61"],"exchange":["s:blinkers"],"examples":[],"phonetic":"'bliŋkә"}
-{"word":"blinker beat","sw":"blinkerbeat","definition":["When the tic-toc of the blinkers syncs with the music playing on the car radio.","> dude check it out, I got blinker beat happening on this Jay-Z song.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blinker beat","sw":"blinkerbeat","definition":["When the tic-toc of the blinkers syncs with the music playing on the car radio.","> dude check it out, I got blinker beat happening on this Jay-Z song."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinker fluid","sw":"blinkerfluid","definition":[],"translation":["[网络] 指示液"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blinker fluids","sw":"blinkerfluids","definition":["An imaginary liquid used in automobiles (to make the blinkers work). This term is used as a sarcastic remark toward someone who knows ablsolutely nothing about cars.","> Bob: \"My car's broken again. I don't know what's wrong.\"","> Jon: \"Did you check the blinker fluid?\"",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blinker fluids","sw":"blinkerfluids","definition":["An imaginary liquid used in automobiles (to make the blinkers work). This term is used as a sarcastic remark toward someone who knows ablsolutely nothing about cars.","> Bob: \"My car's broken again. I don't know what's wrong.\"","> Jon: \"Did you check the blinker fluid?\""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinker gun","sw":"blinkergun","definition":[],"translation":["[网络] 手提闪光信号灯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinker lamp","sw":"blinkerlamp","definition":[],"translation":["光信号灯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blinker light","sw":"blinkerlight","definition":[],"translation":["闪光信号灯"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3838,7 +3838,7 @@
 {"word":"blipping","sw":"blipping","definition":[],"translation":["发哔哔声（blip的现在分词形式）"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blippo","sw":"blippo","definition":[],"translation":["vi. 遭受失败，惹祸"],"pos":[],"exchange":[],"examples":[],"phonetic":"'blipəu"}
 {"word":"blips","sw":"blips","definition":["n. a sudden minor shock or meaningless interruption","n. a radar echo displayed so as to show the position of a reflecting surface"],"translation":["n. （电机发出的）尖锐而短促的声音, （雷达等屏幕上显示目的物的）光点( blip的复数形式 ); [网络]短小的对话片段。"],"pos":[],"exchange":["0:blip","1:s3"],"examples":[],"phonetic":"blips"}
-{"word":"blipster","sw":"blipster","definition":["blipster (plural blipsters)","An ethnically black (African-American) hipster.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blipster","sw":"blipster","definition":["blipster (plural blipsters)","An ethnically black (African-American) hipster."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blipvert","sw":"blipvert","definition":[],"translation":["[网络] 黑猩猩"],"pos":[],"exchange":["s:blipverts"],"examples":[],"phonetic":""}
 {"word":"blipverts","sw":"blipverts","definition":[],"translation":["n. 动画图标"],"pos":[],"exchange":["0:blipvert","1:s"],"examples":[],"phonetic":""}
 {"word":"blir","sw":"blir","definition":[],"translation":["[网络] 金融机关合作"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4124,7 +4124,7 @@
 {"word":"blizzardous","sw":"blizzardous","definition":[],"translation":["[网络] 风雪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blizzards","sw":"blizzards","definition":["n. a storm with widespread snowfall accompanied by strong winds","n. a series of unexpected and unpleasant occurrences"],"translation":["n. 暴风雪( blizzard的复数形式 ); 暴风雪似的一阵, 大量（或大批）"],"pos":[],"exchange":["0:blizzard","1:s"],"examples":[],"phonetic":"ˈblɪzədz"}
 {"word":"blizzardy","sw":"blizzardy","definition":[],"translation":["a. blizzard的变形"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blizzaster","sw":"blizzaster","definition":["A mega-snowstorm, often blown out of proportion by media looking for a story.","> Yesterday's snowstorm was a total blizzaster; it took me an hour to shovel out my car!",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blizzaster","sw":"blizzaster","definition":["A mega-snowstorm, often blown out of proportion by media looking for a story.","> Yesterday's snowstorm was a total blizzaster; it took me an hour to shovel out my car!"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blizzicane","sw":"blizzicane","definition":[],"translation":["[网络] 暴青"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blizzicanes","sw":"blizzicanes","definition":[],"translation":["[网络] 黑社会"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"BLJ","sw":"blj","definition":[],"translation":["[网络] 巴特纳机场；连接板；上方电子"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4195,13 +4195,13 @@
 {"word":"blobberlipped","sw":"blobberlipped","definition":[],"translation":["a. 嘴唇肥厚的"],"pos":[],"exchange":[],"examples":[],"phonetic":"'blɔbә,lipt"}
 {"word":"blobbers","sw":"blobbers","definition":[],"translation":["[网络] 疙瘩"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blobbily","sw":"blobbily","definition":[],"translation":["[网络] 。ily"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"blobbiness","sw":"blobbiness","definition":["blobbiness (uncountable)","The state or condition of being blobby.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"blobbiness","sw":"blobbiness","definition":["blobbiness (uncountable)","The state or condition of being blobby."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blobbing","sw":"blobbing","definition":["v make a spot or mark onto"],"translation":["vt. 弄脏（blob的现在分词形式）"],"pos":[],"exchange":["1:i","0:blob"],"examples":[],"phonetic":""}
 {"word":"blobbing out","sw":"blobbingout","definition":[],"translation":["[网络] 蹦出来"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blobby","sw":"blobby","definition":[],"translation":["满是滴状斑点"],"pos":[],"exchange":[],"examples":[],"phonetic":"'blɔbi"}
 {"word":"blobby vein","sw":"blobbyvein","definition":[],"translation":["袋状脉"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Blobbygate","sw":"blobbygate","definition":["Blobbygate","(colloquial) A UK scandal of the 1990s in which a theme park based around the comical TV character Mr Blobby led to large monetary losses and was found to have been inadequately planned and researched before construction.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"Blobbymania","sw":"blobbymania","definition":["Blobbymania (uncountable)","(colloquial) Public enthusiasm for Mr Blobby, a comical character on UK television in the 1990s.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Blobbygate","sw":"blobbygate","definition":["Blobbygate","(colloquial) A UK scandal of the 1990s in which a theme park based around the comical TV character Mr Blobby led to large monetary losses and was found to have been inadequately planned and researched before construction."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"Blobbymania","sw":"blobbymania","definition":["Blobbymania (uncountable)","(colloquial) Public enthusiasm for Mr Blobby, a comical character on UK television in the 1990s."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blobel","sw":"blobel","definition":[],"translation":["[人名] 布洛贝尔"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blober","sw":"blober","definition":[],"translation":["[网络] 笨蛋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"blobfish","sw":"blobfish","definition":[],"translation":["[网络] 水滴鱼；杜父鱼"],"pos":[],"exchange":[],"examples":[],"phonetic":""}

@@ -2581,7 +2581,7 @@
 {"word":"Singu","sw":"singu","definition":[],"translation":["[地名] 辛古 ( 缅 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Singuila","sw":"singuila","definition":[],"translation":["[地名] 辛吉拉 ( 乍 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"singulair","sw":"singulair","definition":[],"translation":["[医]顺尔宁（含montelukastsodium）<平喘药>"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"singular","sw":"singular","definition":["n. the form of a word that is used to denote a singleton","s. being a single and separate person or thing","a. composed of one member, set, or kind","a. grammatical number category referring to a single item or unit"],"translation":["n. 单数","a. 异常的, 单一的"],"pos":["j:79","n:21"],"exchange":["s:singulars"],"examples":["The singular of ‘bacteria’ is ‘bacterium’.","The verb should be in the singular.","The word \"woman\" is singular.","It was a building of singular grace and beauty.","He showed a singular lack of skill in painting.","\"Woman\" is singular, but \"women\" is plural.","His campaign was singular because he talked about issues and did not attack his opponents’ personal lives."],"phonetic":"ˈsɪŋɡjələ(r)|ˈsɪŋɡjələr"}
+{"word":"singular","sw":"singular","definition":["n. the form of a word that is used to denote a singleton","s. being a single and separate person or thing","a. composed of one member, set, or kind","a. grammatical number category referring to a single item or unit"],"translation":["n. 单数","a. 异常的, 单一的"],"pos":["j:79","n:21"],"exchange":["s:singulars"],"examples":["The singular of \"bacteria\" is \"bacterium\".","The verb should be in the singular.","The word \"woman\" is singular.","It was a building of singular grace and beauty.","He showed a singular lack of skill in painting.","\"Woman\" is singular, but \"women\" is plural.","His campaign was singular because he talked about issues and did not attack his opponents' personal lives."],"phonetic":"ˈsɪŋɡjələ(r)|ˈsɪŋɡjələr"}
 {"word":"singular additive set function","sw":"singularadditivesetfunction","definition":[],"translation":["奇加性集函数"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"singular angle hammer","sw":"singularanglehammer","definition":[],"translation":["独角锤"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"singular arc","sw":"singulararc","definition":[],"translation":["奇异弧线"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -2955,7 +2955,7 @@
 {"word":"sinistrodextral","sw":"sinistrodextral","definition":[],"translation":["从左向右移动[展开]的"],"pos":[],"exchange":[],"examples":[],"phonetic":",sinistrәu'dekstrәl"}
 {"word":"sinistroduction","sw":"sinistroduction","definition":[],"translation":["左旋"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinistrogyration","sw":"sinistrogyration","definition":[],"translation":["[光、化]左旋"],"pos":[],"exchange":[],"examples":[],"phonetic":",sinistrәudʒai'reiʃәn"}
-{"word":"sinistrogyre","sw":"sinistrogyre","definition":["sinistrogyre (not comparable)","(chemistry) Levorotatory.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sinistrogyre","sw":"sinistrogyre","definition":["sinistrogyre (not comparable)","(chemistry) Levorotatory."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinistrogyric","sw":"sinistrogyric","definition":[],"translation":["左旋的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinistromanual","sw":"sinistromanual","definition":[],"translation":["[医] 左利手的, 善用左手的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinistron","sw":"sinistron","definition":[],"translation":["[昆] 体左"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -3373,7 +3373,7 @@
 {"word":"sinnets","sw":"sinnets","definition":[],"translation":["n. 扁索；编绳"],"pos":[],"exchange":["0:sinnet","1:s"],"examples":[],"phonetic":"'sinit"}
 {"word":"sinnett","sw":"sinnett","definition":[],"translation":["[人名] [英格兰人、爱尔兰人姓氏] 辛尼特 Sinnott的变体"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinni","sw":"sinni","definition":[],"translation":["[网络] 我的兔小妹；辛尼河；我的小兔妹"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sinnier","sw":"sinnier","definition":["sinnier","comparative form of sinny: more sinny",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sinnier","sw":"sinnier","definition":["sinnier","comparative form of sinny: more sinny"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinniest","sw":"sinniest","definition":[],"translation":["[网络] 最坏的"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinning","sw":"sinning","definition":["p. pr. & vb. n. of Sin"],"translation":["v. 犯罪, 犯过错( sin的现在分词 )"],"pos":[],"exchange":["0:sin","1:i","s:sinnings"],"examples":[],"phonetic":"sinɪŋ"}
 {"word":"sinningia","sw":"sinningia","definition":[],"translation":["小岩桐"],"pos":[],"exchange":["s:sinningias"],"examples":[],"phonetic":""}
@@ -3798,7 +3798,7 @@
 {"word":"Sinpung-ni","sw":"sinpungni","definition":[],"translation":["新丰里"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sinpyong","sw":"sinpyong","definition":[],"translation":["新坪"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinquan","sw":"sinquan","definition":[],"translation":["盐酸多虑平"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sinque","sw":"sinque","definition":["sinque (plural sinques)","Obsolete form of cinque.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sinque","sw":"sinque","definition":["sinque (plural sinques)","Obsolete form of cinque."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinque a pace","sw":"sinqueapace","definition":[],"translation":["[网络] 正在加快步伐"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinques","sw":"sinques","definition":[],"translation":["[网络] 罪恶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sinron","sw":"sinron","definition":[],"translation":["葡萄糖酸铁胶囊剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4217,7 +4217,7 @@
 {"word":"sintex","sw":"sintex","definition":[],"translation":["陶瓷刀具, 烧结氧化铝车刀"],"pos":[],"exchange":[],"examples":[],"phonetic":"'sinteks"}
 {"word":"sintex-tox","sw":"sintextox","definition":[],"translation":["烧结氧化铝车刀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinthetics","sw":"sinthetics","definition":[],"translation":["n. 合成品(合成物质；合成纤维)"],"pos":[],"exchange":[],"examples":[],"phonetic":"sɪn'θetɪks"}
-{"word":"sinthomosexual","sw":"sinthomosexual","definition":["sinthomosexual (not comparable)","Having no personal interest in the future of humanity because of one's (non-heterosexual, therefore non-reproductive) sexual orientation","","","sinthomosexual (plural sinthomosexuals)","One who has no personal interest in the future of humanity because of his/her own (non-heterosexual, therefore non-reproductive) sexual orientation",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sinthomosexual","sw":"sinthomosexual","definition":["sinthomosexual (not comparable)","Having no personal interest in the future of humanity because of one's (non-heterosexual, therefore non-reproductive) sexual orientation","","","sinthomosexual (plural sinthomosexuals)","One who has no personal interest in the future of humanity because of his/her own (non-heterosexual, therefore non-reproductive) sexual orientation"],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinthrome","sw":"sinthrome","definition":[],"translation":["新抗凝剂"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"sinthusa chandrana kuyaniana","sw":"sinthusachandranakuyaniana","definition":[],"translation":["闪灰蝶；牡灰蝶；生灰蝶；嘉义小灰蝶；悬钩子灰蝶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sinti","sw":"sinti","definition":[],"translation":["[网络] 辛提人；辛堤人；信德人"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
@@ -4818,7 +4818,7 @@
 {"word":"Sipah-e-Sahaba","sw":"sipahesahaba","definition":[],"translation":["[网络] 先知之友"],"pos":[],"exchange":["s:sipah-e-sahabas"],"examples":[],"phonetic":""}
 {"word":"sipah-e-sahabas","sw":"sipahesahabas","definition":[],"translation":["[网络] 先知之友","(sipah-e-sahaba 的复数)"],"pos":[],"exchange":["0:sipah-e-sahaba","1:s"],"examples":[],"phonetic":""}
 {"word":"sipahi","sw":"sipahi","definition":[],"translation":["[网络] 西帕希骑兵；希帕希；血雀"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
-{"word":"sipahsalar","sw":"sipahsalar","definition":["sipahsalar (plural sipahsalars)","A title given to commanders in chief and general officers in the armies of many states of the medieval Islamic world.",""],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
+{"word":"sipahsalar","sw":"sipahsalar","definition":["sipahsalar (plural sipahsalars)","A title given to commanders in chief and general officers in the armies of many states of the medieval Islamic world."],"translation":[],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sipaian Age","sw":"sipaianage","definition":[],"translation":["四排期"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sipaian Stage","sw":"sipaianstage","definition":[],"translation":["四排阶"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
 {"word":"Sipalay","sw":"sipalay","definition":[],"translation":["[地名] 锡帕莱 ( 菲 )"],"pos":[],"exchange":[],"examples":[],"phonetic":""}
